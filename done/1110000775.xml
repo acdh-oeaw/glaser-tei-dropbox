@@ -327,17 +327,6 @@ Restored full text of the inscription:
                     <tei:lb n="10"/><orgName type="group">ḏ-gnd</orgName>  <w>w-</w><orgName type="group">rfzn</orgName>  <w>b-ṣḥfh</w>  <w>ʾsmʿh-smn</w>  <w>w-wf..hn</w>  <w>wfy</w> </tei:ab>
 
 
-
-
-RES <tei:lb n="3306"/>:
-
-<tei:lb n="1"/>bn  ḏ-y..ḥ
-<tei:lb n="2"/>frḍ  šwbn 
-<tei:lb n="3"/>rʾ  b-bytn 
-<tei:lb n="4"/>m qrʾn  w-l 
-<tei:lb n="5"/>n-s  w-mn  ys 
-<tei:lb n="6"/>l  yhb  ḏby
-<tei:lb n="7"/>qrśn  b-wš</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">RES <tei:lb n="3306"/>:
 
 Text preserved in this squeeze:
