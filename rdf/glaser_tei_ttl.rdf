@@ -19,7 +19,7 @@
       </acdh:hasCretor>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/squeezes"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000005TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000005.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000005"/>
       <acdh:hasCurator>
@@ -38,7 +38,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000007TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000007.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1118</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000007"/>
       <acdh:hasCurator>
@@ -57,7 +57,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000008TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000008.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1204</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000008"/>
       <acdh:hasCurator>
@@ -76,7 +76,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000009TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000009.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1310</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000009"/>
       <acdh:hasCurator>
@@ -95,7 +95,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000010TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000010.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1113</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000010"/>
       <acdh:hasCurator>
@@ -114,7 +114,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000011TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000011.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1004</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000011"/>
       <acdh:hasCurator>
@@ -133,7 +133,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000012TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000012.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1112</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000012"/>
       <acdh:hasCurator>
@@ -152,7 +152,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000013TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000013.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1659</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000013"/>
       <acdh:hasCurator>
@@ -171,7 +171,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000014TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000014.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1357</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000014"/>
       <acdh:hasCurator>
@@ -190,7 +190,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000016TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000016.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1767</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000016"/>
       <acdh:hasCurator>
@@ -209,7 +209,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000017TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000017.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1597</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000017"/>
       <acdh:hasCurator>
@@ -228,7 +228,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000018TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000018.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1117</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000018"/>
       <acdh:hasCurator>
@@ -247,7 +247,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000020TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000020.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1541</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000020"/>
       <acdh:hasCurator>
@@ -266,7 +266,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000022TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000022.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1758_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000022"/>
       <acdh:hasCurator>
@@ -285,7 +285,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000023TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000023.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1751</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000023"/>
       <acdh:hasCurator>
@@ -304,7 +304,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000026TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000026.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL950</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000026"/>
       <acdh:hasCurator>
@@ -323,7 +323,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000027TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000027.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL951</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000027"/>
       <acdh:hasCurator>
@@ -342,7 +342,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000028TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000028.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL952</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000028"/>
       <acdh:hasCurator>
@@ -361,7 +361,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000029TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000029.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL947</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000029"/>
       <acdh:hasCurator>
@@ -380,7 +380,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000030TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000030.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL948</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000030"/>
       <acdh:hasCurator>
@@ -399,7 +399,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000031TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000031.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL949</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000031"/>
       <acdh:hasCurator>
@@ -418,7 +418,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000032TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000032.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL944</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000032"/>
       <acdh:hasCurator>
@@ -437,7 +437,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000038TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000038.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL379_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000038"/>
       <acdh:hasCurator>
@@ -456,7 +456,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000039TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000039.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL379_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000039"/>
       <acdh:hasCurator>
@@ -475,7 +475,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000042TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000042.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL973</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000042"/>
       <acdh:hasCurator>
@@ -494,7 +494,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000061TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000061.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1003</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000061"/>
       <acdh:hasCurator>
@@ -513,7 +513,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000086TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000086.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL19</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000086"/>
       <acdh:hasCurator>
@@ -532,7 +532,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000101TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000101.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL412_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000101"/>
       <acdh:hasCurator>
@@ -551,7 +551,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000102TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000102.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL425</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000102"/>
       <acdh:hasCurator>
@@ -570,7 +570,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000104TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000104.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL412_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000104"/>
       <acdh:hasCurator>
@@ -589,7 +589,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000105TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000105.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL313</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000105"/>
       <acdh:hasCurator>
@@ -608,7 +608,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000113TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000113.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1622</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000113"/>
       <acdh:hasCurator>
@@ -627,7 +627,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000115TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000115.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1623_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000115"/>
       <acdh:hasCurator>
@@ -646,7 +646,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000122TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000122.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1623_03</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000122"/>
       <acdh:hasCurator>
@@ -665,7 +665,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000125TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000125.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1102</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000125"/>
       <acdh:hasCurator>
@@ -684,7 +684,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000129TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000129.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1094_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000129"/>
       <acdh:hasCurator>
@@ -703,7 +703,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000130TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000130.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_01rr</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000130"/>
       <acdh:hasCurator>
@@ -722,7 +722,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000131TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000131.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000131"/>
       <acdh:hasCurator>
@@ -741,7 +741,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000132TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000132.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_03</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000132"/>
       <acdh:hasCurator>
@@ -760,7 +760,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000133TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000133.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_04</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000133"/>
       <acdh:hasCurator>
@@ -779,7 +779,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000134TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000134.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_05</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000134"/>
       <acdh:hasCurator>
@@ -798,7 +798,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000135TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000135.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_06</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000135"/>
       <acdh:hasCurator>
@@ -817,7 +817,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000136TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000136.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_07</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000136"/>
       <acdh:hasCurator>
@@ -836,7 +836,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000137TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000137.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_08</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000137"/>
       <acdh:hasCurator>
@@ -855,7 +855,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000138TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000138.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_09</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000138"/>
       <acdh:hasCurator>
@@ -874,7 +874,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000139TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000139.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_10</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000139"/>
       <acdh:hasCurator>
@@ -893,7 +893,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000140TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000140.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_11</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000140"/>
       <acdh:hasCurator>
@@ -912,7 +912,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000141TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000141.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_12</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000141"/>
       <acdh:hasCurator>
@@ -931,7 +931,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000142TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000142.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_13</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000142"/>
       <acdh:hasCurator>
@@ -950,7 +950,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000143TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000143.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_14</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000143"/>
       <acdh:hasCurator>
@@ -969,7 +969,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000144TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000144.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_15</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000144"/>
       <acdh:hasCurator>
@@ -988,7 +988,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000145TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000145.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_16</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000145"/>
       <acdh:hasCurator>
@@ -1007,7 +1007,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000146TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000146.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1129</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000146"/>
       <acdh:hasCurator>
@@ -1026,7 +1026,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000147TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000147.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1128</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000147"/>
       <acdh:hasCurator>
@@ -1045,7 +1045,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000148TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000148.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1134</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000148"/>
       <acdh:hasCurator>
@@ -1064,7 +1064,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000149TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000149.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1097_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000149"/>
       <acdh:hasCurator>
@@ -1083,7 +1083,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000150TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000150.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1097_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000150"/>
       <acdh:hasCurator>
@@ -1102,7 +1102,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000151TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000151.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1097_03</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000151"/>
       <acdh:hasCurator>
@@ -1121,7 +1121,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000152TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000152.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1097_04</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000152"/>
       <acdh:hasCurator>
@@ -1140,7 +1140,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000153TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000153.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1104</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000153"/>
       <acdh:hasCurator>
@@ -1159,7 +1159,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000154TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000154.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1101</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000154"/>
       <acdh:hasCurator>
@@ -1178,7 +1178,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000155TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000155.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1126_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000155"/>
       <acdh:hasCurator>
@@ -1197,7 +1197,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000156TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000156.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1126_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000156"/>
       <acdh:hasCurator>
@@ -1216,7 +1216,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000157TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000157.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1130</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000157"/>
       <acdh:hasCurator>
@@ -1235,7 +1235,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000158TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000158.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL939</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000158"/>
       <acdh:hasCurator>
@@ -1254,7 +1254,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000162TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000162.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL937</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000162"/>
       <acdh:hasCurator>
@@ -1273,7 +1273,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000163TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000163.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1095_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000163"/>
       <acdh:hasCurator>
@@ -1292,7 +1292,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000164TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000164.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1095_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000164"/>
       <acdh:hasCurator>
@@ -1311,7 +1311,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000165TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000165.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1098_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000165"/>
       <acdh:hasCurator>
@@ -1330,7 +1330,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000167TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000167.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL933_03</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000167"/>
       <acdh:hasCurator>
@@ -1349,7 +1349,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000168TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000168.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL933_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000168"/>
       <acdh:hasCurator>
@@ -1368,7 +1368,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000169TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000169.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL933_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000169"/>
       <acdh:hasCurator>
@@ -1387,7 +1387,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000170TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000170.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL934</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000170"/>
       <acdh:hasCurator>
@@ -1406,7 +1406,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000174TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000174.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_17</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000174"/>
       <acdh:hasCurator>
@@ -1425,7 +1425,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000176TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000176.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_19</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000176"/>
       <acdh:hasCurator>
@@ -1444,7 +1444,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000180TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000180.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_23</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000180"/>
       <acdh:hasCurator>
@@ -1463,7 +1463,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000181TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000181.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_24</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000181"/>
       <acdh:hasCurator>
@@ -1482,7 +1482,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000182TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000182.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_25</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000182"/>
       <acdh:hasCurator>
@@ -1501,7 +1501,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000183TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000183.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_26</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000183"/>
       <acdh:hasCurator>
@@ -1520,7 +1520,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000184TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000184.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_27</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000184"/>
       <acdh:hasCurator>
@@ -1539,7 +1539,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000185TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000185.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_28</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000185"/>
       <acdh:hasCurator>
@@ -1558,7 +1558,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000186TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000186.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_29</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000186"/>
       <acdh:hasCurator>
@@ -1577,7 +1577,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000187TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000187.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_30</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000187"/>
       <acdh:hasCurator>
@@ -1596,7 +1596,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000188TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000188.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_31</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000188"/>
       <acdh:hasCurator>
@@ -1615,7 +1615,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000190TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000190.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_33</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000190"/>
       <acdh:hasCurator>
@@ -1634,7 +1634,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000191TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000191.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_34</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000191"/>
       <acdh:hasCurator>
@@ -1653,7 +1653,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000192TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000192.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_35</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000192"/>
       <acdh:hasCurator>
@@ -1672,7 +1672,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000194TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000194.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1000b_42</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000194"/>
       <acdh:hasCurator>
@@ -1691,7 +1691,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000221TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000221.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1094_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000221"/>
       <acdh:hasCurator>
@@ -1710,7 +1710,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000222TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000222.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1094_03</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000222"/>
       <acdh:hasCurator>
@@ -1729,7 +1729,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000259TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000259.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B132</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000259"/>
       <acdh:hasCurator>
@@ -1748,7 +1748,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000260TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000260.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B133_1</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000260"/>
       <acdh:hasCurator>
@@ -1767,7 +1767,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000261TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000261.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B133_2</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000261"/>
       <acdh:hasCurator>
@@ -1786,7 +1786,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000262TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000262.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B133_3</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000262"/>
       <acdh:hasCurator>
@@ -1805,7 +1805,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000263TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000263.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B133_4</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000263"/>
       <acdh:hasCurator>
@@ -1824,7 +1824,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000264TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000264.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B133_5b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000264"/>
       <acdh:hasCurator>
@@ -1843,7 +1843,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000266TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000266.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B1371b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000266"/>
       <acdh:hasCurator>
@@ -1862,7 +1862,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000267TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000267.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B1371c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000267"/>
       <acdh:hasCurator>
@@ -1881,7 +1881,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000268TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000268.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B137_2a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000268"/>
       <acdh:hasCurator>
@@ -1900,7 +1900,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000269TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000269.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B137_2b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000269"/>
       <acdh:hasCurator>
@@ -1919,7 +1919,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000270TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000270.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B137_2c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000270"/>
       <acdh:hasCurator>
@@ -1938,7 +1938,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000272TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000272.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B145a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000272"/>
       <acdh:hasCurator>
@@ -1957,7 +1957,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000273TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000273.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B145b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000273"/>
       <acdh:hasCurator>
@@ -1976,7 +1976,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000274TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000274.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B154</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000274"/>
       <acdh:hasCurator>
@@ -1995,7 +1995,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000278TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000278.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B161a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000278"/>
       <acdh:hasCurator>
@@ -2014,7 +2014,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000279TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000279.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B161b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000279"/>
       <acdh:hasCurator>
@@ -2033,7 +2033,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000280TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000280.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B161c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000280"/>
       <acdh:hasCurator>
@@ -2052,7 +2052,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000281TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000281.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B161d</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000281"/>
       <acdh:hasCurator>
@@ -2071,7 +2071,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000282TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000282.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B137_2d</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000282"/>
       <acdh:hasCurator>
@@ -2090,7 +2090,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000283TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000283.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B137e</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000283"/>
       <acdh:hasCurator>
@@ -2109,7 +2109,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000284TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000284.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000284"/>
       <acdh:hasCurator>
@@ -2128,7 +2128,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000285TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000285.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000285"/>
       <acdh:hasCurator>
@@ -2147,7 +2147,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000286TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000286.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173d</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000286"/>
       <acdh:hasCurator>
@@ -2166,7 +2166,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000287TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000287.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173e</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000287"/>
       <acdh:hasCurator>
@@ -2185,7 +2185,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000288TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000288.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173f</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000288"/>
       <acdh:hasCurator>
@@ -2204,7 +2204,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000289TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000289.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173g</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000289"/>
       <acdh:hasCurator>
@@ -2223,7 +2223,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000290TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000290.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173h</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000290"/>
       <acdh:hasCurator>
@@ -2242,7 +2242,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000291TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000291.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173i</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000291"/>
       <acdh:hasCurator>
@@ -2261,7 +2261,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000292TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000292.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B175</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000292"/>
       <acdh:hasCurator>
@@ -2280,7 +2280,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000293TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000293.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176a1</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000293"/>
       <acdh:hasCurator>
@@ -2299,7 +2299,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000294TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000294.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176a2</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000294"/>
       <acdh:hasCurator>
@@ -2318,7 +2318,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000295TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000295.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176b1</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000295"/>
       <acdh:hasCurator>
@@ -2337,7 +2337,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000296TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000296.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176b2</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000296"/>
       <acdh:hasCurator>
@@ -2356,7 +2356,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000297TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000297.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000297"/>
       <acdh:hasCurator>
@@ -2375,7 +2375,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000298TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000298.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176d</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000298"/>
       <acdh:hasCurator>
@@ -2394,7 +2394,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000299TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000299.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176e1</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000299"/>
       <acdh:hasCurator>
@@ -2413,7 +2413,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000300TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000300.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176e2</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000300"/>
       <acdh:hasCurator>
@@ -2432,7 +2432,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000301TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000301.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176e3</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000301"/>
       <acdh:hasCurator>
@@ -2451,7 +2451,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000302TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000302.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176e4</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000302"/>
       <acdh:hasCurator>
@@ -2470,7 +2470,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000303TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000303.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B176e5</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000303"/>
       <acdh:hasCurator>
@@ -2489,7 +2489,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000304TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000304.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B179a1</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000304"/>
       <acdh:hasCurator>
@@ -2508,7 +2508,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000305TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000305.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B179a2</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000305"/>
       <acdh:hasCurator>
@@ -2527,7 +2527,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000306TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000306.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B187a1</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000306"/>
       <acdh:hasCurator>
@@ -2546,7 +2546,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000307TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000307.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B187a2</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000307"/>
       <acdh:hasCurator>
@@ -2565,7 +2565,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000308TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000308.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189a1</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000308"/>
       <acdh:hasCurator>
@@ -2584,7 +2584,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000309TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000309.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189a2</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000309"/>
       <acdh:hasCurator>
@@ -2603,7 +2603,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000310TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000310.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189a3</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000310"/>
       <acdh:hasCurator>
@@ -2622,7 +2622,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000311TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000311.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189b1</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000311"/>
       <acdh:hasCurator>
@@ -2641,7 +2641,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000312TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000312.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189b2</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000312"/>
       <acdh:hasCurator>
@@ -2660,7 +2660,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000313TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000313.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189b3</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000313"/>
       <acdh:hasCurator>
@@ -2679,7 +2679,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000314TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000314.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000314"/>
       <acdh:hasCurator>
@@ -2698,7 +2698,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000315TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000315.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189d</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000315"/>
       <acdh:hasCurator>
@@ -2717,7 +2717,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000316TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000316.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189e</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000316"/>
       <acdh:hasCurator>
@@ -2736,7 +2736,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000317TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000317.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189f</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000317"/>
       <acdh:hasCurator>
@@ -2755,7 +2755,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000318TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000318.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189g</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000318"/>
       <acdh:hasCurator>
@@ -2774,7 +2774,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000319TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000319.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189h</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000319"/>
       <acdh:hasCurator>
@@ -2793,7 +2793,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000320TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000320.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189i</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000320"/>
       <acdh:hasCurator>
@@ -2812,7 +2812,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000343TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000343.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155A</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000343"/>
       <acdh:hasCurator>
@@ -2831,7 +2831,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000344TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000344.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155B</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000344"/>
       <acdh:hasCurator>
@@ -2850,7 +2850,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000345TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000345.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155C</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000345"/>
       <acdh:hasCurator>
@@ -2869,7 +2869,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000346TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000346.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155D</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000346"/>
       <acdh:hasCurator>
@@ -2888,7 +2888,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000347TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000347.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155E</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000347"/>
       <acdh:hasCurator>
@@ -2907,7 +2907,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000348TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000348.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155F</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000348"/>
       <acdh:hasCurator>
@@ -2926,7 +2926,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000349TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000349.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155G</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000349"/>
       <acdh:hasCurator>
@@ -2945,7 +2945,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000350TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000350.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155H</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000350"/>
       <acdh:hasCurator>
@@ -2964,7 +2964,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000351TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000351.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155I</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000351"/>
       <acdh:hasCurator>
@@ -2983,7 +2983,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000352TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000352.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155J</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000352"/>
       <acdh:hasCurator>
@@ -3002,7 +3002,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000353TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000353.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155K</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000353"/>
       <acdh:hasCurator>
@@ -3021,7 +3021,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000354TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000354.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155L</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000354"/>
       <acdh:hasCurator>
@@ -3040,7 +3040,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000355TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000355.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155M</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000355"/>
       <acdh:hasCurator>
@@ -3059,7 +3059,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000356TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000356.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155N</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000356"/>
       <acdh:hasCurator>
@@ -3078,7 +3078,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000357TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000357.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155O</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000357"/>
       <acdh:hasCurator>
@@ -3097,7 +3097,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000358TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000358.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155P</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000358"/>
       <acdh:hasCurator>
@@ -3116,7 +3116,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000359TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000359.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155Q</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000359"/>
       <acdh:hasCurator>
@@ -3135,7 +3135,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000360TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000360.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155R</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000360"/>
       <acdh:hasCurator>
@@ -3154,7 +3154,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000361TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000361.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1155S</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000361"/>
       <acdh:hasCurator>
@@ -3173,7 +3173,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000742TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000742.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B146_1a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000742"/>
       <acdh:hasCurator>
@@ -3192,7 +3192,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000743TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000743.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B146_1b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000743"/>
       <acdh:hasCurator>
@@ -3211,7 +3211,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000744TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000744.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B146_2</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000744"/>
       <acdh:hasCurator>
@@ -3230,7 +3230,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000745TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000745.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B146_3</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000745"/>
       <acdh:hasCurator>
@@ -3249,7 +3249,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000746TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000746.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B146_4a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000746"/>
       <acdh:hasCurator>
@@ -3268,7 +3268,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000747TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000747.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B146_4b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000747"/>
       <acdh:hasCurator>
@@ -3287,7 +3287,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000748TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000748.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B146_4c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000748"/>
       <acdh:hasCurator>
@@ -3306,7 +3306,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000749TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000749.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B149a_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000749"/>
       <acdh:hasCurator>
@@ -3325,7 +3325,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000750TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000750.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B149a_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000750"/>
       <acdh:hasCurator>
@@ -3344,7 +3344,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000751TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000751.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B149a_03</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000751"/>
       <acdh:hasCurator>
@@ -3363,7 +3363,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000752TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000752.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B149a_04</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000752"/>
       <acdh:hasCurator>
@@ -3382,7 +3382,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000753TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000753.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B149b_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000753"/>
       <acdh:hasCurator>
@@ -3401,7 +3401,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000754TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000754.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B149b_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000754"/>
       <acdh:hasCurator>
@@ -3420,7 +3420,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000755TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000755.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B149b_03</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000755"/>
       <acdh:hasCurator>
@@ -3439,7 +3439,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000756TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000756.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B149b_04</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000756"/>
       <acdh:hasCurator>
@@ -3458,7 +3458,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000757TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000757.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B150_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000757"/>
       <acdh:hasCurator>
@@ -3477,7 +3477,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000758TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000758.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B150_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000758"/>
       <acdh:hasCurator>
@@ -3496,7 +3496,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000759TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000759.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B151a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000759"/>
       <acdh:hasCurator>
@@ -3515,7 +3515,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000760TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000760.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B151b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000760"/>
       <acdh:hasCurator>
@@ -3534,7 +3534,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000761TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000761.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B151c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000761"/>
       <acdh:hasCurator>
@@ -3553,7 +3553,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000762TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000762.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B151d</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000762"/>
       <acdh:hasCurator>
@@ -3572,7 +3572,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000763TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000763.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B152</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000763"/>
       <acdh:hasCurator>
@@ -3591,7 +3591,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000764TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000764.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B170a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000764"/>
       <acdh:hasCurator>
@@ -3610,7 +3610,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000765TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000765.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B170b1</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000765"/>
       <acdh:hasCurator>
@@ -3629,7 +3629,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000766TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000766.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B170b2</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000766"/>
       <acdh:hasCurator>
@@ -3648,7 +3648,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000767TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000767.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B170c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000767"/>
       <acdh:hasCurator>
@@ -3667,7 +3667,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000768TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000768.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173a_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000768"/>
       <acdh:hasCurator>
@@ -3686,7 +3686,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000769TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000769.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173a_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000769"/>
       <acdh:hasCurator>
@@ -3705,7 +3705,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000770TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000770.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173a_03</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000770"/>
       <acdh:hasCurator>
@@ -3724,7 +3724,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000771TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000771.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B173a_04</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000771"/>
       <acdh:hasCurator>
@@ -3743,7 +3743,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000772TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000772.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B189l</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000772"/>
       <acdh:hasCurator>
@@ -3762,7 +3762,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000775TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000775.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B33_01</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000775"/>
       <acdh:hasCurator>
@@ -3781,7 +3781,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000776TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000776.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B33_02</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000776"/>
       <acdh:hasCurator>
@@ -3800,7 +3800,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000835TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000835.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1555</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000835"/>
       <acdh:hasCurator>
@@ -3819,7 +3819,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000837TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000837.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1557</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000837"/>
       <acdh:hasCurator>
@@ -3838,7 +3838,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000838TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000838.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1558a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000838"/>
       <acdh:hasCurator>
@@ -3857,7 +3857,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000839TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000839.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1558b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000839"/>
       <acdh:hasCurator>
@@ -3876,7 +3876,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000840TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000840.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1585d</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000840"/>
       <acdh:hasCurator>
@@ -3895,7 +3895,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000841TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000841.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1559a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000841"/>
       <acdh:hasCurator>
@@ -3914,7 +3914,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000842TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000842.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1559b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000842"/>
       <acdh:hasCurator>
@@ -3933,7 +3933,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000843TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000843.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1560a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000843"/>
       <acdh:hasCurator>
@@ -3952,7 +3952,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000844TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000844.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1560b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000844"/>
       <acdh:hasCurator>
@@ -3971,7 +3971,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000848TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000848.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1563a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000848"/>
       <acdh:hasCurator>
@@ -3990,7 +3990,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000849TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000849.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1563b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000849"/>
       <acdh:hasCurator>
@@ -4009,7 +4009,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000850TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000850.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1563c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000850"/>
       <acdh:hasCurator>
@@ -4028,7 +4028,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000856TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000856.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1567</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000856"/>
       <acdh:hasCurator>
@@ -4047,7 +4047,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000859TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000859.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1570a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000859"/>
       <acdh:hasCurator>
@@ -4066,7 +4066,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000860TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000860.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1570b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000860"/>
       <acdh:hasCurator>
@@ -4085,7 +4085,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000870TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000870.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1575a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000870"/>
       <acdh:hasCurator>
@@ -4104,7 +4104,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000871TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000871.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1575b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000871"/>
       <acdh:hasCurator>
@@ -4123,7 +4123,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000872TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000872.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1576</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000872"/>
       <acdh:hasCurator>
@@ -4142,7 +4142,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000873TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000873.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1577</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000873"/>
       <acdh:hasCurator>
@@ -4161,7 +4161,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000874TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000874.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1581</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000874"/>
       <acdh:hasCurator>
@@ -4180,7 +4180,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000875TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000875.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1582a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000875"/>
       <acdh:hasCurator>
@@ -4199,7 +4199,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000876TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000876.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1582b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000876"/>
       <acdh:hasCurator>
@@ -4218,7 +4218,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000877TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000877.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1583</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000877"/>
       <acdh:hasCurator>
@@ -4237,7 +4237,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000878TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000878.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1584</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000878"/>
       <acdh:hasCurator>
@@ -4256,7 +4256,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000879TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000879.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1585a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000879"/>
       <acdh:hasCurator>
@@ -4275,7 +4275,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000880TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000880.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1585b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000880"/>
       <acdh:hasCurator>
@@ -4294,7 +4294,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000881TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000881.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1585c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000881"/>
       <acdh:hasCurator>
@@ -4313,7 +4313,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000882TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000882.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1586</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000882"/>
       <acdh:hasCurator>
@@ -4332,7 +4332,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000883TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000883.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1587a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000883"/>
       <acdh:hasCurator>
@@ -4351,7 +4351,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000884TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000884.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1587b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000884"/>
       <acdh:hasCurator>
@@ -4370,7 +4370,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000885TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000885.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1587c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000885"/>
       <acdh:hasCurator>
@@ -4389,7 +4389,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000886TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000886.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1587d</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000886"/>
       <acdh:hasCurator>
@@ -4408,7 +4408,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000887TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000887.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1588</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000887"/>
       <acdh:hasCurator>
@@ -4427,7 +4427,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000888TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000888.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1589</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000888"/>
       <acdh:hasCurator>
@@ -4446,7 +4446,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000889TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000889.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1591</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000889"/>
       <acdh:hasCurator>
@@ -4465,7 +4465,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000890TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000890.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1592</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000890"/>
       <acdh:hasCurator>
@@ -4484,7 +4484,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000895TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000895.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1599a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000895"/>
       <acdh:hasCurator>
@@ -4503,7 +4503,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000896TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000896.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1599b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000896"/>
       <acdh:hasCurator>
@@ -4522,7 +4522,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000897TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000897.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1600a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000897"/>
       <acdh:hasCurator>
@@ -4541,7 +4541,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000898TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000898.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1600b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000898"/>
       <acdh:hasCurator>
@@ -4560,7 +4560,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000899TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000899.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1601a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000899"/>
       <acdh:hasCurator>
@@ -4579,7 +4579,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000900TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000900.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1601b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000900"/>
       <acdh:hasCurator>
@@ -4598,7 +4598,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000902TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000902.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1602a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000902"/>
       <acdh:hasCurator>
@@ -4617,7 +4617,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000903TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000903.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1602b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000903"/>
       <acdh:hasCurator>
@@ -4636,7 +4636,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000904TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000904.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1602c</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000904"/>
       <acdh:hasCurator>
@@ -4655,7 +4655,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000905TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000905.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1602d</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000905"/>
       <acdh:hasCurator>
@@ -4674,7 +4674,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000906TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000906.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1602e</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000906"/>
       <acdh:hasCurator>
@@ -4693,7 +4693,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000907TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000907.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1604a</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000907"/>
       <acdh:hasCurator>
@@ -4712,7 +4712,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000908TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110000908.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1604b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110000908"/>
       <acdh:hasCurator>
@@ -4731,7 +4731,7 @@
       <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
       <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
    </acdh:Resource>
-   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110002525TEI">
+   <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/adlib1110002525.xml">
       <acdh:hasTitle>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1135b</acdh:hasTitle>
       <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/adlib1110002525"/>
       <acdh:hasCurator>

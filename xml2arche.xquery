@@ -28,7 +28,7 @@ let $RDF :=
     
     {
         for $x in collection("file:/C:/Users/pandorfer/Dropbox/glaser-tei/editions-local/final/")//tei:TEI
-        let $adlibID := "https://id.acdh.oeaw.ac.at/adlib"||$x//tei:title[2]/text()||"TEI"
+        let $adlibID := "https://id.acdh.oeaw.ac.at/adlib"||$x//tei:title[2]/text()||".xml"
         let $parentCol := "https://id.acdh.oeaw.ac.at/adlib"||$x//tei:title[2]/text()
         let $title := $x//tei:title[1]/text()
         return
