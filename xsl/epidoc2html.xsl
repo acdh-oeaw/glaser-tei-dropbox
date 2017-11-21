@@ -4,7 +4,7 @@
         <xsl:value-of select=".//tei:title[2]/text()"/>
     </xsl:variable>
     <xsl:variable name="archeID">
-        <xsl:value-of select="concat('https://id.acdh.oeaw.ac.at/adlib', $adlibID, 'TEI')"/>
+        <xsl:value-of select="concat('https://id.acdh.oeaw.ac.at/adlib', $adlibID, '.xml')"/>
     </xsl:variable>
     
     <xsl:template match="/">
