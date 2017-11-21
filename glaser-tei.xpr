@@ -136,7 +136,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>final/1110000005.xml</String>
+                                    <String>final/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

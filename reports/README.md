@@ -1,3 +1,0 @@
-# about
-
-contains validation reports
