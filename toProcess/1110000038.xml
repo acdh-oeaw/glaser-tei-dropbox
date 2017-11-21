@@ -176,7 +176,7 @@ Restored full text of the inscription:
 6.[ḏ-rydn | w-hrṯdw | hgr-hmw | hkrm | b-tḥ... ...] | b-wrḫn | ḏ-qyẓn | [ḏ-b-ḫ]r[fn | ḏ-l-sṯt] | w-[ṯsʿy | w-ṯlṯ | mʾtm | bn | ḫrf | mbḥḍ | bn | ʾbḥḍ].</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
 
-<tei:lb n="1"/>w-ndb | w-hq<tei:supplied reason="lost">šb | <tei:gap quantity="plus4" unit="chars"/> | g</tei:supplied>n<tei:supplied reason="lost">ʾ</tei:supplied>
+<tei:lb n="1"/>w-ndb | w-hq<tei:supplied reason="lost">šb | <tei:gap quantity="5" unit="chars"/> | g</tei:supplied>n<tei:supplied reason="lost">ʾ</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">m</tei:supplied>brʾm | ḥśśm | w-<tei:unclear>ʾ</tei:unclear>
 <tei:lb n="3"/>gnʾ-hw | w-ṣwbt-hw | w-<tei:supplied reason="lost">mḥfdt-hw | bn |</tei:supplied> mr
@@ -188,21 +188,21 @@ Restored full text of the inscription:
 Restored full text of the inscription:
 
 <tei:lb n="1"/>
-                    <tei:supplied reason="lost">ysrm | yhnʿm | w-bn-hw | šmr | yhrʿš | mlky | sbʾ | w-ḏ-rydn | <tei:gap quantity="plus4" unit="chars"/> |</tei:supplied> w-ndb | w-hq<tei:supplied reason="lost">šb | <tei:gap quantity="plus4" unit="chars"/> | g</tei:supplied>n<tei:supplied reason="lost">ʾ |  w-ṣwbt | w-mḥfdt | hgr-hmw</tei:supplied>
+                    <tei:supplied reason="lost">ysrm | yhnʿm | w-bn-hw | šmr | yhrʿš | mlky | sbʾ | w-ḏ-rydn | <tei:gap quantity="5" unit="chars"/> |</tei:supplied> w-ndb | w-hq<tei:supplied reason="lost">šb | <tei:gap quantity="5" unit="chars"/> | g</tei:supplied>n<tei:supplied reason="lost">ʾ |  w-ṣwbt | w-mḥfdt | hgr-hmw</tei:supplied>
 <tei:lb n="2"/>
-                    <tei:supplied reason="lost">hkrm | w-hdbw-hw | w-brʾ | w-ḥẓyn | mbrʾ <tei:gap quantity="plus4" unit="chars"/> m</tei:supplied>brʾm | ḥśśm | w-<tei:unclear>ʾ</tei:unclear>
+                    <tei:supplied reason="lost">hkrm | w-hdbw-hw | w-brʾ | w-ḥẓyn | mbrʾ <tei:gap quantity="5" unit="chars"/> m</tei:supplied>brʾm | ḥśśm | w-<tei:unclear>ʾ</tei:unclear>
                     <tei:supplied reason="lost">bnm | ....m | w-wśfw | w-rymw | kl | gnʾ-hw | w-ṣwbt-</tei:supplied>
 <tei:lb n="3"/>
-                    <tei:supplied reason="lost">hw | w-mḥfdt-hw | ḏ-ṯny | sqfyn | w-ḏ-sqfm | b-ʿ<tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">hw | w-mḥfdt-hw | ḏ-ṯny | sqfyn | w-ḏ-sqfm | b-ʿ<tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>gnʾ-hw | w-ṣwbt-hw | w-<tei:supplied reason="lost">mḥfdt-hw | bn |</tei:supplied> mr<tei:supplied reason="lost">ym-hw | ʿdy | ṯrt-hw | w-hdbw-hw | w-hʿqbn</tei:supplied>
 <tei:lb n="4"/>
-                    <tei:supplied reason="lost">gnʾm | qšbm | w-hmrw-hw | w-šrʿw-hw | ḫṭln | <tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">gnʾm | qšbm | w-hmrw-hw | w-šrʿw-hw | ḫṭln | <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>ḫdʿw | w-hʿqbw | l-ḫlf-hw | <tei:supplied reason="lost">m</tei:supplied>ṣ<tei:supplied reason="lost">rʿ</tei:supplied>tm | <tei:supplied reason="lost">m</tei:supplied>brʾ | <tei:supplied reason="lost">w-mqyḥ | kl | ṣdqm | bn | mwṯrm | ʿdy | t=</tei:supplied>
 <tei:lb n="5"/>
-                    <tei:supplied reason="lost">frʿm | b-mlʾ | ʿšrt | ymtm | bn | wrḫn | ḏ-mbkrn | <tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">frʿm | b-mlʾ | ʿšrt | ymtm | bn | wrḫn | ḏ-mbkrn | <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>b-mqm | mrʾ-hmw | ʿṯtr-<tei:supplied reason="lost">šr</tei:supplied>qn | <tei:supplied reason="lost">w-ʾšms-hmw | w-ʾlʾlt-hmw | w-b-ʾḫyl | w-mqymt | ḫmys</tei:supplied>
 <tei:lb n="6"/>
-                    <tei:supplied reason="lost">ḏ-rydn | w-hrṯdw | hgr-hmw | hkrm | b-tḥ<tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">ḏ-rydn | w-hrṯdw | hgr-hmw | hkrm | b-tḥ<tei:gap quantity="5" unit="chars"/>
                     </tei:supplied> | b-wrḫn | ḏ-qyẓn | <tei:supplied reason="lost">ḏ-b-ḫ</tei:supplied>r<tei:supplied reason="lost">fn | ḏ-l-sṯt</tei:supplied> | w-<tei:supplied reason="lost">ṯsʿy | w-ṯlṯ | mʾtm | bn | ḫrf | mbḥḍ | bn | ʾbḥḍ</tei:supplied>.</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 
@@ -271,9 +271,9 @@ Restored full text of the inscription:
 6.[of Raydān. And they committed their town of Hakirum … … …] in the month of Dhū-Qiyāẓān (i.e. June) [of the] ye[ar 396 of the Era of Mabḥaḍ bin ʾAbḥuḍ].</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
 
-<tei:lb n="1"/>and constructed and bui<tei:supplied reason="lost">lt <tei:gap quantity="plus4" unit="chars"/> the w</tei:supplied>al<tei:supplied reason="lost">l</tei:supplied>
+<tei:lb n="1"/>and constructed and bui<tei:supplied reason="lost">lt <tei:gap quantity="5" unit="chars"/> the w</tei:supplied>al<tei:supplied reason="lost">l</tei:supplied>
 <tei:lb n="2"/>
-                    <tei:supplied reason="lost">a construction</tei:supplied> in mud-brick and <tei:supplied reason="lost">in stone <tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">a construction</tei:supplied> in mud-brick and <tei:supplied reason="lost">in stone <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>. And they increased 
 <tei:lb n="3"/>its wall and its glacis and its towers from its upper 
 <tei:lb n="4"/>they repaired and reinforced for its gate door-leaves and a construction 
@@ -284,17 +284,17 @@ Restored full text of the inscription:
 Restored full text of the inscription:
 
 <tei:lb n="1"/>
-                    <tei:supplied reason="lost">Yāsirum Yuhanʿim and his on Shammar Yuharʿish, the two kings of Sabaʾ and Dhū-Raydān … …</tei:supplied> and constructed and bui<tei:supplied reason="lost">lt <tei:gap quantity="plus4" unit="chars"/> the w</tei:supplied>al<tei:supplied reason="lost">l and the glacis and the towers of their town</tei:supplied>
+                    <tei:supplied reason="lost">Yāsirum Yuhanʿim and his on Shammar Yuharʿish, the two kings of Sabaʾ and Dhū-Raydān … …</tei:supplied> and constructed and bui<tei:supplied reason="lost">lt <tei:gap quantity="5" unit="chars"/> the w</tei:supplied>al<tei:supplied reason="lost">l and the glacis and the towers of their town</tei:supplied>
 <tei:lb n="2"/>
-                    <tei:supplied reason="lost">of Hakirum, and they built it and constructed and completed the construction … …</tei:supplied> a construction in mud-brick and <tei:supplied reason="lost">in stone <tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">of Hakirum, and they built it and constructed and completed the construction … …</tei:supplied> a construction in mud-brick and <tei:supplied reason="lost">in stone <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>. And they increased <tei:supplied reason="lost">and built high its wall and its glacis</tei:supplied>
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">and its towers with two roofs and with a roof in … ...</tei:supplied> its wall and its glacis and its towers from its upper <tei:supplied reason="lost">part to its foundation. And they constructed it and added</tei:supplied>
 <tei:lb n="4"/>
-                    <tei:supplied reason="lost">a new wall, and they provided it with an access route and they equipped it, <tei:unclear>that is,</tei:unclear> the ḫṭln-structure, <tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">a new wall, and they provided it with an access route and they equipped it, <tei:unclear>that is,</tei:unclear> the ḫṭln-structure, <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied> they repaired and reinforced for its gate door-leaves and a construction <tei:supplied reason="lost">and a completion with all accuracy, from the foundation to the</tei:supplied>
 <tei:lb n="5"/>
-                    <tei:supplied reason="lost">the top-<tei:unclear>this</tei:unclear> in the space of ten days from the month of Dhū-Mubakkirān <tei:unclear>i.e. May</tei:unclear> <tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">the top-<tei:unclear>this</tei:unclear> in the space of ten days from the month of Dhū-Mubakkirān <tei:unclear>i.e. May</tei:unclear> <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied> by the power of their lord, ʿAthtar <tei:supplied reason="lost">Shāri</tei:supplied>qān <tei:supplied reason="lost">and their protective goddesses and their <tei:unclear>other</tei:unclear> gods, and by the resources and the authority of the armies</tei:supplied>
 <tei:lb n="6"/>
                     <tei:supplied reason="lost">of Raydān. And they committed their town of Hakirum … … …</tei:supplied> in the month of Dhū-Qiyāẓān <tei:unclear>i.e. June</tei:unclear> <tei:supplied reason="lost">of the</tei:supplied> ye<tei:supplied reason="lost">ar <tei:lb n="396"/>of the Era of Mabḥaḍ bin ʾAbḥuḍ</tei:supplied>.</tei:ab>

@@ -1,0 +1,1035 @@
+troublemakers: 159.xml | 189.xml | 193.xml
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: element "tei:message" not allowed anywhere; expected the element end-tag or element "ab", "addSpan", "alt", "altGrp", "anchor", "annotationBlock", "app", "argument", "bibl", "biblFull", "biblStruct", "byline", "camera", "caption", "castList", "cb", "certainty", "cit", "classSpec", "constraintSpec", "damageSpan", "dataSpec", "dateline", "delSpan", "desc", "div", "divGen", "docAuthor", "docDate", "eTree", "eg", "elementSpec", "entry", "entryFree", "epigraph", "fLib", "figure", "floatingText", "forest", "fs", "fvLib", "fw", "gap", "gb", "graph", "head", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "l", "label", "lb", "lg", "link", "linkGrp", "list", "listApp", "listBibl", "listEvent", "listForest", "listNym", "listOrg", "listPerson", "listPlace", "listRef", "listTranspose", "listWit", "macroSpec", "meeting", "metamark", "milestone", "moduleSpec", "move", "msDesc", "notatedMusic", "note", "ns:egXML", "opener", "outputRendition", "p", "pause", "pb", "precision", "q", "quote", "respons", "said", "salute", "schemaSpec", "shift", "signed", "sound", "sp", "spGrp", "space", "span", "spanGrp", "specGrp", "specGrpRef", "stage", "substJoin", "superEntry", "table", "tech", "timeline", "tree", "u", "view", "vocal", "witDetail" or "writing" (with xmlns:ns="http://www.tei-c.org/ns/Examples")
+Start location: 154:22
+End location: 154:33
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: element "tei:text" not allowed here; expected the element end-tag or element "ab", "addSpan", "alt", "altGrp", "anchor", "annotationBlock", "app", "argument", "bibl", "biblFull", "biblStruct", "byline", "camera", "caption", "castList", "cb", "certainty", "cit", "classSpec", "constraintSpec", "damageSpan", "dataSpec", "dateline", "delSpan", "desc", "div", "divGen", "docAuthor", "docDate", "eTree", "eg", "elementSpec", "entry", "entryFree", "epigraph", "fLib", "figure", "floatingText", "forest", "fs", "fvLib", "fw", "gap", "gb", "graph", "head", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "l", "label", "lb", "lg", "link", "linkGrp", "list", "listApp", "listBibl", "listEvent", "listForest", "listNym", "listOrg", "listPerson", "listPlace", "listRef", "listTranspose", "listWit", "macroSpec", "meeting", "metamark", "milestone", "moduleSpec", "move", "msDesc", "notatedMusic", "note", "ns:egXML", "opener", "outputRendition", "p", "pause", "pb", "precision", "q", "quote", "respons", "said", "salute", "schemaSpec", "shift", "signed", "sound", "sp", "spGrp", "space", "span", "spanGrp", "specGrp", "specGrpRef", "stage", "substJoin", "superEntry", "table", "tech", "timeline", "tree", "u", "view", "vocal", "witDetail" or "writing" (with xmlns:ns="http://www.tei-c.org/ns/Examples")
+Start location: 158:22
+End location: 158:30
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:35
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:35
+End location: 158:58
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:35
+End location: 158:62
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:35
+End location: 158:66
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:66
+End location: 158:75
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:66
+End location: 158:79
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:66
+End location: 158:83
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:83
+End location: 158:105
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:83
+End location: 158:109
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:109
+End location: 158:110
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:109
+End location: 158:114
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:114
+End location: 158:123
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:114
+End location: 158:127
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:114
+End location: 158:131
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:131
+End location: 158:138
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:131
+End location: 158:142
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:142
+End location: 158:143
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:142
+End location: 158:147
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:147
+End location: 158:155
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:147
+End location: 158:159
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:159
+End location: 158:160
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:159
+End location: 158:164
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:164
+End location: 158:186
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:164
+End location: 158:190
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:164
+End location: 158:194
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:194
+End location: 158:223
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:194
+End location: 158:227
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:194
+End location: 158:231
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:231
+End location: 158:235
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:231
+End location: 158:239
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:231
+End location: 158:243
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:243
+End location: 158:252
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:243
+End location: 158:256
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:243
+End location: 159:5
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 159:5
+End location: 159:14
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 159:5
+End location: 159:18
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 159:18
+End location: 159:37
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 159:18
+End location: 159:41
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 159:41
+End location: 159:63
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 159:41
+End location: 159:67
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 159:67
+End location: 159:77
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 159:67
+End location: 160:5
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 160:5
+End location: 160:14
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 160:5
+End location: 160:18
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 160:18
+End location: 160:40
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 160:18
+End location: 160:44
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 160:44
+End location: 160:66
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 160:44
+End location: 160:70
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 160:70
+End location: 160:77
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 160:70
+End location: 161:5
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:5
+End location: 161:14
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:5
+End location: 161:18
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:5
+End location: 161:22
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:22
+End location: 161:29
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:22
+End location: 161:33
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:33
+End location: 161:34
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:33
+End location: 161:38
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:38
+End location: 161:46
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:38
+End location: 161:50
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:50
+End location: 161:72
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:50
+End location: 161:76
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:76
+End location: 161:98
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:76
+End location: 161:102
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:102
+End location: 161:106
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:102
+End location: 161:110
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:110
+End location: 161:139
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:110
+End location: 161:143
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:110
+End location: 161:147
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:147
+End location: 161:151
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:147
+End location: 161:155
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:147
+End location: 161:159
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:159
+End location: 161:168
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:159
+End location: 161:172
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 161:159
+End location: 162:5
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:5
+End location: 162:14
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:5
+End location: 162:18
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:18
+End location: 162:43
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:18
+End location: 162:47
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:47
+End location: 162:69
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:47
+End location: 162:73
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:73
+End location: 162:75
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:73
+End location: 162:79
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:79
+End location: 162:108
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:79
+End location: 162:112
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:79
+End location: 162:116
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:116
+End location: 162:120
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:116
+End location: 162:124
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:116
+End location: 162:128
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:128
+End location: 162:137
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:128
+End location: 162:141
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 162:128
+End location: 163:5
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:5
+End location: 163:14
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:5
+End location: 163:18
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:18
+End location: 163:43
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:18
+End location: 163:47
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:47
+End location: 163:69
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:47
+End location: 163:73
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:73
+End location: 163:78
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:73
+End location: 163:82
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:82
+End location: 163:111
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:82
+End location: 163:115
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:82
+End location: 163:119
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:119
+End location: 163:123
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:119
+End location: 163:127
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:119
+End location: 163:131
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:131
+End location: 163:140
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:131
+End location: 163:144
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:131
+End location: 163:148
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:148
+End location: 163:151
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: text not allowed here; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 163:148
+End location: 163:155
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: element "tei:text" incomplete; expected element "addSpan", "alt", "altGrp", "anchor", "app", "body", "cb", "certainty", "damageSpan", "delSpan", "fLib", "figure", "front", "fs", "fvLib", "fw", "gap", "gb", "group", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "precision", "respons", "shift", "space", "span", "spanGrp", "substJoin", "timeline", "vocal", "witDetail" or "writing"
+Start location: 158:22
+End location: 158:30
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: element "tei:ab" not allowed here; expected the element end-tag or element "addSpan", "alt", "altGrp", "anchor", "app", "argument", "byline", "cb", "certainty", "closer", "damageSpan", "dateline", "delSpan", "div", "divGen", "docAuthor", "docDate", "epigraph", "fLib", "figure", "fs", "fvLib", "fw", "gap", "gb", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "meeting", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "postscript", "precision", "respons", "salute", "shift", "signed", "space", "span", "spanGrp", "substJoin", "timeline", "trailer", "vocal", "witDetail" or "writing"
+Start location: 165:18
+End location: 165:24
+
+System ID: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Main validation file: C:\Users\pandorfer\Dropbox\glaser-tei\editions-local\toProcess\1110000159.xml
+Schema: C:\Program Files\Oxygen XML Editor 18\frameworks\tei\xml\tei\custom\schema\relaxng\tei_all.rng
+Engine name: Jing
+Severity: error
+Description: element "tei:ab" not allowed here; expected the element end-tag or element "addSpan", "alt", "altGrp", "anchor", "app", "argument", "byline", "cb", "certainty", "closer", "damageSpan", "dateline", "delSpan", "div", "divGen", "docAuthor", "docDate", "epigraph", "fLib", "figure", "fs", "fvLib", "fw", "gap", "gb", "incident", "index", "interp", "interpGrp", "join", "joinGrp", "kinesic", "lb", "link", "linkGrp", "listTranspose", "meeting", "metamark", "milestone", "notatedMusic", "note", "pause", "pb", "postscript", "precision", "respons", "salute", "shift", "signed", "space", "span", "spanGrp", "substJoin", "timeline", "trailer", "vocal", "witDetail" or "writing"
+Start location: 172:18
+End location: 172:24

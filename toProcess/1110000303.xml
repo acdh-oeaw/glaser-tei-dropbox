@@ -170,7 +170,7 @@ Restored full text of the inscription:
 
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="6"/>n-s | w-bn-sww | ġḍrn | w-ʾnmrm | w-kl 
 <tei:lb n="7"/>| w-b | ʿm | w-b | ʾnby | w-b | ḏt | ṣntm 
 <tei:lb n="8"/>ʿʾb | ḏbyn | w-bn-hw | shrm | 

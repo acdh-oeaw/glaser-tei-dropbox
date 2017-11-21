@@ -155,12 +155,12 @@
 Fatal (6,120) : The element type "supplied" must be terminated by the matching end-tag "&lt;/supplied&gt;".
 Validated in -1 millisec.
  in document 1110000159__2017-08-10T17-24-33-856-02-00.xml</tei:message>
-                    <tei:text>&lt;ab type="formal-markup"&gt;&lt;lb n="1"/&gt;&lt;supplied reason="lost"&gt;.&lt;/supplied&gt;&lt;unclear&gt;ʾ&lt;/unclear&gt;m&lt;supplied reason="lost"&gt;&lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
+                    <tei:text>&lt;ab type="formal-markup"&gt;&lt;lb n="1"/&gt;&lt;supplied reason="lost"&gt;.&lt;/supplied&gt;&lt;unclear&gt;ʾ&lt;/unclear&gt;m&lt;supplied reason="lost"&gt;&lt;gap quantity="5" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
 &lt;lb n="2"/&gt;sḥr | hqny | ʾlmqh &lt;supplied reason="lost"&gt;| bʿl | ʾ=
 &lt;lb n="3"/&gt;wm | wṯnn | ḥmdm | l-ḏ&lt;supplied reason="lost"&gt;t | hw=
-&lt;lb n="4"/&gt;&lt;unclear&gt;f&lt;/unclear&gt;y| ʾlmqh | grb | ʿbd-h&lt;supplied reason="lost"&gt;w | &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
-&lt;lb n="5"/&gt;n | w-ʾwld-hw | w-bʿr-hw &lt;supplied reason="lost"&gt;| &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
-&lt;lb n="6"/&gt;ʾ | sbʾ | w-l | wzʾ | ʾlm&lt;supplied reason="lost"&gt;qh | &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;&lt;/ab&gt;</tei:text>
+&lt;lb n="4"/&gt;&lt;unclear&gt;f&lt;/unclear&gt;y| ʾlmqh | grb | ʿbd-h&lt;supplied reason="lost"&gt;w | &lt;gap quantity="5" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
+&lt;lb n="5"/&gt;n | w-ʾwld-hw | w-bʿr-hw &lt;supplied reason="lost"&gt;| &lt;gap quantity="5" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
+&lt;lb n="6"/&gt;ʾ | sbʾ | w-l | wzʾ | ʾlm&lt;supplied reason="lost"&gt;qh | &lt;gap quantity="5" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;&lt;/ab&gt;</tei:text>
                 </tei:div>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/>.Γʾ˥m

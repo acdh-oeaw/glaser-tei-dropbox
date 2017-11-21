@@ -176,7 +176,7 @@ Restored full text of the inscription:
 Restored full text of the inscription:
 
 <tei:lb n="1"/>
-                    <tei:supplied reason="lost">ʿmṣdq | bn | ḥmʿṯt | ḏ-yfʿn | w-sʿd | bn | ʿlg | ḏ-ḍfgn | kbry | mṣrn | w-mʿn | mṣrn | ʾsd | mṣr | w-rtkl | b-ʿmh-smn | mṣr | w-ʾʾšr | w-ʿbr | nhrn | b-kbr | <tei:gap quantity="plus4" unit="chars"/>m | ḏ-rdʿ | qdmn | kbr-s | ślʾ | w-bny |</tei:supplied> w-sqny | k-ʿṯtr | <tei:unclear>ḏ-</tei:unclear>
+                    <tei:supplied reason="lost">ʿmṣdq | bn | ḥmʿṯt | ḏ-yfʿn | w-sʿd | bn | ʿlg | ḏ-ḍfgn | kbry | mṣrn | w-mʿn | mṣrn | ʾsd | mṣr | w-rtkl | b-ʿmh-smn | mṣr | w-ʾʾšr | w-ʿbr | nhrn | b-kbr | <tei:gap quantity="5" unit="chars"/>m | ḏ-rdʿ | qdmn | kbr-s | ślʾ | w-bny |</tei:supplied> w-sqny | k-ʿṯtr | <tei:unclear>ḏ-</tei:unclear>
                     <tei:supplied reason="lost">qbḍm | ṣḥftn | tnʿm | ʾnf | mwsm | ʿḍm | w-tqrm | bn | ʾšrs | ʿd | šqrn | w-mʿḏr-s | ʾbnm | kl | ṣḥft | byn | mḥfdnyhn | ẓrbn | w-lbʾn | b-kbwdt | w-ʾkrb | ktrb | ʿṯ=</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">tr | ḏ-qbḍm | ʾhl | sbrr | w-yʾtmr | w-strḍw | ʿṯtr | ḏ-qbḍ | b-kbwdtn | w-ʾkrbn | mbny | ṣḥftn | ywm | mtʿ-sm | w-ʾqny-sm | ʿṯtr | ḏ-qbḍm | w-wdm | w-nkrḥm | w-ʾmr-sm | bn | ʾḍbʾ | ḍbʾ-sm | w-</tei:supplied>ʾqny-sm | w-bʿr-sm | sbʾ <tei:supplied reason="lost">| w-ḫwln | b-msbʾ | byn | mʿnm | w-rgmtm | w-bn | ḍr | kwn | byn | ḏ-ymnt | w-ḏ-šʾmt | w-ywm | mtʿ-sm | w-ʾqny-sm | ʿṯtr | ḏ-qbḍm | w-wdm | w-nkrḥm | bn | wsṭ | mṣr | b-=</tei:supplied>
@@ -252,7 +252,7 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>and offered to ʿAthtar Dhū-
 <tei:lb n="2"/>their property and their livestock <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied> Sabaʾ
 <tei:lb n="3"/>Dhāt-Nashqim; and by all
 

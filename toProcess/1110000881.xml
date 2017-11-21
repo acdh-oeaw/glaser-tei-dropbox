@@ -149,7 +149,7 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>n | ḏ-ḫwln | ḥr | sqny | ʾṯrt |
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">b-mḥ</tei:supplied>
@@ -167,7 +167,7 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>n of Khawlān Ḥurr has dedicated to ʾAthīrat
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">in</tei:supplied> her <tei:supplied reason="lost">temple</tei:supplied> of Yasil a slab.</tei:ab>

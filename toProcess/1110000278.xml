@@ -184,11 +184,11 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>|</tei:supplied> w-ḥ<tei:unclear>w</tei:unclear>
+                        <tei:gap quantity="5" unit="chars"/>|</tei:supplied> w-ḥ<tei:unclear>w</tei:unclear>
                     <tei:supplied reason="lost">km | ḏ-ʾmr | w-šmr | qẓr | qyn | | ršw | ʿmm | bny | w-sḥdṯ | | kl | mbny | w-mhlk</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>|</tei:supplied> b-mn<tei:unclear>š</tei:unclear>
+                        <tei:gap quantity="5" unit="chars"/>|</tei:supplied> b-mn<tei:unclear>š</tei:unclear>
                     <tei:supplied reason="lost">ʾ | qtbn | b-ʿṯtr | w-b | ʿm | w-b | ʾnby | w-b | ḏt | ṣntm | | w-b | ḏt | ẓhrn</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
@@ -234,12 +234,12 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied> and Ḥaw<tei:supplied reason="lost">kam of ʾAmīr and Shammar, the collector and official and high priest of ʿAmm built and established the entire construction and completion <tei:unclear>of</tei:unclear>
                     </tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied> through the mobili<tei:supplied reason="lost">zation of the Qatabānians. By ʿAthtar and by ʿAmm and by ʾAnbay and by Dhāt-Ṣanatim and by Dhāt-Ẓahrān.</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:

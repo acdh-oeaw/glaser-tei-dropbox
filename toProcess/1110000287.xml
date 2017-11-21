@@ -298,7 +298,7 @@ Restored full text of the inscription:
                     <tei:supplied reason="lost">hasum</tei:supplied> and Tuban<tei:supplied reason="lost">ū</tei:supplied> 
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="6"/>
                     <tei:supplied reason="lost">...</tei:supplied> Ẓarrum 

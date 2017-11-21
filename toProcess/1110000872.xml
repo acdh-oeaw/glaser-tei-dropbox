@@ -149,10 +149,10 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>rydʿ | w-ʾbydʿ | w-kl | m<tei:supplied reason="lost">… …=</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>rydʿ | w-ʾbydʿ | w-kl | m<tei:supplied reason="lost">… …=</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>n | b-ʿṯtr | w-b | ʾlmqh | w-<tei:unclear>b</tei:unclear> <tei:supplied reason="lost">| … …</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>n | b-ʿṯtr | w-b | ʾlmqh | w-<tei:unclear>b</tei:unclear> <tei:supplied reason="lost">| … …</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/> ...rydʿ  <w>w-</w><persName type="gender" subtype="u">ʾbydʿ</persName>  <w>w-kl</w>  m… …=
@@ -167,10 +167,10 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>ryadaʿ and ʾAbīyadaʿ and all <tei:supplied reason="lost">… … …=</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>ryadaʿ and ʾAbīyadaʿ and all <tei:supplied reason="lost">… … …=</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>--by ʿAthtar and by ʾĪlmuquh and by <tei:supplied reason="lost"> … …</tei:supplied>.</tei:ab>
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>--by ʿAthtar and by ʾĪlmuquh and by <tei:supplied reason="lost"> … …</tei:supplied>.</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/> ...ryadaʿ and ʾAbīyadaʿ and all … … …=
 <tei:lb n="2"/> ...--by ʿAthtar and by ʾĪlmuquh and by  … ….</tei:ab>

@@ -197,7 +197,7 @@ Restored full text of the inscription:
 <tei:lb n="9"/>ʾmr | smʿm
 <tei:lb n="10"/>yḏmrʾl | w-=
 <tei:lb n="11"/>mhqmm | <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
@@ -280,7 +280,7 @@ Restored full text of the inscription:
 <tei:lb n="9"/> The witnesses <tei:unclear>to this legal decision</tei:unclear> are
 <tei:lb n="10"/>Yidhmarʾīl and
 <tei:lb n="11"/>Muhaqīmum <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>.
 
 
@@ -302,7 +302,7 @@ Restored full text of the inscription:
 <tei:lb n="9"/>The witnesses <tei:unclear>to this legal decision</tei:unclear> are
 <tei:lb n="10"/>Yidhmarʾīl and
 <tei:lb n="11"/>Muhaqīmum <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>.</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 

@@ -149,11 +149,11 @@
 2.[... ...](lbm) | w-b | ydʿʾl | w-b | yṯʿʾm[r]</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>ʿmkrb | bn | ʾlkrb | bn | n<tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
                     <tei:unclear>lbm</tei:unclear> | w-b | ydʿʾl | w-b | yṯʿʾm<tei:supplied reason="lost">r</tei:supplied>
                 </tei:ab>
@@ -169,11 +169,11 @@
 2.[... ...](lbum) and by Yadaʿʾīl and by Yithaʿʾama[r]</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>ʿAmmīkarib bin ʾĪlkarib of the lineage of N<tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
                     <tei:unclear>lbum</tei:unclear> and by Yadaʿʾīl and by Yithaʿʾama<tei:supplied reason="lost">r</tei:supplied>
                 </tei:ab>

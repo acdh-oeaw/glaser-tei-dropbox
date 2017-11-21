@@ -155,13 +155,13 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> |</tei:supplied> <tei:unclear>ʿlbm | w-nbṭ</tei:unclear>ʿm | bn | hwfʿṯt
+                        <tei:gap quantity="5" unit="chars"/> |</tei:supplied> <tei:unclear>ʿlbm | w-nbṭ</tei:unclear>ʿm | bn | hwfʿṯt
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> |</tei:supplied> <tei:unclear>qbr-smy</tei:unclear> | yfʿt | w-mśwd-s | w-k<tei:supplied reason="lost">l</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> |</tei:supplied> <tei:unclear>qbr-smy</tei:unclear> | yfʿt | w-mśwd-s | w-k<tei:supplied reason="lost">l</tei:supplied>
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> |</tei:supplied> <tei:unclear>b-ḥg | ʾnby | w-ʾl | tʿly</tei:unclear>
+                        <tei:gap quantity="5" unit="chars"/> |</tei:supplied> <tei:unclear>b-ḥg | ʾnby | w-ʾl | tʿly</tei:unclear>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/>  <persName type="gender" subtype="u">ʿlbm</persName>  <w>w-</w><persName type="gender" subtype="m">nbṭʿm</persName>  <w>bn</w>  <persName type="patronymic">hwfʿṯt</persName>

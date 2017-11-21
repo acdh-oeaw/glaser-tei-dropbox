@@ -170,13 +170,13 @@ Restored full text of the inscription:
 
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="4"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="6"/>ʾḏn-s | w-bn-sww | ġḍrn | w-ʾnmrm | 
 <tei:lb n="7"/>ʿṯtr | w-b | ʿm | w-b | ʾnby | w-b | ḏt 
 <tei:lb n="8"/>| ydʿʾb | ḏbyn | w-bn-hw | shrm | 
@@ -268,13 +268,13 @@ Restored full text of the inscription:
 
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="4"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="6"/>his faculties and his sons, Ghaḍirān and ʾAnmārum
 <tei:lb n="7"/>
                     <tei:supplied reason="lost">ʿA</tei:supplied>thtar, and by ʿAmm, and by ʾAnbay, and by Dhāt-<tei:supplied reason="lost">Ṣanatim</tei:supplied>

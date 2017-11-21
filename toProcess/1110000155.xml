@@ -196,7 +196,7 @@ Restored full text of the inscription:
 Restored full text of the inscription:
 
 <tei:lb n="1"/>
-                    <tei:unclear>slmn</tei:unclear> | <tei:supplied reason="lost">bn | <tei:gap quantity="plus4" unit="chars"/>
+                    <tei:unclear>slmn</tei:unclear> | <tei:supplied reason="lost">bn | <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="2"/>ḏ-sḥr | hqny | ʾlmqh | b<tei:unclear>ʿ</tei:unclear>
                     <tei:supplied reason="lost">l</tei:supplied>

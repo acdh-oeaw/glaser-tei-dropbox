@@ -149,10 +149,10 @@
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> |</tei:supplied> hqny | ʿṯtr | ḏ-frʿtm | ḏ-mrḥ<tei:supplied reason="lost">bm | <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> |</tei:supplied> hqny | ʿṯtr | ḏ-frʿtm | ḏ-mrḥ<tei:supplied reason="lost">bm | <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ... | w-</tei:supplied>b | ḏt-ḥmym | w-b | ḏt-bʿdn | w-b <tei:supplied reason="lost">| <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ... | w-</tei:supplied>b | ḏt-ḥmym | w-b | ḏt-bʿdn | w-b <tei:supplied reason="lost">| <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/>  <w>hqny</w>  <rs type = "complex"><name type="theonym">ʿṯtr</name>  <name type="epithet" subtype="divine">ḏ-frʿtm</name></rs>  <orgName type="group">ḏ-mrḥbm</orgName>   ...
@@ -167,11 +167,11 @@
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied> has offered to ʿAthtar Dhū-Fāriʿatum he of Marḥa<tei:supplied reason="lost">bum <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied> has offered to ʿAthtar Dhū-Fāriʿatum he of Marḥa<tei:supplied reason="lost">bum <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ... and</tei:supplied> by Dhāt-Ḥimāyim and by Dhāt-Baʿdām and by <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ... and</tei:supplied> by Dhāt-Ḥimāyim and by Dhāt-Baʿdām and by <tei:supplied reason="lost">
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/> ... has offered to ʿAthtar Dhū-Fāriʿatum he of Marḥabum  ...

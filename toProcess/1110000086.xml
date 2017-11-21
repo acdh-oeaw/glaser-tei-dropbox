@@ -167,7 +167,7 @@
 13.[... ... ... ...]</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
-                    <tei:supplied reason="lost">… <tei:gap quantity="plus4" unit="chars"/> | hq=</tei:supplied>
+                    <tei:supplied reason="lost">… <tei:gap quantity="5" unit="chars"/> | hq=</tei:supplied>
 <tei:lb n="2"/>ny | šym-hmw | tʾlb | rymm
 <tei:lb n="3"/>
                     <tei:add>b</tei:add>ʿl | qdmn | <tei:supplied reason="lost">b-</tei:supplied>hgrn | dmh<tei:supplied reason="lost">n</tei:supplied>
@@ -190,10 +190,10 @@
                     <tei:supplied reason="lost">l-sʿd-hm</tei:supplied>w | nʿmt<tei:add>m</tei:add> | w-w<tei:supplied reason="lost">f</tei:supplied>y<tei:supplied reason="lost">m</tei:supplied>
 <tei:lb n="12"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> | wzʾ | s</tei:supplied>ʿ<tei:supplied reason="lost">d-</tei:supplied>hmw | ʾwld
+                        <tei:gap quantity="5" unit="chars"/> | wzʾ | s</tei:supplied>ʿ<tei:supplied reason="lost">d-</tei:supplied>hmw | ʾwld
 <tei:lb n="13"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
@@ -242,7 +242,7 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ... has offer-=</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ... has offer-=</tei:supplied>
 <tei:lb n="2"/>ed to their patron deity Taʾlab Riyāmum, 
 <tei:lb n="3"/>Lord of Qādimān, <tei:supplied reason="lost">in</tei:supplied> the city of Damih<tei:supplied reason="lost">ān,</tei:supplied>
 <tei:lb n="4"/>
@@ -263,10 +263,10 @@
                     <tei:supplied reason="lost">may he grant the</tei:supplied>m prosperity and well-being
 <tei:lb n="12"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> and</tei:supplied> continue to grant them children
+                        <tei:gap quantity="5" unit="chars"/> and</tei:supplied> continue to grant them children
 <tei:lb n="13"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">

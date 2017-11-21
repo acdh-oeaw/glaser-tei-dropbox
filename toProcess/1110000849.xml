@@ -199,7 +199,7 @@ Restored full text of the inscription:
 <tei:lb n="10"/>
                     <tei:supplied reason="lost">yḏmrʾl | w-=</tei:supplied>
 <tei:lb n="11"/>
-                    <tei:supplied reason="lost">mhqmm | <tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">mhqmm | <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
@@ -304,7 +304,7 @@ Restored full text of the inscription:
 <tei:lb n="10"/>
                     <tei:supplied reason="lost">Yidhmarʾīl and</tei:supplied>
 <tei:lb n="11"/>
-                    <tei:supplied reason="lost">Muhaqīmum <tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">Muhaqīmum <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>.</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 

@@ -160,9 +160,9 @@ Restored text of the fragment:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ʾl</tei:supplied>mqh | ḏ-<tei:unclear>nt</tei:unclear>gm | ywm | šym-hw | ydʿʾb | <tei:unclear>b-</tei:unclear>
+                        <tei:gap quantity="5" unit="chars"/> ʾl</tei:supplied>mqh | ḏ-<tei:unclear>nt</tei:unclear>gm | ywm | šym-hw | ydʿʾb | <tei:unclear>b-</tei:unclear>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
@@ -200,8 +200,8 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ʾĪl</tei:supplied>muquh Dhū-<tei:unclear>Nati</tei:unclear>gim, when Yadaʿʾab appointed him. By <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>.</tei:ab>
+                        <tei:gap quantity="5" unit="chars"/> ʾĪl</tei:supplied>muquh Dhū-<tei:unclear>Nati</tei:unclear>gim, when Yadaʿʾab appointed him. By <tei:supplied reason="lost">
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>.</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 
 <tei:lb n="1"/>when Yadaʿʾab appointed him

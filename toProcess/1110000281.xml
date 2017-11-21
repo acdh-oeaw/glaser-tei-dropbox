@@ -171,10 +171,10 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> | w-ḥwkm | ḏ-ʾmr | w-šmr | qẓr | qyn | ršw | ʿm | bny | w-sḥ</tei:supplied>dṯ | | kl | mbny | w-mhlk
+                        <tei:gap quantity="5" unit="chars"/> | w-ḥwkm | ḏ-ʾmr | w-šmr | qẓr | qyn | ršw | ʿm | bny | w-sḥ</tei:supplied>dṯ | | kl | mbny | w-mhlk
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> | b-mnšʾ | qtbn | b-ʿṯtr | w-b | ʿm | w-b | ʾnby | w-b | ḏt |</tei:supplied> <tei:unclear>ṣ</tei:unclear>ntm | | w-b | ḏt | ẓhrn</tei:ab>
+                        <tei:gap quantity="5" unit="chars"/> | b-mnšʾ | qtbn | b-ʿṯtr | w-b | ʿm | w-b | ʾnby | w-b | ḏt |</tei:supplied> <tei:unclear>ṣ</tei:unclear>ntm | | w-b | ḏt | ẓhrn</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 
 <tei:lb n="1"/>dṯ   <w>kl</w>  <w>mbny</w>  <w>w-mhlk</w>
@@ -220,10 +220,10 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> and Ḥawkam of ʾAmīr and Shammar, the collector and official and high priest of ʿAmm built and esta</tei:supplied>blished the entire construction and completion <tei:unclear>of</tei:unclear>
+                        <tei:gap quantity="5" unit="chars"/> and Ḥawkam of ʾAmīr and Shammar, the collector and official and high priest of ʿAmm built and esta</tei:supplied>blished the entire construction and completion <tei:unclear>of</tei:unclear>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> through the mobilization of the Qatabānians. By ʿAthtar and by ʿAmm and by ʾAnbay and by Dhāt</tei:supplied>-Ṣanatim and by Dhāt-Ẓahrān.</tei:ab>
+                        <tei:gap quantity="5" unit="chars"/> through the mobilization of the Qatabānians. By ʿAthtar and by ʿAmm and by ʾAnbay and by Dhāt</tei:supplied>-Ṣanatim and by Dhāt-Ẓahrān.</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 
 <tei:lb n="1"/>... the entire construction and completion

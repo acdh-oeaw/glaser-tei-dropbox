@@ -262,7 +262,7 @@ Restored full text of the inscription:
 <tei:lb n="4"/>since he settled in
 <tei:lb n="5"/>ʿAmmīkarib bin Wa<tei:supplied reason="lost">...</tei:supplied>
 <tei:lb n="6"/>
-                    <tei:supplied reason="lost">whe</tei:supplied>n he served as priest of ʿAth<tei:supplied reason="lost">tar <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied> his
+                    <tei:supplied reason="lost">whe</tei:supplied>n he served as priest of ʿAth<tei:supplied reason="lost">tar <tei:gap quantity="5" unit="chars"/> ...</tei:supplied> his
 <tei:lb n="7"/>
                     <tei:supplied reason="lost">...</tei:supplied>. And ʿAth<tei:supplied reason="lost">tar</tei:supplied> provided irrigation
 <tei:lb n="8"/>during the autumn and spring.

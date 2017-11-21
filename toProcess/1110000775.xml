@@ -235,7 +235,7 @@ Text preserved in this squeeze:
 Restored full text of the inscription:
 
 <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">ldḫ | w-b-mʾy | ʿqbh | ṣlwtn | w-ynl</tei:supplied>
                     <tei:unclear>w</tei:unclear> | ʾnṯht | w-qdmy-ʾy | ʾhl | ʾmnhtn | w-ʾsd | st=
@@ -272,23 +272,23 @@ RES <tei:lb n="3306"/>:
 <tei:lb n="1"/>bn | ḏ-y<tei:supplied reason="lost">..</tei:supplied>
                     <tei:unclear>ḥ</tei:unclear>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
-<tei:lb n="2"/>frḍ | šwbn<tei:supplied reason="lost"> <tei:gap quantity="plus4" unit="chars"/>
+<tei:lb n="2"/>frḍ | šwbn<tei:supplied reason="lost"> <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
-<tei:lb n="3"/>rʾ | b-bytn <tei:supplied reason="lost">|<tei:gap quantity="plus4" unit="chars"/>
+<tei:lb n="3"/>rʾ | b-bytn <tei:supplied reason="lost">|<tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="4"/>m qrʾn | w-l<tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="5"/>n-s | w-mn | ys<tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="6"/>l | yhb | ḏby<tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="7"/>qrśn | b-wš<tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">RES <tei:lb n="3306"/>:
@@ -432,7 +432,7 @@ Text preserved in this squeeze:
 Restored full text of the inscription:
 
 <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">… and in accordance with the document of the legal appeal, and</tei:supplied> the women and the leaders of the <tei:unclear>temple</tei:unclear> staff and those who
@@ -452,7 +452,7 @@ Restored full text of the inscription:
 <tei:lb n="9"/>
                     <tei:supplied reason="lost">n and Yaʾawsʾīl bin Hāniʾ Dhū-Ganad.</tei:supplied> And the two witnesses of this decree were <tei:unclear>thus</tei:unclear> entrusted, and they dealt with <tei:unclear>the matter</tei:unclear> and remained responsible, <tei:unclear>namely</tei:unclear>
 <tei:lb n="10"/>
-                    <tei:supplied reason="lost">Dhū-Ganad and Rafzān, by the writing of</tei:supplied> their wit<tei:supplied reason="lost">nesses <tei:gap quantity="plus4" unit="chars"/>
+                    <tei:supplied reason="lost">Dhū-Ganad and Rafzān, by the writing of</tei:supplied> their wit<tei:supplied reason="lost">nesses <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>.
 
 
@@ -461,24 +461,24 @@ Restored full text of the inscription:
 RES <tei:lb n="3306"/>:
 
 <tei:lb n="1"/>from that which <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="2"/>the entrance <tei:unclear>to</tei:unclear> the field <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">..</tei:supplied> in the house <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="4"/>
                     <tei:supplied reason="lost">.</tei:supplied> to command and to <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="5"/>its <tei:supplied reason="lost">...</tei:supplied> from <tei:supplied reason="lost">... and</tei:supplied>
 <tei:lb n="6"/>let him give <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="7"/>the food in <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">RES <tei:lb n="3306"/>:

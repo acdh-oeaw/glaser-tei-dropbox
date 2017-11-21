@@ -173,7 +173,7 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">hwfʿśt | bn | śmrm | sqny | syn | ḏ-ʾlm | nfs-s | w-ʾḏn-s | w-</tei:supplied>wld-s | w-qny-s | w-mslmhn | ḏ-l-sm | ywm | <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> | ḏ-q=</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> | ḏ-q=</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">ny | w-bʿl | ... | bnhy | ʾʿrś | ...ly | ḏ-ʾmʿdm | b-mw</tei:supplied>
                     <tei:unclear>fr</tei:unclear> | ḏ-tḥrbhn | b-ṯlm | ywm | ṣry | syn | <tei:unclear>ḏ-ʾlm</tei:unclear> <tei:supplied reason="lost">| ...n | mwqrthn |</tei:supplied>

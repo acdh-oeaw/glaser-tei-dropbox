@@ -174,19 +174,19 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ... | ʾb</tei:supplied>yśʿ | <tei:unclear>mkrb | ḥḍrmt</tei:unclear> | mt | ʾmr-s | 
+                        <tei:gap quantity="5" unit="chars"/> ... | ʾb</tei:supplied>yśʿ | <tei:unclear>mkrb | ḥḍrmt</tei:unclear> | mt | ʾmr-s | 
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ... | ʿ</tei:supplied>qb | ḥgr | ʿl<tei:supplied reason="lost">ht</tei:supplied>yhn | bn | bḥrhn | q<tei:unclear>d</tei:unclear>
+                        <tei:gap quantity="5" unit="chars"/> ... | ʿ</tei:supplied>qb | ḥgr | ʿl<tei:supplied reason="lost">ht</tei:supplied>yhn | bn | bḥrhn | q<tei:unclear>d</tei:unclear>
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied> | w-dwsm | w-ʿm-smn | bn | ʾbhty | ḥḍr
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied> | w-dwsm | w-ʿm-smn | bn | ʾbhty | ḥḍr
 <tei:lb n="4"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>n | yḏʾn | w-yḏtʾn | w-ḫlfhn | ykn | b-mʿrb | w-ś
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>n | yḏʾn | w-yḏtʾn | w-ḫlfhn | ykn | b-mʿrb | w-ś
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ... |</tei:supplied> śnyhn | šlśt | ʾwrḫ<tei:unclear>m | b-</tei:unclear>ʿšry | w-mʾt |
+                        <tei:gap quantity="5" unit="chars"/> ... |</tei:supplied> śnyhn | šlśt | ʾwrḫ<tei:unclear>m | b-</tei:unclear>ʿšry | w-mʾt |
 
 
 Restored full text of the inscription:
@@ -201,7 +201,7 @@ Restored full text of the inscription:
                     <tei:supplied reason="lost">myfʿt | w-ḍyftn | qrnhm | w-bny | w-yʿr | ʿqb | ḍyfthn | w-bny | gnʾhn | w-mḥfdyh</tei:supplied>n | yḏʾn | w-yḏtʾn | w-ḫlfhn | ykn | b-mʿrb | w-ś<tei:supplied reason="lost">dm | w-ḍwym</tei:supplied>
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> | w-ʾbry | bn-mw | rbbm | ʾd | šqrm | bn-mw | lbn | šms | lbn | šms | b-hy | yšrḥʾl | ḏ-ʿḏḏm |</tei:supplied> śnyhn |  šlśt | ʾwrḫ<tei:unclear>m | b-</tei:unclear>ʿšry | w-mʾt | <tei:supplied reason="lost">ʾsdm | gsmhm</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> | w-ʾbry | bn-mw | rbbm | ʾd | šqrm | bn-mw | lbn | šms | lbn | šms | b-hy | yšrḥʾl | ḏ-ʿḏḏm |</tei:supplied> śnyhn |  šlśt | ʾwrḫ<tei:unclear>m | b-</tei:unclear>ʿšry | w-mʾt | <tei:supplied reason="lost">ʾsdm | gsmhm</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in the squeeze: 
 
@@ -269,7 +269,7 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">ʾAbī</tei:supplied>yaśaʿ, the ruler of Ḥaḍramōt, when <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied> commanded him
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">de</tei:supplied>fenses of Ḥigr, the elevated area from the seashore in <tei:supplied reason="lost">front</tei:supplied>
@@ -291,7 +291,7 @@ Restored full text of the inscription:
                     <tei:supplied reason="lost">Mayfaʿt and Ḍayfatān as a garrison; and he built and strengthened the defenses of Ḍayfatān and he built the wall and the two tower</tei:supplied>s of Yadhaʾān and Yadhatʾān and the gate of Yakan, in polished stone, and <tei:supplied reason="lost">a barrier and a refuge</tei:supplied>
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> and the passages<tei:unclear>?</tei:unclear> from the base to the top, by the grace of Shamas in</tei:supplied> the second year of Yashraḥʾīl Dhū-ʿAzīzum, in three months, <tei:supplied reason="lost">the construction</tei:supplied> by <tei:lb n="120"/>
+                        <tei:gap quantity="5" unit="chars"/> and the passages<tei:unclear>?</tei:unclear> from the base to the top, by the grace of Shamas in</tei:supplied> the second year of Yashraḥʾīl Dhū-ʿAzīzum, in three months, <tei:supplied reason="lost">the construction</tei:supplied> by <tei:lb n="120"/>
                     <tei:supplied reason="lost">men</tei:supplied>.</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 

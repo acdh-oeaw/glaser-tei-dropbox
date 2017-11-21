@@ -308,13 +308,13 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">...</tei:supplied> and
 <tei:lb n="3"/>Kaḥid and 
 <tei:lb n="4"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
 <tei:lb n="5"/>and be levelled
 <tei:lb n="6"/>By ʿAmm
 <tei:lb n="7"/>ʿAmm Dhū-

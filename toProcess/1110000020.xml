@@ -168,7 +168,7 @@
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="2"/>three <tei:supplied reason="lost">...</tei:supplied>
 <tei:lb n="3"/>four<tei:unclear>th</tei:unclear> <tei:supplied reason="lost">...</tei:supplied>

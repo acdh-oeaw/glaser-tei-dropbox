@@ -160,9 +160,9 @@
 2.prosperity and the good pleasure of their lords, [...]</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>their <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>, of the lineage of <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars"/>
                     </tei:supplied>
 <tei:lb n="2"/>prosperity and the good pleasure of their lords, <tei:supplied reason="lost">...</tei:supplied>
                 </tei:ab>

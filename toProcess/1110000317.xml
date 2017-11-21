@@ -162,13 +162,13 @@ Restored text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> | ʿlbm | w-nbṭʿm | bn | hwfʿṯt</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> | ʿlbm | w-nbṭʿm | bn | hwfʿṯt</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> | qbr-smy | yfʿt | w-mśwd-s | w-kl</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> | qbr-smy | yfʿt | w-mśwd-s | w-kl</tei:supplied>
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> | b-ḥg | ʾnb</tei:supplied>y | w-ʾl | tʿl<tei:supplied reason="lost">y</tei:supplied>
+                        <tei:gap quantity="5" unit="chars"/> | b-ḥg | ʾnb</tei:supplied>y | w-ʾl | tʿl<tei:supplied reason="lost">y</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 

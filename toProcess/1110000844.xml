@@ -163,10 +163,10 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>ʿl=
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>ʿl=
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>tm |
+                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>tm |
 
 
 Restored full text of the inscription:
