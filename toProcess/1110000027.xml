@@ -147,7 +147,7 @@
     </facsimile>
     <text>
         <body>
-            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+            <div  type="edition">
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">32.Γḥ˥nΓb˥ṣ [|] bn | Γḥ˥yΓw˥ | Γḏ-˥b=
 33.ẓᶜ | Γḏ-˥[ʾ] hl Γ|˥ ᶜm[d sk]r=
 34.b | w-[ḫ]śr | Γʾḫl˥ḥy | bn

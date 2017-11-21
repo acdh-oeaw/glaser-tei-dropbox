@@ -133,7 +133,7 @@
     </facsimile>
     <text>
         <body>
-            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+            <div  type="edition">
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.ysmʿʾl | bn | ʾlʿz | h=
 2.qny | bšmm | wwdm  | ʿb=
 3.dm | whwfm | bʾlmq&lt;h&gt;</tei:ab>

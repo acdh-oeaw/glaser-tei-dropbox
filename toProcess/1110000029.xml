@@ -157,7 +157,7 @@
     </facsimile>
     <text>
         <body>
-            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+            <div  type="edition">
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">17.ḥyw | bn | Γybḥ˥rʾl
 18.ḏ-gdrn | ḏ-ʾhl | ᶜ=
 19.q[b] | skr[b] | w-ḫśr |

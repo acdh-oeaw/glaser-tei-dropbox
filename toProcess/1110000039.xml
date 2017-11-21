@@ -149,7 +149,7 @@
     </facsimile>
     <text>
         <body>
-            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+            <div  type="edition">
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
 
 1. |  w-ṣwbt | w-mḥfdt | hgr-hm[w]

@@ -154,7 +154,7 @@
     </facsimile>
     <text>
         <body>
-            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+            <div  type="edition">
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[ḥ]wfʿ[m | y]h[nʿm|] bn [smh-]
 2.wtr | mΓkr˥b | qtbn | w-[wl]
 3.(d |) ʿm Γ|˥ [b]ny Γ|˥ mḥfd[n] | ḥẓ[..]</tei:ab>

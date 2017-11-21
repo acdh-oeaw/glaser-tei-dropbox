@@ -139,7 +139,7 @@
     </facsimile>
     <text>
         <body>
-            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+            <div  type="edition">
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.ḥwṯ[b]t | mḥwlm | w</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>ḥwṯ<tei:supplied reason="lost">b</tei:supplied>t | mḥwlm | w</tei:ab>

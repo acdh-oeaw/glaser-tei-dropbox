@@ -140,7 +140,7 @@
     </facsimile>
     <text>
         <body>
-            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+            <div  type="edition">
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.Γw˥[t] r [|] bn | ḥywm [|]
 2.w-kl [l]</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">

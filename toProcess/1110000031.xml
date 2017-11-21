@@ -153,7 +153,7 @@
     </facsimile>
     <text>
         <body>
-            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+            <div  type="edition">
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">24.ysmᶜ [ʾ] l | bn | bᶜṯ=
 25.tr | ḏ-[s]yl | ḏʾ-hl
 26.ᶜlyʾl | ḫśr | rḍw

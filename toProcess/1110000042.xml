@@ -144,7 +144,7 @@
     </facsimile>
     <text>
         <body>
-            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+            <div  type="edition">
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">59.[slm] | bn | š[k]Γr˥ [| ḏ-dbr | ḏ-ʾ]hl
 60.y[l]q[ẓ | s][k][rb |] w-[hśr] [| ʾnṯt-s
 61.t]w[dd | bn | ḥḍrmt]</tei:ab>
