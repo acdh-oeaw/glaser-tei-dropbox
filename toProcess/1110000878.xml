@@ -148,8 +148,8 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> | ʿ</tei:supplied>d | frʿm | b-ʿṯtr | <tei:unclear>w-</tei:unclear>
-                    <tei:supplied reason="lost">b | <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> | ʿ</tei:supplied>d | frʿm | b-ʿṯtr | <tei:unclear>w-</tei:unclear>
+                    <tei:supplied reason="lost">b | <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
@@ -161,7 +161,7 @@
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[.... ... to the t]op--by ʿAthtar and [by ... ...]</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
-                    <tei:supplied reason="lost">.<tei:gap quantity="5" unit="chars"/> to the t</tei:supplied>op--by ʿAthtar and <tei:supplied reason="lost">by <tei:gap quantity="5" unit="chars"/>
+                    <tei:supplied reason="lost">.<tei:gap quantity="5" unit="chars" reason="lost"/> to the t</tei:supplied>op--by ʿAthtar and <tei:supplied reason="lost">by <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">

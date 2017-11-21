@@ -184,17 +184,17 @@
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>that <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied>that <tei:supplied reason="lost">
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> Yarīm <tei:supplied reason="lost">...</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied> of ʾAhgūrān have built <tei:supplied reason="lost">...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied> of ʾAhgūrān have built <tei:supplied reason="lost">...</tei:supplied>
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">...</tei:supplied> Bayyinum from the foundations u<tei:supplied reason="lost">p to ..</tei:supplied>
 <tei:lb n="4"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> Baʾnum from <tei:supplied reason="lost">...</tei:supplied>.</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/> ...that  Yarīm ...

@@ -182,7 +182,7 @@ Restored full text of the inscription:
 
 <tei:lb n="7"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="8"/>l-sṭr | w-ftḫ | ḏtn | ʾsṭrn | b-sr
 <tei:lb n="9"/> | b-ḏ | ġylm | wrḫ-s | ḏ-bšmm | ḫr=
@@ -192,7 +192,7 @@ Restored full text of the inscription:
 <tei:lb n="13"/>ʾlsmʿ | bn | 
 <tei:lb n="14"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 
 
@@ -317,7 +317,7 @@ Restored full text of the inscription:
 
 <tei:lb n="7"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="8"/>to inscribe and engrave these records in <tei:supplied reason="lost">the</tei:supplied> valley 
 <tei:lb n="9"/>in Dhū-Ghaylim. The month of Bashimum, the 
@@ -327,7 +327,7 @@ Restored full text of the inscription:
 <tei:lb n="13"/>ʾĪlīsamaʿ of the lineage of 
 <tei:lb n="14"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 
 

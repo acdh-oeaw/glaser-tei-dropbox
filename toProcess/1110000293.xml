@@ -284,7 +284,7 @@ Restored full text of the inscription:
 <tei:lb n="6"/>and his faculties and his sons, Ghaḍirān and ʾAnmārum, and all of his <tei:unclear>other</tei:unclear> children, and <tei:unclear>his</tei:unclear> possessions.
 <tei:lb n="7"/>By ʿAthtar, and by ʿAmm, and by ʾAnbay, and by Dhāt-Ṣanatim, and by Dh<tei:supplied reason="lost">...</tei:supplied>,
 <tei:lb n="8"/>and by Yadaʿʾab Dhubyān and his son Shahrum, the king<tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>.
 
 

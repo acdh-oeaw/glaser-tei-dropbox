@@ -169,13 +169,13 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> |</tei:supplied> ʿlbm | w-nbṭʿm | bn | h<tei:supplied reason="lost">wfʿṯt</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> |</tei:supplied> ʿlbm | w-nbṭʿm | bn | h<tei:supplied reason="lost">wfʿṯt</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> |</tei:supplied> qbr-smy | yfʿt | w-mśw<tei:supplied reason="lost">d-s | w-kl</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> |</tei:supplied> qbr-smy | yfʿt | w-mśw<tei:supplied reason="lost">d-s | w-kl</tei:supplied>
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> |</tei:supplied> b-ḥg | ʾnby | w-ʾl | tʿl<tei:supplied reason="lost">y</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> |</tei:supplied> b-ḥg | ʾnby | w-ʾl | tʿl<tei:supplied reason="lost">y</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 

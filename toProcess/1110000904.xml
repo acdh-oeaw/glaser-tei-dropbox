@@ -180,27 +180,27 @@ Restored full text of the inscription:
 
 <tei:lb n="6"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="7"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="8"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="9"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="10"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="11"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 
 

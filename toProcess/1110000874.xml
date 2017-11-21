@@ -152,7 +152,7 @@
 6.n [| w]-b | mrʾ-smy | ydʿʾb | ḏbyn | bn | šhr | mlk | qtbn</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>lḥyʿm | bn | ʾbʾns | ḏ-ʾlm | w-ʿbdʾl | bn | hnʾm <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>=</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>=</tei:supplied>
 <tei:lb n="2"/>
                     <tei:unclear>n</tei:unclear> | tqdmw | w-ḥrg | w-shlk | ʿšq | w-mbny | mḥfdn | brm <tei:supplied reason="lost">| b=</tei:supplied>
 <tei:lb n="3"/>šrsm | ʿd | frʿm | l-mrʾ-smy | ydʿʾb | ḏbyn | bn | šhr <tei:supplied reason="lost">| b-ʿṯ=</tei:supplied>

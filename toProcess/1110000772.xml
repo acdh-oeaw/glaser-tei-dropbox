@@ -153,13 +153,13 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> | ʿlbm | w-nbṭʿm | bn</tei:supplied> | hwfʿṯt
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> | ʿlbm | w-nbṭʿm | bn</tei:supplied> | hwfʿṯt
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> | qb</tei:supplied>r-smy | yfʿt | w-mśwd-s | w-kl
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> | qb</tei:supplied>r-smy | yfʿt | w-mśwd-s | w-kl
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> | b-ḥg | ʾnby | w-ʾl | tʿly</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> | b-ḥg | ʾnby | w-ʾl | tʿly</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/>  <persName type="gender" subtype="u">ʿlbm</persName>  <w>w-</w><persName type="gender" subtype="m">nbṭʿm</persName>  <w>bn</w>  <persName type="patronymic">hwfʿṯt</persName>

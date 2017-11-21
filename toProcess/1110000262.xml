@@ -183,8 +183,8 @@ Restored full text of the inscription:
 <tei:lb n="4"/>bny | gnʾhn | w-mḥfdyhn | yḏʾn | w-yḏ
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
-                    </tei:supplied> | lbn | š<tei:unclear>ms</tei:unclear> | b-hy | yš<tei:supplied reason="lost">r</tei:supplied>ḥ<tei:unclear>ʾ</tei:unclear>l | ḏ-ʿḏḏm | śnyhn <tei:supplied reason="lost">| <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
+                    </tei:supplied> | lbn | š<tei:unclear>ms</tei:unclear> | b-hy | yš<tei:supplied reason="lost">r</tei:supplied>ḥ<tei:unclear>ʾ</tei:unclear>l | ḏ-ʿḏḏm | śnyhn <tei:supplied reason="lost">| <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 
 
@@ -200,7 +200,7 @@ Restored full text of the inscription:
                     <tei:supplied reason="lost">myfʿt | w-ḍyftn | qrnhm | w-bny | w-yʿr | ʿqb | ḍyfthn | w-</tei:supplied>bny | gnʾhn | w-mḥfdyhn | yḏʾn | w-yḏ<tei:supplied reason="lost">tʾn | w-ḫlfhn | ykn | b-mʿrb | w-śdm | w-ḍwym</tei:supplied>
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> | w-ʾbry | bn-mw | rbbm | ʾd | šqrm | bn-mw</tei:supplied> | lbn | š<tei:unclear>ms</tei:unclear> | lbn | šms | b-hy | yš<tei:supplied reason="lost">r</tei:supplied>ḥ<tei:unclear>ʾ</tei:unclear>l | ḏ-ʿḏḏm | śnyhn <tei:supplied reason="lost">|  šlśt | ʾwrḫm | b-ʿšry | w-mʾt | ʾsdm | gsmhm</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> | w-ʾbry | bn-mw | rbbm | ʾd | šqrm | bn-mw</tei:supplied> | lbn | š<tei:unclear>ms</tei:unclear> | lbn | šms | b-hy | yš<tei:supplied reason="lost">r</tei:supplied>ḥ<tei:unclear>ʾ</tei:unclear>l | ḏ-ʿḏḏm | śnyhn <tei:supplied reason="lost">|  šlśt | ʾwrḫm | b-ʿšry | w-mʾt | ʾsdm | gsmhm</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in the squeeze:
 
@@ -284,7 +284,7 @@ Restored full text of the inscription:
                     <tei:supplied reason="lost">Mayfaʿt and Ḍayfatān as a garrison; and he built and strengthened the defenses of Ḍayfatān and</tei:supplied> he built the wall and the two towers of Yadhaʾān and Yadhatʾān <tei:supplied reason="lost">and the gate of Yakan, in polished stone, and a barrier and a refuge</tei:supplied>
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> and the passages<tei:unclear>?</tei:unclear> from the base to the top, by</tei:supplied> the grace of Shamas in the second year of Yashraḥʾīl Dhū-ʿAzīzum, <tei:supplied reason="lost">in three months, the construction by <tei:lb n="120"/>men.</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> and the passages<tei:unclear>?</tei:unclear> from the base to the top, by</tei:supplied> the grace of Shamas in the second year of Yashraḥʾīl Dhū-ʿAzīzum, <tei:supplied reason="lost">in three months, the construction by <tei:lb n="120"/>men.</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in the squeeze:
 

@@ -192,11 +192,11 @@ Restored full text of the inscription:
 <tei:lb n="7"/>sm | b-ṣdq-sm | ḥg | ḏt | mḥrtn | w-ʾsṭrn
 <tei:lb n="8"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="9"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 
 
@@ -326,7 +326,7 @@ Restored full text of the inscription:
                     <tei:supplied reason="lost">Ra</tei:supplied>ṣafum, the temple of ʾAnbay-the patron-god-and on behalf of Shamas
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>rib of the lineage of Haybar and Waddʾīl of the lineage of Rābiḥ and their kinsmen,
 <tei:lb n="4"/>their wives, without any shortcomings or cessation or detraction or
 <tei:lb n="5"/>and protection, for <tei:unclear>the sake of</tei:unclear> ʿAmm and ʾAthīrat. Let, then,
@@ -334,11 +334,11 @@ Restored full text of the inscription:
 <tei:lb n="7"/>their <tei:supplied reason="lost">wives</tei:supplied> with their concurrence, in accordance with this commandment and <tei:unclear>these</tei:unclear> records.
 <tei:lb n="8"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="9"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 
 

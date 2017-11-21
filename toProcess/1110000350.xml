@@ -180,7 +180,7 @@ Restored full text of the inscription:
 Restored full text of the inscription:
 
 <tei:lb n="1"/>
-                    <tei:supplied reason="lost">ʿmṣdq | bn | ḥmʿṯt | ḏ-yfʿn | w-sʿd | bn | ʿlg | ḏ-ḍfgn | kbry | mṣrn | w-mʿn | mṣrn | ʾsd | mṣr | w-rtkl | b-ʿmh-smn | mṣr | w-ʾʾšr | w-ʿbr | nhrn | b-kbr | <tei:gap quantity="5" unit="chars"/>
+                    <tei:supplied reason="lost">ʿmṣdq | bn | ḥmʿṯt | ḏ-yfʿn | w-sʿd | bn | ʿlg | ḏ-ḍfgn | kbry | mṣrn | w-mʿn | mṣrn | ʾsd | mṣr | w-rtkl | b-ʿmh-smn | mṣr | w-ʾʾšr | w-ʿbr | nhrn | b-kbr | <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>m | ḏ-rdʿ | qdmn | kbr<tei:supplied reason="lost">-s | ślʾ | w-bny | w-sqny | k-ʿṯtr | ḏ-qbḍm | ṣḥftn | tnʿm | ʾnf | mwsm | ʿḍm | w-tqrm | bn | ʾšrs | ʿd | šqrn | w-mʿḏr-s | ʾbnm | kl | ṣḥft | byn | mḥfdnyhn | ẓrbn | w-lbʾn | b-kbwdt | w-ʾkrb | ktrb | ʿṯ=</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">tr | ḏ-qbḍm | ʾhl | sbrr | w-yʾtmr | w-strḍw | ʿṯtr | ḏ-qbḍ | b-kbwdtn | w-ʾkrbn | mbny | ṣḥftn | ywm | mtʿ-sm | w-ʾqny-sm | ʿṯtr | ḏ-qbḍm | w-wdm | w-</tei:supplied>nkrḥm | w-ʾmr-sm | bn | ʾ<tei:supplied reason="lost">ḍbʾ | ḍbʾ-sm | w-ʾqny-sm | w-bʿr-sm | sbʾ | w-ḫwln | b-msbʾ | byn | mʿnm | w-rgmtm | w-bn | ḍr | kwn | byn | ḏ-ymnt | w-ḏ-šʾmt | w-ywm | mtʿ-sm | w-ʾqny-sm | ʿṯtr | ḏ-qbḍm | w-wdm | w-nkrḥm | bn | wsṭ | mṣr | b-=</tei:supplied>

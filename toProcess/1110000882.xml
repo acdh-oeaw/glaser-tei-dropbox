@@ -145,7 +145,7 @@
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">[... ... ... ...] ṣyr [...]</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> ṣyr <tei:supplied reason="lost">...</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">  ṣyr ...</tei:ab>
@@ -155,7 +155,7 @@
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">[... ... ... ...] he planted [...]</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> he planted <tei:supplied reason="lost">...</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">  he planted ...</tei:ab>

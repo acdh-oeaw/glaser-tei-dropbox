@@ -154,22 +154,22 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> | ʾzʾd | w-<tei:supplied reason="lost">...</tei:supplied>m<tei:supplied reason="lost">śl | ʾ</tei:supplied>ḏrḥ <tei:unclear>|</tei:unclear> <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> | bn</tei:supplied> <tei:unclear>l</tei:unclear> kl | <tei:unclear>n</tei:unclear>kl | slf | ʾnmr | w-fnw | b-<tei:unclear>ʿ</tei:unclear>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> | bn</tei:supplied> <tei:unclear>l</tei:unclear> kl | <tei:unclear>n</tei:unclear>kl | slf | ʾnmr | w-fnw | b-<tei:unclear>ʿ</tei:unclear>
                     <tei:unclear>m</tei:unclear>
                     <tei:supplied reason="lost">...</tei:supplied>
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>| šym-hw</tei:supplied> | tʾlb | rymm | w- šms-hmw | bʿ<tei:supplied reason="lost">lt | <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>| šym-hw</tei:supplied> | tʾlb | rymm | w- šms-hmw | bʿ<tei:supplied reason="lost">lt | <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="4"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>|</tei:supplied> w-<tei:supplied reason="lost">fnwn | ʿṯtr | <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>|</tei:supplied> w-<tei:supplied reason="lost">fnwn | ʿṯtr | <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                         <tei:lb n="1"/>  <rs type="undefinedCategory">ʾzʾd</rs>  w-...mśl  <rs type="undefinedCategory">ʾḏrḥ</rs> Γ˥ 
@@ -190,22 +190,22 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> ʾAzʾad and <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>  ʾA</tei:supplied>ḏraḥ <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>  ʾA</tei:supplied>ḏraḥ <tei:supplied reason="lost">
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> from</tei:supplied> all of the construction of the lower part of the bastions and the facade<tei:unclear>?</tei:unclear>, together with <tei:supplied reason="lost">...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> from</tei:supplied> all of the construction of the lower part of the bastions and the facade<tei:unclear>?</tei:unclear>, together with <tei:supplied reason="lost">...</tei:supplied>
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> his patron deity</tei:supplied> Taʾlab Riyāmum and their protector-goddess, the mist<tei:supplied reason="lost">ress <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> his patron deity</tei:supplied> Taʾlab Riyāmum and their protector-goddess, the mist<tei:supplied reason="lost">ress <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="4"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
-                    </tei:supplied> and <tei:supplied reason="lost">the facade<tei:unclear>?</tei:unclear> ʿAthtar <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
+                    </tei:supplied> and <tei:supplied reason="lost">the facade<tei:unclear>?</tei:unclear> ʿAthtar <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/> ʾAzʾad and   ʾAḏraḥ 

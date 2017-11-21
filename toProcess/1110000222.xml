@@ -159,7 +159,7 @@
 2.[.], king of Sabaʾ and his brother ʾĪl[...]</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>and his lineage, the clan of Dhū-Ḥibāb <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">.</tei:supplied>, king of Sabaʾ and his brother ʾĪl<tei:supplied reason="lost">...</tei:supplied>

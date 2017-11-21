@@ -148,9 +148,9 @@
 2.bqr | w-sšqr[... ... ...]</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>hwfʿm | yhḥmd | <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied>
 <tei:lb n="2"/>bqr | w-sšqr<tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/><rs type="complex"><persName type="gender" subtype="m" n ="1">hwfʿm</persName>  <persName type="gender" subtype="m" n ="2">yhḥmd</persName></rs>   ...
@@ -164,9 +164,9 @@
 2.has dug and completed[... ... ...]</tei:ab>
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>Hawafīʿamm Yuhaḥamid <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied>
 <tei:lb n="2"/>has dug and completed<tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
                     <tei:lb n="1"/>Hawafīʿamm Yuhaḥamid  ...

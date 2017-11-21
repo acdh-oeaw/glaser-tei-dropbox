@@ -174,7 +174,7 @@ Restored full text of the inscription:
 Restored full text of the inscription:
 
 <tei:lb n="1"/>
-                    <tei:supplied reason="lost">ʿmṣdq | bn | ḥmʿṯt | ḏ-yfʿn | w-sʿd | bn | ʿlg | ḏ-ḍfgn | kbry | mṣrn | w-mʿn | mṣrn | ʾsd | mṣr | w-rtkl | b-ʿmh-smn | mṣr | w-ʾʾšr | w-ʿbr | nhrn | b-kbr | <tei:gap quantity="5" unit="chars"/>m | ḏ-rdʿ | qdmn | kbr-s | ślʾ | w-bny | w-sqny | k-ʿṯtr | ḏ-qbḍm | ṣḥftn | tnʿm | ʾnf | mwsm | ʿḍm | w-tqrm | bn | ʾšrs | ʿd | šqrn | w-mʿḏr-s | ʾb</tei:supplied>nm | kl | ṣḥft | byn <tei:supplied reason="lost">| mḥfdnyhn | ẓrbn | w-lbʾn | b-kbwdt | w-ʾkrb | ktrb | ʿṯ=</tei:supplied>
+                    <tei:supplied reason="lost">ʿmṣdq | bn | ḥmʿṯt | ḏ-yfʿn | w-sʿd | bn | ʿlg | ḏ-ḍfgn | kbry | mṣrn | w-mʿn | mṣrn | ʾsd | mṣr | w-rtkl | b-ʿmh-smn | mṣr | w-ʾʾšr | w-ʿbr | nhrn | b-kbr | <tei:gap quantity="5" unit="chars" reason="lost"/>m | ḏ-rdʿ | qdmn | kbr-s | ślʾ | w-bny | w-sqny | k-ʿṯtr | ḏ-qbḍm | ṣḥftn | tnʿm | ʾnf | mwsm | ʿḍm | w-tqrm | bn | ʾšrs | ʿd | šqrn | w-mʿḏr-s | ʾb</tei:supplied>nm | kl | ṣḥft | byn <tei:supplied reason="lost">| mḥfdnyhn | ẓrbn | w-lbʾn | b-kbwdt | w-ʾkrb | ktrb | ʿṯ=</tei:supplied>
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">tr | ḏ-qbḍm | ʾhl | sbrr | w-yʾtmr | w-strḍw | ʿṯtr | ḏ-qbḍ | b-kbwdtn | w-ʾkrbn | mbny | ṣḥftn | ywm | mtʿ-sm | w-ʾqny-sm | ʿṯtr | ḏ-qbḍm | w-wdm | w-nkrḥm | w-ʾmr-sm | bn | ʾḍbʾ | ḍbʾ-sm | w-ʾqny-sm | w-bʿr-sm | sbʾ | w-ḫwln | b-msbʾ | byn | mʿnm | w-rgmtm | w-bn | ḍr | kwn | byn | ḏ-ymnt | w-ḏ-šʾm</tei:supplied>t | w-ywm | mtʿ-sm | w-<tei:supplied reason="lost">ʾqny-sm | ʿṯtr | ḏ-qbḍm | w-wdm | w-nkrḥm | bn | wsṭ | mṣr | b-=</tei:supplied>
 <tei:lb n="3"/>
@@ -250,7 +250,7 @@ Restored full text of the inscription:
 
 <tei:lb n="1"/>with <tei:supplied reason="lost">sto</tei:supplied>ne, the entire curtain-wall between
 <tei:lb n="2"/>when <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied> protected them and 
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied> protected them and 
 <tei:lb n="3"/>by their tribe of Maʿīn and of
 
 

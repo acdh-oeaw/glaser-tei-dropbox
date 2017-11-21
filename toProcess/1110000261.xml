@@ -191,7 +191,7 @@ Restored full text of the inscription:
 <tei:lb n="4"/>myfʿt | w-ḍyftn | qrnhm | w-bny | w-yʿr | ʿqb | ḍyfthn | w-bny | gnʾhn | w-mḥfdyhn | yḏʾn | w-yḏtʾn | w-ḫlfhn | ykn | b-mʿrb | w-śdm | w-ḍwym
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> |</tei:supplied> w-ʾbry | bn-mw | rbbm | ʾd | šqrm | bn-mw | lbn | šms | lbn | šms | b-hy | yšrḥʾl | ḏ-ʿḏḏm | śnyhn |  šlśt | ʾwrḫm | b-ʿšry | w-mʾt | ʾsdm | gsmhm</tei:ab>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> |</tei:supplied> w-ʾbry | bn-mw | rbbm | ʾd | šqrm | bn-mw | lbn | šms | lbn | šms | b-hy | yšrḥʾl | ḏ-ʿḏḏm | śnyhn |  šlśt | ʾwrḫm | b-ʿšry | w-mʾt | ʾsdm | gsmhm</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in the squeeze:
 
                     <tei:lb n="1"/> <persName type="patronymic">rḍwn</persName>  <w>qtdm</w>  <w>h-mrʾ-s</w>  
@@ -275,7 +275,7 @@ Restored full text of the inscription:
                     <tei:supplied reason="lost">Mayfaʿt and Ḍayfatān as a garrison;</tei:supplied> and he built and strengthened the defenses of Ḍayfatān <tei:supplied reason="lost">and he built the wall and the two towers of Yadhaʾān and Yadhatʾān and the gate of Yakan, in polished stone, and a barrier and a refuge</tei:supplied>
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> and the passages<tei:unclear>?</tei:unclear>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> and the passages<tei:unclear>?</tei:unclear>
                     </tei:supplied> from the base to the top, by the grace of Shamas <tei:supplied reason="lost">in the second year of Yashraḥʾīl Dhū-ʿAzīzum, in three months, the construction by <tei:lb n="120"/>men.</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in the squeeze:

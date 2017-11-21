@@ -265,7 +265,7 @@ Restored full text of the inscription:
 <tei:lb n="5"/>repair the walls of Ma<tei:supplied reason="lost">yfaʿat</tei:supplied>
 <tei:lb n="6"/>and that which has not been 
 <tei:lb n="7"/>repair that portion <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> suffered damage.
 
 

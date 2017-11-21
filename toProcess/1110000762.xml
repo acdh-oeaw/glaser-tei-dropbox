@@ -175,7 +175,7 @@ Restored full text of the inscription:
 Restored full text of the inscription:
 
 <tei:lb n="1"/>
-                    <tei:supplied reason="lost">hwfʿśt | bn | śmrm | sqny | syn | ḏ-ʾlm | nfs-s | w-ʾḏn-s | w-wld-s | w-qny-s | w-mslmhn | ḏ-l-sm | ywm | <tei:gap quantity="5" unit="chars"/>
+                    <tei:supplied reason="lost">hwfʿśt | bn | śmrm | sqny | syn | ḏ-ʾlm | nfs-s | w-ʾḏn-s | w-wld-s | w-qny-s | w-mslmhn | ḏ-l-sm | ywm | <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> | ḏ-q=
 <tei:lb n="2"/>
                     <tei:supplied reason="lost">ny | w-bʿl | ... | bnhy | ʾʿrś | ...ly | ḏ-ʾmʿdm | b-mwfr | ḏ-tḥrbhn | b-ṯlm | ywm | ṣry | syn | ḏ-ʾlm | ...</tei:supplied>n | mwqrthn | <tei:supplied reason="lost">…</tei:supplied>

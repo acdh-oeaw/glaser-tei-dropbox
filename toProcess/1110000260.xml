@@ -179,7 +179,7 @@ Restored full text of the inscription:
 <tei:lb n="4"/>myfʿt | w-ḍ<tei:supplied reason="lost">yft</tei:supplied>n | qrnhm | w-bny | 
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> w-ʾbry | bn-mw 
 
 
@@ -193,7 +193,7 @@ Restored full text of the inscription:
 <tei:lb n="4"/>myfʿt | w-ḍyftn | qrnhm | w-bny | <tei:supplied reason="lost">w-yʿr | ʿqb | ḍyfthn | w-bny | gnʾhn | w-mḥfdyhn | yḏʾn | w-yḏtʾn | w-ḫlfhn | ykn | b-mʿrb | w-śdm | w-ḍwym</tei:supplied>
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> |</tei:supplied> w-ʾbry | bn-mw <tei:supplied reason="lost">| rbbm | ʾd | šqrm | bn-mw | lbn | šms | lbn | šms | b-hy | yšrḥʾl | ḏ-ʿḏḏm | śnyhn |  šlśt | ʾwrḫm | b-ʿšry | w-mʾt | ʾsdm | gsmhm</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> |</tei:supplied> w-ʾbry | bn-mw <tei:supplied reason="lost">| rbbm | ʾd | šqrm | bn-mw | lbn | šms | lbn | šms | b-hy | yšrḥʾl | ḏ-ʿḏḏm | śnyhn |  šlśt | ʾwrḫm | b-ʿšry | w-mʾt | ʾsdm | gsmhm</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in the squeeze:
 
@@ -266,7 +266,7 @@ Restored full text of the inscription:
 <tei:lb n="4"/>Mayfaʿt and Ḍayfatān as a garrison; and he built
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> and the passages<tei:unclear>?</tei:unclear> from 
 
 
@@ -282,7 +282,7 @@ Restored full text of the inscription:
 <tei:lb n="4"/>Mayfaʿt and Ḍayfatān as a garrison; and he built <tei:supplied reason="lost">and strengthened the defenses of Ḍayfatān and he built the wall and the two towers of Yadhaʾān and Yadhatʾān and the gate of Yakan, in polished stone, and a barrier and a refuge</tei:supplied>
 <tei:lb n="5"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied> and the passages<tei:unclear>?</tei:unclear> from <tei:supplied reason="lost">the base to the top, by the grace of Shamas in the second year of Yashraḥʾīl Dhū-ʿAzīzum, in three months, the construction by <tei:lb n="120"/>men.</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in the squeeze:

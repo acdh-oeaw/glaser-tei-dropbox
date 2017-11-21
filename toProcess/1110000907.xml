@@ -330,7 +330,7 @@ Restored full text of the inscription:
 <tei:lb n="6"/>cree. And Shahr decreed for his clients
 <tei:lb n="7"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="8"/>the temple of ʿAmm Dhū-Laba<tei:supplied reason="lost">kh</tei:supplied>
 <tei:lb n="9"/>And let the priests of ʿAmm Dhū-Labakh comply and <tei:unclear>thus</tei:unclear> receive their due according to this <tei:supplied reason="lost">...</tei:supplied>

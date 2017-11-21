@@ -204,7 +204,7 @@ Restored full text of the inscription:
 Restored full text of the inscription:
 
 <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied>
 <tei:lb n="1"/>ldḫ | w-b-mʾy | ʿqbh | ṣlwtn | w-ynlw | ʾnṯht | w-qdmy-ʾy | ʾhl | ʾmn<tei:supplied reason="lost">htn w-ʾsd | st=</tei:supplied>
 <tei:lb n="2"/>rs | ʿm-smn | bn | ʾhl | ʾmnhtn | w-ynkr | hnlhm | bhṯ | bn | ḏbḥ<tei:unclear>h</tei:unclear>
                     <tei:supplied reason="lost">y | ysʿrb | mʿn</tei:supplied>
@@ -326,16 +326,16 @@ Restored full text of the inscription:
 <tei:lb n="7"/>in the legal appeal within what has been proclaimed for the enforcement of this judicial decision. The date of the judicial decision and document is 
 <tei:lb n="8"/>rat during the kabīrate of Hawafīʾīl Dhū-Wakīl, his first kabīrate. The witnesses were Yaʾawsʾīl 
 <tei:lb n="9"/>n and Yaʾawsʾīl bin Hāniʾ Dhū-Ganad. And the two <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> ...</tei:supplied> were <tei:unclear>thus</tei:unclear> entrusted, and they dealt with <tei:unclear>the matter</tei:unclear> and remained responsible, <tei:unclear>namely</tei:unclear>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> ...</tei:supplied> were <tei:unclear>thus</tei:unclear> entrusted, and they dealt with <tei:unclear>the matter</tei:unclear> and remained responsible, <tei:unclear>namely</tei:unclear>
 <tei:lb n="10"/>Dhū-Ganad and Rafzān, by the writing of their witnesses <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>.
 
 
 Restored full text of the inscription:
 
 <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
 <tei:lb n="1"/>
                     <tei:supplied reason="lost">…</tei:supplied> in accordance with the document of the legal appeal, and the women and the leaders of the <tei:unclear>temple</tei:unclear> <tei:supplied reason="lost">staff and those who</tei:supplied>
@@ -349,7 +349,7 @@ Restored full text of the inscription:
 <tei:lb n="8"/>rat during the kabīrate of Hawafīʾīl Dhū-Wakīl, his first kabīrate. The witnesses were Yaʾawsʾīl bi<tei:supplied reason="lost">n Sharaḥ Dhū-Rafzā-</tei:supplied>
 <tei:lb n="9"/>n and Yaʾawsʾīl bin Hāniʾ Dhū-Ganad. And the two wit<tei:supplied reason="lost">nesses of this decree</tei:supplied> were <tei:unclear>thus</tei:unclear> entrusted, and they dealt with <tei:unclear>the matter</tei:unclear> and remained responsible, <tei:unclear>namely</tei:unclear>
 <tei:lb n="10"/>Dhū-Ganad and Rafzān, by the writing of their witnesses <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>.</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 

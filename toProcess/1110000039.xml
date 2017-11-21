@@ -181,17 +181,17 @@ Restored full text of the inscription:
 Restored full text of the inscription:
 
 <tei:lb n="1"/>
-                    <tei:supplied reason="lost">ysrm | yhnʿm | w-bn-hw | šmr | yhrʿš | mlky | sbʾ | w-ḏ-rydn | <tei:gap quantity="5" unit="chars"/> | w-ndb | w-hqšb | <tei:gap quantity="5" unit="chars"/> | gnʾ</tei:supplied> |  w-ṣwbt | w-mḥfdt | hgr-hm<tei:supplied reason="lost">w</tei:supplied>
+                    <tei:supplied reason="lost">ysrm | yhnʿm | w-bn-hw | šmr | yhrʿš | mlky | sbʾ | w-ḏ-rydn | <tei:gap quantity="5" unit="chars" reason="lost"/> | w-ndb | w-hqšb | <tei:gap quantity="5" unit="chars" reason="lost"/> | gnʾ</tei:supplied> |  w-ṣwbt | w-mḥfdt | hgr-hm<tei:supplied reason="lost">w</tei:supplied>
 <tei:lb n="2"/>
-                    <tei:supplied reason="lost">hkrm | w-hdbw-hw | w-brʾ | w-ḥẓyn | mbrʾ <tei:gap quantity="5" unit="chars"/> mbrʾm | ḥśśm | w-ʾbnm | ....m | w-wśf</tei:supplied>w | w-rymw | kl | gnʾ-h<tei:supplied reason="lost">w</tei:supplied> | w-ṣwbt-
+                    <tei:supplied reason="lost">hkrm | w-hdbw-hw | w-brʾ | w-ḥẓyn | mbrʾ <tei:gap quantity="5" unit="chars" reason="lost"/> mbrʾm | ḥśśm | w-ʾbnm | ....m | w-wśf</tei:supplied>w | w-rymw | kl | gnʾ-h<tei:supplied reason="lost">w</tei:supplied> | w-ṣwbt-
 <tei:lb n="3"/>
-                    <tei:supplied reason="lost">hw | w-mḥfdt-hw | ḏ-ṯny | sqfyn | w-ḏ-sqfm | b-ʿ<tei:gap quantity="5" unit="chars"/>gnʾ-hw | w-ṣwbt-hw | w-mḥfdt-hw | bn | mrym</tei:supplied>-hw | ʿdy | ṯrt-hw | w-hdbw-hw | w-hʿqbn
+                    <tei:supplied reason="lost">hw | w-mḥfdt-hw | ḏ-ṯny | sqfyn | w-ḏ-sqfm | b-ʿ<tei:gap quantity="5" unit="chars" reason="lost"/>gnʾ-hw | w-ṣwbt-hw | w-mḥfdt-hw | bn | mrym</tei:supplied>-hw | ʿdy | ṯrt-hw | w-hdbw-hw | w-hʿqbn
 <tei:lb n="4"/>
-                    <tei:supplied reason="lost">gnʾm | qšbm | w-hmrw-hw | w-šrʿw-hw | ḫṭln | <tei:gap quantity="5" unit="chars"/>ḫdʿw | w-hʿqbw | l-ḫlf-hw | mṣrʿtm | mbrʾ | w-</tei:supplied>mqyḥ | kl | ṣdqm | bn | mwṯrm | ʿdy | t=
+                    <tei:supplied reason="lost">gnʾm | qšbm | w-hmrw-hw | w-šrʿw-hw | ḫṭln | <tei:gap quantity="5" unit="chars" reason="lost"/>ḫdʿw | w-hʿqbw | l-ḫlf-hw | mṣrʿtm | mbrʾ | w-</tei:supplied>mqyḥ | kl | ṣdqm | bn | mwṯrm | ʿdy | t=
 <tei:lb n="5"/>
-                    <tei:supplied reason="lost">frʿm | b-mlʾ | ʿšrt | ymtm | bn | wrḫn | ḏ-mbkrn | <tei:gap quantity="5" unit="chars"/>b-mqm | mrʾ-hmw | ʿṯtr-šrqn | w-ʾšms-hmw | w-</tei:supplied>ʾlʾlt-hmw | w-b-ʾḫyl | w-mqymt | ḫmys
+                    <tei:supplied reason="lost">frʿm | b-mlʾ | ʿšrt | ymtm | bn | wrḫn | ḏ-mbkrn | <tei:gap quantity="5" unit="chars" reason="lost"/>b-mqm | mrʾ-hmw | ʿṯtr-šrqn | w-ʾšms-hmw | w-</tei:supplied>ʾlʾlt-hmw | w-b-ʾḫyl | w-mqymt | ḫmys
 <tei:lb n="6"/>
-                    <tei:supplied reason="lost">ḏ-rydn | w-hrṯdw | hgr-hmw | hkrm | b-tḥ<tei:gap quantity="5" unit="chars"/> | b-wrḫn | ḏ-qyẓn | ḏ-b-ḫrfn | ḏ-l-sṯt | w-ṯsʿy</tei:supplied> | w-ṯlṯ | mʾtm | bn | ḫrf | mbḥḍ | bn | ʾbḥḍ</tei:ab>
+                    <tei:supplied reason="lost">ḏ-rydn | w-hrṯdw | hgr-hmw | hkrm | b-tḥ<tei:gap quantity="5" unit="chars" reason="lost"/> | b-wrḫn | ḏ-qyẓn | ḏ-b-ḫrfn | ḏ-l-sṯt | w-ṯsʿy</tei:supplied> | w-ṯlṯ | mʾtm | bn | ḫrf | mbḥḍ | bn | ʾbḥḍ</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
 
 <tei:lb n="1"/>   <w>w-ṣwbt</w>  <w>w-mḥfdt</w>  <w>hgr-hmw</w>
@@ -272,15 +272,15 @@ Restored full text of the inscription:
 Restored full text of the inscription:
 
 <tei:lb n="1"/>
-                    <tei:supplied reason="lost">Yāsirum Yuhanʿim and his on Shammar Yuharʿish, the two kings of Sabaʾ and Dhū-Raydān … … and constructed and built <tei:gap quantity="5" unit="chars"/> the wall</tei:supplied> and the glacis and the towers of their town
+                    <tei:supplied reason="lost">Yāsirum Yuhanʿim and his on Shammar Yuharʿish, the two kings of Sabaʾ and Dhū-Raydān … … and constructed and built <tei:gap quantity="5" unit="chars" reason="lost"/> the wall</tei:supplied> and the glacis and the towers of their town
 <tei:lb n="2"/>
-                    <tei:supplied reason="lost">of Hakirum, and they built it and constructed and completed the construction … … a construction in mud-brick and in stone <tei:gap quantity="5" unit="chars"/>. And they increas</tei:supplied>ed and built high its wall and its glacis
+                    <tei:supplied reason="lost">of Hakirum, and they built it and constructed and completed the construction … … a construction in mud-brick and in stone <tei:gap quantity="5" unit="chars" reason="lost"/>. And they increas</tei:supplied>ed and built high its wall and its glacis
 <tei:lb n="3"/>
                     <tei:supplied reason="lost">and its towers with two roofs and with a roof in … ... its wall and its glacis and its towers from</tei:supplied> its <tei:supplied reason="lost">upper part</tei:supplied> to its foundation. And they constructed it and added
 <tei:lb n="4"/>
-                    <tei:supplied reason="lost">a new wall, and they provided it with an access route and they equipped it, <tei:unclear>that is,</tei:unclear> the ḫṭln-structure, <tei:gap quantity="5" unit="chars"/> they repaired and reinforced for its gate door-leaves and a construction and</tei:supplied> a completion with all accuracy, from the foundation to the
+                    <tei:supplied reason="lost">a new wall, and they provided it with an access route and they equipped it, <tei:unclear>that is,</tei:unclear> the ḫṭln-structure, <tei:gap quantity="5" unit="chars" reason="lost"/> they repaired and reinforced for its gate door-leaves and a construction and</tei:supplied> a completion with all accuracy, from the foundation to the
 <tei:lb n="5"/>
-                    <tei:supplied reason="lost">the top-<tei:unclear>this</tei:unclear> in the space of ten days from the month of Dhū-Mubakkirān <tei:unclear>i.e. May</tei:unclear> <tei:gap quantity="5" unit="chars"/> by the power of their lord, ʿAthtar Shāriqān and their protective goddesses and</tei:supplied> their <tei:unclear>other</tei:unclear> gods, and by the resources and the authority of the armies
+                    <tei:supplied reason="lost">the top-<tei:unclear>this</tei:unclear> in the space of ten days from the month of Dhū-Mubakkirān <tei:unclear>i.e. May</tei:unclear> <tei:gap quantity="5" unit="chars" reason="lost"/> by the power of their lord, ʿAthtar Shāriqān and their protective goddesses and</tei:supplied> their <tei:unclear>other</tei:unclear> gods, and by the resources and the authority of the armies
 <tei:lb n="6"/>
                     <tei:supplied reason="lost">of Raydān. And they committed their town of Hakirum … … … in the month of Dhū-Qiyāẓān <tei:unclear>i.e. June</tei:unclear> of the year</tei:supplied> <tei:lb n="3"/>
                     <tei:lb n="96"/> of the Era of Mabḥaḍ bin ʾAbḥuḍ.</tei:ab>

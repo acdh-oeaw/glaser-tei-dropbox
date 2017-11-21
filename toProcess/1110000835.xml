@@ -147,9 +147,9 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> | ḏt-</tei:supplied>ḥmym | w-b | ḏt-<tei:supplied reason="lost">b=</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> | ḏt-</tei:supplied>ḥmym | w-b | ḏt-<tei:supplied reason="lost">b=</tei:supplied>
 <tei:lb n="2"/>ʿdn | ḏ<tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/>
                     </tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
@@ -165,7 +165,7 @@
             <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
                     <tei:lb n="1"/>
                     <tei:supplied reason="lost">
-                        <tei:gap quantity="5" unit="chars"/> Dhāt-</tei:supplied>Ḥimāyim and by Dhāt-<tei:supplied reason="lost">Ba=</tei:supplied>
+                        <tei:gap quantity="5" unit="chars" reason="lost"/> Dhāt-</tei:supplied>Ḥimāyim and by Dhāt-<tei:supplied reason="lost">Ba=</tei:supplied>
 <tei:lb n="2"/>ʿdān <tei:supplied reason="lost">… …</tei:supplied>
                 </tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
