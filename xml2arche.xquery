@@ -16,7 +16,7 @@ let $RDF :=
     </acdh:Collection>
 
     
-    <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/epidoc-schema">
+    <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/tei-epidoc.rng">
         <acdh:hasTitle>Epidoc Schema</acdh:hasTitle>
         <acdh:hasDescription>Downloaded from http://svn.code.sf.net/p/epidoc/code/trunk/schema/tei-epidoc.rng</acdh:hasDescription>
         <acdh:hasCreatedDate>2017-11-21</acdh:hasCreatedDate>
@@ -53,7 +53,7 @@ let $RDF :=
                 <acdh:hasContributor>
                     <acdh:Person rdf:about="http://viaf.org/viaf/251032539/"/>
                 </acdh:hasContributor>
-                <acdh:hasSchema rdf:resource="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/epidoc-schema"/>
+                <acdh:hasSchema rdf:resource="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/tei-epidoc.rng"/>
                 <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
                 <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/epidoc2html.xsl"/>
             </acdh:Resource>
