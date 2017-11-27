@@ -10,20 +10,26 @@ let $RDF :=
     xmlns:acdhi="https://id.acdh.oeaw.ac.at/"
     xml:base="https://id.acdh.oeaw.ac.at/">
     
-    <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/squeezes/epidoc-schema">
+    <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff">
+        <acdh:hasTitle>Stylesheets and Schemas for Epidoc-Files</acdh:hasTitle>
+        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/glasersqueezes2015"/>
+    </acdh:Collection>
+
+    
+    <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/epidoc-schema">
         <acdh:hasTitle>Epidoc Schema</acdh:hasTitle>
         <acdh:hasDescription>Downloaded from http://svn.code.sf.net/p/epidoc/code/trunk/schema/tei-epidoc.rng</acdh:hasDescription>
         <acdh:hasCreatedDate>2017-11-21</acdh:hasCreatedDate>
-        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/squeezes"/>
+        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff"/>
     </acdh:Resource>
-    <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl">
+    <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/epidoc2html.xsl">
         <acdh:hasTitle>Epidoc-XML to HTML</acdh:hasTitle>
         <acdh:hasDescription>A Stylesheet to transform epidoc-files to html</acdh:hasDescription>
         <acdh:hasCreatedDate>2017-11-21</acdh:hasCreatedDate>
         <acdh:hasCretor>
             <acdh:Person rdf:about="http://viaf.org/viaf/251032539/"/>
         </acdh:hasCretor>
-        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/squeezes"/>
+        <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff"/>
     </acdh:Resource>
     
     {
@@ -47,9 +53,9 @@ let $RDF :=
                 <acdh:hasContributor>
                     <acdh:Person rdf:about="http://viaf.org/viaf/251032539/"/>
                 </acdh:hasContributor>
-                <acdh:hasSchema rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc-schema"/>
+                <acdh:hasSchema rdf:resource="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/epidoc-schema"/>
                 <acdh:hasDissService rdf:resource="https://id.acdh.oeaw.ac.at/dissemination/customTEI2HTML"/>
-                <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/squeezes/epidoc2html.xsl"/>
+                <acdh:myFavouriteXslt rdf:resource="https://id.acdh.oeaw.ac.at/glasersqueezes2015/epidocstuff/epidoc2html.xsl"/>
             </acdh:Resource>
     }
 </rdf:RDF>
