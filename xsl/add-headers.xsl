@@ -38,7 +38,7 @@
             <resp>Encoding</resp>
         </respStmt>
         <respStmt>
-            <persName ref="http://viaf.org/viaf/251032539">
+            <persName ref="http://d-nb.info/gnd/1043833846">
                 <forename>Peter</forename>
                 <surname>Andorfer</surname>
             </persName>
