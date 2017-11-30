@@ -33,7 +33,7 @@ let $RDF :=
     </acdh:Resource>
     
     {
-        for $x in collection("file:/C:/Users/pandorfer/Dropbox/glaser-tei/editions-local/sample/")//tei:TEI
+        for $x in collection("file:/C:/Users/pandorfer/Dropbox/glaser-tei/editions-local/final/")//tei:TEI
             let $recID := $x//tei:title[2]/text()
             let $parentCol := "https://id.acdh.oeaw.ac.at/glasersqueezes2015/rec"||$recID
             let $adlibID := "https://id.acdh.oeaw.ac.at/glasersqueezes2015/rec"||$recID||"/adlib"||$recID||".xml"
