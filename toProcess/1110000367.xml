@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1217</title>
+                <title type="alt">1110000367</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1217</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1217</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2018-01-05" who="paigner"/>
+            <change when="2018-01-05" who="paigner"/>
+            <change when="2018-01-05" who="paigner"/>
+            <change when="2018-01-05" who="paigner"/>
+            <change when="2018-01-05" who="paigner"/>
+            <change when="2018-01-05" who="paigner"/>
+            <change when="2017-12-29" who="paigner"/>
+            <change when="2017-12-29" who="paigner"/>
+            <change when="2016-10-14" who="paigner"/>
+            <change when="2016-09-27" who="paigner"/>
+            <change when="2016-05-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-04" who="paigner"/>
+            <change when="2016-03-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.(kḫb)r | w-(y)frʿ | yr[... | w-fʿ=]
+2.rn | hqnyw | šym-hmw [| tʾlb]
+3.rymm | bʿl | trʿt | ṣl[mn | ḥg-n]
+4.wqh-hmw | b-msʾl-hw [| ḥmdm | b-]
+5.ḏt | mtʿ | ʾ(dm)-hw | k(ḫ)[br | w-....=]
+6.dn | bn | nflt | (n)fl-hmw [....]
+7.hw | w-l | sʿd | ʾdm-hw | k[ḫbr]
+8.w-fʿrn | nʿmtm | w-wfym [| w-rḍw]
+9.ʾmrʾ-hmw | bny | hmdn [| w-šʿb-]
+10.hmw | ḥšdm | w-l | wḍʿ | ḍr-[h=]
+11.[mw | w-šnʾ-h]mw | b-tʾlb | r[ymm]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:unclear>kḫb</tei:unclear>r | w-<tei:unclear>y</tei:unclear>frʿ | yr<tei:supplied reason="lost">... | w-fʿ=</tei:supplied>
+<tei:lb n="2"/>rn | hqnyw | šym-hmw <tei:supplied reason="lost">| tʾlb</tei:supplied>
+<tei:lb n="3"/>rymm | bʿl | trʿt | ṣl<tei:supplied reason="lost">mn | ḥg-n</tei:supplied>
+<tei:lb n="4"/>wqh-hmw | b-msʾl-hw <tei:supplied reason="lost">| ḥmdm | b-</tei:supplied>
+<tei:lb n="5"/>ḏt | mtʿ | ʾ<tei:unclear>dm</tei:unclear>-hw | k<tei:unclear>ḫ</tei:unclear>
+                    <tei:supplied reason="lost">br | w-....=</tei:supplied>
+<tei:lb n="6"/>dn | bn | nflt | <tei:unclear>n</tei:unclear>fl-hmw <tei:supplied reason="lost">....</tei:supplied>
+<tei:lb n="7"/>hw | w-l | sʿd | ʾdm-hw | k<tei:supplied reason="lost">ḫbr</tei:supplied>
+<tei:lb n="8"/>w-fʿrn | nʿmtm | w-wfym <tei:supplied reason="lost">| w-rḍw</tei:supplied>
+<tei:lb n="9"/>ʾmrʾ-hmw | bny | hmdn <tei:supplied reason="lost">| w-šʿb-</tei:supplied>
+<tei:lb n="10"/>hmw | ḥšdm | w-l | wḍʿ | ḍr-<tei:supplied reason="lost">h=</tei:supplied>
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">mw | w-šnʾ-h</tei:supplied>mw | b-tʾlb | r<tei:supplied reason="lost">ymm</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>kḫbr  w-yfrʿ  yr...  w-fʿ=
+<tei:lb n="2"/>rn  hqnyw  šym-hmw  tʾlb
+<tei:lb n="3"/>rymm  bʿl  trʿt  ṣlmn  ḥg-n
+<tei:lb n="4"/>wqh-hmw  b-msʾl-hw  ḥmdm  b-
+<tei:lb n="5"/>ḏt  mtʿ  ʾdm-hw  kḫbr  w-....=
+<tei:lb n="6"/>dn  bn  nflt  nfl-hmw ....
+<tei:lb n="7"/>hw  w-l  sʿd  ʾdm-hw  kḫbr
+<tei:lb n="8"/>w-fʿrn  nʿmtm  w-wfym  w-rḍw
+<tei:lb n="9"/>ʾmrʾ-hmw  bny  hmdn  w-šʿb-
+<tei:lb n="10"/>hmw  ḥšdm  w-l  wḍʿ  ḍr-h=
+<tei:lb n="11"/>mw  w-šnʾ-hmw  b-tʾlb  rymm</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>kḫbr  w-yfrʿ  yr...  w-fʿ=
+<tei:lb n="2"/>rn  hqnyw  šym-hmw  tʾlb
+<tei:lb n="3"/>rymm  bʿl  trʿt  ṣlmn  ḥg-n
+<tei:lb n="4"/>wqh-hmw  b-msʾl-hw  ḥmdm  b-
+<tei:lb n="5"/>ḏt  mtʿ  ʾdm-hw  kḫbr  w-....=
+<tei:lb n="6"/>dn  bn  nflt  nfl-hmw ....
+<tei:lb n="7"/>hw  w-l  sʿd  ʾdm-hw  kḫbr
+<tei:lb n="8"/>w-fʿrn  nʿmtm  w-wfym  w-rḍw
+<tei:lb n="9"/>ʾmrʾ-hmw  bny  hmdn  w-šʿb-
+<tei:lb n="10"/>hmw  ḥšdm  w-l  wḍʿ  ḍr-h=
+<tei:lb n="11"/>mw  w-šnʾ-hmw  b-tʾlb  rymm</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.Kakhabīr and Yufraʿ Yar[... and Faʿ=]
+2.rān have dedicated to their patron-god [Taʾlab]
+3.Riyāmum, lord of Turʿat, (this) statue [as]
+4.he had commanded them, [out of gratitude be-=] 
+5.cause he had saved his servants Kakha[bīr and …=]
+6.[..] from the catastrophe that befell them [….]
+7.his […]/him. And may he grant his servants Ka[khabīr]
+8.and Faʿrān prosperity and well-being [and the good pleasure of]
+9.their lords of the lineage of Hamdān [and their tribe]
+10.of Ḥāshidum. And may he humiliate [their] foe(s)
+11.[and t]heir [enemie(s)]. By Taʾlab Ri[yāmum].</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>Kakhabīr and Yufraʿ Yar<tei:supplied reason="lost">... and Faʿ=</tei:supplied>
+<tei:lb n="2"/>rān have dedicated to their patron-god <tei:supplied reason="lost">Taʾlab</tei:supplied>
+<tei:lb n="3"/>Riyāmum, lord of Turʿat, <tei:unclear>this</tei:unclear> statue <tei:supplied reason="lost">as</tei:supplied>
+<tei:lb n="4"/>he had commanded them, <tei:supplied reason="lost">out of gratitude be-=</tei:supplied> 
+<tei:lb n="5"/>cause he had saved his servants Kakha<tei:supplied reason="lost">bīr and …=</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">..</tei:supplied> from the catastrophe that befell them <tei:supplied reason="lost">….</tei:supplied>
+<tei:lb n="7"/>his <tei:supplied reason="lost">…</tei:supplied>/him. And may he grant his servants Ka<tei:supplied reason="lost">khabīr</tei:supplied>
+<tei:lb n="8"/>and Faʿrān prosperity and well-being <tei:supplied reason="lost">and the good pleasure of</tei:supplied>
+<tei:lb n="9"/>their lords of the lineage of Hamdān <tei:supplied reason="lost">and their tribe</tei:supplied>
+<tei:lb n="10"/>of Ḥāshidum. And may he humiliate <tei:supplied reason="lost">their</tei:supplied> foe<tei:unclear>s</tei:unclear>
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">and t</tei:supplied>heir <tei:supplied reason="lost">enemie<tei:unclear>s</tei:unclear>
+                    </tei:supplied>. By Taʾlab Ri<tei:supplied reason="lost">yāmum</tei:supplied>.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>Kakhabīr and Yufraʿ Yar... and Faʿ=
+<tei:lb n="2"/>rān have dedicated to their patron-god Taʾlab
+<tei:lb n="3"/>Riyāmum, lord of Turʿat, this statue as
+<tei:lb n="4"/>he had commanded them, out of gratitude be-= 
+<tei:lb n="5"/>cause he had saved his servants Kakhabīr and …=
+<tei:lb n="6"/>.. from the catastrophe that befell them ….
+<tei:lb n="7"/>his …/him. And may he grant his servants Kakhabīr
+<tei:lb n="8"/>and Faʿrān prosperity and well-being and the good pleasure of
+<tei:lb n="9"/>their lords of the lineage of Hamdān and their tribe
+<tei:lb n="10"/>of Ḥāshidum. And may he humiliate their foes
+<tei:lb n="11"/>and their enemies. By Taʾlab Riyāmum.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>Kakhabīr and Yufraʿ Yar... and Faʿ=
+<tei:lb n="2"/>rān have dedicated to their patron-god Taʾlab
+<tei:lb n="3"/>Riyāmum, lord of Turʿat, this statue as
+<tei:lb n="4"/>he had commanded them, out of gratitude be-= 
+<tei:lb n="5"/>cause he had saved his servants Kakhabīr and …=
+<tei:lb n="6"/>.. from the catastrophe that befell them ….
+<tei:lb n="7"/>his …/him. And may he grant his servants Kakhabīr
+<tei:lb n="8"/>and Faʿrān prosperity and well-being and the good pleasure of
+<tei:lb n="9"/>their lords of the lineage of Hamdān and their tribe
+<tei:lb n="10"/>of Ḥāshidum. And may he humiliate their foes
+<tei:lb n="11"/>and their enemies. By Taʾlab Riyāmum.</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

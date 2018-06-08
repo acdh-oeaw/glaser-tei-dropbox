@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1572</title>
+                <title type="alt">1110000866</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1572</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1572</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-04-20" who="ghatke"/>
+            <change when="2018-04-20" who="ghatke"/>
+            <change when="2018-04-20" who="ghatke"/>
+            <change when="2018-03-09" who="ghatke"/>
+            <change when="2018-02-27" who="ghatke"/>
+            <change when="2018-02-27" who="ghatke"/>
+            <change when="2018-02-27" who="ghatke"/>
+            <change when="2018-02-27" who="ghatke"/>
+            <change when="2018-01-25" who="ghatke"/>
+            <change when="2018-01-25" who="ghatke"/>
+            <change when="2018-01-25" who="ghatke"/>
+            <change when="2017-10-19" who="ghatke"/>
+            <change when="2017-08-11" who="ghatke"/>
+            <change when="2017-05-19" who="ghatke"/>
+            <change when="2017-02-16" who="ghatke"/>
+            <change when="2016-10-14" who="ghatke"/>
+            <change when="2016-09-27" who="ghatke"/>
+            <change when="2016-05-13" who="ghatke"/>
+            <change when="2016-05-11" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-06" who="ghatke"/>
+            <change when="2016-04-06" who="ghatke"/>
+            <change when="2016-03-31" who="ghatke"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[w-hmẓʾ | w-ṣdq | ʾlšrḥ | w-b=]
+2.[n-hw | bnw | yḥmn | ʾṣrḥn | l-ʾlm=]
+3.[qh | bʿl | ʾwʿln | kl | mlʾ | w-rbḥ | sm=]
+4.[ʿm | ḏ-ʿmdm | smʿ | sʾl | ʾlmqhw | bny | y=]
+5.[ḥmn | smʿ | b-hw | tʿlm | ḥywn | bn | yḥmn]
+6.[ṣrwḥyn | smʿ | ybln | k-ʾbd | bn | ẓbyn]
+7.[ʾlmqh | w-ḏn-m | wtfn | mṣdqm | l-bny | y=]
+8.[ḥmn | bn | hwt | smʿn | ʾhnn | ʿkr | w-l | yyf=]
+9.[ʿn | w-kwn | ḏn | wtfn | w-mṣdqn | b-ḏ | nswr]
+10.[qdmn | gyl | ḫrf | yqhmlk | bn | ʾb=]
+11.[ʿm | kbr | ḫll]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:supplied reason="lost">w-hmẓʾ | w-ṣdq | ʾlšrḥ | w-b=</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">n-hw | bnw | yḥmn | ʾṣrḥn | l-ʾlm=</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">qh | bʿl | ʾwʿln | kl | mlʾ | w-rbḥ | sm=</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">ʿm | ḏ-ʿmdm | smʿ | sʾl | ʾlmqhw | bny | y=</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">ḥmn | smʿ | b-hw | tʿlm | ḥywn | bn | yḥmn</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">ṣrwḥyn | smʿ | ybln | k-ʾbd | bn | ẓbyn</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">ʾlmqh | w-ḏn-m | wtfn | mṣdqm | l-bny | y=</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">ḥmn | bn | hwt | smʿn | ʾhnn | ʿkr | w-l | yyf=</tei:supplied>
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">ʿn | w-kwn | ḏn | wtfn | w-mṣdqn | b-ḏ | nswr</tei:supplied>
+<tei:lb n="10"/>
+                    <tei:supplied reason="lost">qdmn | gyl | ḫrf | yqhmlk | bn | ʾb=</tei:supplied>
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">ʿm | kbr | ḫll</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>w-hmẓʾ  w-ṣdq  ʾlšrḥ  w-b=
+<tei:lb n="2"/>n-hw  bnw  yḥmn  ʾṣrḥn  l-ʾlm=
+<tei:lb n="3"/>qh  bʿl  ʾwʿln  kl  mlʾ  w-rbḥ  sm=
+<tei:lb n="4"/>ʿm  ḏ-ʿmdm  smʿ  sʾl  ʾlmqhw  bny  y=
+<tei:lb n="5"/>ḥmn  smʿ  b-hw  tʿlm  ḥywn  bn  yḥmn
+<tei:lb n="6"/>ṣrwḥyn  smʿ  ybln  k-ʾbd  bn  ẓbyn
+<tei:lb n="7"/>ʾlmqh  w-ḏn-m  wtfn  mṣdqm  l-bny  y=
+<tei:lb n="8"/>ḥmn  bn  hwt  smʿn  ʾhnn  ʿkr  w-l  yyf=
+<tei:lb n="9"/>ʿn  w-kwn  ḏn  wtfn  w-mṣdqn  b-ḏ  nswr
+<tei:lb n="10"/>qdmn  gyl  ḫrf  yqhmlk  bn  ʾb=
+<tei:lb n="11"/>ʿm  kbr  ḫll</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>w-hmẓʾ  w-ṣdq  ʾlšrḥ  w-b=
+<tei:lb n="2"/>n-hw  bnw  yḥmn  ʾṣrḥn  l-ʾlm=
+<tei:lb n="3"/>qh  bʿl  ʾwʿln  kl  mlʾ  w-rbḥ  sm=
+<tei:lb n="4"/>ʿm  ḏ-ʿmdm  smʿ  sʾl  ʾlmqhw  bny  y=
+<tei:lb n="5"/>ḥmn  smʿ  b-hw  tʿlm  ḥywn  bn  yḥmn
+<tei:lb n="6"/>ṣrwḥyn  smʿ  ybln  k-ʾbd  bn  ẓbyn
+<tei:lb n="7"/>ʾlmqh  w-ḏn-m  wtfn  mṣdqm  l-bny  y=
+<tei:lb n="8"/>ḥmn  bn  hwt  smʿn  ʾhnn  ʿkr  w-l  yyf=
+<tei:lb n="9"/>ʿn  w-kwn  ḏn  wtfn  w-mṣdqn  b-ḏ  nswr
+<tei:lb n="10"/>qdmn  gyl  ḫrf  yqhmlk  bn  ʾb=
+<tei:lb n="11"/>ʿm  kbr  ḫll</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[ʾĪlsharaḥ and his son, of the lineage of Yaḥmān, the Ṣirwāḥites, have paid over]
+2.[to, and bestowed upon, ʾĪlmu-]
+3.[quh, Lord of the Ibexes, all of the total amount of income and the profit of the]
+4.[valid document, (namely) the document which ʾĪlmuquhū had demanded of the lineage of Ya-]
+5.[ḥmān, the document which Ḥaywān of the lineage of Yaḥmān, the Ṣirwāḥī, had authenticated,]
+6.[the document which prescribes taxes forever from Ẓabiyyān to]
+7.[ʾĪlmuquh. Now this very grant is written proof for the lineage of Ya-]
+8.[ḥmān of that document, if ever it (i.e. the document) is contested, and let it then be pub-]
+9.[licized. And this written proof was (drawn up) in (the month of) Dhū-Nasūr,]
+10.[the initial part of the (eponymous) year of Yiqahmalik bin ʾAbī-]
+11.[ʿamm of Kabīr-Khalīl.] </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:supplied reason="lost">ʾĪlsharaḥ and his son, of the lineage of Yaḥmān, the Ṣirwāḥites, have paid over</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">to, and bestowed upon, ʾĪlmu-</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">quh, Lord of the Ibexes, all of the total amount of income and the profit of the</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">valid document, <tei:unclear>namely</tei:unclear> the document which ʾĪlmuquhū had demanded of the lineage of Ya-</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">ḥmān, the document which Ḥaywān of the lineage of Yaḥmān, the Ṣirwāḥī, had authenticated,</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">the document which prescribes taxes forever from Ẓabiyyān to</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">ʾĪlmuquh. Now this very grant is written proof for the lineage of Ya-</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">ḥmān of that document, if ever it <tei:unclear>i.e. the document</tei:unclear> is contested, and let it then be pub-</tei:supplied>
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">licized. And this written proof was <tei:unclear>drawn up</tei:unclear> in <tei:unclear>the month of</tei:unclear> Dhū-Nasūr,</tei:supplied>
+<tei:lb n="10"/>
+                    <tei:supplied reason="lost">the initial part of the <tei:unclear>eponymous</tei:unclear> year of Yiqahmalik bin ʾAbī-</tei:supplied>
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">ʿamm of Kabīr-Khalīl.</tei:supplied> </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>ʾĪlsharaḥ and his son, of the lineage of Yaḥmān, the Ṣirwāḥites, have paid over
+<tei:lb n="2"/>to, and bestowed upon, ʾĪlmu-
+<tei:lb n="3"/>quh, Lord of the Ibexes, all of the total amount of income and the profit of the
+<tei:lb n="4"/>valid document, namely the document which ʾĪlmuquhū had demanded of the lineage of Ya-
+<tei:lb n="5"/>ḥmān, the document which Ḥaywān of the lineage of Yaḥmān, the Ṣirwāḥī, had authenticated,
+<tei:lb n="6"/>the document which prescribes taxes forever from Ẓabiyyān to
+<tei:lb n="7"/>ʾĪlmuquh. Now this very grant is written proof for the lineage of Ya-
+<tei:lb n="8"/>ḥmān of that document, if ever it i.e. the document is contested, and let it then be pub-
+<tei:lb n="9"/>licized. And this written proof was drawn up in the month of Dhū-Nasūr,
+<tei:lb n="10"/>the initial part of the eponymous year of Yiqahmalik bin ʾAbī-
+<tei:lb n="11"/>ʿamm of Kabīr-Khalīl. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>ʾĪlsharaḥ and his son, of the lineage of Yaḥmān, the Ṣirwāḥites, have paid over
+<tei:lb n="2"/>to, and bestowed upon, ʾĪlmu-
+<tei:lb n="3"/>quh, Lord of the Ibexes, all of the total amount of income and the profit of the
+<tei:lb n="4"/>valid document, namely the document which ʾĪlmuquhū had demanded of the lineage of Ya-
+<tei:lb n="5"/>ḥmān, the document which Ḥaywān of the lineage of Yaḥmān, the Ṣirwāḥī, had authenticated,
+<tei:lb n="6"/>the document which prescribes taxes forever from Ẓabiyyān to
+<tei:lb n="7"/>ʾĪlmuquh. Now this very grant is written proof for the lineage of Ya-
+<tei:lb n="8"/>ḥmān of that document, if ever it i.e. the document is contested, and let it then be pub-
+<tei:lb n="9"/>licized. And this written proof was drawn up in the month of Dhū-Nasūr,
+<tei:lb n="10"/>the initial part of the eponymous year of Yiqahmalik bin ʾAbī-
+<tei:lb n="11"/>ʿamm of Kabīr-Khalīl. </tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

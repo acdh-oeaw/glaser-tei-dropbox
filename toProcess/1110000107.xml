@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL314</title>
+                <title type="alt">1110000107</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL314</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL314</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2017-08-18" who="ghatke"/>
+            <change when="2017-08-16" who="ghatke"/>
+            <change when="2017-03-10" who="ghatke"/>
+            <change when="2016-05-13" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-06" who="ghatke"/>
+            <change when="2016-04-06" who="ghatke"/>
+            <change when="2016-03-31" who="ghatke"/>
+            <change when="2016-03-22" who="ghatke"/>
+            <change when="2015-11-06" who="ghatke"/>
+            <change when="2015-10-27" who="ghatke"/>
+            <change when="2015-10-27" who="ghatke"/>
+            <change when="2015-10-20" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+            <change when="2015-10-16" who="ghatke"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">19.[g]dn | [bn | Γḥ˥[fd | ḏ-ẓlwm=
+20.n] ḏ-ʾhl | gbʾn | Γs˥&lt;k&gt;r&lt;b&gt;
+21.&lt;w-&gt;ḫśr | ʾbbᶜ | b&lt;n&gt; | ġzt
+22.[lḥyn | bn | sʿdʾl ḏ-yh=
+23.r] | ḏ-ʾhl | mwqh | skrb | w-ḫś=
+24.r | m[rʾ]t | [bn | ʿynʾl |
+25.ysmᶜ&lt;ʾl&gt; | [bn | ḏ[ʾ]b | [ḏ-qwm]
+26.[ḏ-ʾhl] | yl[qẓ] | skr&lt;b&gt; | &lt;wḫ=&gt;
+27.&lt;śr&gt; | [tḥyw ] | b[n | mṣr |
+28.z]ydʾl | bn | [gbnn | ḏ-
+29.[b]wsn | [ḏ-ʾ]h[l] [g]bʾ[n] | Γs=˥
+30.[kr]b | w-[ḫśr | lḥyʾb | b=
+31.n] ġzt |
+32.[ʿbd bn | rʾb | ḏ-ṣmʿ]
+33.[ḏ-]&lt;ʾ&gt;hl | [gbʾn | skrb 
+(34.w-ḫśr | ʾmt | šms | bn 
+35.mṣr])</tei:ab>
+                <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="error">
+                    <tei:message>Caught error exerr:EXXQDY0002: Error parsing XML. Document is not valid.
+Fatal (17,18) : The element type "unclear" must be terminated by the matching end-tag "&lt;/unclear&gt;".
+Validated in -1 millisec.
+ in document 1110000107.xml</tei:message>
+                    <tei:text>&lt;ab type="formal-markup"&gt;&lt;lb n="19"/&gt;&lt;supplied reason="lost"&gt;g&lt;/supplied&gt;dn | &lt;supplied reason="lost"&gt;bn | &lt;unclear&gt;ḥ&lt;/unclear&gt;&lt;supplied reason="lost"&gt;fd | ḏ-ẓlwm=
+&lt;lb n="20"/&gt;n&lt;/supplied&gt; ḏ-ʾhl | gbʾn | &lt;unclear&gt;s&lt;/unclear&gt;&lt;add&gt;k&lt;/add&gt;r&lt;add&gt;b&lt;/add&gt;
+&lt;lb n="21"/&gt;&lt;add&gt;w-&lt;/add&gt;ḫśr | ʾbbᶜ | b&lt;add&gt;n&lt;/add&gt; | ġzt
+&lt;lb n="22"/&gt;&lt;supplied reason="lost"&gt;lḥyn | bn | sʿdʾl ḏ-yh=
+&lt;lb n="23"/&gt;r&lt;/supplied&gt; | ḏ-ʾhl | mwqh | skrb | w-ḫś=
+&lt;lb n="24"/&gt;r | m&lt;supplied reason="lost"&gt;rʾ&lt;/supplied&gt;t | &lt;supplied reason="lost"&gt;bn | ʿynʾl |
+&lt;lb n="25"/&gt;ysmᶜ&lt;add&gt;ʾl&lt;/add&gt; | &lt;supplied reason="lost"&gt;bn | ḏ&lt;supplied reason="lost"&gt;ʾ&lt;/supplied&gt;b | &lt;supplied reason="lost"&gt;ḏ-qwm&lt;/supplied&gt;
+&lt;lb n="26"/&gt;&lt;supplied reason="lost"&gt;ḏ-ʾhl&lt;/supplied&gt; | yl&lt;supplied reason="lost"&gt;qẓ&lt;/supplied&gt; | skr&lt;add&gt;b&lt;/add&gt; | &lt;add&gt;wḫ=&lt;/add&gt;
+&lt;lb n="27"/&gt;&lt;add&gt;śr&lt;/add&gt; | &lt;supplied reason="lost"&gt;tḥyw &lt;/supplied&gt; | b&lt;supplied reason="lost"&gt;n | mṣr |
+&lt;lb n="28"/&gt;z&lt;/supplied&gt;ydʾl | bn | &lt;supplied reason="lost"&gt;gbnn | ḏ-
+&lt;lb n="29"/&gt;&lt;supplied reason="lost"&gt;b&lt;/supplied&gt;wsn | &lt;supplied reason="lost"&gt;ḏ-ʾ&lt;/supplied&gt;h&lt;supplied reason="lost"&gt;l&lt;/supplied&gt; &lt;supplied reason="lost"&gt;g&lt;/supplied&gt;bʾ&lt;supplied reason="lost"&gt;n&lt;/supplied&gt; | &lt;unclear&gt;s=&lt;/unclear&gt;
+&lt;lb n="30"/&gt;&lt;supplied reason="lost"&gt;kr&lt;/supplied&gt;b | w-&lt;supplied reason="lost"&gt;ḫśr | lḥyʾb | b=
+&lt;lb n="31"/&gt;n&lt;/supplied&gt; ġzt |
+&lt;lb n="32"/&gt;&lt;supplied reason="lost"&gt;ʿbd bn | rʾb | ḏ-ṣmʿ&lt;/supplied&gt;
+&lt;lb n="33"/&gt;&lt;supplied reason="lost"&gt;ḏ-&lt;/supplied&gt;&lt;add&gt;ʾ&lt;/add&gt;hl | &lt;supplied reason="lost"&gt;gbʾn | skrb 
+&lt;unclear&gt;&lt;lb n="34"/&gt;w-ḫśr | ʾmt | šms | bn 
+&lt;lb n="35"/&gt;mṣr&lt;/supplied&gt;&lt;/unclear&gt;&lt;/ab&gt;</tei:text>
+                </tei:div>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="19"/>gdn  bn  Γḥ˥fd  ḏ-ẓlwm=
+<tei:lb n="20"/>n ḏ-ʾhl  gbʾn  Γs˥krb
+<tei:lb n="21"/>w-ḫśr  ʾbbᶜ  bn  ġzt
+<tei:lb n="22"/>lḥyn  bn  sʿdʾl ḏ-yh=
+<tei:lb n="23"/>r  ḏ-ʾhl  mwqh  skrb  w-ḫś=
+<tei:lb n="24"/>r  mrʾt  bn  ʿynʾl 
+<tei:lb n="25"/>ysmᶜʾl  bn  ḏʾb  ḏ-qwm
+<tei:lb n="26"/>ḏ-ʾhl  ylqẓ  skrb  wḫ=
+<tei:lb n="27"/>śr  tḥyw   bn  mṣr 
+<tei:lb n="28"/>zydʾl  bn  gbnn  ḏ-
+<tei:lb n="29"/>bwsn  ḏ-ʾhl gbʾn  Γs=˥
+<tei:lb n="30"/>krb  w-ḫśr  lḥyʾb  b=
+<tei:lb n="31"/>n ġzt 
+<tei:lb n="32"/>ʿbd bn  rʾb  ḏ-ṣmʿ
+<tei:lb n="33"/>ḏ-ʾhl  gbʾn  skrb 
+<tei:lb n="34"/>w-ḫśr  ʾmt  šms  bn 
+<tei:lb n="35"/>mṣr</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="19"/>gdn  bn  Γḥ˥fd  ḏ-ẓlwm=
+<tei:lb n="20"/>n ḏ-ʾhl  gbʾn  Γs˥krb
+<tei:lb n="21"/>w-ḫśr  ʾbbᶜ  bn  ġzt
+<tei:lb n="22"/>lḥyn  bn  sʿdʾl ḏ-yh=
+<tei:lb n="23"/>r  ḏ-ʾhl  mwqh  skrb  w-ḫś=
+<tei:lb n="24"/>r  mrʾt  bn  ʿynʾl 
+<tei:lb n="25"/>ysmᶜʾl  bn  ḏʾb  ḏ-qwm
+<tei:lb n="26"/>ḏ-ʾhl  ylqẓ  skrb  wḫ=
+<tei:lb n="27"/>śr  tḥyw   bn  mṣr 
+<tei:lb n="28"/>zydʾl  bn  gbnn  ḏ-
+<tei:lb n="29"/>bwsn  ḏ-ʾhl gbʾn  Γs=˥
+<tei:lb n="30"/>krb  w-ḫśr  lḥyʾb  b=
+<tei:lb n="31"/>n ġzt 
+<tei:lb n="32"/>ʿbd bn  rʾb  ḏ-ṣmʿ
+<tei:lb n="33"/>ḏ-ʾhl  gbʾn  skrb 
+<tei:lb n="34"/>w-ḫśr  ʾmt  šms  bn 
+<tei:lb n="35"/>mṣr</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">19.Gadan bin Ḥafīd of Ẓalawm-
+20.ān of the tribe of Gabʾān has married 
+21.and paid the bride price for ʾAbībaʿ from Gaza. 
+22.Laḥayān bin Saʿdʾīl of Yah-
+23.irr of the tribe of Mawqah has married and paid 
+24.the bride price for Marʾat from ʿAynʾīl. 
+25.Yismaʿʾīl bin Dhuʾāb of Qawm 
+26.of the tribe of Yalqaẓ has married and paid the bride
+27.price for Taḥyaw from Egypt. 
+28.Zaydʾīl bin Gabanān of 
+29.Bawsān of the tribe of Gabʾān has ma-
+30.rried and paid the bride price for Laḥayʾab fr-
+31.om Gaza. 
+32.ʿAbd bin Riʾāb of Ṣamaʿ 
+33.of the tribe of Gabʾān has married 
+34.and paid the bride price for ʾAmat Shamas from 
+35.Egypt.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="19"/>Gadan bin Ḥafīd of Ẓalawm-
+<tei:lb n="20"/>ān of the tribe of Gabʾān has married 
+<tei:lb n="21"/>and paid the bride price for ʾAbībaʿ from Gaza. 
+<tei:lb n="22"/>Laḥayān bin Saʿdʾīl of Yah-
+<tei:lb n="23"/>irr of the tribe of Mawqah has married and paid 
+<tei:lb n="24"/>the bride price for Marʾat from ʿAynʾīl. 
+<tei:lb n="25"/>Yismaʿʾīl bin Dhuʾāb of Qawm 
+<tei:lb n="26"/>of the tribe of Yalqaẓ has married and paid the bride
+<tei:lb n="27"/>price for Taḥyaw from Egypt. 
+<tei:lb n="28"/>Zaydʾīl bin Gabanān of 
+<tei:lb n="29"/>Bawsān of the tribe of Gabʾān has ma-
+<tei:lb n="30"/>rried and paid the bride price for Laḥayʾab fr-
+<tei:lb n="31"/>om Gaza. 
+<tei:lb n="32"/>ʿAbd bin Riʾāb of Ṣamaʿ 
+<tei:lb n="33"/>of the tribe of Gabʾān has married 
+<tei:lb n="34"/>and paid the bride price for ʾAmat Shamas from 
+<tei:lb n="35"/>Egypt.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="19"/>Gadan bin Ḥafīd of Ẓalawm-
+<tei:lb n="20"/>ān of the tribe of Gabʾān has married 
+<tei:lb n="21"/>and paid the bride price for ʾAbībaʿ from Gaza. 
+<tei:lb n="22"/>Laḥayān bin Saʿdʾīl of Yah-
+<tei:lb n="23"/>irr of the tribe of Mawqah has married and paid 
+<tei:lb n="24"/>the bride price for Marʾat from ʿAynʾīl. 
+<tei:lb n="25"/>Yismaʿʾīl bin Dhuʾāb of Qawm 
+<tei:lb n="26"/>of the tribe of Yalqaẓ has married and paid the bride
+<tei:lb n="27"/>price for Taḥyaw from Egypt. 
+<tei:lb n="28"/>Zaydʾīl bin Gabanān of 
+<tei:lb n="29"/>Bawsān of the tribe of Gabʾān has ma-
+<tei:lb n="30"/>rried and paid the bride price for Laḥayʾab fr-
+<tei:lb n="31"/>om Gaza. 
+<tei:lb n="32"/>ʿAbd bin Riʾāb of Ṣamaʿ 
+<tei:lb n="33"/>of the tribe of Gabʾān has married 
+<tei:lb n="34"/>and paid the bride price for ʾAmat Shamas from 
+<tei:lb n="35"/>Egypt.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="19"/>Gadan bin Ḥafīd of Ẓalawm-
+<tei:lb n="20"/>ān of the tribe of Gabʾān has married 
+<tei:lb n="21"/>and paid the bride price for ʾAbībaʿ from Gaza. 
+<tei:lb n="22"/>Laḥayān bin Saʿdʾīl of Yah-
+<tei:lb n="23"/>irr of the tribe of Mawqah has married and paid 
+<tei:lb n="24"/>the bride price for Marʾat from ʿAynʾīl. 
+<tei:lb n="25"/>Yismaʿʾīl bin Dhuʾāb of Qawm 
+<tei:lb n="26"/>of the tribe of Yalqaẓ has married and paid the bride
+<tei:lb n="27"/>price for Taḥyaw from Egypt. 
+<tei:lb n="28"/>Zaydʾīl bin Gabanān of 
+<tei:lb n="29"/>Bawsān of the tribe of Gabʾān has ma-
+<tei:lb n="30"/>rried and paid the bride price for Laḥayʾab fr-
+<tei:lb n="31"/>om Gaza. 
+<tei:lb n="32"/>ʿAbd bin Riʾāb of Ṣamaʿ 
+<tei:lb n="33"/>of the tribe of Gabʾān has married 
+<tei:lb n="34"/>and paid the bride price for ʾAmat Shamas from 
+<tei:lb n="35"/>Egypt.</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

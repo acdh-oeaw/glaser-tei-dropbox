@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1138</title>
+                <title type="alt">1110000232</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1138</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1138</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-03-14" who="ghatke"/>
+            <change when="2018-03-14" who="ghatke"/>
+            <change when="2018-03-14" who="ghatke"/>
+            <change when="2018-03-14" who="ghatke"/>
+            <change when="2018-03-14" who="ghatke"/>
+            <change when="2018-03-14" who="ghatke"/>
+            <change when="2018-03-14" who="ghatke"/>
+            <change when="2018-03-09" who="ghatke"/>
+            <change when="2016-09-27" who="ghatke"/>
+            <change when="2016-05-13" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-13" who="ghatke"/>
+            <change when="2016-04-04" who="ghatke"/>
+            <change when="2016-03-31" who="ghatke"/>
+            <change when="2015-12-15" who="ghatke"/>
+            <change when="2015-12-04" who="ghatke"/>
+            <change when="2015-11-03" who="ghatke"/>
+            <change when="2015-09-23" who="ghatke"/>
+            <change when="2015-09-23" who="ghatke"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[... ...]dy[... ...]m | w-kwn | ṣΓq˥
+2.b-fnwtn | sdṯ | ʾmm /6/ | w-[l]-=
+3.y[bnyn] | yšhrmlk | ḥrtm | b-ḏt | fn=
+4.[wtn] | [w-l-]yṯtʿd | b-ḏt | ḥrtn |
+5.ʾw | fnwtn | ḏ-kwn | l-ḥmnm | [šl=
+6.t] mwnΓh˥n | w-l | šΓhr˥mlk | ṯty
+7.Γy˥dy | mwnhn | w-hʾ | yhwśʿn | ḥm=
+8.[n]m | stqym | w-k[w]n | l-yšhrml[k] |
+9.kl | mwnhn | w-ʾhΓn˥ | yΓʿ˥krn | yšΓh˥=
+10.rmlk | [w-l | yn]dʾ [|] mwm | l-f[nwt]=
+11.[n] | Γw-yṯʿkrb˥ | w-ʿmʿ[... ... ...]
+12.[... ...] | [f]nw[tn | ... ...]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>dy<tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>m | w-kwn | ṣ<tei:unclear>q</tei:unclear>
+<tei:lb n="2"/>b-fnwtn | sdṯ | ʾmm /<tei:lb n="6"/> | w-<tei:supplied reason="lost">l</tei:supplied>-=
+<tei:lb n="3"/>y<tei:supplied reason="lost">bnyn</tei:supplied> | yšhrmlk | ḥrtm | b-ḏt | fn=
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">wtn</tei:supplied> | <tei:supplied reason="lost">w-l-</tei:supplied>yṯtʿd | b-ḏt | ḥrtn |
+<tei:lb n="5"/>ʾw | fnwtn | ḏ-kwn | l-ḥmnm | <tei:supplied reason="lost">šl=
+<tei:lb n="6"/>t</tei:supplied> mwn<tei:unclear>h</tei:unclear>n | w-l | š<tei:unclear>hr</tei:unclear>mlk | ṯty
+<tei:lb n="7"/>
+                    <tei:unclear>y</tei:unclear>dy | mwnhn | w-hʾ | yhwśʿn | ḥm=
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">n</tei:supplied>m | stqym | w-k<tei:supplied reason="lost">w</tei:supplied>n | l-yšhrml<tei:supplied reason="lost">k</tei:supplied> |
+<tei:lb n="9"/>kl | mwnhn | w-ʾh<tei:unclear>n</tei:unclear> | y<tei:unclear>ʿ</tei:unclear>krn | yš<tei:unclear>h</tei:unclear>=
+<tei:lb n="10"/>rmlk | <tei:supplied reason="lost">w-l | yn</tei:supplied>dʾ <tei:supplied reason="lost">|</tei:supplied> mwm | l-f<tei:supplied reason="lost">nwt</tei:supplied>=
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">n</tei:supplied> | <tei:unclear>w-yṯʿkrb</tei:unclear> | w-ʿmʿ<tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> | <tei:supplied reason="lost">f</tei:supplied>nw<tei:supplied reason="lost">tn | <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>dym  w-kwn  ṣΓq˥
+<tei:lb n="2"/>b-fnwtn  sdṯ  ʾmm /<tei:lb n="6"/>  w-l-=
+<tei:lb n="3"/>ybnyn  yšhrmlk  ḥrtm  b-ḏt  fn=
+<tei:lb n="4"/>wtn  w-l-yṯtʿd  b-ḏt  ḥrtn 
+<tei:lb n="5"/>ʾw  fnwtn  ḏ-kwn  l-ḥmnm  šl=
+<tei:lb n="6"/>t mwnΓh˥n  w-l  šΓhr˥mlk  ṯty
+<tei:lb n="7"/>Γy˥dy  mwnhn  w-hʾ  yhwśʿn  ḥm=
+<tei:lb n="8"/>nm  stqym  w-kwn  l-yšhrmlk 
+<tei:lb n="9"/>kl  mwnhn  w-ʾhΓn˥  yΓʿ˥krn  yšΓh˥=
+<tei:lb n="10"/>rmlk  w-l  yndʾ  mwm  l-fnwt=
+<tei:lb n="11"/>n  Γw-yṯʿkrb˥  w-ʿmʿ ...
+<tei:lb n="12"/>  fnwtn  </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>dym  w-kwn  ṣΓq˥
+<tei:lb n="2"/>b-fnwtn  sdṯ  ʾmm /<tei:lb n="6"/>  w-l-=
+<tei:lb n="3"/>ybnyn  yšhrmlk  ḥrtm  b-ḏt  fn=
+<tei:lb n="4"/>wtn  w-l-yṯtʿd  b-ḏt  ḥrtn 
+<tei:lb n="5"/>ʾw  fnwtn  ḏ-kwn  l-ḥmnm  šl=
+<tei:lb n="6"/>t mwnΓh˥n  w-l  šΓhr˥mlk  ṯty
+<tei:lb n="7"/>Γy˥dy  mwnhn  w-hʾ  yhwśʿn  ḥm=
+<tei:lb n="8"/>nm  stqym  w-kwn  l-yšhrmlk 
+<tei:lb n="9"/>kl  mwnhn  w-ʾhΓn˥  yΓʿ˥krn  yšΓh˥=
+<tei:lb n="10"/>rmlk  w-l  yndʾ  mwm  l-fnwt=
+<tei:lb n="11"/>n  Γw-yṯʿkrb˥  w-ʿmʿ ...
+<tei:lb n="12"/>  fnwtn  </tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[… … … … …] and [..] was [..]
+2.in the irrigation canal: 6 cubits. And may
+3.Yishhurmalik build a channel to this irrigation
+4.[canal. And may] he enable irrigation through this channel 
+5.or the irrigation canal, of which there belongs to Ḥammānum [one-]
+6.[third] of its two (areas of) water. And to Shahrmalik belong two
+7.portions of the two (areas of) water, and (may) he cede to Ḥammā-
+8.[nu]m water for irrigation. And to Yishhurmali[k] there belong 
+9.each of the two (areas of) water. And, should Yishhurmalik object (to this),
+10.let him release water to the irrigation canal.
+11.And Yithāʿkarib and ʿAmmīʿ[… … …]
+12.[… …] the irrigation cana[l … …]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:supplied reason="lost">… … … … …</tei:supplied> and <tei:supplied reason="lost">..</tei:supplied> was <tei:supplied reason="lost">..</tei:supplied>
+<tei:lb n="2"/>in the irrigation canal: <tei:lb n="6"/>cubits. And may
+<tei:lb n="3"/>Yishhurmalik build a channel to this irrigation
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">canal. And may</tei:supplied> he enable irrigation through this channel 
+<tei:lb n="5"/>or the irrigation canal, of which there belongs to Ḥammānum <tei:supplied reason="lost">one-</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">third</tei:supplied> of its two <tei:unclear>areas of</tei:unclear> water. And to Shahrmalik belong two
+<tei:lb n="7"/>portions of the two <tei:unclear>areas of</tei:unclear> water, and <tei:unclear>may</tei:unclear> he cede to Ḥammā-
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">nu</tei:supplied>m water for irrigation. And to Yishhurmali<tei:supplied reason="lost">k</tei:supplied> there belong 
+<tei:lb n="9"/>each of the two <tei:unclear>areas of</tei:unclear> water. And, should Yishhurmalik object <tei:unclear>to this</tei:unclear>,
+<tei:lb n="10"/>let him release water to the irrigation canal.
+<tei:lb n="11"/>And Yithāʿkarib and ʿAmmīʿ<tei:supplied reason="lost">… … …</tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> the irrigation cana<tei:supplied reason="lost">l … …</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>… … … … … and .. was ..
+<tei:lb n="2"/>in the irrigation canal: <tei:lb n="6"/>cubits. And may
+<tei:lb n="3"/>Yishhurmalik build a channel to this irrigation
+<tei:lb n="4"/>canal. And may he enable irrigation through this channel 
+<tei:lb n="5"/>or the irrigation canal, of which there belongs to Ḥammānum one-
+<tei:lb n="6"/>third of its two areas of water. And to Shahrmalik belong two
+<tei:lb n="7"/>portions of the two areas of water, and may he cede to Ḥammā-
+<tei:lb n="8"/>num water for irrigation. And to Yishhurmalik there belong 
+<tei:lb n="9"/>each of the two areas of water. And, should Yishhurmalik object to this,
+<tei:lb n="10"/>let him release water to the irrigation canal.
+<tei:lb n="11"/>And Yithāʿkarib and ʿAmmīʿ… … …
+<tei:lb n="12"/>… … the irrigation canal … …</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>… … … … … and .. was ..
+<tei:lb n="2"/>in the irrigation canal: <tei:lb n="6"/>cubits. And may
+<tei:lb n="3"/>Yishhurmalik build a channel to this irrigation
+<tei:lb n="4"/>canal. And may he enable irrigation through this channel 
+<tei:lb n="5"/>or the irrigation canal, of which there belongs to Ḥammānum one-
+<tei:lb n="6"/>third of its two areas of water. And to Shahrmalik belong two
+<tei:lb n="7"/>portions of the two areas of water, and may he cede to Ḥammā-
+<tei:lb n="8"/>num water for irrigation. And to Yishhurmalik there belong 
+<tei:lb n="9"/>each of the two areas of water. And, should Yishhurmalik object to this,
+<tei:lb n="10"/>let him release water to the irrigation canal.
+<tei:lb n="11"/>And Yithāʿkarib and ʿAmmīʿ… … …
+<tei:lb n="12"/>… … the irrigation canal … …</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
