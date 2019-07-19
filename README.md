@@ -4,7 +4,7 @@
 * converted them to TEI and moved 307 files (those which are the new ones) to DROPBOX/editions-local/toProcess
 
 * **ANTON** can start tagging now.
-* Final files should be moved from `to_process` to `done_tagging`
+* Final files should be moved from `toProcess` to `done_tagging`
 * when **ALL** files are tagged (i.e when there are 307 files in folder `done_tagging`),
   * Anton will inform Petra
   * Petra will inform Peter
