@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1004_02</title>
+                <title type="alt">1110000062</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1004_02</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1004_02</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-08-10" who="paigner"/>
+            <change when="2018-08-10" who="paigner"/>
+            <change when="2018-06-08" who="paigner"/>
+            <change when="2017-10-11" who="paigner"/>
+            <change when="2017-08-16" who="paigner"/>
+            <change when="2017-03-03" who="paigner"/>
+            <change when="2016-09-27" who="paigner"/>
+            <change when="2016-05-13" who="paigner"/>
+            <change when="2016-04-19" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-04" who="paigner"/>
+            <change when="2016-03-31" who="paigner"/>
+            <change when="2016-03-22" who="paigner"/>
+            <change when="2016-03-21" who="paigner"/>
+            <change when="2015-10-27" who="paigner"/>
+            <change when="2015-10-21" who="paigner"/>
+            <change when="2015-10-16" who="paigner"/>
+            <change when="2015-10-16" who="paigner"/>
+            <change when="2015-10-16" who="paigner"/>
+            <change when="2015-10-16" who="paigner"/>
+            <change when="2015-10-16" who="paigner"/>
+            <change when="2015-10-14" who="paigner"/>
+            <change when="2015-10-02" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">13.[rṯdʾl | bn | ʿbd | ḏ-ẓ-=
+14.yrn | ḏ-ʾhl | mwqh | sk-=]
+15.rb | w-ḫśr | mrʾt | bn
+16.ddn | [s]ᶜlṭ | bn | bsln
+17.ḏ-ḥḏkt | ḏ-ʾhl | qrn | sk=
+18.rb | w-ḫśr | ʿ[r]zt | bn | t-
+19.[mlḥ | [bsln | b]n | wdd | ḏ-s=
+20.y[l] | [ḏ-ʾhl | ḏ-]ʿ[l]yʾ[l] | skr=
+21.b | w-ḫśr | ʾḫt[mw] | bn | m=
+22.ṣr |
+23.wdd [| ... ...]ḥš[..]
+24.ḏ-ʾhl | [... ... skrb |] w-[ḫ=
+25.śr ... ...t]
+26.rṯd[... ... ...]</tei:ab>
+                <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="error">
+                    <tei:message>Caught error exerr:EXXQDY0002: Error parsing XML. Document is not valid.
+Fatal (14,98) : The element type "supplied" must be terminated by the matching end-tag "&lt;/supplied&gt;".
+Validated in -1 millisec.
+ in document 1110000062.xml</tei:message>
+                    <tei:text>&lt;ab type="formal-markup"&gt;&lt;lb n="13"/&gt;&lt;supplied reason="lost"&gt;rṯdʾl | bn | ʿbd | ḏ-ẓ-=
+&lt;lb n="14"/&gt;yrn | ḏ-ʾhl | mwqh | sk-=&lt;/supplied&gt;
+&lt;lb n="15"/&gt;rb | w-ḫśr | mrʾt | bn
+&lt;lb n="16"/&gt;ddn | &lt;supplied reason="lost"&gt;s&lt;/supplied&gt;ᶜlṭ | bn | bsln
+&lt;lb n="17"/&gt;ḏ-ḥḏkt | ḏ-ʾhl | qrn | sk=
+&lt;lb n="18"/&gt;rb | w-ḫśr | ʿ&lt;supplied reason="lost"&gt;r&lt;/supplied&gt;zt | bn | t-
+&lt;lb n="19"/&gt;&lt;supplied reason="lost"&gt;mlḥ | &lt;supplied reason="lost"&gt;bsln | b&lt;/supplied&gt;n | wdd | ḏ-s=
+&lt;lb n="20"/&gt;y&lt;supplied reason="lost"&gt;l&lt;/supplied&gt; | &lt;supplied reason="lost"&gt;ḏ-ʾhl | ḏ-&lt;/supplied&gt;ʿ&lt;supplied reason="lost"&gt;l&lt;/supplied&gt;yʾ&lt;supplied reason="lost"&gt;l&lt;/supplied&gt; | skr=
+&lt;lb n="21"/&gt;b | w-ḫśr | ʾḫt&lt;supplied reason="lost"&gt;mw&lt;/supplied&gt; | bn | m=
+&lt;lb n="22"/&gt;ṣr |
+&lt;lb n="23"/&gt;wdd &lt;supplied reason="lost"&gt;| &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;ḥš&lt;supplied reason="lost"&gt;..&lt;/supplied&gt;
+&lt;lb n="24"/&gt;ḏ-ʾhl | &lt;supplied reason="lost"&gt;&lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt; skrb |&lt;/supplied&gt; w-&lt;supplied reason="lost"&gt;ḫ=
+&lt;lb n="25"/&gt;śr &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;t&lt;/supplied&gt;
+&lt;lb n="26"/&gt;rṯd&lt;supplied reason="lost"&gt;&lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt; ...&lt;/supplied&gt;&lt;/ab&gt;</tei:text>
+                </tei:div>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="13"/>rṯdʾl  bn  ʿbd  ḏ-ẓ-=
+<tei:lb n="14"/>yrn  ḏ-ʾhl  mwqh  sk-=
+<tei:lb n="15"/>rb  w-ḫśr  mrʾt  bn
+<tei:lb n="16"/>ddn  sᶜlṭ  bn  bsln
+<tei:lb n="17"/>ḏ-ḥḏkt  ḏ-ʾhl  qrn  sk=
+<tei:lb n="18"/>rb  w-ḫśr  ʿrzt  bn  t-
+<tei:lb n="19"/>mlḥ  bsln  bn  wdd  ḏ-s=
+<tei:lb n="20"/>yl  ḏ-ʾhl  ḏ-ʿlyʾl  skr=
+<tei:lb n="21"/>b  w-ḫśr  ʾḫtmw  bn  m=
+<tei:lb n="22"/>ṣr 
+<tei:lb n="23"/>wdd  ḥš..
+<tei:lb n="24"/>ḏ-ʾhl   skrb  w-ḫ=
+<tei:lb n="25"/>śr t
+<tei:lb n="26"/>rṯd ...</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="13"/>rṯdʾl  bn  ʿbd  ḏ-ẓ-=
+<tei:lb n="14"/>yrn  ḏ-ʾhl  mwqh  sk-=
+<tei:lb n="15"/>rb  w-ḫśr  mrʾt  bn
+<tei:lb n="16"/>ddn  sᶜlṭ  bn  bsln
+<tei:lb n="17"/>ḏ-ḥḏkt  ḏ-ʾhl  qrn  sk=
+<tei:lb n="18"/>rb  w-ḫśr  ʿrzt  bn  t-
+<tei:lb n="19"/>mlḥ  bsln  bn  wdd  ḏ-s=
+<tei:lb n="20"/>yl  ḏ-ʾhl  ḏ-ʿlyʾl  skr=
+<tei:lb n="21"/>b  w-ḫśr  ʾḫtmw  bn  m=
+<tei:lb n="22"/>ṣr 
+<tei:lb n="23"/>wdd  ḥš..
+<tei:lb n="24"/>ḏ-ʾhl   skrb  w-ḫ=
+<tei:lb n="25"/>śr t
+<tei:lb n="26"/>rṯd ...</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">13.Rathadʾīl bin ʿA[b]d of Ẓa-
+14.yrān of the tribe of Mawqah has mar-
+15.ried and paid the bride price for Marʾat from 
+16.Dedān. Saʿlaṭ bin Bāsilān 
+17.of Ḥadhkat of the tribe of Qarn has mar-
+18.ried and paid the bride price for ʿArzat from Ta-
+19.mlaḥ. Bāsil bin Wadūd of Sa-
+20.yl of the tribe of ʿAlayʾīl has marri-
+21.ed and paid the bride price for ʾUkhtumū from Eg-
+22.ypt.
+23.Wadūd [... ... ... ...]
+24.of the tribe of [... ... has married] and [paid
+25.the bride price for ... ...]
+26.Rathad[... ... ...]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="13"/>Rathadʾīl bin ʿA<tei:supplied reason="lost">b</tei:supplied>d of Ẓa-
+<tei:lb n="14"/>yrān of the tribe of Mawqah has mar-
+<tei:lb n="15"/>ried and paid the bride price for Marʾat from 
+<tei:lb n="16"/>Dedān. Saʿlaṭ bin Bāsilān 
+<tei:lb n="17"/>of Ḥadhkat of the tribe of Qarn has mar-
+<tei:lb n="18"/>ried and paid the bride price for ʿArzat from Ta-
+<tei:lb n="19"/>mlaḥ. Bāsil bin Wadūd of Sa-
+<tei:lb n="20"/>yl of the tribe of ʿAlayʾīl has marri-
+<tei:lb n="21"/>ed and paid the bride price for ʾUkhtumū from Eg-
+<tei:lb n="22"/>ypt.
+<tei:lb n="23"/>Wadūd <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="24"/>of the tribe of <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> has married</tei:supplied> and <tei:supplied reason="lost">paid
+<tei:lb n="25"/>the bride price for <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="26"/>Rathad<tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="13"/>Rathadʾīl bin ʿAbd of Ẓa-
+<tei:lb n="14"/>yrān of the tribe of Mawqah has mar-
+<tei:lb n="15"/>ried and paid the bride price for Marʾat from 
+<tei:lb n="16"/>Dedān. Saʿlaṭ bin Bāsilān 
+<tei:lb n="17"/>of Ḥadhkat of the tribe of Qarn has mar-
+<tei:lb n="18"/>ried and paid the bride price for ʿArzat from Ta-
+<tei:lb n="19"/>mlaḥ. Bāsil bin Wadūd of Sa-
+<tei:lb n="20"/>yl of the tribe of ʿAlayʾīl has marri-
+<tei:lb n="21"/>ed and paid the bride price for ʾUkhtumū from Eg-
+<tei:lb n="22"/>ypt.
+<tei:lb n="23"/>Wadūd  
+<tei:lb n="24"/>of the tribe of  has married and paid
+<tei:lb n="25"/>the bride price for 
+<tei:lb n="26"/>Rathad ...</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="13"/>Rathadʾīl bin ʿAbd of Ẓa-
+<tei:lb n="14"/>yrān of the tribe of Mawqah has mar-
+<tei:lb n="15"/>ried and paid the bride price for Marʾat from 
+<tei:lb n="16"/>Dedān. Saʿlaṭ bin Bāsilān 
+<tei:lb n="17"/>of Ḥadhkat of the tribe of Qarn has mar-
+<tei:lb n="18"/>ried and paid the bride price for ʿArzat from Ta-
+<tei:lb n="19"/>mlaḥ. Bāsil bin Wadūd of Sa-
+<tei:lb n="20"/>yl of the tribe of ʿAlayʾīl has marri-
+<tei:lb n="21"/>ed and paid the bride price for ʾUkhtumū from Eg-
+<tei:lb n="22"/>ypt.
+<tei:lb n="23"/>Wadūd  
+<tei:lb n="24"/>of the tribe of  has married and paid
+<tei:lb n="25"/>the bride price for 
+<tei:lb n="26"/>Rathad ...</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

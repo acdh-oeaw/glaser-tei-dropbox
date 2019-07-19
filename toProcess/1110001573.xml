@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-P-278</title>
+                <title type="alt">1110001573</title>
+                <title type="alt">AT-OeAW-BA-3-27-P-278</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-P-278</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-03-01" who="ghatke"/>
+            <change when="2019-03-01" who="ghatke"/>
+            <change when="2019-03-01" who="ghatke"/>
+            <change when="2019-03-01" who="ghatke"/>
+            <change when="2019-03-01" who="ghatke"/>
+            <change when="2018-12-14" who="ghatke"/>
+            <change when="2018-12-14" who="ghatke"/>
+            <change when="2018-12-14" who="ghatke"/>
+            <change when="2018-12-13" who="ghatke"/>
+            <change when="2018-12-13" who="ghatke"/>
+            <change when="2018-12-13" who="ghatke"/>
+            <change when="2018-11-29" who="ghatke"/>
+            <change when="2018-11-29" who="ghatke"/>
+            <change when="2018-11-29" who="ghatke"/>
+            <change when="2016-10-19" who="ghatke"/>
+            <change when="2016-09-27" who="ghatke"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.wtfn | h(byb)m (| l-)ḏ-smwy [| ... ...]
+2.w-ʾl | ḏ-b-hw | yṯbnn | w-gbʾ [| ... ... | s=]
+3.ṭrm | (ʿ)mn | ʾlʾ(l)tm | w-(ʾ)mlk(m) [| ... ...]
+4.sʿdm | bn | wšḥt | w-rbbm | ʾs [| ... ...ḏn s=]
+5.mʿn | w-gzytn (| k-b-m-ʾn | sṭrt [| ... ...]
+6.smy | b-ḏn | smʿn | w-g(zytn) | b[... ...]
+7.[... ...] | (w-b-gl | m)ʾḫḏt (| ʾ)dyn-hmw [... ...]
+8.[... ... |] (w-rʾ | k-hʿdw) [... ...]</tei:ab>
+                <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="error">
+                    <tei:message>Caught error exerr:EXXQDY0002: Error parsing XML. Document is not valid.
+Fatal (8,202) : The element type "unclear" must be terminated by the matching end-tag "&lt;/unclear&gt;".
+Validated in -1 millisec.
+ in document 1110001573.xml</tei:message>
+                    <tei:text>&lt;ab type="formal-markup"&gt;&lt;lb n="1"/&gt;wtfn | h&lt;unclear&gt;byb&lt;/unclear&gt;m &lt;unclear&gt;| l-&lt;/unclear&gt;ḏ-smwy &lt;supplied reason="lost"&gt;| &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
+&lt;lb n="2"/&gt;w-ʾl | ḏ-b-hw | yṯbnn | w-gbʾ &lt;supplied reason="lost"&gt;| &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt; | s=&lt;/supplied&gt;
+&lt;lb n="3"/&gt;ṭrm | &lt;unclear&gt;ʿ&lt;/unclear&gt;mn | ʾlʾ&lt;unclear&gt;l&lt;/unclear&gt;tm | w-&lt;unclear&gt;ʾ&lt;/unclear&gt;mlk&lt;unclear&gt;m&lt;/unclear&gt; &lt;supplied reason="lost"&gt;| &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
+&lt;lb n="4"/&gt;sʿdm | bn | wšḥt | w-rbbm | ʾs &lt;supplied reason="lost"&gt;| &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;ḏn s=&lt;/supplied&gt;
+&lt;lb n="5"/&gt;mʿn | w-gzytn &lt;unclear&gt;| k-b-m-ʾn | sṭrt &lt;supplied reason="lost"&gt;| &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
+&lt;lb n="6"/&gt;smy | b-ḏn | smʿn | w-g&lt;unclear&gt;zytn&lt;/unclear&gt; | b&lt;supplied reason="lost"&gt;&lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
+&lt;lb n="7"/&gt;&lt;supplied reason="lost"&gt;&lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt; | &lt;unclear&gt;w-b-gl | m&lt;/unclear&gt;ʾḫḏt &lt;unclear&gt;| ʾ&lt;/unclear&gt;dyn-hmw &lt;supplied reason="lost"&gt;&lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
+&lt;lb n="8"/&gt;&lt;supplied reason="lost"&gt;&lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt; |&lt;/supplied&gt; &lt;unclear&gt;w-rʾ | k-hʿdw&lt;/unclear&gt; &lt;supplied reason="lost"&gt;&lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;&lt;/ab&gt;</tei:text>
+                </tei:div>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>wtfn  hbybm  l-ḏ-smwy  
+<tei:lb n="2"/>w-ʾl  ḏ-b-hw  yṯbnn  w-gbʾ    s=
+<tei:lb n="3"/>ṭrm  ʿmn  ʾlʾltm  w-ʾmlkm  
+<tei:lb n="4"/>sʿdm  bn  wšḥt  w-rbbm  ʾs  ḏn s=
+<tei:lb n="5"/>mʿn  w-gzytn  k-b-m-ʾn  sṭrt  
+<tei:lb n="6"/>smy  b-ḏn  smʿn  w-gzytn  b
+<tei:lb n="7"/>  w-b-gl  mʾḫḏt  ʾdyn-hmw 
+<tei:lb n="8"/>  w-rʾ  k-hʿdw </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>wtfn  hbybm  l-ḏ-smwy  
+<tei:lb n="2"/>w-ʾl  ḏ-b-hw  yṯbnn  w-gbʾ    s=
+<tei:lb n="3"/>ṭrm  ʿmn  ʾlʾltm  w-ʾmlkm  
+<tei:lb n="4"/>sʿdm  bn  wšḥt  w-rbbm  ʾs  ḏn s=
+<tei:lb n="5"/>mʿn  w-gzytn  k-b-m-ʾn  sṭrt  
+<tei:lb n="6"/>smy  b-ḏn  smʿn  w-gzytn  b
+<tei:lb n="7"/>  w-b-gl  mʾḫḏt  ʾdyn-hmw 
+<tei:lb n="8"/>  w-rʾ  k-hʿdw </tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.This document (pertaining to) Hubaybum (is entrusted to) to Dhū-Samāwī [... ...]
+2. And no one is to settle therein or withhold(?) [... ...]
+3.any written document on (the authority of) gods or kings [... ...]
+4.Saʿdum bin Washḥat and Rabībum, the man [... ... this testi-]
+5.mony and commendation as it is written [... ...]
+6.named in this testimony and commendation [... ...]
+7.and within the entire content of their debts [... ...]
+8.[... ... And indeed they infringed (the boundary of the land) ... ...]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>This document <tei:unclear>pertaining to</tei:unclear> Hubaybum <tei:unclear>is entrusted to</tei:unclear> to Dhū-Samāwī <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="2"/> And no one is to settle therein or withhold<tei:unclear>?</tei:unclear> <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="3"/>any written document on <tei:unclear>the authority of</tei:unclear> gods or kings <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="4"/>Saʿdum bin Washḥat and Rabībum, the man <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> this testi-</tei:supplied>
+<tei:lb n="5"/>mony and commendation as it is written <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="6"/>named in this testimony and commendation <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="7"/>and within the entire content of their debts <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> And indeed they infringed <tei:unclear>the boundary of the land</tei:unclear> <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>This document pertaining to Hubaybum is entrusted to to Dhū-Samāwī 
+<tei:lb n="2"/> And no one is to settle therein or withhold? 
+<tei:lb n="3"/>any written document on the authority of gods or kings 
+<tei:lb n="4"/>Saʿdum bin Washḥat and Rabībum, the man  this testi-
+<tei:lb n="5"/>mony and commendation as it is written 
+<tei:lb n="6"/>named in this testimony and commendation 
+<tei:lb n="7"/>and within the entire content of their debts 
+<tei:lb n="8"/> And indeed they infringed the boundary of the land </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>This document pertaining to Hubaybum is entrusted to to Dhū-Samāwī 
+<tei:lb n="2"/> And no one is to settle therein or withhold? 
+<tei:lb n="3"/>any written document on the authority of gods or kings 
+<tei:lb n="4"/>Saʿdum bin Washḥat and Rabībum, the man  this testi-
+<tei:lb n="5"/>mony and commendation as it is written 
+<tei:lb n="6"/>named in this testimony and commendation 
+<tei:lb n="7"/>and within the entire content of their debts 
+<tei:lb n="8"/> And indeed they infringed the boundary of the land </tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1617_03</title>
+                <title type="alt">1110003396</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1617_03</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1617_03</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-09-20" who="paigner"/>
+            <change when="2018-09-20" who="paigner"/>
+            <change when="2018-09-20" who="paigner"/>
+            <change when="2018-09-20" who="paigner"/>
+            <change when="2018-09-20" who="paigner"/>
+            <change when="2018-09-19" who="paigner"/>
+            <change when="2018-09-19" who="paigner"/>
+            <change when="2018-09-14" who="paigner"/>
+            <change when="2018-09-14" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2017-07-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+...........................................
+
+
+Restored full text of the inscription:
+
+1.[... ...] | mlk | qtbn | w-ʿh=
+2.r | šmr | ʾl | b-yʿdw=
+3.n | nʿmt | b-zwrtm |
+4.b-ʿlw | mšṭm | b-yšty=
+5.ṭwn | w-štʾm | qtbn | w-
+6.ʾwlw | hmd | ʿhr | šm=
+7.r | štyṭm | ʾw | qtdm=
+8.m | qtbn | b-mšṭ | šmr
+9.nkwn | qtbn | w-mn | l-
+10.ysʿrb | bn | qtbn
+11.w-bn | mʿnm | w-bn | (ḥ=)
+12.wr | tmnʿ | byt-s | w-
+13.mḫtn-s | ḫdrm | b-yʿ=
+14.rb | tmnʿ | w-bḏl | r=
+15.dn | qny-s | w-mrṯd-s
+16.l-mlk | qtbn | w-ḏm
+17.b-yʿd | mrṯdn | bḏl
+18.nfs-s | w-ʾl | b-yštyṭ
+19.kl | šyṭm | kl | ḏ-m | b-y=
+20.ʿrb | tmnʿ | l-štyṭ
+21.[b]n | ʿm | nkr | šʿbm | nb
+22.b-ʿm | qtbn | w-b | ʿm śf=
+23.ln | l-yṣtdqwn | qtb=
+24.n | ḥg | mḥrm | sḥrm-sm
+25.ʾmlk | qtbn | w-l | ykn
+26.šyṭm | b-yštyṭw=
+27.n | qtbn | bn | šmr | b=
+28.n | ḫdwr | b-ʿhr | q[tbn]
+29.[... ...]ʾnby | ḏt | sw=
+30.[... ... |] wqh | qtbn
+31.w-ḏ-m | b-ytśʿ | ʾw
+32.ʿdw | mšṭ | qtbn</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+...........................................
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> | mlk | qtbn | w-ʿh=
+<tei:lb n="2"/>r | šmr | ʾl | b-yʿdw=
+<tei:lb n="3"/>n | nʿmt | b-zwrtm |
+<tei:lb n="4"/>b-ʿlw | mšṭm | b-yšty=
+<tei:lb n="5"/>ṭwn | w-štʾm | qtbn | w-
+<tei:lb n="6"/>ʾwlw | hmd | ʿhr | šm=
+<tei:lb n="7"/>r | štyṭm | ʾw | qtdm=
+<tei:lb n="8"/>m | qtbn | b-mšṭ | šmr
+<tei:lb n="9"/>nkwn | qtbn | w-mn | l-
+<tei:lb n="10"/>ysʿrb | bn | qtbn
+<tei:lb n="11"/>w-bn | mʿnm | w-bn | <tei:unclear>ḥ=</tei:unclear>
+<tei:lb n="12"/>wr | tmnʿ | byt-s | w-
+<tei:lb n="13"/>mḫtn-s | ḫdrm | b-yʿ=
+<tei:lb n="14"/>rb | tmnʿ | w-bḏl | r=
+<tei:lb n="15"/>dn | qny-s | w-mrṯd-s
+<tei:lb n="16"/>l-mlk | qtbn | w-ḏm
+<tei:lb n="17"/>b-yʿd | mrṯdn | bḏl
+<tei:lb n="18"/>nfs-s | w-ʾl | b-yštyṭ
+<tei:lb n="19"/>kl | šyṭm | kl | ḏ-m | b-y=
+<tei:lb n="20"/>ʿrb | tmnʿ | l-štyṭ
+<tei:lb n="21"/>
+                    <tei:supplied reason="lost">b</tei:supplied>n | ʿm | nkr | šʿbm | nb
+<tei:lb n="22"/>b-ʿm | qtbn | w-b | ʿm śf=
+<tei:lb n="23"/>ln | l-yṣtdqwn | qtb=
+<tei:lb n="24"/>n | ḥg | mḥrm | sḥrm-sm
+<tei:lb n="25"/>ʾmlk | qtbn | w-l | ykn
+<tei:lb n="26"/>šyṭm | b-yštyṭw=
+<tei:lb n="27"/>n | qtbn | bn | šmr | b=
+<tei:lb n="28"/>n | ḫdwr | b-ʿhr | q<tei:supplied reason="lost">tbn</tei:supplied>
+<tei:lb n="29"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>ʾnby | ḏt | sw=
+<tei:lb n="30"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> |</tei:supplied> wqh | qtbn
+<tei:lb n="31"/>w-ḏ-m | b-ytśʿ | ʾw
+<tei:lb n="32"/>ʿdw | mšṭ | qtbn</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+...........................................
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>  mlk  qtbn  w-ʿh=
+<tei:lb n="2"/>r  šmr  ʾl  b-yʿdw=
+<tei:lb n="3"/>n  nʿmt  b-zwrtm 
+<tei:lb n="4"/>b-ʿlw  mšṭm  b-yšty=
+<tei:lb n="5"/>ṭwn  w-štʾm  qtbn  w-
+<tei:lb n="6"/>ʾwlw  hmd  ʿhr  šm=
+<tei:lb n="7"/>r  štyṭm  ʾw  qtdm=
+<tei:lb n="8"/>m  qtbn  b-mšṭ  šmr
+<tei:lb n="9"/>nkwn  qtbn  w-mn  l-
+<tei:lb n="10"/>ysʿrb  bn  qtbn
+<tei:lb n="11"/>w-bn  mʿnm  w-bn  ḥ=
+<tei:lb n="12"/>wr  tmnʿ  byt-s  w-
+<tei:lb n="13"/>mḫtn-s  ḫdrm  b-yʿ=
+<tei:lb n="14"/>rb  tmnʿ  w-bḏl  r=
+<tei:lb n="15"/>dn  qny-s  w-mrṯd-s
+<tei:lb n="16"/>l-mlk  qtbn  w-ḏm
+<tei:lb n="17"/>b-yʿd  mrṯdn  bḏl
+<tei:lb n="18"/>nfs-s  w-ʾl  b-yštyṭ
+<tei:lb n="19"/>kl  šyṭm  kl  ḏ-m  b-y=
+<tei:lb n="20"/>ʿrb  tmnʿ  l-štyṭ
+<tei:lb n="21"/>bn  ʿm  nkr  šʿbm  nb
+<tei:lb n="22"/>b-ʿm  qtbn  w-b  ʿm śf=
+<tei:lb n="23"/>ln  l-yṣtdqwn  qtb=
+<tei:lb n="24"/>n  ḥg  mḥrm  sḥrm-sm
+<tei:lb n="25"/>ʾmlk  qtbn  w-l  ykn
+<tei:lb n="26"/>šyṭm  b-yštyṭw=
+<tei:lb n="27"/>n  qtbn  bn  šmr  b=
+<tei:lb n="28"/>n  ḫdwr  b-ʿhr  qtbn
+<tei:lb n="29"/>ʾnby  ḏt  sw=
+<tei:lb n="30"/>  wqh  qtbn
+<tei:lb n="31"/>w-ḏ-m  b-ytśʿ  ʾw
+<tei:lb n="32"/>ʿdw  mšṭ  qtbn</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+...........................................
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>  mlk  qtbn  w-ʿh=
+<tei:lb n="2"/>r  šmr  ʾl  b-yʿdw=
+<tei:lb n="3"/>n  nʿmt  b-zwrtm 
+<tei:lb n="4"/>b-ʿlw  mšṭm  b-yšty=
+<tei:lb n="5"/>ṭwn  w-štʾm  qtbn  w-
+<tei:lb n="6"/>ʾwlw  hmd  ʿhr  šm=
+<tei:lb n="7"/>r  štyṭm  ʾw  qtdm=
+<tei:lb n="8"/>m  qtbn  b-mšṭ  šmr
+<tei:lb n="9"/>nkwn  qtbn  w-mn  l-
+<tei:lb n="10"/>ysʿrb  bn  qtbn
+<tei:lb n="11"/>w-bn  mʿnm  w-bn  ḥ=
+<tei:lb n="12"/>wr  tmnʿ  byt-s  w-
+<tei:lb n="13"/>mḫtn-s  ḫdrm  b-yʿ=
+<tei:lb n="14"/>rb  tmnʿ  w-bḏl  r=
+<tei:lb n="15"/>dn  qny-s  w-mrṯd-s
+<tei:lb n="16"/>l-mlk  qtbn  w-ḏm
+<tei:lb n="17"/>b-yʿd  mrṯdn  bḏl
+<tei:lb n="18"/>nfs-s  w-ʾl  b-yštyṭ
+<tei:lb n="19"/>kl  šyṭm  kl  ḏ-m  b-y=
+<tei:lb n="20"/>ʿrb  tmnʿ  l-štyṭ
+<tei:lb n="21"/>bn  ʿm  nkr  šʿbm  nb
+<tei:lb n="22"/>b-ʿm  qtbn  w-b  ʿm śf=
+<tei:lb n="23"/>ln  l-yṣtdqwn  qtb=
+<tei:lb n="24"/>n  ḥg  mḥrm  sḥrm-sm
+<tei:lb n="25"/>ʾmlk  qtbn  w-l  ykn
+<tei:lb n="26"/>šyṭm  b-yštyṭw=
+<tei:lb n="27"/>n  qtbn  bn  šmr  b=
+<tei:lb n="28"/>n  ḫdwr  b-ʿhr  qtbn
+<tei:lb n="29"/>ʾnby  ḏt  sw=
+<tei:lb n="30"/>  wqh  qtbn
+<tei:lb n="31"/>w-ḏ-m  b-ytśʿ  ʾw
+<tei:lb n="32"/>ʿdw  mšṭ  qtbn</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+...........................................
+
+
+Restored full text of the inscription:
+
+1.[... ...] the king of Qatabān and the overseer 
+2.of Shammar are not to 
+3.falsely exceed the favors
+4.upon the merchandise which the Qatabānians buy
+5.and sell, nor (upon)
+6.those on whom the overseer of Shammar has imposed a tax 
+7.on purchases or the transactions of 
+8.the Qatabānians in the marketplace of Shammar
+9.(in) the coinage of Qatabān. And whoever should
+10.lease, among the Qatabānians 	
+11.and among the Minaeans and among the
+12.residents of Timnaʿ, his house or
+13.his estate as a place of trade is to make a
+14.payment to Timnaʿ and entrust the profits 
+15.of his possessions and his means
+16.to the king of Qatabān. And whosoever
+17.surpasses his means is to entrust
+18.himself. And no
+19.merchandise shall be bought by anyone who 
+20.enters Timnaʿ to buy 
+21.from a foreign tribal community instead of
+22.from the Qatabānians and from the Suflān.
+23.Let the Qatabānians receive their due 
+24.in accordance with the dictates which the kings of Qatabānians have imposed upon them as inviolable.
+25.And let 
+26.the merchandise which the Qatabānians have bought 
+27.from Shammar 
+28.among the shops be by the authority of the overseer of Qa[tabān]
+29.[… …]ʾAnbay that which he has […]
+30.[… …] the command of the Qatabānians.
+31.And whosoever might increase or
+32.exceed the commerce of the Qatabānians</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+...........................................
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> the king of Qatabān and the overseer 
+<tei:lb n="2"/>of Shammar are not to 
+<tei:lb n="3"/>falsely exceed the favors
+<tei:lb n="4"/>upon the merchandise which the Qatabānians buy
+<tei:lb n="5"/>and sell, nor <tei:unclear>upon</tei:unclear>
+<tei:lb n="6"/>those on whom the overseer of Shammar has imposed a tax 
+<tei:lb n="7"/>on purchases or the transactions of 
+<tei:lb n="8"/>the Qatabānians in the marketplace of Shammar
+<tei:lb n="9"/>
+                    <tei:unclear>in</tei:unclear> the coinage of Qatabān. And whoever should
+<tei:lb n="10"/>lease, among the Qatabānians 	
+<tei:lb n="11"/>and among the Minaeans and among the
+<tei:lb n="12"/>residents of Timnaʿ, his house or
+<tei:lb n="13"/>his estate as a place of trade is to make a
+<tei:lb n="14"/>payment to Timnaʿ and entrust the profits 
+<tei:lb n="15"/>of his possessions and his means
+<tei:lb n="16"/>to the king of Qatabān. And whosoever
+<tei:lb n="17"/>surpasses his means is to entrust
+<tei:lb n="18"/>himself. And no
+<tei:lb n="19"/>merchandise shall be bought by anyone who 
+<tei:lb n="20"/>enters Timnaʿ to buy 
+<tei:lb n="21"/>from a foreign tribal community instead of
+<tei:lb n="22"/>from the Qatabānians and from the Suflān.
+<tei:lb n="23"/>Let the Qatabānians receive their due 
+<tei:lb n="24"/>in accordance with the dictates which the kings of Qatabānians have imposed upon them as inviolable.
+<tei:lb n="25"/>And let 
+<tei:lb n="26"/>the merchandise which the Qatabānians have bought 
+<tei:lb n="27"/>from Shammar 
+<tei:lb n="28"/>among the shops be by the authority of the overseer of Qa<tei:supplied reason="lost">tabān</tei:supplied>
+<tei:lb n="29"/>
+                    <tei:supplied reason="lost">… …</tei:supplied>ʾAnbay that which he has <tei:supplied reason="lost">…</tei:supplied>
+<tei:lb n="30"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> the command of the Qatabānians.
+<tei:lb n="31"/>And whosoever might increase or
+<tei:lb n="32"/>exceed the commerce of the Qatabānians</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+...........................................
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/> the king of Qatabān and the overseer 
+<tei:lb n="2"/>of Shammar are not to 
+<tei:lb n="3"/>falsely exceed the favors
+<tei:lb n="4"/>upon the merchandise which the Qatabānians buy
+<tei:lb n="5"/>and sell, nor upon
+<tei:lb n="6"/>those on whom the overseer of Shammar has imposed a tax 
+<tei:lb n="7"/>on purchases or the transactions of 
+<tei:lb n="8"/>the Qatabānians in the marketplace of Shammar
+<tei:lb n="9"/>in the coinage of Qatabān. And whoever should
+<tei:lb n="10"/>lease, among the Qatabānians 	
+<tei:lb n="11"/>and among the Minaeans and among the
+<tei:lb n="12"/>residents of Timnaʿ, his house or
+<tei:lb n="13"/>his estate as a place of trade is to make a
+<tei:lb n="14"/>payment to Timnaʿ and entrust the profits 
+<tei:lb n="15"/>of his possessions and his means
+<tei:lb n="16"/>to the king of Qatabān. And whosoever
+<tei:lb n="17"/>surpasses his means is to entrust
+<tei:lb n="18"/>himself. And no
+<tei:lb n="19"/>merchandise shall be bought by anyone who 
+<tei:lb n="20"/>enters Timnaʿ to buy 
+<tei:lb n="21"/>from a foreign tribal community instead of
+<tei:lb n="22"/>from the Qatabānians and from the Suflān.
+<tei:lb n="23"/>Let the Qatabānians receive their due 
+<tei:lb n="24"/>in accordance with the dictates which the kings of Qatabānians have imposed upon them as inviolable.
+<tei:lb n="25"/>And let 
+<tei:lb n="26"/>the merchandise which the Qatabānians have bought 
+<tei:lb n="27"/>from Shammar 
+<tei:lb n="28"/>among the shops be by the authority of the overseer of Qatabān
+<tei:lb n="29"/>… …ʾAnbay that which he has …
+<tei:lb n="30"/>… … the command of the Qatabānians.
+<tei:lb n="31"/>And whosoever might increase or
+<tei:lb n="32"/>exceed the commerce of the Qatabānians</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+...........................................
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/> the king of Qatabān and the overseer 
+<tei:lb n="2"/>of Shammar are not to 
+<tei:lb n="3"/>falsely exceed the favors
+<tei:lb n="4"/>upon the merchandise which the Qatabānians buy
+<tei:lb n="5"/>and sell, nor upon
+<tei:lb n="6"/>those on whom the overseer of Shammar has imposed a tax 
+<tei:lb n="7"/>on purchases or the transactions of 
+<tei:lb n="8"/>the Qatabānians in the marketplace of Shammar
+<tei:lb n="9"/>in the coinage of Qatabān. And whoever should
+<tei:lb n="10"/>lease, among the Qatabānians 	
+<tei:lb n="11"/>and among the Minaeans and among the
+<tei:lb n="12"/>residents of Timnaʿ, his house or
+<tei:lb n="13"/>his estate as a place of trade is to make a
+<tei:lb n="14"/>payment to Timnaʿ and entrust the profits 
+<tei:lb n="15"/>of his possessions and his means
+<tei:lb n="16"/>to the king of Qatabān. And whosoever
+<tei:lb n="17"/>surpasses his means is to entrust
+<tei:lb n="18"/>himself. And no
+<tei:lb n="19"/>merchandise shall be bought by anyone who 
+<tei:lb n="20"/>enters Timnaʿ to buy 
+<tei:lb n="21"/>from a foreign tribal community instead of
+<tei:lb n="22"/>from the Qatabānians and from the Suflān.
+<tei:lb n="23"/>Let the Qatabānians receive their due 
+<tei:lb n="24"/>in accordance with the dictates which the kings of Qatabānians have imposed upon them as inviolable.
+<tei:lb n="25"/>And let 
+<tei:lb n="26"/>the merchandise which the Qatabānians have bought 
+<tei:lb n="27"/>from Shammar 
+<tei:lb n="28"/>among the shops be by the authority of the overseer of Qatabān
+<tei:lb n="29"/>… …ʾAnbay that which he has …
+<tei:lb n="30"/>… … the command of the Qatabānians.
+<tei:lb n="31"/>And whosoever might increase or
+<tei:lb n="32"/>exceed the commerce of the Qatabānians</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

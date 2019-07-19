@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-P-4</title>
+                <title type="alt">1110001270</title>
+                <title type="alt">AT-OeAW-BA-3-27-P-4</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-P-4</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-02-05" who="ghatke"/>
+            <change when="2018-12-14" who="ghatke"/>
+            <change when="2018-12-13" who="ghatke"/>
+            <change when="2018-12-13" who="ghatke"/>
+            <change when="2018-09-19" who="ghatke"/>
+            <change when="2018-08-21" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-08-16" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-07-12" who="ghatke"/>
+            <change when="2018-06-26" who="ghatke"/>
+            <change when="2018-06-26" who="ghatke"/>
+            <change when="2018-06-26" who="ghatke"/>
+            <change when="2016-09-27" who="ghatke"/>
+            <change when="2016-04-20" who="ghatke"/>
+            <change when="2016-04-20" who="ghatke"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[ḥg | ḥg]r | w-sḥr
+2.w-sḥrm | šhr | hll | b=
+3.n | ydʿʾb | m(lk | q)[t]b[n | w-q=]
+4.tbn | b-tmnʿ | w-brm | w-ḏ-
+5.ḏhbw | ḥwkm | w-wld ʿm
+6.w-ġbr | tmnʿ | w-ġbr | wld
+7.ʿ(m) | k-ḏ-m | mn | l-(yš)ṭ | tmnʿ
+8.w-brm | šyṭm | w-l | yʿrb
+9.ʿd | tmnʿ | w-ḫdr | b-šmr | w-
+10.ʾṯrm | qtbn | b-mšṭm | w-ʾ=
+11.rmm | w-qnym | b-yḫdr | w-ʾ=
+12.rm | w-sšʾm | b-šmr | bn | kl
+13.ʾšʿbm | w-mty | yḫdr | ḫd=
+14.rm | w-ʾḏw | b-yštyṭ | ʾw | f=
+15.tḫr | b-ʿm | kl | ḏ-ḫdrm | w-mšṭ=
+16.m | blty | ʿhr | šmr | w-mty |
+17.l-ykśʾ | ʿhr | šmr | k-ḏ-m | b-y(s=)
+18.tḍf | qtbn | b-ʿm | ʾšʿbm | b-
+19.yšṭ | tmnʿ | w-ḫdr | mšṭ-s | b-
+20.šmr | w-l | yštyṭwn | qtbn
+21.bn | ʿm | ʾšʿbm | w-mn | l-ykśʾ=
+22.wn | ʿhr | šmr | k-ḏ-m | stzr
+23.bn | qtbn | b-mšṭm | ʿly | qt=
+24.bn | bn | nkr | šʿbm | ʾw | wz=
+25.ʾ | ʾnsm | ʿly | ʾḫ-s | b-ḫ[t]fr[m] | b-ystzr=
+26.wn | l-yrṯ | ḫmsy | wrqm
+27.l-mlk | qtbn | w-ʿhr | šmr
+28.ysmẓʾwn | w-sẓyy</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:supplied reason="lost">ḥg | ḥg</tei:supplied>r | w-sḥr
+<tei:lb n="2"/>w-sḥrm | šhr | hll | b=
+<tei:lb n="3"/>n | ydʿʾb | m<tei:unclear>lk | q</tei:unclear>
+                    <tei:supplied reason="lost">t</tei:supplied>b<tei:supplied reason="lost">n | w-q=</tei:supplied>
+<tei:lb n="4"/>tbn | b-tmnʿ | w-brm | w-ḏ-
+<tei:lb n="5"/>ḏhbw | ḥwkm | w-wld ʿm
+<tei:lb n="6"/>w-ġbr | tmnʿ | w-ġbr | wld
+<tei:lb n="7"/>ʿ<tei:unclear>m</tei:unclear> | k-ḏ-m | mn | l-<tei:unclear>yš</tei:unclear>ṭ | tmnʿ
+<tei:lb n="8"/>w-brm | šyṭm | w-l | yʿrb
+<tei:lb n="9"/>ʿd | tmnʿ | w-ḫdr | b-šmr | w-
+<tei:lb n="10"/>ʾṯrm | qtbn | b-mšṭm | w-ʾ=
+<tei:lb n="11"/>rmm | w-qnym | b-yḫdr | w-ʾ=
+<tei:lb n="12"/>rm | w-sšʾm | b-šmr | bn | kl
+<tei:lb n="13"/>ʾšʿbm | w-mty | yḫdr | ḫd=
+<tei:lb n="14"/>rm | w-ʾḏw | b-yštyṭ | ʾw | f=
+<tei:lb n="15"/>tḫr | b-ʿm | kl | ḏ-ḫdrm | w-mšṭ=
+<tei:lb n="16"/>m | blty | ʿhr | šmr | w-mty |
+<tei:lb n="17"/>l-ykśʾ | ʿhr | šmr | k-ḏ-m | b-y<tei:unclear>s=</tei:unclear>
+<tei:lb n="18"/>tḍf | qtbn | b-ʿm | ʾšʿbm | b-
+<tei:lb n="19"/>yšṭ | tmnʿ | w-ḫdr | mšṭ-s | b-
+<tei:lb n="20"/>šmr | w-l | yštyṭwn | qtbn
+<tei:lb n="21"/>bn | ʿm | ʾšʿbm | w-mn | l-ykśʾ=
+<tei:lb n="22"/>wn | ʿhr | šmr | k-ḏ-m | stzr
+<tei:lb n="23"/>bn | qtbn | b-mšṭm | ʿly | qt=
+<tei:lb n="24"/>bn | bn | nkr | šʿbm | ʾw | wz=
+<tei:lb n="25"/>ʾ | ʾnsm | ʿly | ʾḫ-s | b-ḫ<tei:supplied reason="lost">t</tei:supplied>fr<tei:supplied reason="lost">m</tei:supplied> | b-ystzr=
+<tei:lb n="26"/>wn | l-yrṯ | ḫmsy | wrqm
+<tei:lb n="27"/>l-mlk | qtbn | w-ʿhr | šmr
+<tei:lb n="28"/>ysmẓʾwn | w-sẓyy</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>ḥg  ḥgr  w-sḥr
+<tei:lb n="2"/>w-sḥrm  šhr  hll  b=
+<tei:lb n="3"/>n  ydʿʾb  mlk  qtbn  w-q=
+<tei:lb n="4"/>tbn  b-tmnʿ  w-brm  w-ḏ-
+<tei:lb n="5"/>ḏhbw  ḥwkm  w-wld ʿm
+<tei:lb n="6"/>w-ġbr  tmnʿ  w-ġbr  wld
+<tei:lb n="7"/>ʿm  k-ḏ-m  mn  l-yšṭ  tmnʿ
+<tei:lb n="8"/>w-brm  šyṭm  w-l  yʿrb
+<tei:lb n="9"/>ʿd  tmnʿ  w-ḫdr  b-šmr  w-
+<tei:lb n="10"/>ʾṯrm  qtbn  b-mšṭm  w-ʾ=
+<tei:lb n="11"/>rmm  w-qnym  b-yḫdr  w-ʾ=
+<tei:lb n="12"/>rm  w-sšʾm  b-šmr  bn  kl
+<tei:lb n="13"/>ʾšʿbm  w-mty  yḫdr  ḫd=
+<tei:lb n="14"/>rm  w-ʾḏw  b-yštyṭ  ʾw  f=
+<tei:lb n="15"/>tḫr  b-ʿm  kl  ḏ-ḫdrm  w-mšṭ=
+<tei:lb n="16"/>m  blty  ʿhr  šmr  w-mty 
+<tei:lb n="17"/>l-ykśʾ  ʿhr  šmr  k-ḏ-m  b-ys=
+<tei:lb n="18"/>tḍf  qtbn  b-ʿm  ʾšʿbm  b-
+<tei:lb n="19"/>yšṭ  tmnʿ  w-ḫdr  mšṭ-s  b-
+<tei:lb n="20"/>šmr  w-l  yštyṭwn  qtbn
+<tei:lb n="21"/>bn  ʿm  ʾšʿbm  w-mn  l-ykśʾ=
+<tei:lb n="22"/>wn  ʿhr  šmr  k-ḏ-m  stzr
+<tei:lb n="23"/>bn  qtbn  b-mšṭm  ʿly  qt=
+<tei:lb n="24"/>bn  bn  nkr  šʿbm  ʾw  wz=
+<tei:lb n="25"/>ʾ  ʾnsm  ʿly  ʾḫ-s  b-ḫtfrm  b-ystzr=
+<tei:lb n="26"/>wn  l-yrṯ  ḫmsy  wrqm
+<tei:lb n="27"/>l-mlk  qtbn  w-ʿhr  šmr
+<tei:lb n="28"/>ysmẓʾwn  w-sẓyy</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>ḥg  ḥgr  w-sḥr
+<tei:lb n="2"/>w-sḥrm  šhr  hll  b=
+<tei:lb n="3"/>n  ydʿʾb  mlk  qtbn  w-q=
+<tei:lb n="4"/>tbn  b-tmnʿ  w-brm  w-ḏ-
+<tei:lb n="5"/>ḏhbw  ḥwkm  w-wld ʿm
+<tei:lb n="6"/>w-ġbr  tmnʿ  w-ġbr  wld
+<tei:lb n="7"/>ʿm  k-ḏ-m  mn  l-yšṭ  tmnʿ
+<tei:lb n="8"/>w-brm  šyṭm  w-l  yʿrb
+<tei:lb n="9"/>ʿd  tmnʿ  w-ḫdr  b-šmr  w-
+<tei:lb n="10"/>ʾṯrm  qtbn  b-mšṭm  w-ʾ=
+<tei:lb n="11"/>rmm  w-qnym  b-yḫdr  w-ʾ=
+<tei:lb n="12"/>rm  w-sšʾm  b-šmr  bn  kl
+<tei:lb n="13"/>ʾšʿbm  w-mty  yḫdr  ḫd=
+<tei:lb n="14"/>rm  w-ʾḏw  b-yštyṭ  ʾw  f=
+<tei:lb n="15"/>tḫr  b-ʿm  kl  ḏ-ḫdrm  w-mšṭ=
+<tei:lb n="16"/>m  blty  ʿhr  šmr  w-mty 
+<tei:lb n="17"/>l-ykśʾ  ʿhr  šmr  k-ḏ-m  b-ys=
+<tei:lb n="18"/>tḍf  qtbn  b-ʿm  ʾšʿbm  b-
+<tei:lb n="19"/>yšṭ  tmnʿ  w-ḫdr  mšṭ-s  b-
+<tei:lb n="20"/>šmr  w-l  yštyṭwn  qtbn
+<tei:lb n="21"/>bn  ʿm  ʾšʿbm  w-mn  l-ykśʾ=
+<tei:lb n="22"/>wn  ʿhr  šmr  k-ḏ-m  stzr
+<tei:lb n="23"/>bn  qtbn  b-mšṭm  ʿly  qt=
+<tei:lb n="24"/>bn  bn  nkr  šʿbm  ʾw  wz=
+<tei:lb n="25"/>ʾ  ʾnsm  ʿly  ʾḫ-s  b-ḫtfrm  b-ystzr=
+<tei:lb n="26"/>wn  l-yrṯ  ḫmsy  wrqm
+<tei:lb n="27"/>l-mlk  qtbn  w-ʿhr  šmr
+<tei:lb n="28"/>ysmẓʾwn  w-sẓyy</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[Thus have de]creed and ordained
+2.and made inviolable Shahr Hilāl bin
+3.Yadaʿʾab, King of Qatabā[n, and the Qata-]
+4.bānians for Tamnaʿ and Barīm and the tribes of
+5.the two valleys of Ḥawkam and the children of ʿAmm
+6.and the landed gentry of Tamnaʿ and the landed gentry of the children of
+7.ʿAmm: A) That whoever should conduct trade in Tamnaʿ
+8.and in Barīm, whatever the sort of wares, must issue a guarantee
+9.in Tamnaʿ and set up a shop (only) in Shammar. B) And that
+10.whoever might involve himself with Qatabān with respect to merchandise and
+11.accumulate goods and property, shall set up his shop and 
+12.accumulate goods and make purchases (only) in Shammar--this with respect to all
+13.tribes (involved). C) And (that), should a shopkeeper (then) set up a shop
+14.and initiate transactions, he is free to do business or enter into
+15.a partnership with any other shop-owner or merchant
+16.without (the permission of) the magistrate of Shammar. D) And (that) when
+17.the magistrate of Shammar announces that the 
+18.Qatabānians are to receive guests from the tribes, he (i.e. the merchant hereby freed of obligations towards the magistrate of Shammar) shall 
+19.trade in Tamnaʿ and set up a stall for his merchandise in
+20.Shammar; and may the Qatabānians (likewise) do business 
+21.with those from the tribes. E) And (that) whoever among them
+22.should announce to the magistrate of Shammar that anyone has sought to
+23.travel among the Qatabānians with (his) merchandise, to the detriment of
+24.Qatabān (as a whole)--(that is), a foreigner among the tribes--or if an individual has continuously
+25.(had dealings) against his fellow tribesman in the course of a partnership while they are traveling,
+26.let him pay 50 silver pieces
+27.to the king of Qatabān and the magistrate of Shammar.
+28.They shall proceed and handle matters (from there).</tei:ab>
+                <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="error">
+                    <tei:message>Caught error exerr:EXXQDY0002: Error parsing XML. Document is not valid.
+Fatal (7,21) : The element type "ab" must be terminated by the matching end-tag "&lt;/ab&gt;".
+Validated in -1 millisec.
+ in document 1110001270.xml</tei:message>
+                    <tei:text>&lt;ab type="formal-markup"&gt;&lt;lb n="1"/&gt;&lt;supplied reason="lost"&gt;Thus have de&lt;/supplied&gt;creed and ordained
+&lt;lb n="2"/&gt;and made inviolable Shahr Hilāl bin
+&lt;lb n="3"/&gt;Yadaʿʾab, King of Qatabā&lt;supplied reason="lost"&gt;n, and the Qata-&lt;/supplied&gt;
+&lt;lb n="4"/&gt;bānians for Tamnaʿ and Barīm and the tribes of
+&lt;lb n="5"/&gt;the two valleys of Ḥawkam and the children of ʿAmm
+&lt;lb n="6"/&gt;and the landed gentry of Tamnaʿ and the landed gentry of the children of
+&lt;lb n="7"/&gt;ʿAmm: A&lt;/unclear&gt; That whoever should conduct trade in Tamnaʿ
+&lt;lb n="8"/&gt;and in Barīm, whatever the sort of wares, must issue a guarantee
+&lt;lb n="9"/&gt;in Tamnaʿ and set up a shop &lt;unclear&gt;only&lt;/unclear&gt; in Shammar. B&lt;/unclear&gt; And that
+&lt;lb n="10"/&gt;whoever might involve himself with Qatabān with respect to merchandise and
+&lt;lb n="11"/&gt;accumulate goods and property, shall set up his shop and 
+&lt;lb n="12"/&gt;accumulate goods and make purchases &lt;unclear&gt;only&lt;/unclear&gt; in Shammar--this with respect to all
+&lt;lb n="13"/&gt;tribes &lt;unclear&gt;involved&lt;/unclear&gt;. C&lt;/unclear&gt; And &lt;unclear&gt;that&lt;/unclear&gt;, should a shopkeeper &lt;unclear&gt;then&lt;/unclear&gt; set up a shop
+&lt;lb n="14"/&gt;and initiate transactions, he is free to do business or enter into
+&lt;lb n="15"/&gt;a partnership with any other shop-owner or merchant
+&lt;lb n="16"/&gt;without &lt;unclear&gt;the permission of&lt;/unclear&gt; the magistrate of Shammar. D&lt;/unclear&gt; And &lt;unclear&gt;that&lt;/unclear&gt; when
+&lt;lb n="17"/&gt;the magistrate of Shammar announces that the 
+&lt;lb n="18"/&gt;Qatabānians are to receive guests from the tribes, he &lt;unclear&gt;i.e. the merchant hereby freed of obligations towards the magistrate of Shammar&lt;/unclear&gt; shall 
+&lt;lb n="19"/&gt;trade in Tamnaʿ and set up a stall for his merchandise in
+&lt;lb n="20"/&gt;Shammar; and may the Qatabānians &lt;unclear&gt;likewise&lt;/unclear&gt; do business 
+&lt;lb n="21"/&gt;with those from the tribes. E&lt;/unclear&gt; And &lt;unclear&gt;that&lt;/unclear&gt; whoever among them
+&lt;lb n="22"/&gt;should announce to the magistrate of Shammar that anyone has sought to
+&lt;lb n="23"/&gt;travel among the Qatabānians with &lt;unclear&gt;his&lt;/unclear&gt; merchandise, to the detriment of
+&lt;lb n="24"/&gt;Qatabān &lt;unclear&gt;as a whole&lt;/unclear&gt;--&lt;unclear&gt;that is&lt;/unclear&gt;, a foreigner among the tribes--or if an individual has continuously
+&lt;lb n="25"/&gt;&lt;unclear&gt;had dealings&lt;/unclear&gt; against his fellow tribesman in the course of a partnership while they are traveling,
+&lt;lb n="26"/&gt;let him pay &lt;lb n="50"/&gt;silver pieces
+&lt;lb n="27"/&gt;to the king of Qatabān and the magistrate of Shammar.
+&lt;lb n="28"/&gt;They shall proceed and handle matters &lt;unclear&gt;from there&lt;/unclear&gt;.&lt;/ab&gt;</tei:text>
+                </tei:div>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>Thus have decreed and ordained
+<tei:lb n="2"/>and made inviolable Shahr Hilāl bin
+<tei:lb n="3"/>Yadaʿʾab, King of Qatabān, and the Qata-
+<tei:lb n="4"/>bānians for Tamnaʿ and Barīm and the tribes of
+<tei:lb n="5"/>the two valleys of Ḥawkam and the children of ʿAmm
+<tei:lb n="6"/>and the landed gentry of Tamnaʿ and the landed gentry of the children of
+<tei:lb n="7"/>ʿAmm: A That whoever should conduct trade in Tamnaʿ
+<tei:lb n="8"/>and in Barīm, whatever the sort of wares, must issue a guarantee
+<tei:lb n="9"/>in Tamnaʿ and set up a shop only in Shammar. B And that
+<tei:lb n="10"/>whoever might involve himself with Qatabān with respect to merchandise and
+<tei:lb n="11"/>accumulate goods and property, shall set up his shop and 
+<tei:lb n="12"/>accumulate goods and make purchases only in Shammar--this with respect to all
+<tei:lb n="13"/>tribes involved. C And that, should a shopkeeper then set up a shop
+<tei:lb n="14"/>and initiate transactions, he is free to do business or enter into
+<tei:lb n="15"/>a partnership with any other shop-owner or merchant
+<tei:lb n="16"/>without the permission of the magistrate of Shammar. D And that when
+<tei:lb n="17"/>the magistrate of Shammar announces that the 
+<tei:lb n="18"/>Qatabānians are to receive guests from the tribes, he i.e. the merchant hereby freed of obligations towards the magistrate of Shammar shall 
+<tei:lb n="19"/>trade in Tamnaʿ and set up a stall for his merchandise in
+<tei:lb n="20"/>Shammar; and may the Qatabānians likewise do business 
+<tei:lb n="21"/>with those from the tribes. E And that whoever among them
+<tei:lb n="22"/>should announce to the magistrate of Shammar that anyone has sought to
+<tei:lb n="23"/>travel among the Qatabānians with his merchandise, to the detriment of
+<tei:lb n="24"/>Qatabān as a whole--that is, a foreigner among the tribes--or if an individual has continuously
+<tei:lb n="25"/>had dealings against his fellow tribesman in the course of a partnership while they are traveling,
+<tei:lb n="26"/>let him pay <tei:lb n="50"/>silver pieces
+<tei:lb n="27"/>to the king of Qatabān and the magistrate of Shammar.
+<tei:lb n="28"/>They shall proceed and handle matters from there.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>Thus have decreed and ordained
+<tei:lb n="2"/>and made inviolable Shahr Hilāl bin
+<tei:lb n="3"/>Yadaʿʾab, King of Qatabān, and the Qata-
+<tei:lb n="4"/>bānians for Tamnaʿ and Barīm and the tribes of
+<tei:lb n="5"/>the two valleys of Ḥawkam and the children of ʿAmm
+<tei:lb n="6"/>and the landed gentry of Tamnaʿ and the landed gentry of the children of
+<tei:lb n="7"/>ʿAmm: A That whoever should conduct trade in Tamnaʿ
+<tei:lb n="8"/>and in Barīm, whatever the sort of wares, must issue a guarantee
+<tei:lb n="9"/>in Tamnaʿ and set up a shop only in Shammar. B And that
+<tei:lb n="10"/>whoever might involve himself with Qatabān with respect to merchandise and
+<tei:lb n="11"/>accumulate goods and property, shall set up his shop and 
+<tei:lb n="12"/>accumulate goods and make purchases only in Shammar--this with respect to all
+<tei:lb n="13"/>tribes involved. C And that, should a shopkeeper then set up a shop
+<tei:lb n="14"/>and initiate transactions, he is free to do business or enter into
+<tei:lb n="15"/>a partnership with any other shop-owner or merchant
+<tei:lb n="16"/>without the permission of the magistrate of Shammar. D And that when
+<tei:lb n="17"/>the magistrate of Shammar announces that the 
+<tei:lb n="18"/>Qatabānians are to receive guests from the tribes, he i.e. the merchant hereby freed of obligations towards the magistrate of Shammar shall 
+<tei:lb n="19"/>trade in Tamnaʿ and set up a stall for his merchandise in
+<tei:lb n="20"/>Shammar; and may the Qatabānians likewise do business 
+<tei:lb n="21"/>with those from the tribes. E And that whoever among them
+<tei:lb n="22"/>should announce to the magistrate of Shammar that anyone has sought to
+<tei:lb n="23"/>travel among the Qatabānians with his merchandise, to the detriment of
+<tei:lb n="24"/>Qatabān as a whole--that is, a foreigner among the tribes--or if an individual has continuously
+<tei:lb n="25"/>had dealings against his fellow tribesman in the course of a partnership while they are traveling,
+<tei:lb n="26"/>let him pay <tei:lb n="50"/>silver pieces
+<tei:lb n="27"/>to the king of Qatabān and the magistrate of Shammar.
+<tei:lb n="28"/>They shall proceed and handle matters from there.</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

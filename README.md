@@ -1,10 +1,27 @@
+# update 2019-07-19
+
+* Peter imported from NEW Pointerfile http://opacbasis.w07adlib1.arz.oeaw.ac.at/wwwopac.ashx?database=archive&command=getpointerfile&number=35 773 files
+* converted them to TEI and moved 307 files (those which are the new ones) to DROPBOX/editions-local/toProcess
+
+* **ANTON** can start tagging now.
+* Final files should be moved from `to_process` to `done_tagging`
+* when **ALL** files are tagged (i.e when there are 307 files in folder `done_tagging`),
+  * Anton will inform Petra
+  * Petra will inform Peter
+  * who will further proess
+    * those files (xsl-add headers)
+    * and upload them to glaser-tei
+
+
+-------------------------------------------------
+
 # finalize TEIs
 
 As of now (2017-11-21) this repo serves as workspace for finalizing the TEI documents created by Anton (see section *back up repo*).
 
 ## workflow
 
-Documents stored in `toProcess` (former `done` folder) will be transformed with XSLT(s) stored in `xsl` to 
+Documents stored in `toProcess` (former `done` folder) will be transformed with XSLT(s) stored in `xsl` to
 
 * validate against Epidoc-Schema (stored in `schema`)
 * get meaningful TEI-Headers

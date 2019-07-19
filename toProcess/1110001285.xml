@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-P-19</title>
+                <title type="alt">1110001285</title>
+                <title type="alt">AT-OeAW-BA-3-27-P-19</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-P-19</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-05-28" who="Anton Kungl"/>
+            <change when="2019-03-08" who="Anton Kungl"/>
+            <change when="2019-03-08" who="Anton Kungl"/>
+            <change when="2019-03-08" who="Anton Kungl"/>
+            <change when="2019-03-08" who="Anton Kungl"/>
+            <change when="2019-03-01" who="Anton Kungl"/>
+            <change when="2018-12-14" who="Anton Kungl"/>
+            <change when="2018-12-13" who="Anton Kungl"/>
+            <change when="2018-12-13" who="Anton Kungl"/>
+            <change when="2018-11-29" who="Anton Kungl"/>
+            <change when="2018-11-29" who="Anton Kungl"/>
+            <change when="2016-10-24" who="Anton Kungl"/>
+            <change when="2016-05-18" who="Anton Kungl"/>
+            <change when="2016-04-20" who="Anton Kungl"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.ḥgn | hknw | w-hḥrn | tʾ=
+2.(l)b | bʿl | mḫlyn | w-sʿdm 
+3.yḥmʾl | bny | sḫymm 
+4.w-šʿb-hmw | b-hgrn | brn | w-
+5.trʿm | w-ʾšrʿ | w-drywk | m=
+6.fr | hgrn | brn | k-yqfnn | w-
+7.ḥ | r | mrbḍn | kl | rʿy | w-ṯm=
+8.(r)t | w-mrʿt | ḏ-(b-)bʿnn | bn
+9.(ḥ)m(l)-hw | kl | qṭntm | [w-]ḥ[.=]
+10.n | ʿrmhwt | mrbḍn | kl | t[.]
+11.[.]nnt-hw | ḥgn | ḫmr 
+12.[..]rbbn-hmw | ʾmrʾ-hmw | b-
+13.[…]w | sḫymm</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>ḥgn | hknw | w-hḥrn | tʾ=
+<tei:lb n="2"/>
+                    <tei:unclear>l</tei:unclear>b | bʿl | mḫlyn | w-sʿdm 
+<tei:lb n="3"/>yḥmʾl | bny | sḫymm 
+<tei:lb n="4"/>w-šʿb-hmw | b-hgrn | brn | w-
+<tei:lb n="5"/>trʿm | w-ʾšrʿ | w-drywk | m=
+<tei:lb n="6"/>fr | hgrn | brn | k-yqfnn | w-
+<tei:lb n="7"/>ḥ | r | mrbḍn | kl | rʿy | w-ṯm=
+<tei:lb n="8"/>
+                    <tei:unclear>r</tei:unclear>t | w-mrʿt | ḏ-<tei:unclear>b-</tei:unclear>bʿnn | bn
+<tei:lb n="9"/>
+                    <tei:unclear>ḥ</tei:unclear>m<tei:unclear>l</tei:unclear>-hw | kl | qṭntm | <tei:supplied reason="lost">w-</tei:supplied>ḥ<tei:supplied reason="lost">.=</tei:supplied>
+<tei:lb n="10"/>n | ʿrmhwt | mrbḍn | kl | t<tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">.</tei:supplied>nnt-hw | ḥgn | ḫmr 
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">..</tei:supplied>rbbn-hmw | ʾmrʾ-hmw | b-
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">…</tei:supplied>w | sḫymm</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>ḥgn  hknw  w-hḥrn  tʾ=
+<tei:lb n="2"/>lb  bʿl  mḫlyn  w-sʿdm 
+<tei:lb n="3"/>yḥmʾl  bny  sḫymm 
+<tei:lb n="4"/>w-šʿb-hmw  b-hgrn  brn  w-
+<tei:lb n="5"/>trʿm  w-ʾšrʿ  w-drywk  m=
+<tei:lb n="6"/>fr  hgrn  brn  k-yqfnn  w-
+<tei:lb n="7"/>ḥ  r  mrbḍn  kl  rʿy  w-ṯm=
+<tei:lb n="8"/>rt  w-mrʿt  ḏ-b-bʿnn  bn
+<tei:lb n="9"/>ḥml-hw  kl  qṭntm  w-ḥ.=
+<tei:lb n="10"/>n  ʿrmhwt  mrbḍn  kl  t.
+<tei:lb n="11"/>.nnt-hw  ḥgn  ḫmr 
+<tei:lb n="12"/>..rbbn-hmw  ʾmrʾ-hmw  b-
+<tei:lb n="13"/>…w  sḫymm</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>ḥgn  hknw  w-hḥrn  tʾ=
+<tei:lb n="2"/>lb  bʿl  mḫlyn  w-sʿdm 
+<tei:lb n="3"/>yḥmʾl  bny  sḫymm 
+<tei:lb n="4"/>w-šʿb-hmw  b-hgrn  brn  w-
+<tei:lb n="5"/>trʿm  w-ʾšrʿ  w-drywk  m=
+<tei:lb n="6"/>fr  hgrn  brn  k-yqfnn  w-
+<tei:lb n="7"/>ḥ  r  mrbḍn  kl  rʿy  w-ṯm=
+<tei:lb n="8"/>rt  w-mrʿt  ḏ-b-bʿnn  bn
+<tei:lb n="9"/>ḥml-hw  kl  qṭntm  w-ḥ.=
+<tei:lb n="10"/>n  ʿrmhwt  mrbḍn  kl  t.
+<tei:lb n="11"/>.nnt-hw  ḥgn  ḫmr 
+<tei:lb n="12"/>..rbbn-hmw  ʾmrʾ-hmw  b-
+<tei:lb n="13"/>…w  sḫymm</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.Thus have brought to pass and decreed Taʾ-
+2.lab, Lord of Makhliyyum, and Saʿdab
+3.[and] Yuḥibbuʾīl of the lineage of Sukhaymum
+4.[and] their tribe of the town of Birrān and
+5.Turʿat and ʾAshraʿ. And they carried out the winnowing of the entire cultivated
+6.land of the town of Birrān so that they might set in order and
+7.arranged the grazing land: every flock(?) and grassy
+8.area(?) and grazing plot of the mountain [...]
+9.sustained(?) for him all of the small livestock, as
+10.[... ...] the grazing land: all of its
+11.[...] because they have granted them
+12.their grazing land, (i.e.) their lords of the li-
+13.neage of Sukhaymum. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>Thus have brought to pass and decreed Taʾ-
+<tei:lb n="2"/>lab, Lord of Makhliyyum, and Saʿdab
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">and</tei:supplied> Yuḥibbuʾīl of the lineage of Sukhaymum
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">and</tei:supplied> their tribe of the town of Birrān and
+<tei:lb n="5"/>Turʿat and ʾAshraʿ. And they carried out the winnowing of the entire cultivated
+<tei:lb n="6"/>land of the town of Birrān so that they might set in order and
+<tei:lb n="7"/>arranged the grazing land: every flock<tei:unclear>?</tei:unclear> and grassy
+<tei:lb n="8"/>area<tei:unclear>?</tei:unclear> and grazing plot of the mountain <tei:supplied reason="lost">...</tei:supplied>
+<tei:lb n="9"/>sustained<tei:unclear>?</tei:unclear> for him all of the small livestock, as
+<tei:lb n="10"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> the grazing land: all of its
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">...</tei:supplied> because they have granted them
+<tei:lb n="12"/>their grazing land, <tei:unclear>i.e.</tei:unclear> their lords of the li-
+<tei:lb n="13"/>neage of Sukhaymum. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>Thus have brought to pass and decreed Taʾ-
+<tei:lb n="2"/>lab, Lord of Makhliyyum, and Saʿdab
+<tei:lb n="3"/>and Yuḥibbuʾīl of the lineage of Sukhaymum
+<tei:lb n="4"/>and their tribe of the town of Birrān and
+<tei:lb n="5"/>Turʿat and ʾAshraʿ. And they carried out the winnowing of the entire cultivated
+<tei:lb n="6"/>land of the town of Birrān so that they might set in order and
+<tei:lb n="7"/>arranged the grazing land: every flock? and grassy
+<tei:lb n="8"/>area? and grazing plot of the mountain ...
+<tei:lb n="9"/>sustained? for him all of the small livestock, as
+<tei:lb n="10"/> the grazing land: all of its
+<tei:lb n="11"/>... because they have granted them
+<tei:lb n="12"/>their grazing land, i.e. their lords of the li-
+<tei:lb n="13"/>neage of Sukhaymum. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>Thus have brought to pass and decreed Taʾ-
+<tei:lb n="2"/>lab, Lord of Makhliyyum, and Saʿdab
+<tei:lb n="3"/>and Yuḥibbuʾīl of the lineage of Sukhaymum
+<tei:lb n="4"/>and their tribe of the town of Birrān and
+<tei:lb n="5"/>Turʿat and ʾAshraʿ. And they carried out the winnowing of the entire cultivated
+<tei:lb n="6"/>land of the town of Birrān so that they might set in order and
+<tei:lb n="7"/>arranged the grazing land: every flock? and grassy
+<tei:lb n="8"/>area? and grazing plot of the mountain ...
+<tei:lb n="9"/>sustained? for him all of the small livestock, as
+<tei:lb n="10"/> the grazing land: all of its
+<tei:lb n="11"/>... because they have granted them
+<tei:lb n="12"/>their grazing land, i.e. their lords of the li-
+<tei:lb n="13"/>neage of Sukhaymum. </tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

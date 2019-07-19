@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B30</title>
+                <title type="alt">1110003318</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-B30</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-B30</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-09-27" who="paigner"/>
+            <change when="2018-09-27" who="paigner"/>
+            <change when="2018-09-27" who="paigner"/>
+            <change when="2018-09-27" who="paigner"/>
+            <change when="2018-09-20" who="paigner"/>
+            <change when="2018-09-20" who="paigner"/>
+            <change when="2018-09-20" who="paigner"/>
+            <change when="2018-09-20" who="paigner"/>
+            <change when="2018-09-20" who="paigner"/>
+            <change when="2018-09-14" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2017-07-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.brqm | nmrn | bn | sʾrn | w-mḥylm | ʾqw=
+2.l | šʿbn | bklm | rbʿn | ḏ-rydt | hqny
+3.šy(m)-hmw | smʿ | ʿdy | ḥrmtn | ḏn | mśn=
+4.dn | ḥmdm | b-ḏt | ṣdq-hw | b-kl | ʾmlʾ
+5.(st)m(l)ʾ | b-ʿm-hw | (ṣ)rytm | (l-)hʿnn-hmw
+6.bn | qšḏn | b-brq | dṯʾ | ḏ-yʾtyn | b-ḫrf-b=
+7.ʿṯtr | bn | mʿdkrb | bn | ḥ(z)frm | w-hṯ=
+8.bw | l-smʿ | (t)ʾmnm | b-ḏt | ṣ(dq-)hmw | m=
+9.(l)ʾ-hw | w-hʾtww | ṯmr | ṣdqm | w-qšḏ-
+10.n | ʾl | rʾyw | w-l | wzʾ | smʿ | ṣdq | ʾd=
+11.m-hw | bny | sʾrn | b-kl | ʾmlʾ | ystm(l=)
+12.ʾnn | b-ʿm-hw | w-(l) | sʿd-hmw | nʿmtm | w-
+13.w(f)y(m) | w-(ʾ)ṯmr | ṣdqm | ʿdy | ʾrḍ-hmw
+14.w-mšymt-hmw</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>brqm | nmrn | bn | sʾrn | w-mḥylm | ʾqw=
+<tei:lb n="2"/>l | šʿbn | bklm | rbʿn | ḏ-rydt | hqny
+<tei:lb n="3"/>šy<tei:unclear>m</tei:unclear>-hmw | smʿ | ʿdy | ḥrmtn | ḏn | mśn=
+<tei:lb n="4"/>dn | ḥmdm | b-ḏt | ṣdq-hw | b-kl | ʾmlʾ
+<tei:lb n="5"/>
+                    <tei:unclear>st</tei:unclear>m<tei:unclear>l</tei:unclear>ʾ | b-ʿm-hw | <tei:unclear>ṣ</tei:unclear>rytm | <tei:unclear>l-</tei:unclear>hʿnn-hmw
+<tei:lb n="6"/>bn | qšḏn | b-brq | dṯʾ | ḏ-yʾtyn | b-ḫrf-b=
+<tei:lb n="7"/>ʿṯtr | bn | mʿdkrb | bn | ḥ<tei:unclear>z</tei:unclear>frm | w-hṯ=
+<tei:lb n="8"/>bw | l-smʿ | <tei:unclear>t</tei:unclear>ʾmnm | b-ḏt | ṣ<tei:unclear>dq-</tei:unclear>hmw | m=
+<tei:lb n="9"/>
+                    <tei:unclear>l</tei:unclear>ʾ-hw | w-hʾtww | ṯmr | ṣdqm | w-qšḏ-
+<tei:lb n="10"/>n | ʾl | rʾyw | w-l | wzʾ | smʿ | ṣdq | ʾd=
+<tei:lb n="11"/>m-hw | bny | sʾrn | b-kl | ʾmlʾ | ystm<tei:unclear>l=</tei:unclear>
+<tei:lb n="12"/>ʾnn | b-ʿm-hw | w-<tei:unclear>l</tei:unclear> | sʿd-hmw | nʿmtm | w-
+<tei:lb n="13"/>w<tei:unclear>f</tei:unclear>y<tei:unclear>m</tei:unclear> | w-<tei:unclear>ʾ</tei:unclear>ṯmr | ṣdqm | ʿdy | ʾrḍ-hmw
+<tei:lb n="14"/>w-mšymt-hmw</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>brqm  nmrn  bn  sʾrn  w-mḥylm  ʾqw=
+<tei:lb n="2"/>l  šʿbn  bklm  rbʿn  ḏ-rydt  hqny
+<tei:lb n="3"/>šym-hmw  smʿ  ʿdy  ḥrmtn  ḏn  mśn=
+<tei:lb n="4"/>dn  ḥmdm  b-ḏt  ṣdq-hw  b-kl  ʾmlʾ
+<tei:lb n="5"/>stmlʾ  b-ʿm-hw  ṣrytm  l-hʿnn-hmw
+<tei:lb n="6"/>bn  qšḏn  b-brq  dṯʾ  ḏ-yʾtyn  b-ḫrf-b=
+<tei:lb n="7"/>ʿṯtr  bn  mʿdkrb  bn  ḥzfrm  w-hṯ=
+<tei:lb n="8"/>bw  l-smʿ  tʾmnm  b-ḏt  ṣdq-hmw  m=
+<tei:lb n="9"/>lʾ-hw  w-hʾtww  ṯmr  ṣdqm  w-qšḏ-
+<tei:lb n="10"/>n  ʾl  rʾyw  w-l  wzʾ  smʿ  ṣdq  ʾd=
+<tei:lb n="11"/>m-hw  bny  sʾrn  b-kl  ʾmlʾ  ystml=
+<tei:lb n="12"/>ʾnn  b-ʿm-hw  w-l  sʿd-hmw  nʿmtm  w-
+<tei:lb n="13"/>wfym  w-ʾṯmr  ṣdqm  ʿdy  ʾrḍ-hmw
+<tei:lb n="14"/>w-mšymt-hmw</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>brqm  nmrn  bn  sʾrn  w-mḥylm  ʾqw=
+<tei:lb n="2"/>l  šʿbn  bklm  rbʿn  ḏ-rydt  hqny
+<tei:lb n="3"/>šym-hmw  smʿ  ʿdy  ḥrmtn  ḏn  mśn=
+<tei:lb n="4"/>dn  ḥmdm  b-ḏt  ṣdq-hw  b-kl  ʾmlʾ
+<tei:lb n="5"/>stmlʾ  b-ʿm-hw  ṣrytm  l-hʿnn-hmw
+<tei:lb n="6"/>bn  qšḏn  b-brq  dṯʾ  ḏ-yʾtyn  b-ḫrf-b=
+<tei:lb n="7"/>ʿṯtr  bn  mʿdkrb  bn  ḥzfrm  w-hṯ=
+<tei:lb n="8"/>bw  l-smʿ  tʾmnm  b-ḏt  ṣdq-hmw  m=
+<tei:lb n="9"/>lʾ-hw  w-hʾtww  ṯmr  ṣdqm  w-qšḏ-
+<tei:lb n="10"/>n  ʾl  rʾyw  w-l  wzʾ  smʿ  ṣdq  ʾd=
+<tei:lb n="11"/>m-hw  bny  sʾrn  b-kl  ʾmlʾ  ystml=
+<tei:lb n="12"/>ʾnn  b-ʿm-hw  w-l  sʿd-hmw  nʿmtm  w-
+<tei:lb n="13"/>wfym  w-ʾṯmr  ṣdqm  ʿdy  ʾrḍ-hmw
+<tei:lb n="14"/>w-mšymt-hmw</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.Barqum Nimrān of the lineage of Suʾrān and Muḥaylum, qayls 
+2.of the tribe of Bakīlum, the quarter of Dhū-Raydat, has dedicated
+3.to their patron-deity Sāmiʿ in Ḥaramatān this inscrip-
+4.tion out of gratitude because he fulfilled for him all the oracles
+5.which he had sought from him as a promise of protection in order to give them aid 
+6.against the storm during the springtime rainy season, which came in the month of Bi- 
+7.ʿathtar bin Maʿdīkarib bin Ḥazfirum, and they re-
+8.stored their faith to Sāmiʿ their faith because he had fulfilled for them his ora- 
+9.cle and they brought forth a good crop and of the storm 
+10.they saw no more. And may Sāmiʿ continue to fulfill for hiss er-
+11.vants of the lineage of Suʾrān all the oracles which they might seek
+12.from him. And he grant them prosperity and 
+13.well-being and good crops in their lands 
+14.and their fields. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>Barqum Nimrān of the lineage of Suʾrān and Muḥaylum, qayls 
+<tei:lb n="2"/>of the tribe of Bakīlum, the quarter of Dhū-Raydat, has dedicated
+<tei:lb n="3"/>to their patron-deity Sāmiʿ in Ḥaramatān this inscrip-
+<tei:lb n="4"/>tion out of gratitude because he fulfilled for him all the oracles
+<tei:lb n="5"/>which he had sought from him as a promise of protection in order to give them aid 
+<tei:lb n="6"/>against the storm during the springtime rainy season, which came in the month of Bi- 
+<tei:lb n="7"/>ʿathtar bin Maʿdīkarib bin Ḥazfirum, and they re-
+<tei:lb n="8"/>stored their faith to Sāmiʿ their faith because he had fulfilled for them his ora- 
+<tei:lb n="9"/>cle and they brought forth a good crop and of the storm 
+<tei:lb n="10"/>they saw no more. And may Sāmiʿ continue to fulfill for hiss er-
+<tei:lb n="11"/>vants of the lineage of Suʾrān all the oracles which they might seek
+<tei:lb n="12"/>from him. And he grant them prosperity and 
+<tei:lb n="13"/>well-being and good crops in their lands 
+<tei:lb n="14"/>and their fields. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>Barqum Nimrān of the lineage of Suʾrān and Muḥaylum, qayls 
+<tei:lb n="2"/>of the tribe of Bakīlum, the quarter of Dhū-Raydat, has dedicated
+<tei:lb n="3"/>to their patron-deity Sāmiʿ in Ḥaramatān this inscrip-
+<tei:lb n="4"/>tion out of gratitude because he fulfilled for him all the oracles
+<tei:lb n="5"/>which he had sought from him as a promise of protection in order to give them aid 
+<tei:lb n="6"/>against the storm during the springtime rainy season, which came in the month of Bi- 
+<tei:lb n="7"/>ʿathtar bin Maʿdīkarib bin Ḥazfirum, and they re-
+<tei:lb n="8"/>stored their faith to Sāmiʿ their faith because he had fulfilled for them his ora- 
+<tei:lb n="9"/>cle and they brought forth a good crop and of the storm 
+<tei:lb n="10"/>they saw no more. And may Sāmiʿ continue to fulfill for hiss er-
+<tei:lb n="11"/>vants of the lineage of Suʾrān all the oracles which they might seek
+<tei:lb n="12"/>from him. And he grant them prosperity and 
+<tei:lb n="13"/>well-being and good crops in their lands 
+<tei:lb n="14"/>and their fields. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>Barqum Nimrān of the lineage of Suʾrān and Muḥaylum, qayls 
+<tei:lb n="2"/>of the tribe of Bakīlum, the quarter of Dhū-Raydat, has dedicated
+<tei:lb n="3"/>to their patron-deity Sāmiʿ in Ḥaramatān this inscrip-
+<tei:lb n="4"/>tion out of gratitude because he fulfilled for him all the oracles
+<tei:lb n="5"/>which he had sought from him as a promise of protection in order to give them aid 
+<tei:lb n="6"/>against the storm during the springtime rainy season, which came in the month of Bi- 
+<tei:lb n="7"/>ʿathtar bin Maʿdīkarib bin Ḥazfirum, and they re-
+<tei:lb n="8"/>stored their faith to Sāmiʿ their faith because he had fulfilled for them his ora- 
+<tei:lb n="9"/>cle and they brought forth a good crop and of the storm 
+<tei:lb n="10"/>they saw no more. And may Sāmiʿ continue to fulfill for hiss er-
+<tei:lb n="11"/>vants of the lineage of Suʾrān all the oracles which they might seek
+<tei:lb n="12"/>from him. And he grant them prosperity and 
+<tei:lb n="13"/>well-being and good crops in their lands 
+<tei:lb n="14"/>and their fields. </tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

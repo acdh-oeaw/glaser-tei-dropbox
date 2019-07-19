@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-P-852</title>
+                <title type="alt">1110003730</title>
+                <title type="alt">AT-OeAW-BA-3-27-P-852</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-P-852</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-01-10" who="ghatke"/>
+            <change when="2019-01-10" who="ghatke"/>
+            <change when="2019-01-10" who="ghatke"/>
+            <change when="2019-01-10" who="ghatke"/>
+            <change when="2019-01-10" who="ghatke"/>
+            <change when="2019-01-10" who="ghatke"/>
+            <change when="2019-01-10" who="ghatke"/>
+            <change when="2019-01-04" who="ghatke"/>
+            <change when="2019-01-04" who="ghatke"/>
+            <change when="2019-01-03" who="ghatke"/>
+            <change when="2019-01-03" who="ghatke"/>
+            <change when="2019-01-03" who="ghatke"/>
+            <change when="2019-01-03" who="ghatke"/>
+            <change when="2018-12-19" who="ghatke"/>
+            <change when="2018-11-21" who="ghatke"/>
+            <change when="2018-11-21" who="ghatke"/>
+            <change when="2018-11-16" who="ghatke"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.rbʾwm | ʾḫṭr | w-rṯd[ṯwn | ... ... | bn=]
+2.w | ʾbkrb | bny | ḏ-sḥr | [hqnyw | ʿṯt=]
+3.r | w-sḥr | bʿly | nfq(n) | [... ...]
+4.ṯm&lt;n&gt;tn | ʾṣlmn | l-wfy | mrʾy-h(m)[w | ḏmrʿly | y=]
+5.hbr | w-bny-hw | ṯʾrn | mlky | sb[ʾ | w-ḏ-rydn | w-]
+6.l | wfy | ʾdm-hmw | rbʾwm | w-rṯdṯ(wn) | [w-bny | ḏ-]
+7.sḥr | w-l | wfy | ʾbyt-hmw | ʾbyt | ḏ-[sḥr | w-]
+8.l | wfy | ʾṯmr-hmw | w-[ʾfq](l)-hmw | bn | kl
+9.qny-hmw | b-kl | (b)[rṯm | rḥq]m | w-qrbm | w-l | [sʿ=]
+10.d-hmw | ʿṯtr | [w-sḥr | ḥẓy w-](rḍw |) mrʾy-h[mw]
+11.ḏmrʿly | yhbr | w-(bny-h)w | ṯʾrn | mlky | [sbʾ]
+12.[w-ḏ-r]ydn | w-ʿṯtr | w-sḥr | f-l | yhʿnnn | w-(m)[t=]
+13.[ʿn | ʿ]bdy-hmy | rbʾwm | w-rṯdṯwn | w-bny | ḏ-(s=)
+14.[ḥr | w]-ʾbyt-hmw | w-ʾṯmr-hmw | bn | bʾst(m)
+15.[w-nkyt]m | w-nḍʿ | w-šṣy | šnʾm | ḏ-rḥq | w-[qrb]
+16.[b-ʿṯ]tr | w-hwbs | w-ʾlmqh | w-b-ḏt | (ḥ=)
+17.[mym | w-b-ḏ]t | bʿdnm | w-b | ʿṯtr | w-sḥr | w-b-šms | (m=)
+18.[lkn | tn]f | w-b-šmsy-hmw | bʿlty | ʾwṯnm | [... ...]
+19.[hm]w | ysrn | w-rṯdw | hqnyt-hmw | ʿṯtr | w-s[ḥr]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>rbʾwm | ʾḫṭr | w-rṯd<tei:supplied reason="lost">ṯwn | <tei:gap quantity="plus4" unit="chars"/> | bn=</tei:supplied>
+<tei:lb n="2"/>w | ʾbkrb | bny | ḏ-sḥr | <tei:supplied reason="lost">hqnyw | ʿṯt=</tei:supplied>
+<tei:lb n="3"/>r | w-sḥr | bʿly | nfq<tei:unclear>n</tei:unclear> | <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="4"/>ṯm<tei:add>n</tei:add>tn | ʾṣlmn | l-wfy | mrʾy-h<tei:unclear>m</tei:unclear>
+                    <tei:supplied reason="lost">w | ḏmrʿly | y=</tei:supplied>
+<tei:lb n="5"/>hbr | w-bny-hw | ṯʾrn | mlky | sb<tei:supplied reason="lost">ʾ | w-ḏ-rydn | w-</tei:supplied>
+<tei:lb n="6"/>l | wfy | ʾdm-hmw | rbʾwm | w-rṯdṯ<tei:unclear>wn</tei:unclear> | <tei:supplied reason="lost">w-bny | ḏ-</tei:supplied>
+<tei:lb n="7"/>sḥr | w-l | wfy | ʾbyt-hmw | ʾbyt | ḏ-<tei:supplied reason="lost">sḥr | w-</tei:supplied>
+<tei:lb n="8"/>l | wfy | ʾṯmr-hmw | w-<tei:supplied reason="lost">ʾfq</tei:supplied>
+                    <tei:unclear>l</tei:unclear>-hmw | bn | kl
+<tei:lb n="9"/>qny-hmw | b-kl | <tei:unclear>b</tei:unclear>
+                    <tei:supplied reason="lost">rṯm | rḥq</tei:supplied>m | w-qrbm | w-l | <tei:supplied reason="lost">sʿ=</tei:supplied>
+<tei:lb n="10"/>d-hmw | ʿṯtr | <tei:supplied reason="lost">w-sḥr | ḥẓy w-</tei:supplied>
+                    <tei:unclear>rḍw |</tei:unclear> mrʾy-h<tei:supplied reason="lost">mw</tei:supplied>
+<tei:lb n="11"/>ḏmrʿly | yhbr | w-<tei:unclear>bny-h</tei:unclear>w | ṯʾrn | mlky | <tei:supplied reason="lost">sbʾ</tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">w-ḏ-r</tei:supplied>ydn | w-ʿṯtr | w-sḥr | f-l | yhʿnnn | w-<tei:unclear>m</tei:unclear>
+                    <tei:supplied reason="lost">t=</tei:supplied>
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">ʿn | ʿ</tei:supplied>bdy-hmy | rbʾwm | w-rṯdṯwn | w-bny | ḏ-<tei:unclear>s=</tei:unclear>
+<tei:lb n="14"/>
+                    <tei:supplied reason="lost">ḥr | w</tei:supplied>-ʾbyt-hmw | w-ʾṯmr-hmw | bn | bʾst<tei:unclear>m</tei:unclear>
+<tei:lb n="15"/>
+                    <tei:supplied reason="lost">w-nkyt</tei:supplied>m | w-nḍʿ | w-šṣy | šnʾm | ḏ-rḥq | w-<tei:supplied reason="lost">qrb</tei:supplied>
+<tei:lb n="16"/>
+                    <tei:supplied reason="lost">b-ʿṯ</tei:supplied>tr | w-hwbs | w-ʾlmqh | w-b-ḏt | <tei:unclear>ḥ=</tei:unclear>
+<tei:lb n="17"/>
+                    <tei:supplied reason="lost">mym | w-b-ḏ</tei:supplied>t | bʿdnm | w-b | ʿṯtr | w-sḥr | w-b-šms | <tei:unclear>m=</tei:unclear>
+<tei:lb n="18"/>
+                    <tei:supplied reason="lost">lkn | tn</tei:supplied>f | w-b-šmsy-hmw | bʿlty | ʾwṯnm | <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="19"/>
+                    <tei:supplied reason="lost">hm</tei:supplied>w | ysrn | w-rṯdw | hqnyt-hmw | ʿṯtr | w-s<tei:supplied reason="lost">ḥr</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>rbʾwm  ʾḫṭr  w-rṯdṯwn    bn=
+<tei:lb n="2"/>w  ʾbkrb  bny  ḏ-sḥr  hqnyw  ʿṯt=
+<tei:lb n="3"/>r  w-sḥr  bʿly  nfqn  
+<tei:lb n="4"/>ṯmntn  ʾṣlmn  l-wfy  mrʾy-hmw  ḏmrʿly  y=
+<tei:lb n="5"/>hbr  w-bny-hw  ṯʾrn  mlky  sbʾ  w-ḏ-rydn  w-
+<tei:lb n="6"/>l  wfy  ʾdm-hmw  rbʾwm  w-rṯdṯwn  w-bny  ḏ-
+<tei:lb n="7"/>sḥr  w-l  wfy  ʾbyt-hmw  ʾbyt  ḏ-sḥr  w-
+<tei:lb n="8"/>l  wfy  ʾṯmr-hmw  w-ʾfql-hmw  bn  kl
+<tei:lb n="9"/>qny-hmw  b-kl  brṯm  rḥqm  w-qrbm  w-l  sʿ=
+<tei:lb n="10"/>d-hmw  ʿṯtr  w-sḥr  ḥẓy w-rḍw  mrʾy-hmw
+<tei:lb n="11"/>ḏmrʿly  yhbr  w-bny-hw  ṯʾrn  mlky  sbʾ
+<tei:lb n="12"/>w-ḏ-rydn  w-ʿṯtr  w-sḥr  f-l  yhʿnnn  w-mt=
+<tei:lb n="13"/>ʿn  ʿbdy-hmy  rbʾwm  w-rṯdṯwn  w-bny  ḏ-s=
+<tei:lb n="14"/>ḥr  w-ʾbyt-hmw  w-ʾṯmr-hmw  bn  bʾstm
+<tei:lb n="15"/>w-nkytm  w-nḍʿ  w-šṣy  šnʾm  ḏ-rḥq  w-qrb
+<tei:lb n="16"/>b-ʿṯtr  w-hwbs  w-ʾlmqh  w-b-ḏt  ḥ=
+<tei:lb n="17"/>mym  w-b-ḏt  bʿdnm  w-b  ʿṯtr  w-sḥr  w-b-šms  m=
+<tei:lb n="18"/>lkn  tnf  w-b-šmsy-hmw  bʿlty  ʾwṯnm  
+<tei:lb n="19"/>hmw  ysrn  w-rṯdw  hqnyt-hmw  ʿṯtr  w-sḥr</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>rbʾwm  ʾḫṭr  w-rṯdṯwn    bn=
+<tei:lb n="2"/>w  ʾbkrb  bny  ḏ-sḥr  hqnyw  ʿṯt=
+<tei:lb n="3"/>r  w-sḥr  bʿly  nfqn  
+<tei:lb n="4"/>ṯmntn  ʾṣlmn  l-wfy  mrʾy-hmw  ḏmrʿly  y=
+<tei:lb n="5"/>hbr  w-bny-hw  ṯʾrn  mlky  sbʾ  w-ḏ-rydn  w-
+<tei:lb n="6"/>l  wfy  ʾdm-hmw  rbʾwm  w-rṯdṯwn  w-bny  ḏ-
+<tei:lb n="7"/>sḥr  w-l  wfy  ʾbyt-hmw  ʾbyt  ḏ-sḥr  w-
+<tei:lb n="8"/>l  wfy  ʾṯmr-hmw  w-ʾfql-hmw  bn  kl
+<tei:lb n="9"/>qny-hmw  b-kl  brṯm  rḥqm  w-qrbm  w-l  sʿ=
+<tei:lb n="10"/>d-hmw  ʿṯtr  w-sḥr  ḥẓy w-rḍw  mrʾy-hmw
+<tei:lb n="11"/>ḏmrʿly  yhbr  w-bny-hw  ṯʾrn  mlky  sbʾ
+<tei:lb n="12"/>w-ḏ-rydn  w-ʿṯtr  w-sḥr  f-l  yhʿnnn  w-mt=
+<tei:lb n="13"/>ʿn  ʿbdy-hmy  rbʾwm  w-rṯdṯwn  w-bny  ḏ-s=
+<tei:lb n="14"/>ḥr  w-ʾbyt-hmw  w-ʾṯmr-hmw  bn  bʾstm
+<tei:lb n="15"/>w-nkytm  w-nḍʿ  w-šṣy  šnʾm  ḏ-rḥq  w-qrb
+<tei:lb n="16"/>b-ʿṯtr  w-hwbs  w-ʾlmqh  w-b-ḏt  ḥ=
+<tei:lb n="17"/>mym  w-b-ḏt  bʿdnm  w-b  ʿṯtr  w-sḥr  w-b-šms  m=
+<tei:lb n="18"/>lkn  tnf  w-b-šmsy-hmw  bʿlty  ʾwṯnm  
+<tei:lb n="19"/>hmw  ysrn  w-rṯdw  hqnyt-hmw  ʿṯtr  w-sḥr</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.Rabbīʾawwām ʾAkhṭar and Rathad[thawān ... ... sons]
+2.of ʾAbīkarib of the lineage of Dhū-Saḥar [have dedicated to ʿAthta=]
+3.r and Saḥar, the two lords of Nafqā(n) [... ...]
+4.eight statues for the well-being of their two lords, [Dhamarʿalī Yu=]
+5.habirr and his son Thaʾrān, the two kings of Saba[ʾ and Dhū-Raydān, and]
+6.for the well-being of their (i.e. the kings’) two clients Rabbīʾawwām and Rathadtha(wān) [and the lineage of Dhū-]
+7.Saḥar, and for the well-being of their households-the households of Dhū-[Saḥar, and]
+8.for the well-being of their crops and their [har]vests from their entire property, 
+9.in every pl[ace, far] and near. And may  
+10.ʿAthtar [Saḥar g]rant them the esteem and] good-pleasure of th[eir] two lords, 
+11. Dhamarʿalī Yuhabirr and his son Thaʾrān, the two kings of [Sabaʾ] 
+12.[and Dhū-Ra]ydān. And may ʿAthtar and Saḥar aid and pro-
+13.[tect] their two servants Rabbīʾawwām and Rathadthawān and the lineage of Dhū-Sa-  
+14.[ḥar and] their households and their crops from any harm 
+15.[and mali]ce, and the enmity and malevolence of any enemy, far or [near].
+16.[By ʿAth]tar and Hawbas and ʾĪlmuquh and by Dhāt-Ḥi-
+17.[māyim and by Dhā]t-Buʿdānim and by ʿAthtar and Saḥar and by the (protective) sun-goddess of the 
+18.[king-Tanū]f-and by their (i.e. the dedicants’) two sun-goddesses, the mistresses of boundaries, [... ...]
+19.their […] Yāsirān. And they have committed their dedications to ʿAthtar and Sa[ḥar].</tei:ab>
+                <tei:div xmlns:tei="http://www.tei-c.org/ns/1.0" type="error">
+                    <tei:message>Caught error exerr:EXXQDY0002: Error parsing XML. Document is not valid.
+Fatal (10,89) : The element type "ab" must be terminated by the matching end-tag "&lt;/ab&gt;".
+Validated in -1 millisec.
+ in document 1110003730.xml</tei:message>
+                    <tei:text>&lt;ab type="formal-markup"&gt;&lt;lb n="1"/&gt;Rabbīʾawwām ʾAkhṭar and Rathad&lt;supplied reason="lost"&gt;thawān &lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt; sons&lt;/supplied&gt;
+&lt;lb n="2"/&gt;of ʾAbīkarib of the lineage of Dhū-Saḥar &lt;supplied reason="lost"&gt;have dedicated to ʿAthta=&lt;/supplied&gt;
+&lt;lb n="3"/&gt;r and Saḥar, the two lords of Nafqā&lt;unclear&gt;n&lt;/unclear&gt; &lt;supplied reason="lost"&gt;&lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
+&lt;lb n="4"/&gt;eight statues for the well-being of their two lords, &lt;supplied reason="lost"&gt;Dhamarʿalī Yu=&lt;/supplied&gt;
+&lt;lb n="5"/&gt;habirr and his son Thaʾrān, the two kings of Saba&lt;supplied reason="lost"&gt;ʾ and Dhū-Raydān, and&lt;/supplied&gt;
+&lt;lb n="6"/&gt;for the well-being of their &lt;unclear&gt;i.e. the kings’&lt;/unclear&gt; two clients Rabbīʾawwām and Rathadtha&lt;unclear&gt;wān&lt;/unclear&gt; &lt;supplied reason="lost"&gt;and the lineage of Dhū-&lt;/supplied&gt;
+&lt;lb n="7"/&gt;Saḥar, and for the well-being of their households-the households of Dhū-&lt;supplied reason="lost"&gt;Saḥar, and&lt;/supplied&gt;
+&lt;lb n="8"/&gt;for the well-being of their crops and their &lt;supplied reason="lost"&gt;har&lt;/supplied&gt;vests from their entire property, 
+&lt;lb n="9"/&gt;in every pl&lt;supplied reason="lost"&gt;ace, far&lt;/supplied&gt; and near. And may  
+&lt;lb n="10"/&gt;ʿAthtar &lt;supplied reason="lost"&gt;Saḥar g&lt;/supplied&gt;rant them the esteem and&lt;/supplied&gt; good-pleasure of th&lt;supplied reason="lost"&gt;eir&lt;/supplied&gt; two lords, 
+&lt;lb n="11"/&gt; Dhamarʿalī Yuhabirr and his son Thaʾrān, the two kings of &lt;supplied reason="lost"&gt;Sabaʾ&lt;/supplied&gt; 
+&lt;lb n="12"/&gt;&lt;supplied reason="lost"&gt;and Dhū-Ra&lt;/supplied&gt;ydān. And may ʿAthtar and Saḥar aid and pro-
+&lt;lb n="13"/&gt;&lt;supplied reason="lost"&gt;tect&lt;/supplied&gt; their two servants Rabbīʾawwām and Rathadthawān and the lineage of Dhū-Sa-  
+&lt;lb n="14"/&gt;&lt;supplied reason="lost"&gt;ḥar and&lt;/supplied&gt; their households and their crops from any harm 
+&lt;lb n="15"/&gt;&lt;supplied reason="lost"&gt;and mali&lt;/supplied&gt;ce, and the enmity and malevolence of any enemy, far or &lt;supplied reason="lost"&gt;near&lt;/supplied&gt;.
+&lt;lb n="16"/&gt;&lt;supplied reason="lost"&gt;By ʿAth&lt;/supplied&gt;tar and Hawbas and ʾĪlmuquh and by Dhāt-Ḥi-
+&lt;lb n="17"/&gt;&lt;supplied reason="lost"&gt;māyim and by Dhā&lt;/supplied&gt;t-Buʿdānim and by ʿAthtar and Saḥar and by the &lt;unclear&gt;protective&lt;/unclear&gt; sun-goddess of the 
+&lt;lb n="18"/&gt;&lt;supplied reason="lost"&gt;king-Tanū&lt;/supplied&gt;f-and by their &lt;unclear&gt;i.e. the dedicants’&lt;/unclear&gt; two sun-goddesses, the mistresses of boundaries, &lt;supplied reason="lost"&gt;&lt;gap quantity="plus4" unit="chars"&gt;&lt;/gap&gt;&lt;/supplied&gt;
+&lt;lb n="19"/&gt;their &lt;supplied reason="lost"&gt;…&lt;/supplied&gt; Yāsirān. And they have committed their dedications to ʿAthtar and Sa&lt;supplied reason="lost"&gt;ḥar&lt;/supplied&gt;.&lt;/ab&gt;</tei:text>
+                </tei:div>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>Rabbīʾawwām ʾAkhṭar and Rathadthawān  sons
+<tei:lb n="2"/>of ʾAbīkarib of the lineage of Dhū-Saḥar have dedicated to ʿAthta=
+<tei:lb n="3"/>r and Saḥar, the two lords of Nafqān 
+<tei:lb n="4"/>eight statues for the well-being of their two lords, Dhamarʿalī Yu=
+<tei:lb n="5"/>habirr and his son Thaʾrān, the two kings of Sabaʾ and Dhū-Raydān, and
+<tei:lb n="6"/>for the well-being of their i.e. the kings’ two clients Rabbīʾawwām and Rathadthawān and the lineage of Dhū-
+<tei:lb n="7"/>Saḥar, and for the well-being of their households-the households of Dhū-Saḥar, and
+<tei:lb n="8"/>for the well-being of their crops and their harvests from their entire property, 
+<tei:lb n="9"/>in every place, far and near. And may  
+<tei:lb n="10"/>ʿAthtar Saḥar grant them the esteem and good-pleasure of their two lords, 
+<tei:lb n="11"/> Dhamarʿalī Yuhabirr and his son Thaʾrān, the two kings of Sabaʾ 
+<tei:lb n="12"/>and Dhū-Raydān. And may ʿAthtar and Saḥar aid and pro-
+<tei:lb n="13"/>tect their two servants Rabbīʾawwām and Rathadthawān and the lineage of Dhū-Sa-  
+<tei:lb n="14"/>ḥar and their households and their crops from any harm 
+<tei:lb n="15"/>and malice, and the enmity and malevolence of any enemy, far or near.
+<tei:lb n="16"/>By ʿAthtar and Hawbas and ʾĪlmuquh and by Dhāt-Ḥi-
+<tei:lb n="17"/>māyim and by Dhāt-Buʿdānim and by ʿAthtar and Saḥar and by the protective sun-goddess of the 
+<tei:lb n="18"/>king-Tanūf-and by their i.e. the dedicants’ two sun-goddesses, the mistresses of boundaries, 
+<tei:lb n="19"/>their … Yāsirān. And they have committed their dedications to ʿAthtar and Saḥar.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>Rabbīʾawwām ʾAkhṭar and Rathadthawān  sons
+<tei:lb n="2"/>of ʾAbīkarib of the lineage of Dhū-Saḥar have dedicated to ʿAthta=
+<tei:lb n="3"/>r and Saḥar, the two lords of Nafqān 
+<tei:lb n="4"/>eight statues for the well-being of their two lords, Dhamarʿalī Yu=
+<tei:lb n="5"/>habirr and his son Thaʾrān, the two kings of Sabaʾ and Dhū-Raydān, and
+<tei:lb n="6"/>for the well-being of their i.e. the kings’ two clients Rabbīʾawwām and Rathadthawān and the lineage of Dhū-
+<tei:lb n="7"/>Saḥar, and for the well-being of their households-the households of Dhū-Saḥar, and
+<tei:lb n="8"/>for the well-being of their crops and their harvests from their entire property, 
+<tei:lb n="9"/>in every place, far and near. And may  
+<tei:lb n="10"/>ʿAthtar Saḥar grant them the esteem and good-pleasure of their two lords, 
+<tei:lb n="11"/> Dhamarʿalī Yuhabirr and his son Thaʾrān, the two kings of Sabaʾ 
+<tei:lb n="12"/>and Dhū-Raydān. And may ʿAthtar and Saḥar aid and pro-
+<tei:lb n="13"/>tect their two servants Rabbīʾawwām and Rathadthawān and the lineage of Dhū-Sa-  
+<tei:lb n="14"/>ḥar and their households and their crops from any harm 
+<tei:lb n="15"/>and malice, and the enmity and malevolence of any enemy, far or near.
+<tei:lb n="16"/>By ʿAthtar and Hawbas and ʾĪlmuquh and by Dhāt-Ḥi-
+<tei:lb n="17"/>māyim and by Dhāt-Buʿdānim and by ʿAthtar and Saḥar and by the protective sun-goddess of the 
+<tei:lb n="18"/>king-Tanūf-and by their i.e. the dedicants’ two sun-goddesses, the mistresses of boundaries, 
+<tei:lb n="19"/>their … Yāsirān. And they have committed their dedications to ʿAthtar and Saḥar.</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

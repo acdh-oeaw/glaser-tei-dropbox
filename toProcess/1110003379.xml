@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1608_02_37</title>
+                <title type="alt">1110003379</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1608_02_37</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1608_02_37</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-10-10" who="paigner"/>
+            <change when="2018-10-05" who="paigner"/>
+            <change when="2018-10-05" who="paigner"/>
+            <change when="2018-10-04" who="paigner"/>
+            <change when="2018-10-04" who="paigner"/>
+            <change when="2018-10-04" who="paigner"/>
+            <change when="2018-10-04" who="paigner"/>
+            <change when="2018-10-04" who="paigner"/>
+            <change when="2018-10-03" who="paigner"/>
+            <change when="2018-09-21" who="paigner"/>
+            <change when="2018-09-19" who="paigner"/>
+            <change when="2018-09-14" who="paigner"/>
+            <change when="2018-09-14" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2017-07-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+11.w-ḥrg [....] bn | h
+12.ḍm | b-s | b-yhrg | nḥql | bn | ʾrbʿ | y(w)
+13.mʿbrn | ʿd-km | b-yṣry-s | mlkn | knm | b-yʿ
+14.ʾydw | zydm | ḏ-ẓrb | ḏ-ḏrʾn | w-
+15.mškrm | ḏ-ġrbm | w-ḏrʾkrb | bn | ḥnẓ
+16.ygr | w-ʿmyṯʿ | ḏ-ršm | w-lḥyʿṯt | m
+17. | mʿhr | w-ʾbšbm | bn | ʾʿsyfr | w-ḏydm 
+18.(h)wfʿm | ḏ-hṣbḥ | w-ʿmḏḫr | ḏ-šrgn | w-ʾbšfq | ḏ-hrmw | w-
+19. | w-yṯʿkrb | yʾḏn | w-nbṭʿly | bn | hṯb | ršḥm | w-ʿmkrb | bn | ṣbḥm | w-
+20.fq | ḏ-yfʿm | w-mʿdʾl | ḏ-nḍrn | w-nbṭʿm | bn | ṭwy
+21.ḏ-hṯʿr | lḥy | w-ʿmʾmn | ḫbḏn | w-smydʿ | ṭn[.]zm | w-yn
+
+
+Restored full text of the inscription:
+
+1.[... ... | w-sḥr | ydʿʾb | ḏbyn | bn | šhr |] mlk | qtbn | w-qtbn | mś[wdn]
+2.[w-fqḍtn | w-btln | w-rdmn | w-ʾlmlk |] w-mḍḥym | w-yḥr | w-bkl[my-w-ḏ-... ...]
+3.[... ...tn | w-bklnhn | w-kl | ʾšʿbm | yml]k | ydʿʾb | bn | mʾtmm | w-ʾ[mm |]
+4.[... ...m | ʾḫ-s | bn | qtbn | w-ḏtn |] ʾšʿbn | w-l | yḥrm | sw [| ʾnsn | hrgn |]
+5.[... ...knm | b-yṯfṭ-s | w-sḥr | w-sʿbr | w-ṣry | mlkn | bn | tmnʿ | w-]
+6.[... ...kr | brṯm | w-mʿbrm | ġyr | brṯm | b-ysḥr-s | w-sʿbr | w-ṣry | m=]
+7.[lkn | ... ...l-ymt | sw | ʾnsn | mstʿdwn | knm | b-ykśʾ | w-ḥlt | nfs-s]
+8.[... ...gs | mwt | ʾw | mʿbr | b-nfs | mstʿdwn | ʾsmʿm]
+9.[... ... wrḫ-s | ḏ-mslʿt | ḫrf | ġwṯʾl ḏ-ġ=]
+10.[... ...f | hgrn | tmnʿ | w-wʿln | w-śyrm | w-]
+11.[... ...ṯfṭ |] w-ḥrg [| mlkn |] bn | h[gr | ʾšʿb | ʿm | w-ḏm | b-yhrg | f-l |]
+12.[... ...ʾr]ḍm | b-s | b-yhrg | nḥql | bn | ʾrbʿ | y(w)[mytm | n-l | yntwḥ | ʿd |]
+13.[... ...]mʿbrn | ʿd-km | b-yṣry-s | mlkn | knm | b-yʿ[br | w-ḥwr | w-tʿlm-ʾy | y=]
+14.[d | šhr | w-tʿlm-ʾy | ]ʾydw | zydm | ḏ-ẓrb | ḏ-ḏrʾn | w-[šhrm | d-ḏrʾn | w-ṣbḥkrb | ḏ-hrn |]
+15.[... ...]mškrm | ḏ-ġrbm | w-ḏrʾkrb | bn | ḥnẓ[t | w-gyrm | ḏ-šhr | w-hwfʿm | bn]
+16.[... ... | ḏ-]ygr | w-ʿmyṯʿ | ḏ-ršm | w-lḥyʿṯt | m[ʿhr | w-ḍbʾm | bn | zḫnn | w-hwfʿṯt | n=]
+17.[... ... bn] | mʿhr | w-ʾbšbm | bn | ʾʿsyfr | w-ḏydm [| ġrbn | w-ʿmḏḫr | glgln | w-hwtrʿṯt]
+18.[... ...](h)wfʿm | ḏ-hṣbḥ | w-ʿmḏḫr | ḏ-šrgn | w-ʾbšfq | ḏ-hrmw | w-[ʾbšfq | bn | gʾnn | w-lśb]
+19.[... ...] | w-yṯʿkrb | yʾḏn | w-nbṭʿly | bn | hṯb | ršḥm | w-ʿmkrb | bn | ṣbḥm | w-[smydʿ | ḏ-gʿrn]
+20.[... ...š]fq | ḏ-yfʿm | w-mʿdʾl | ḏ-nḍrn | w-nbṭʿm | bn | ṭwy[n | w-yʿgf | ḏ-yʿgf | w-ḏydm | ḏ-ʿgḏ | w-ʿ=]
+21.[... ...] ḏ-hṯʿr | lḥy | w-ʿmʾmn | ḫbḏn | w-smydʿ | ṭn[.]zm | w-yn[fʾ | ḏ-rft | w-nbṭʿm | ḏ-ḏrḥn]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="11"/>w-ḥrg <tei:supplied reason="lost">....</tei:supplied> bn | h
+<tei:lb n="12"/>ḍm | b-s | b-yhrg | nḥql | bn | ʾrbʿ | y<tei:unclear>w</tei:unclear>
+<tei:lb n="13"/>mʿbrn | ʿd-km | b-yṣry-s | mlkn | knm | b-yʿ
+<tei:lb n="14"/>ʾydw | zydm | ḏ-ẓrb | ḏ-ḏrʾn | w-
+<tei:lb n="15"/>mškrm | ḏ-ġrbm | w-ḏrʾkrb | bn | ḥnẓ
+<tei:lb n="16"/>ygr | w-ʿmyṯʿ | ḏ-ršm | w-lḥyʿṯt | m
+<tei:lb n="17"/> | mʿhr | w-ʾbšbm | bn | ʾʿsyfr | w-ḏydm 
+<tei:lb n="18"/>
+                    <tei:unclear>h</tei:unclear>wfʿm | ḏ-hṣbḥ | w-ʿmḏḫr | ḏ-šrgn | w-ʾbšfq | ḏ-hrmw | w-
+<tei:lb n="19"/> | w-yṯʿkrb | yʾḏn | w-nbṭʿly | bn | hṯb | ršḥm | w-ʿmkrb | bn | ṣbḥm | w-
+<tei:lb n="20"/>fq | ḏ-yfʿm | w-mʿdʾl | ḏ-nḍrn | w-nbṭʿm | bn | ṭwy
+<tei:lb n="21"/>ḏ-hṯʿr | lḥy | w-ʿmʾmn | ḫbḏn | w-smydʿ | ṭn<tei:supplied reason="lost">.</tei:supplied>zm | w-yn
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> | w-sḥr | ydʿʾb | ḏbyn | bn | šhr |</tei:supplied> mlk | qtbn | w-qtbn | mś<tei:supplied reason="lost">wdn</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">w-fqḍtn | w-btln | w-rdmn | w-ʾlmlk |</tei:supplied> w-mḍḥym | w-yḥr | w-bkl<tei:supplied reason="lost">my-w-ḏ-<tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>tn | w-bklnhn | w-kl | ʾšʿbm | yml</tei:supplied>k | ydʿʾb | bn | mʾtmm | w-ʾ<tei:supplied reason="lost">mm |</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>m | ʾḫ-s | bn | qtbn | w-ḏtn |</tei:supplied> ʾšʿbn | w-l | yḥrm | sw <tei:supplied reason="lost">| ʾnsn | hrgn |</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>knm | b-yṯfṭ-s | w-sḥr | w-sʿbr | w-ṣry | mlkn | bn | tmnʿ | w-</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>kr | brṯm | w-mʿbrm | ġyr | brṯm | b-ysḥr-s | w-sʿbr | w-ṣry | m=</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">lkn | <tei:gap quantity="plus4" unit="chars"/>l-ymt | sw | ʾnsn | mstʿdwn | knm | b-ykśʾ | w-ḥlt | nfs-s</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>gs | mwt | ʾw | mʿbr | b-nfs | mstʿdwn | ʾsmʿm</tei:supplied>
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> wrḫ-s | ḏ-mslʿt | ḫrf | ġwṯʾl ḏ-ġ=</tei:supplied>
+<tei:lb n="10"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>f | hgrn | tmnʿ | w-wʿln | w-śyrm | w-</tei:supplied>
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>ṯfṭ |</tei:supplied> w-ḥrg <tei:supplied reason="lost">| mlkn |</tei:supplied> bn | h<tei:supplied reason="lost">gr | ʾšʿb | ʿm | w-ḏm | b-yhrg | f-l |</tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>ʾr</tei:supplied>ḍm | b-s | b-yhrg | nḥql | bn | ʾrbʿ | y<tei:unclear>w</tei:unclear>
+                    <tei:supplied reason="lost">mytm | n-l | yntwḥ | ʿd |</tei:supplied>
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>mʿbrn | ʿd-km | b-yṣry-s | mlkn | knm | b-yʿ<tei:supplied reason="lost">br | w-ḥwr | w-tʿlm-ʾy | y=</tei:supplied>
+<tei:lb n="14"/>
+                    <tei:supplied reason="lost">d | šhr | w-tʿlm-ʾy | </tei:supplied>ʾydw | zydm | ḏ-ẓrb | ḏ-ḏrʾn | w-<tei:supplied reason="lost">šhrm | d-ḏrʾn | w-ṣbḥkrb | ḏ-hrn |</tei:supplied>
+<tei:lb n="15"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>mškrm | ḏ-ġrbm | w-ḏrʾkrb | bn | ḥnẓ<tei:supplied reason="lost">t | w-gyrm | ḏ-šhr | w-hwfʿm | bn</tei:supplied>
+<tei:lb n="16"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> | ḏ-</tei:supplied>ygr | w-ʿmyṯʿ | ḏ-ršm | w-lḥyʿṯt | m<tei:supplied reason="lost">ʿhr | w-ḍbʾm | bn | zḫnn | w-hwfʿṯt | n=</tei:supplied>
+<tei:lb n="17"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> bn</tei:supplied> | mʿhr | w-ʾbšbm | bn | ʾʿsyfr | w-ḏydm <tei:supplied reason="lost">| ġrbn | w-ʿmḏḫr | glgln | w-hwtrʿṯt</tei:supplied>
+<tei:lb n="18"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+                    <tei:unclear>h</tei:unclear>wfʿm | ḏ-hṣbḥ | w-ʿmḏḫr | ḏ-šrgn | w-ʾbšfq | ḏ-hrmw | w-<tei:supplied reason="lost">ʾbšfq | bn | gʾnn | w-lśb</tei:supplied>
+<tei:lb n="19"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> | w-yṯʿkrb | yʾḏn | w-nbṭʿly | bn | hṯb | ršḥm | w-ʿmkrb | bn | ṣbḥm | w-<tei:supplied reason="lost">smydʿ | ḏ-gʿrn</tei:supplied>
+<tei:lb n="20"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>š</tei:supplied>fq | ḏ-yfʿm | w-mʿdʾl | ḏ-nḍrn | w-nbṭʿm | bn | ṭwy<tei:supplied reason="lost">n | w-yʿgf | ḏ-yʿgf | w-ḏydm | ḏ-ʿgḏ | w-ʿ=</tei:supplied>
+<tei:lb n="21"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> ḏ-hṯʿr | lḥy | w-ʿmʾmn | ḫbḏn | w-smydʿ | ṭn<tei:supplied reason="lost">.</tei:supplied>zm | w-yn<tei:supplied reason="lost">fʾ | ḏ-rft | w-nbṭʿm | ḏ-ḏrḥn</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="11"/>w-ḥrg .... bn  h
+<tei:lb n="12"/>ḍm  b-s  b-yhrg  nḥql  bn  ʾrbʿ  yw
+<tei:lb n="13"/>mʿbrn  ʿd-km  b-yṣry-s  mlkn  knm  b-yʿ
+<tei:lb n="14"/>ʾydw  zydm  ḏ-ẓrb  ḏ-ḏrʾn  w-
+<tei:lb n="15"/>mškrm  ḏ-ġrbm  w-ḏrʾkrb  bn  ḥnẓ
+<tei:lb n="16"/>ygr  w-ʿmyṯʿ  ḏ-ršm  w-lḥyʿṯt  m
+<tei:lb n="17"/>  mʿhr  w-ʾbšbm  bn  ʾʿsyfr  w-ḏydm 
+<tei:lb n="18"/>hwfʿm  ḏ-hṣbḥ  w-ʿmḏḫr  ḏ-šrgn  w-ʾbšfq  ḏ-hrmw  w-
+<tei:lb n="19"/>  w-yṯʿkrb  yʾḏn  w-nbṭʿly  bn  hṯb  ršḥm  w-ʿmkrb  bn  ṣbḥm  w-
+<tei:lb n="20"/>fq  ḏ-yfʿm  w-mʿdʾl  ḏ-nḍrn  w-nbṭʿm  bn  ṭwy
+<tei:lb n="21"/>ḏ-hṯʿr  lḥy  w-ʿmʾmn  ḫbḏn  w-smydʿ  ṭn.zm  w-yn
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>  w-sḥr  ydʿʾb  ḏbyn  bn  šhr  mlk  qtbn  w-qtbn  mśwdn
+<tei:lb n="2"/>w-fqḍtn  w-btln  w-rdmn  w-ʾlmlk  w-mḍḥym  w-yḥr  w-bklmy-w-ḏ-
+<tei:lb n="3"/>tn  w-bklnhn  w-kl  ʾšʿbm  ymlk  ydʿʾb  bn  mʾtmm  w-ʾmm 
+<tei:lb n="4"/>m  ʾḫ-s  bn  qtbn  w-ḏtn  ʾšʿbn  w-l  yḥrm  sw  ʾnsn  hrgn 
+<tei:lb n="5"/>knm  b-yṯfṭ-s  w-sḥr  w-sʿbr  w-ṣry  mlkn  bn  tmnʿ  w-
+<tei:lb n="6"/>kr  brṯm  w-mʿbrm  ġyr  brṯm  b-ysḥr-s  w-sʿbr  w-ṣry  m=
+<tei:lb n="7"/>lkn  l-ymt  sw  ʾnsn  mstʿdwn  knm  b-ykśʾ  w-ḥlt  nfs-s
+<tei:lb n="8"/>gs  mwt  ʾw  mʿbr  b-nfs  mstʿdwn  ʾsmʿm
+<tei:lb n="9"/> wrḫ-s  ḏ-mslʿt  ḫrf  ġwṯʾl ḏ-ġ=
+<tei:lb n="10"/>f  hgrn  tmnʿ  w-wʿln  w-śyrm  w-
+<tei:lb n="11"/>ṯfṭ  w-ḥrg  mlkn  bn  hgr  ʾšʿb  ʿm  w-ḏm  b-yhrg  f-l 
+<tei:lb n="12"/>ʾrḍm  b-s  b-yhrg  nḥql  bn  ʾrbʿ  ywmytm  n-l  yntwḥ  ʿd 
+<tei:lb n="13"/>mʿbrn  ʿd-km  b-yṣry-s  mlkn  knm  b-yʿbr  w-ḥwr  w-tʿlm-ʾy  y=
+<tei:lb n="14"/>d  šhr  w-tʿlm-ʾy  ʾydw  zydm  ḏ-ẓrb  ḏ-ḏrʾn  w-šhrm  d-ḏrʾn  w-ṣbḥkrb  ḏ-hrn 
+<tei:lb n="15"/>mškrm  ḏ-ġrbm  w-ḏrʾkrb  bn  ḥnẓt  w-gyrm  ḏ-šhr  w-hwfʿm  bn
+<tei:lb n="16"/>  ḏ-ygr  w-ʿmyṯʿ  ḏ-ršm  w-lḥyʿṯt  mʿhr  w-ḍbʾm  bn  zḫnn  w-hwfʿṯt  n=
+<tei:lb n="17"/> bn  mʿhr  w-ʾbšbm  bn  ʾʿsyfr  w-ḏydm  ġrbn  w-ʿmḏḫr  glgln  w-hwtrʿṯt
+<tei:lb n="18"/>hwfʿm  ḏ-hṣbḥ  w-ʿmḏḫr  ḏ-šrgn  w-ʾbšfq  ḏ-hrmw  w-ʾbšfq  bn  gʾnn  w-lśb
+<tei:lb n="19"/>  w-yṯʿkrb  yʾḏn  w-nbṭʿly  bn  hṯb  ršḥm  w-ʿmkrb  bn  ṣbḥm  w-smydʿ  ḏ-gʿrn
+<tei:lb n="20"/>šfq  ḏ-yfʿm  w-mʿdʾl  ḏ-nḍrn  w-nbṭʿm  bn  ṭwyn  w-yʿgf  ḏ-yʿgf  w-ḏydm  ḏ-ʿgḏ  w-ʿ=
+<tei:lb n="21"/> ḏ-hṯʿr  lḥy  w-ʿmʾmn  ḫbḏn  w-smydʿ  ṭn.zm  w-ynfʾ  ḏ-rft  w-nbṭʿm  ḏ-ḏrḥn</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="11"/>w-ḥrg .... bn  h
+<tei:lb n="12"/>ḍm  b-s  b-yhrg  nḥql  bn  ʾrbʿ  yw
+<tei:lb n="13"/>mʿbrn  ʿd-km  b-yṣry-s  mlkn  knm  b-yʿ
+<tei:lb n="14"/>ʾydw  zydm  ḏ-ẓrb  ḏ-ḏrʾn  w-
+<tei:lb n="15"/>mškrm  ḏ-ġrbm  w-ḏrʾkrb  bn  ḥnẓ
+<tei:lb n="16"/>ygr  w-ʿmyṯʿ  ḏ-ršm  w-lḥyʿṯt  m
+<tei:lb n="17"/>  mʿhr  w-ʾbšbm  bn  ʾʿsyfr  w-ḏydm 
+<tei:lb n="18"/>hwfʿm  ḏ-hṣbḥ  w-ʿmḏḫr  ḏ-šrgn  w-ʾbšfq  ḏ-hrmw  w-
+<tei:lb n="19"/>  w-yṯʿkrb  yʾḏn  w-nbṭʿly  bn  hṯb  ršḥm  w-ʿmkrb  bn  ṣbḥm  w-
+<tei:lb n="20"/>fq  ḏ-yfʿm  w-mʿdʾl  ḏ-nḍrn  w-nbṭʿm  bn  ṭwy
+<tei:lb n="21"/>ḏ-hṯʿr  lḥy  w-ʿmʾmn  ḫbḏn  w-smydʿ  ṭn.zm  w-yn
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>  w-sḥr  ydʿʾb  ḏbyn  bn  šhr  mlk  qtbn  w-qtbn  mśwdn
+<tei:lb n="2"/>w-fqḍtn  w-btln  w-rdmn  w-ʾlmlk  w-mḍḥym  w-yḥr  w-bklmy-w-ḏ-
+<tei:lb n="3"/>tn  w-bklnhn  w-kl  ʾšʿbm  ymlk  ydʿʾb  bn  mʾtmm  w-ʾmm 
+<tei:lb n="4"/>m  ʾḫ-s  bn  qtbn  w-ḏtn  ʾšʿbn  w-l  yḥrm  sw  ʾnsn  hrgn 
+<tei:lb n="5"/>knm  b-yṯfṭ-s  w-sḥr  w-sʿbr  w-ṣry  mlkn  bn  tmnʿ  w-
+<tei:lb n="6"/>kr  brṯm  w-mʿbrm  ġyr  brṯm  b-ysḥr-s  w-sʿbr  w-ṣry  m=
+<tei:lb n="7"/>lkn  l-ymt  sw  ʾnsn  mstʿdwn  knm  b-ykśʾ  w-ḥlt  nfs-s
+<tei:lb n="8"/>gs  mwt  ʾw  mʿbr  b-nfs  mstʿdwn  ʾsmʿm
+<tei:lb n="9"/> wrḫ-s  ḏ-mslʿt  ḫrf  ġwṯʾl ḏ-ġ=
+<tei:lb n="10"/>f  hgrn  tmnʿ  w-wʿln  w-śyrm  w-
+<tei:lb n="11"/>ṯfṭ  w-ḥrg  mlkn  bn  hgr  ʾšʿb  ʿm  w-ḏm  b-yhrg  f-l 
+<tei:lb n="12"/>ʾrḍm  b-s  b-yhrg  nḥql  bn  ʾrbʿ  ywmytm  n-l  yntwḥ  ʿd 
+<tei:lb n="13"/>mʿbrn  ʿd-km  b-yṣry-s  mlkn  knm  b-yʿbr  w-ḥwr  w-tʿlm-ʾy  y=
+<tei:lb n="14"/>d  šhr  w-tʿlm-ʾy  ʾydw  zydm  ḏ-ẓrb  ḏ-ḏrʾn  w-šhrm  d-ḏrʾn  w-ṣbḥkrb  ḏ-hrn 
+<tei:lb n="15"/>mškrm  ḏ-ġrbm  w-ḏrʾkrb  bn  ḥnẓt  w-gyrm  ḏ-šhr  w-hwfʿm  bn
+<tei:lb n="16"/>  ḏ-ygr  w-ʿmyṯʿ  ḏ-ršm  w-lḥyʿṯt  mʿhr  w-ḍbʾm  bn  zḫnn  w-hwfʿṯt  n=
+<tei:lb n="17"/> bn  mʿhr  w-ʾbšbm  bn  ʾʿsyfr  w-ḏydm  ġrbn  w-ʿmḏḫr  glgln  w-hwtrʿṯt
+<tei:lb n="18"/>hwfʿm  ḏ-hṣbḥ  w-ʿmḏḫr  ḏ-šrgn  w-ʾbšfq  ḏ-hrmw  w-ʾbšfq  bn  gʾnn  w-lśb
+<tei:lb n="19"/>  w-yṯʿkrb  yʾḏn  w-nbṭʿly  bn  hṯb  ršḥm  w-ʿmkrb  bn  ṣbḥm  w-smydʿ  ḏ-gʿrn
+<tei:lb n="20"/>šfq  ḏ-yfʿm  w-mʿdʾl  ḏ-nḍrn  w-nbṭʿm  bn  ṭwyn  w-yʿgf  ḏ-yʿgf  w-ḏydm  ḏ-ʿgḏ  w-ʿ=
+<tei:lb n="21"/> ḏ-hṯʿr  lḥy  w-ʿmʾmn  ḫbḏn  w-smydʿ  ṭn.zm  w-ynfʾ  ḏ-rft  w-nbṭʿm  ḏ-ḏrḥn</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+11.and decrees [....] from [.]
+12.[..] in which he kills, specifically within four [..]
+13.the examination until such time as the king declares, so shall 
+14.hands Zaydum Dhū-Ẓarib Dhū-Dharaʾān and Shahrum Dhū-Dharaʾān and  
+15.Mashkarum Dhū-Gharībam and Dharaʾkarib bin Ḥanẓ[.]
+16.Yagirr and ʿAmmīyathaʿ Dhū-Rashīm and Laḥayʿathat [.]
+17.Maʿāhir and ʾAbīshibām bin ʾAʿsāyfir and Dhaydum
+18.Hawfāʿamm Dhū-Haṣbaḥ and ʿAmmīdhakhar Dhū-Shirgān and ʾAbīshafaq Dhū-Harmaw and 
+19.and Yithāʿkarib Yiʾdhān and Nabaṭʿalī bin Hathib Rishḥum and ʿAmmīkarib bin Ṣabāḥum and 
+20.[..] Dhū-Yāfiʿam and Maʿdʾīl Dhū-Naḍīrān and Nabaṭʿamm bin Ṭawiy[..]
+21.Dhū-Hathʿar Laḥay and ʿAmmīʾamīn Khabidhān and Sumūyadaʿ Ṭan[.]zum and Yin[..]
+
+
+Restored full text of the inscription:
+
+1.[... ... and ordained Yadaʿʾab Dhubyān bin Shahr, King of Qatabān, and the Qatabānian people and the council]
+2.[and (the tribes of) Faqḍatān and Batlān and Radmān and ʾĪlmalak and Maḍḥayyum and Yaḥirr and Baklamay and Dhū-Th... …]
+3.[... ... and Bakīlānhān and all of the (other) tribes over which Yadaʿʾab rules, in unison and as a group,]
+4.[... ... his fellow tribesman from Qatabān and these tribes, let that individual who has killed be anathematized]
+5.[... ... the king judges it and ordains and examines and declares from Tamnaʿ and]
+6.[... ... on the spot and an examination in absentia, which the king decrees and examines and declares]
+7.[... ... let that individual die who commits and offense against this which has been settled, for his life may legally be taken]
+8.[... ... death or examination (regarding) the life of the one who commits an offense. The witnesses]
+9.[... ... the month of Masaʿlāt of the year of Ghawthʾīl Dhū-Gh=]
+10.[... ... the town of Tamnaʿ and Waʿlān and Śayrum and]
+11.[... ... the king … judges and decrees from the town of the tribes of ʿAmm. And whoever kills, let]
+12.[... ... a land in which he kills, specifically within four days, then let them mourn until]
+13.[... ... the examination until such time as the king declares, so shall he examine and promulgate. And Shahr has signed (this) in his own]
+14.[hand. And (so too) have signed in their own hands Zaydum Dhū-Ẓarib Dhū-Dharaʾān and Shahrum Dhū-Dharaʾān and Ṣabaḥkarib Dhū-Hirrān] 
+15.[... ... Mashkarum Dhū-Gharībam and Dharaʾkarib bin Ḥanẓat and Gayrum Dhū-Shahr and Hawfāʿamm bin]
+16.[... ... Dhū-Yagirr and ʿAmmīyathaʿ Dhū-Rashīm and Laḥayʿathat Maʿāhir and Ḍabʾum bin Zikhnān and Hawfāʿathat N=]
+17.[... ... bin Maʿāhir and ʾAbīshibām bin ʾAʿsāyfir and Dhaydum Gharībān and ʿAmmīdhakhar Gulgulān and Hawtarʿathat]
+18.[... ... Hawfāʿamm Dhū-Haṣbaḥ and ʿAmmīdhakhar Dhū-Shirgān and ʾAbīshafaq Dhū-Harmaw and ʾAbīshafaq bin Giʾnān and Laśib]
+19.[... ... and Yithāʿkarib Yiʾdhān and Nabaṭʿalī bin Hathib Rishḥum and ʿAmmīkarib bin Ṣabāḥum and Sumūyadaʿ Dhū-Guʿrān]
+20.[... ...shafaq Dhū-Yāfiʿam and Maʿdʾīl Dhū-Naḍīrān and Nabaṭʿamm bin Ṭawiyyān and Yaʿgif Dhū-Yaʿgif and Dhaydum Dhū-ʿAgidh and ʿA=]
+21.[... ... Dhū-Hathʿar Laḥay and ʿAmmīʾamīn Khabidhān and Sumūyadaʿ Ṭan[.]zum and Yinfaʾ Dhū-Rafit and Nabaṭʿamm Dhū-Dharaḥān.]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="11"/>and decrees <tei:supplied reason="lost">....</tei:supplied> from <tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">..</tei:supplied> in which he kills, specifically within four <tei:supplied reason="lost">..</tei:supplied>
+<tei:lb n="13"/>the examination until such time as the king declares, so shall 
+<tei:lb n="14"/>hands Zaydum Dhū-Ẓarib Dhū-Dharaʾān and Shahrum Dhū-Dharaʾān and  
+<tei:lb n="15"/>Mashkarum Dhū-Gharībam and Dharaʾkarib bin Ḥanẓ<tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="16"/>Yagirr and ʿAmmīyathaʿ Dhū-Rashīm and Laḥayʿathat <tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="17"/>Maʿāhir and ʾAbīshibām bin ʾAʿsāyfir and Dhaydum
+<tei:lb n="18"/>Hawfāʿamm Dhū-Haṣbaḥ and ʿAmmīdhakhar Dhū-Shirgān and ʾAbīshafaq Dhū-Harmaw and 
+<tei:lb n="19"/>and Yithāʿkarib Yiʾdhān and Nabaṭʿalī bin Hathib Rishḥum and ʿAmmīkarib bin Ṣabāḥum and 
+<tei:lb n="20"/>
+                    <tei:supplied reason="lost">..</tei:supplied> Dhū-Yāfiʿam and Maʿdʾīl Dhū-Naḍīrān and Nabaṭʿamm bin Ṭawiy<tei:supplied reason="lost">..</tei:supplied>
+<tei:lb n="21"/>Dhū-Hathʿar Laḥay and ʿAmmīʾamīn Khabidhān and Sumūyadaʿ Ṭan<tei:supplied reason="lost">.</tei:supplied>zum and Yin<tei:supplied reason="lost">..</tei:supplied>
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> and ordained Yadaʿʾab Dhubyān bin Shahr, King of Qatabān, and the Qatabānian people and the council</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">and <tei:unclear>the tribes of</tei:unclear> Faqḍatān and Batlān and Radmān and ʾĪlmalak and Maḍḥayyum and Yaḥirr and Baklamay and Dhū-Th... …</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> and Bakīlānhān and all of the <tei:unclear>other</tei:unclear> tribes over which Yadaʿʾab rules, in unison and as a group,</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> his fellow tribesman from Qatabān and these tribes, let that individual who has killed be anathematized</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> the king judges it and ordains and examines and declares from Tamnaʿ and</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> on the spot and an examination in absentia, which the king decrees and examines and declares</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> let that individual die who commits and offense against this which has been settled, for his life may legally be taken</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> death or examination <tei:unclear>regarding</tei:unclear> the life of the one who commits an offense. The witnesses</tei:supplied>
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> the month of Masaʿlāt of the year of Ghawthʾīl Dhū-Gh=</tei:supplied>
+<tei:lb n="10"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> the town of Tamnaʿ and Waʿlān and Śayrum and</tei:supplied>
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> the king … judges and decrees from the town of the tribes of ʿAmm. And whoever kills, let</tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> a land in which he kills, specifically within four days, then let them mourn until</tei:supplied>
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> the examination until such time as the king declares, so shall he examine and promulgate. And Shahr has signed <tei:unclear>this</tei:unclear> in his own</tei:supplied>
+<tei:lb n="14"/>
+                    <tei:supplied reason="lost">hand. And <tei:unclear>so too</tei:unclear> have signed in their own hands Zaydum Dhū-Ẓarib Dhū-Dharaʾān and Shahrum Dhū-Dharaʾān and Ṣabaḥkarib Dhū-Hirrān</tei:supplied> 
+<tei:lb n="15"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> Mashkarum Dhū-Gharībam and Dharaʾkarib bin Ḥanẓat and Gayrum Dhū-Shahr and Hawfāʿamm bin</tei:supplied>
+<tei:lb n="16"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> Dhū-Yagirr and ʿAmmīyathaʿ Dhū-Rashīm and Laḥayʿathat Maʿāhir and Ḍabʾum bin Zikhnān and Hawfāʿathat N=</tei:supplied>
+<tei:lb n="17"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> bin Maʿāhir and ʾAbīshibām bin ʾAʿsāyfir and Dhaydum Gharībān and ʿAmmīdhakhar Gulgulān and Hawtarʿathat</tei:supplied>
+<tei:lb n="18"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> Hawfāʿamm Dhū-Haṣbaḥ and ʿAmmīdhakhar Dhū-Shirgān and ʾAbīshafaq Dhū-Harmaw and ʾAbīshafaq bin Giʾnān and Laśib</tei:supplied>
+<tei:lb n="19"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> and Yithāʿkarib Yiʾdhān and Nabaṭʿalī bin Hathib Rishḥum and ʿAmmīkarib bin Ṣabāḥum and Sumūyadaʿ Dhū-Guʿrān</tei:supplied>
+<tei:lb n="20"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>shafaq Dhū-Yāfiʿam and Maʿdʾīl Dhū-Naḍīrān and Nabaṭʿamm bin Ṭawiyyān and Yaʿgif Dhū-Yaʿgif and Dhaydum Dhū-ʿAgidh and ʿA=</tei:supplied>
+<tei:lb n="21"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> Dhū-Hathʿar Laḥay and ʿAmmīʾamīn Khabidhān and Sumūyadaʿ Ṭan<tei:supplied reason="lost">.</tei:supplied>zum and Yinfaʾ Dhū-Rafit and Nabaṭʿamm Dhū-Dharaḥān.</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="11"/>and decrees .... from .
+<tei:lb n="12"/>.. in which he kills, specifically within four ..
+<tei:lb n="13"/>the examination until such time as the king declares, so shall 
+<tei:lb n="14"/>hands Zaydum Dhū-Ẓarib Dhū-Dharaʾān and Shahrum Dhū-Dharaʾān and  
+<tei:lb n="15"/>Mashkarum Dhū-Gharībam and Dharaʾkarib bin Ḥanẓ.
+<tei:lb n="16"/>Yagirr and ʿAmmīyathaʿ Dhū-Rashīm and Laḥayʿathat .
+<tei:lb n="17"/>Maʿāhir and ʾAbīshibām bin ʾAʿsāyfir and Dhaydum
+<tei:lb n="18"/>Hawfāʿamm Dhū-Haṣbaḥ and ʿAmmīdhakhar Dhū-Shirgān and ʾAbīshafaq Dhū-Harmaw and 
+<tei:lb n="19"/>and Yithāʿkarib Yiʾdhān and Nabaṭʿalī bin Hathib Rishḥum and ʿAmmīkarib bin Ṣabāḥum and 
+<tei:lb n="20"/>.. Dhū-Yāfiʿam and Maʿdʾīl Dhū-Naḍīrān and Nabaṭʿamm bin Ṭawiy..
+<tei:lb n="21"/>Dhū-Hathʿar Laḥay and ʿAmmīʾamīn Khabidhān and Sumūyadaʿ Ṭan.zum and Yin..
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/> and ordained Yadaʿʾab Dhubyān bin Shahr, King of Qatabān, and the Qatabānian people and the council
+<tei:lb n="2"/>and the tribes of Faqḍatān and Batlān and Radmān and ʾĪlmalak and Maḍḥayyum and Yaḥirr and Baklamay and Dhū-Th... …
+<tei:lb n="3"/> and Bakīlānhān and all of the other tribes over which Yadaʿʾab rules, in unison and as a group,
+<tei:lb n="4"/> his fellow tribesman from Qatabān and these tribes, let that individual who has killed be anathematized
+<tei:lb n="5"/> the king judges it and ordains and examines and declares from Tamnaʿ and
+<tei:lb n="6"/> on the spot and an examination in absentia, which the king decrees and examines and declares
+<tei:lb n="7"/> let that individual die who commits and offense against this which has been settled, for his life may legally be taken
+<tei:lb n="8"/> death or examination regarding the life of the one who commits an offense. The witnesses
+<tei:lb n="9"/> the month of Masaʿlāt of the year of Ghawthʾīl Dhū-Gh=
+<tei:lb n="10"/> the town of Tamnaʿ and Waʿlān and Śayrum and
+<tei:lb n="11"/> the king … judges and decrees from the town of the tribes of ʿAmm. And whoever kills, let
+<tei:lb n="12"/> a land in which he kills, specifically within four days, then let them mourn until
+<tei:lb n="13"/> the examination until such time as the king declares, so shall he examine and promulgate. And Shahr has signed this in his own
+<tei:lb n="14"/>hand. And so too have signed in their own hands Zaydum Dhū-Ẓarib Dhū-Dharaʾān and Shahrum Dhū-Dharaʾān and Ṣabaḥkarib Dhū-Hirrān 
+<tei:lb n="15"/> Mashkarum Dhū-Gharībam and Dharaʾkarib bin Ḥanẓat and Gayrum Dhū-Shahr and Hawfāʿamm bin
+<tei:lb n="16"/> Dhū-Yagirr and ʿAmmīyathaʿ Dhū-Rashīm and Laḥayʿathat Maʿāhir and Ḍabʾum bin Zikhnān and Hawfāʿathat N=
+<tei:lb n="17"/> bin Maʿāhir and ʾAbīshibām bin ʾAʿsāyfir and Dhaydum Gharībān and ʿAmmīdhakhar Gulgulān and Hawtarʿathat
+<tei:lb n="18"/> Hawfāʿamm Dhū-Haṣbaḥ and ʿAmmīdhakhar Dhū-Shirgān and ʾAbīshafaq Dhū-Harmaw and ʾAbīshafaq bin Giʾnān and Laśib
+<tei:lb n="19"/> and Yithāʿkarib Yiʾdhān and Nabaṭʿalī bin Hathib Rishḥum and ʿAmmīkarib bin Ṣabāḥum and Sumūyadaʿ Dhū-Guʿrān
+<tei:lb n="20"/>shafaq Dhū-Yāfiʿam and Maʿdʾīl Dhū-Naḍīrān and Nabaṭʿamm bin Ṭawiyyān and Yaʿgif Dhū-Yaʿgif and Dhaydum Dhū-ʿAgidh and ʿA=
+<tei:lb n="21"/> Dhū-Hathʿar Laḥay and ʿAmmīʾamīn Khabidhān and Sumūyadaʿ Ṭan.zum and Yinfaʾ Dhū-Rafit and Nabaṭʿamm Dhū-Dharaḥān.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="11"/>and decrees .... from .
+<tei:lb n="12"/>.. in which he kills, specifically within four ..
+<tei:lb n="13"/>the examination until such time as the king declares, so shall 
+<tei:lb n="14"/>hands Zaydum Dhū-Ẓarib Dhū-Dharaʾān and Shahrum Dhū-Dharaʾān and  
+<tei:lb n="15"/>Mashkarum Dhū-Gharībam and Dharaʾkarib bin Ḥanẓ.
+<tei:lb n="16"/>Yagirr and ʿAmmīyathaʿ Dhū-Rashīm and Laḥayʿathat .
+<tei:lb n="17"/>Maʿāhir and ʾAbīshibām bin ʾAʿsāyfir and Dhaydum
+<tei:lb n="18"/>Hawfāʿamm Dhū-Haṣbaḥ and ʿAmmīdhakhar Dhū-Shirgān and ʾAbīshafaq Dhū-Harmaw and 
+<tei:lb n="19"/>and Yithāʿkarib Yiʾdhān and Nabaṭʿalī bin Hathib Rishḥum and ʿAmmīkarib bin Ṣabāḥum and 
+<tei:lb n="20"/>.. Dhū-Yāfiʿam and Maʿdʾīl Dhū-Naḍīrān and Nabaṭʿamm bin Ṭawiy..
+<tei:lb n="21"/>Dhū-Hathʿar Laḥay and ʿAmmīʾamīn Khabidhān and Sumūyadaʿ Ṭan.zum and Yin..
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/> and ordained Yadaʿʾab Dhubyān bin Shahr, King of Qatabān, and the Qatabānian people and the council
+<tei:lb n="2"/>and the tribes of Faqḍatān and Batlān and Radmān and ʾĪlmalak and Maḍḥayyum and Yaḥirr and Baklamay and Dhū-Th... …
+<tei:lb n="3"/> and Bakīlānhān and all of the other tribes over which Yadaʿʾab rules, in unison and as a group,
+<tei:lb n="4"/> his fellow tribesman from Qatabān and these tribes, let that individual who has killed be anathematized
+<tei:lb n="5"/> the king judges it and ordains and examines and declares from Tamnaʿ and
+<tei:lb n="6"/> on the spot and an examination in absentia, which the king decrees and examines and declares
+<tei:lb n="7"/> let that individual die who commits and offense against this which has been settled, for his life may legally be taken
+<tei:lb n="8"/> death or examination regarding the life of the one who commits an offense. The witnesses
+<tei:lb n="9"/> the month of Masaʿlāt of the year of Ghawthʾīl Dhū-Gh=
+<tei:lb n="10"/> the town of Tamnaʿ and Waʿlān and Śayrum and
+<tei:lb n="11"/> the king … judges and decrees from the town of the tribes of ʿAmm. And whoever kills, let
+<tei:lb n="12"/> a land in which he kills, specifically within four days, then let them mourn until
+<tei:lb n="13"/> the examination until such time as the king declares, so shall he examine and promulgate. And Shahr has signed this in his own
+<tei:lb n="14"/>hand. And so too have signed in their own hands Zaydum Dhū-Ẓarib Dhū-Dharaʾān and Shahrum Dhū-Dharaʾān and Ṣabaḥkarib Dhū-Hirrān 
+<tei:lb n="15"/> Mashkarum Dhū-Gharībam and Dharaʾkarib bin Ḥanẓat and Gayrum Dhū-Shahr and Hawfāʿamm bin
+<tei:lb n="16"/> Dhū-Yagirr and ʿAmmīyathaʿ Dhū-Rashīm and Laḥayʿathat Maʿāhir and Ḍabʾum bin Zikhnān and Hawfāʿathat N=
+<tei:lb n="17"/> bin Maʿāhir and ʾAbīshibām bin ʾAʿsāyfir and Dhaydum Gharībān and ʿAmmīdhakhar Gulgulān and Hawtarʿathat
+<tei:lb n="18"/> Hawfāʿamm Dhū-Haṣbaḥ and ʿAmmīdhakhar Dhū-Shirgān and ʾAbīshafaq Dhū-Harmaw and ʾAbīshafaq bin Giʾnān and Laśib
+<tei:lb n="19"/> and Yithāʿkarib Yiʾdhān and Nabaṭʿalī bin Hathib Rishḥum and ʿAmmīkarib bin Ṣabāḥum and Sumūyadaʿ Dhū-Guʿrān
+<tei:lb n="20"/>shafaq Dhū-Yāfiʿam and Maʿdʾīl Dhū-Naḍīrān and Nabaṭʿamm bin Ṭawiyyān and Yaʿgif Dhū-Yaʿgif and Dhaydum Dhū-ʿAgidh and ʿA=
+<tei:lb n="21"/> Dhū-Hathʿar Laḥay and ʿAmmīʾamīn Khabidhān and Sumūyadaʿ Ṭan.zum and Yinfaʾ Dhū-Rafit and Nabaṭʿamm Dhū-Dharaḥān.</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
