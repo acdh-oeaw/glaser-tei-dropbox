@@ -1,3 +1,8 @@
+# update 2019-09-16
+
+* Peter created a new folder "faulty_files" in DROPBOX
+* Files not properly transformed should be moved by Anton from "to_process" to "faulty_files" so that they are identfied and can be corrected in Adlib
+
 # update 2019-07-19
 
 * Peter imported from NEW Pointerfile http://opacbasis.w07adlib1.arz.oeaw.ac.at/wwwopac.ashx?database=archive&command=getpointerfile&number=35 773 files
