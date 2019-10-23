@@ -317,7 +317,7 @@ Restored full text of the inscription:
                         <tei:lb n="24"/>rbw</w>  <w>l-mrʾ-hmw</w>  <persName type="royal" subtype="withTitle" role="king">ʿlhn</persName>  <w>mlk</w>  <orgName type="state">sbʾ</orgName>  <w>w-hysrw</w>  <w>ṯny</w>  <w>r=
                             <tei:lb n="25"/>bbn</w>  <persName type="gender" subtype="m">ʾšms</persName>  <w>bn</w>  <persName type="patronymic">rymm</persName>  <w>w-</w><persName type="gender" subtype="m">ḥrṯm</persName>  <w>bn</w>  <persName type="patronymic">ydm</persName>  <w>w-l-sʿ=
                                 <tei:lb n="26"/>d-hmw</w>  <name type="theonym">tʾlb</name>  <w>nʿmtm</w>  <w>w-mngyt</w>  <w>ṣdqm</w>  <w>w-ṯbr</w>  <w>w-
-                                    <tei:lb n="27"/>ḍrʿn</w>  <w>ḍr-hmw</w>  <w>w-šnʾ-hmw</w>  <w>b-</w><rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs>
+                                    <tei:lb n="27"/>ḍrʿn</w>  <w>ḍr-hmw</w>  <w>w-šnʾ-hmw</w>  <w>b-</w><rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs></tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
 
 <tei:lb n="11"/>rt  mlk  ḥbštn  l-tʾḫ

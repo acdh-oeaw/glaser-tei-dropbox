@@ -202,7 +202,7 @@ Restored full text of the inscription:
                     <tei:lb n="1"/><persName type="gender" subtype="m">ynʿm</persName>  <w>w-bny-hw</w>  <w>bnw</w>  <orgName type="group">ʾʿzz</orgName>  <w>gzmw</w>  <w>gzn</w>  <rs type="complex"><name type="theonym">ʿṯtr</name>  <name type="epithet" subtype="divine">ḏ-ḏbn</name></rs>  <w>k-ḏ-m</w>  <w>yt=
                         <tei:lb n="2"/>ʿlmnn</w>  <w>b-nḥltm</w>  <w>w-mḥrtm</w>  <w>l-bn</w>  <w>ʾdm</w>  <w>w-ʾmh</w>  <w>bny</w>  <orgName type="group">ʾʿzz</orgName>  <w>b-byt=
                             <tei:lb n="3"/>n</w>  <w>w-gbltn</w>  <w>ʾly</w>  <w>ysmynn</w>  <persName type="gender" subtype="u">ḏ-ynʿm</persName>  <w>b-ḫmsn</w>  <w>rbʿn</w>  <rs type="undefinedCategory">ḏ-ḍqrn</rs>  <w>byt</w>  <w>w-gblt</w>
-                    <tei:lb n="4"/><w>šʾm</w>  <persName type="gender" subtype="u">ynʿm</persName>  <w>ʿm-n</w>  <w>bny</w>  <orgName type="group">kšḥt</orgName>  <w>k-l-yknn</w>  <w>hʾ</w>  <w>bytn</w>  <w>w-gbltn</w>  <w>bytm</w>  ...</tei:ab
+                    <tei:lb n="4"/><w>šʾm</w>  <persName type="gender" subtype="u">ynʿm</persName>  <w>ʿm-n</w>  <w>bny</w>  <orgName type="group">kšḥt</orgName>  <w>k-l-yknn</w>  <w>hʾ</w>  <w>bytn</w>  <w>w-gbltn</w>  <w>bytm</w>  ...</tei:ab>
                 <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
 
 <tei:lb n="1"/>ynʿm  w-bny-hw  b 

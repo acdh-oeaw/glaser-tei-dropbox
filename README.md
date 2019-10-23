@@ -1,3 +1,13 @@
+# update 2019-10-23
+
+* Anton added files to `done_tagging`
+* Peter imported them into glaser-tei and fixed  those which which were not well formed
+  * `1110000326.xml`
+  * `1110000383.xml`
+  * `1110000384.xml`
+  * `1110000786.xml`
+* [glaser-tei](https://glaser-tei.acdh.oeaw.ac.at/exist/restxq/glaser-tei/api/collections/done) lists now 728 'done' files
+
 # update 2019-09-16
 
 * Peter created a new folder "faulty_files" in DROPBOX
