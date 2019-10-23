@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-P-522</title>
+                <title type="alt">1110001842</title>
+                <title type="alt">AT-OeAW-BA-3-27-P-522</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-P-522</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2019-01-23" who="ghatke"/>
+            <change when="2019-01-23" who="ghatke"/>
+            <change when="2019-01-23" who="ghatke"/>
+            <change when="2019-01-23" who="ghatke"/>
+            <change when="2019-01-23" who="ghatke"/>
+            <change when="2019-01-23" who="ghatke"/>
+            <change when="2019-01-23" who="ghatke"/>
+            <change when="2019-01-23" who="ghatke"/>
+            <change when="2018-12-14" who="ghatke"/>
+            <change when="2018-12-14" who="ghatke"/>
+            <change when="2018-12-14" who="ghatke"/>
+            <change when="2018-12-14" who="ghatke"/>
+            <change when="2018-12-13" who="ghatke"/>
+            <change when="2018-12-13" who="ghatke"/>
+            <change when="2018-12-13" who="ghatke"/>
+            <change when="2018-11-30" who="ghatke"/>
+            <change when="2018-11-30" who="ghatke"/>
+            <change when="2016-10-19" who="ghatke"/>
+            <change when="2016-09-27" who="ghatke"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+1.lqdm | hn
+2.(b-)ʿṯtr | w-b | ʾlm(qh) 
+3.b | (hwb)s | w-b | smʿ | 
+
+
+Restored full text of the inscription:
+
+1.[tbʿkrb | bn | ʾ]lqdm | hn[bṭ | w-ḍfr]
+2.[rwym |] (b-)ʿṯtr | w-b | ʾlm(qh) [| w-b | ḏt-ḥ=]
+3.[mym | w-]b | (hwb)s | w-b | smʿ | [w-b | krbʾl]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>lqdm | hn
+<tei:lb n="2"/>
+                    <tei:unclear>b-</tei:unclear>ʿṯtr | w-b | ʾlm<tei:unclear>qh</tei:unclear> 
+<tei:lb n="3"/>b | <tei:unclear>hwb</tei:unclear>s | w-b | smʿ | 
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">tbʿkrb | bn | ʾ</tei:supplied>lqdm | hn<tei:supplied reason="lost">bṭ | w-ḍfr</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">rwym |</tei:supplied> <tei:unclear>b-</tei:unclear>ʿṯtr | w-b | ʾlm<tei:unclear>qh</tei:unclear> <tei:supplied reason="lost">| w-b | ḏt-ḥ=</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">mym | w-</tei:supplied>b | <tei:unclear>hwb</tei:unclear>s | w-b | smʿ | <tei:supplied reason="lost">w-b | krbʾl</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>lqdm  hn
+                    <tei:lb n="2"/><w>b-</w> <name type="theonym">ʿṯtr</name>  <w>w-b</w>   <name type="theonym">ʾlmqh</name> 
+                    <tei:lb n="3"/>b  <name type="theonym">hwbs</name>  <w>w-b</w>   <name type="theonym">smʿ</name>  
+
+
+Restored full text of the inscription:
+
+                    <tei:lb n="1"/><persName type="gender" subtype="m">tbʿkrb</persName>  <w>bn</w>  <persName type="patronymic">ʾlqdm</persName>  <w>hnbṭ</w>  <w>w-ḍfr</w>
+                    <tei:lb n="2"/><placeName type="building">rwym</placeName>  <w>b-</w> <name type="theonym">ʿṯtr</name>  <w>w-b</w>   <name type="theonym">ʾlmqh</name>  <w>w-b</w>   <name type="theonym">ḏt-ḥ=
+                        <tei:lb n="3"/>mym</name>  <w>w-b</w>   <name type="theonym">hwbs</name>  <w>w-b</w>   <name type="theonym">smʿ</name>  <w>w-b</w>  <persName type="royal" subtype="withoutTitle" role="king">krbʾl</persName></tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>lqdm  hn
+<tei:lb n="2"/>b-ʿṯtr  w-b  ʾlmqh 
+<tei:lb n="3"/>b  hwbs  w-b  smʿ  
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>tbʿkrb  bn  ʾlqdm  hnbṭ  w-ḍfr
+<tei:lb n="2"/>rwym  b-ʿṯtr  w-b  ʾlmqh  w-b  ḏt-ḥ=
+<tei:lb n="3"/>mym  w-b  hwbs  w-b  smʿ  w-b  krbʾl</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+1.[ʾĪ]lqadam has [...]
+2.by ʿAthtar and by ʾĪlmuquh 
+3.by Hawbas and by Sāmiʿ 
+
+
+Restored full text of the inscription:
+
+1.[Tabaʿkarib bin ʾĪ]lqadam has exca[vated and lined with masonry]
+2.[Rawiyum.] By ʿAthtar and by ʾĪlmuquh [and by Dhāt Ḥi-]
+3.[māyim and] by Hawbas and by Sāmiʿ [and by Karibʾīl.]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">ʾĪ</tei:supplied>lqadam has <tei:supplied reason="lost">...</tei:supplied>
+<tei:lb n="2"/>by ʿAthtar and by ʾĪlmuquh 
+<tei:lb n="3"/>by Hawbas and by Sāmiʿ 
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">Tabaʿkarib bin ʾĪ</tei:supplied>lqadam has exca<tei:supplied reason="lost">vated and lined with masonry</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">Rawiyum.</tei:supplied> By ʿAthtar and by ʾĪlmuquh <tei:supplied reason="lost">and by Dhāt Ḥi-</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">māyim and</tei:supplied> by Hawbas and by Sāmiʿ <tei:supplied reason="lost">and by Karibʾīl.</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>ʾĪlqadam has ...
+<tei:lb n="2"/>by ʿAthtar and by ʾĪlmuquh 
+<tei:lb n="3"/>by Hawbas and by Sāmiʿ 
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>Tabaʿkarib bin ʾĪlqadam has excavated and lined with masonry
+<tei:lb n="2"/>Rawiyum. By ʿAthtar and by ʾĪlmuquh and by Dhāt Ḥi-
+<tei:lb n="3"/>māyim and by Hawbas and by Sāmiʿ and by Karibʾīl.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>ʾĪlqadam has ...
+<tei:lb n="2"/>by ʿAthtar and by ʾĪlmuquh 
+<tei:lb n="3"/>by Hawbas and by Sāmiʿ 
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>Tabaʿkarib bin ʾĪlqadam has excavated and lined with masonry
+<tei:lb n="2"/>Rawiyum. By ʿAthtar and by ʾĪlmuquh and by Dhāt Ḥi-
+<tei:lb n="3"/>māyim and by Hawbas and by Sāmiʿ and by Karibʾīl.</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

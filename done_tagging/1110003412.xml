@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1652</title>
+                <title type="alt">1110003412</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1652</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1652</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-09-05" who="paigner"/>
+            <change when="2018-07-27" who="paigner"/>
+            <change when="2018-05-25" who="paigner"/>
+            <change when="2018-05-25" who="paigner"/>
+            <change when="2018-05-25" who="paigner"/>
+            <change when="2018-05-25" who="paigner"/>
+            <change when="2018-05-25" who="paigner"/>
+            <change when="2018-05-25" who="paigner"/>
+            <change when="2018-05-25" who="paigner"/>
+            <change when="2018-05-25" who="paigner"/>
+            <change when="2018-05-25" who="paigner"/>
+            <change when="2018-05-25" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2017-07-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.ḥrm | bn | ṯwbn | tnḫy | w-tn=
+2.ḏrn | l-ḏ-smwy | b-hn | qrb | m=
+3.rʾtm | b-ḥrm-&lt;h&gt;w | w-mlṯ | ḥyḍ 
+4.w-hn | bhʾ | ʿly | nfsm | w-hn | b=
+5.hʾ | ġr | ṭhr | w-yʾb | b-ʾkswt-
+6.hw | ġr-ṭhr | w-hn | ms | ʾnṯ 
+7.ḥyḍ | w-lm | yġtsl | w-hn | n=
+8.ḍḫ | ʾkswt-&lt;h&gt;w | hmr | f-hḍrʿ 
+9.w-ʿnw | w-yḥl&lt;ʾ&gt;n | w-l-yṯwbn</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>ḥrm | bn | ṯwbn | tnḫy | w-tn=
+<tei:lb n="2"/>ḏrn | l-ḏ-smwy | b-hn | qrb | m=
+<tei:lb n="3"/>rʾtm | b-ḥrm-<tei:add>h</tei:add>w | w-mlṯ | ḥyḍ 
+<tei:lb n="4"/>w-hn | bhʾ | ʿly | nfsm | w-hn | b=
+<tei:lb n="5"/>hʾ | ġr | ṭhr | w-yʾb | b-ʾkswt-
+<tei:lb n="6"/>hw | ġr-ṭhr | w-hn | ms | ʾnṯ 
+<tei:lb n="7"/>ḥyḍ | w-lm | yġtsl | w-hn | n=
+<tei:lb n="8"/>ḍḫ | ʾkswt-<tei:add>h</tei:add>w | hmr | f-hḍrʿ 
+<tei:lb n="9"/>w-ʿnw | w-yḥl<tei:add>ʾ</tei:add>n | w-l-yṯwbn</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/><persName type="gender" subtype="m">ḥrm</persName>  <w>bn</w>  <persName type="patronymic">ṯwbn</persName>  <w>tnḫy</w>  <w>w-tn=
+                        <tei:lb n="2"/>ḏrn</w>  <w>l-</w><name type="theonym">ḏ-smwy</name>  <w>b-hn</w>  <w>qrb</w>  <w>m=
+<tei:lb n="3"/>rʾtm</w>  <w>b-ḥrm-hw</w>  <w>w-mlṯ</w>  <w>ḥyḍ</w> 
+<tei:lb n="4"/><w>w-hn</w>  <w>bhʾ</w>  <w>ʿly</w>  <w>nfsm</w>  <w>w-hn</w>  <w>b=
+<tei:lb n="5"/>hʾ</w>  <w>ġr</w>  <w>ṭhr</w>  <w>w-yʾb</w>  <w>b-ʾkswt-
+<tei:lb n="6"/>hw</w>  <w>ġr-ṭhr</w>  <w>w-hn</w>  <w>ms</w>  <w>ʾnṯ</w> 
+<tei:lb n="7"/><w>ḥyḍ</w>  <w>w-lm</w>  <w>yġtsl</w>  <w>w-hn</w>  <w>n=
+<tei:lb n="8"/>ḍḫ</w>  <w>ʾkswt-hw</w>  <w>hmr</w>  <w>f-hḍrʿ</w> 
+<tei:lb n="9"/><w>w-ʿnw</w>  <w>w-yḥlʾn</w>  <w>w-l-yṯwbn</w></tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>ḥrm  bn  ṯwbn  tnḫy  w-tn=
+<tei:lb n="2"/>ḏrn  l-ḏ-smwy  b-hn  qrb  m=
+<tei:lb n="3"/>rʾtm  b-ḥrm-hw  w-mlṯ  ḥyḍ 
+<tei:lb n="4"/>w-hn  bhʾ  ʿly  nfsm  w-hn  b=
+<tei:lb n="5"/>hʾ  ġr  ṭhr  w-yʾb  b-ʾkswt-
+<tei:lb n="6"/>hw  ġr-ṭhr  w-hn  ms  ʾnṯ 
+<tei:lb n="7"/>ḥyḍ  w-lm  yġtsl  w-hn  n=
+<tei:lb n="8"/>ḍḫ  ʾkswt-hw  hmr  f-hḍrʿ 
+<tei:lb n="9"/>w-ʿnw  w-yḥlʾn  w-l-yṯwbn</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.Ḥarīm bin Thawbān confessed and did 
+2.penance to Dhū-Samāwī, because he had approached 
+3.a woman during her forbidden period and had intercourse with a menstruating woman; 
+4.and because he had entered a woman in childbed; and because 
+5.he had entered while impure, and he stayed in his 
+6.impure clothes; and because he had had contact (lit. "touched") a woman 
+7.while she was on her period and he did not wash himself; and because he had
+8.defiled his clothes with semen; and he showed contrition 
+9.and distress and he will pay a fine. And may he be generous. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>Ḥarīm bin Thawbān confessed and did 
+<tei:lb n="2"/>penance to Dhū-Samāwī, because he had approached 
+<tei:lb n="3"/>a woman during her forbidden period and had intercourse with a menstruating woman; 
+<tei:lb n="4"/>and because he had entered a woman in childbed; and because 
+<tei:lb n="5"/>he had entered while impure, and he stayed in his 
+<tei:lb n="6"/>impure clothes; and because he had had contact <tei:unclear>lit. "touched"</tei:unclear> a woman 
+<tei:lb n="7"/>while she was on her period and he did not wash himself; and because he had
+<tei:lb n="8"/>defiled his clothes with semen; and he showed contrition 
+<tei:lb n="9"/>and distress and he will pay a fine. And may he be generous. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>Ḥarīm bin Thawbān confessed and did 
+<tei:lb n="2"/>penance to Dhū-Samāwī, because he had approached 
+<tei:lb n="3"/>a woman during her forbidden period and had intercourse with a menstruating woman; 
+<tei:lb n="4"/>and because he had entered a woman in childbed; and because 
+<tei:lb n="5"/>he had entered while impure, and he stayed in his 
+<tei:lb n="6"/>impure clothes; and because he had had contact lit. "touched" a woman 
+<tei:lb n="7"/>while she was on her period and he did not wash himself; and because he had
+<tei:lb n="8"/>defiled his clothes with semen; and he showed contrition 
+<tei:lb n="9"/>and distress and he will pay a fine. And may he be generous. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>Ḥarīm bin Thawbān confessed and did 
+<tei:lb n="2"/>penance to Dhū-Samāwī, because he had approached 
+<tei:lb n="3"/>a woman during her forbidden period and had intercourse with a menstruating woman; 
+<tei:lb n="4"/>and because he had entered a woman in childbed; and because 
+<tei:lb n="5"/>he had entered while impure, and he stayed in his 
+<tei:lb n="6"/>impure clothes; and because he had had contact lit. "touched" a woman 
+<tei:lb n="7"/>while she was on her period and he did not wash himself; and because he had
+<tei:lb n="8"/>defiled his clothes with semen; and he showed contrition 
+<tei:lb n="9"/>and distress and he will pay a fine. And may he be generous. </tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

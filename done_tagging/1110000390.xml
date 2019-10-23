@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1364B</title>
+                <title type="alt">1110000390</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1364B</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1364B</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-08-17" who="paigner"/>
+            <change when="2018-08-17" who="paigner"/>
+            <change when="2018-08-17" who="paigner"/>
+            <change when="2018-08-17" who="paigner"/>
+            <change when="2018-08-17" who="paigner"/>
+            <change when="2018-08-17" who="paigner"/>
+            <change when="2018-08-17" who="paigner"/>
+            <change when="2018-08-17" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2017-09-14" who="paigner"/>
+            <change when="2017-09-14" who="paigner"/>
+            <change when="2017-09-14" who="paigner"/>
+            <change when="2016-10-14" who="paigner"/>
+            <change when="2016-09-27" who="paigner"/>
+            <change when="2016-05-13" who="paigner"/>
+            <change when="2016-05-11" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-04" who="paigner"/>
+            <change when="2016-03-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+1.[.](mskb)n | [… … … … … …]
+2.[m]ḥgrt | w-m[… … … … …]
+3.[...]bny-hw | bny | btʿ | ʿdy | mḥrmn | ḏhbn | w-[ḥg]n | k-[ʿr]m | w-ʾḫḏ | kl | hwt | byt=
+4.[... ...]y | btʿ | w-sʿdtʾlb | w-mḫṭrn | w-kl | ʾ[ḫy]-hw | w-bny-hmw | w-ḏ-ʾ[ʿḏr]-hmw | b[n]w | b=
+5.[… …]bʾl | yḥz | mlk | sbʾ | l-ʾdm-hw | bny | btʿ | w-ḥgn | [m](ś)nd | hqny | [n]š[ʾkr]b [... ...]
+6.[…]n | f-l | yhmtʿnn | w-hbrrn | w-hṣḥḥn | w-hṣdqn | w-hwfyn | l-ʾdm-hmw | sʿ(d)=
+7.[… … …]sm[… … … …] | w-qrb | [… … … …]
+8.[... ... … … … … … …]
+
+
+Restored text of the inscription:
+
+1.[... ... …] mskb[... ... …]
+2.[...ġyl] | w-mḥgrt | w-m[rʿy ... ... | ḏ-qnyw ... ...]
+3.[....]m | w-bny-hw | bn | btʿ | ʿdy | mḥrmn | ḏhbn | w-[ḥg]n | k-[ʿr]m | w-ʾḫḏ | kl | hwt | byt=
+4.[n | ...bn]y | btʿ | w-sʿdtʾlb | w-mḫṭrn | w-kl | ʾ[ḫy]-hw | w-bny-hmw | w-ḏ-ʾ[ʿḏr]-hmw | b[n]w | b=
+5.[tʿ | ... | wh]bʾl | yḥz | mlk | sbʾ | l-ʾdm-hw | bny | btʿ | w-ḥg-n | [m]śnd | hqny | [n]š[ʾkr]b [| bn |]
+6.[... | slḥ]n | f-l | yhmtʿn | w-hbrrn | w-hṣḥḥn | w-hṣdqn | w-hwfyn | l-ʾdm-hmw | sʿd=
+7.[tʾlb | ....kl | ʾn]sm [| bhṯm | w-qṭnm | ḏ-rḥq |] w-qrb [| k-ḏ-nmy | wtf | ygbʾnn | l-=]
+8.[... ... … … … … … …]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">.</tei:supplied>
+                    <tei:unclear>mskb</tei:unclear>n | <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">m</tei:supplied>ḥgrt | w-m<tei:supplied reason="lost">… … … … …</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">...</tei:supplied>bny-hw | bny | btʿ | ʿdy | mḥrmn | ḏhbn | w-<tei:supplied reason="lost">ḥg</tei:supplied>n | k-<tei:supplied reason="lost">ʿr</tei:supplied>m | w-ʾḫḏ | kl | hwt | byt=
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>y | btʿ | w-sʿdtʾlb | w-mḫṭrn | w-kl | ʾ<tei:supplied reason="lost">ḫy</tei:supplied>-hw | w-bny-hmw | w-ḏ-ʾ<tei:supplied reason="lost">ʿḏr</tei:supplied>-hmw | b<tei:supplied reason="lost">n</tei:supplied>w | b=
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">… …</tei:supplied>bʾl | yḥz | mlk | sbʾ | l-ʾdm-hw | bny | btʿ | w-ḥgn | <tei:supplied reason="lost">m</tei:supplied>
+                    <tei:unclear>ś</tei:unclear>nd | hqny | <tei:supplied reason="lost">n</tei:supplied>š<tei:supplied reason="lost">ʾkr</tei:supplied>b <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">…</tei:supplied>n | f-l | yhmtʿnn | w-hbrrn | w-hṣḥḥn | w-hṣdqn | w-hwfyn | l-ʾdm-hmw | sʿ<tei:unclear>d</tei:unclear>=
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">… … …</tei:supplied>sm<tei:supplied reason="lost">… … … …</tei:supplied> | w-qrb | <tei:supplied reason="lost">… … … …</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> … … … … … …</tei:supplied>
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> …</tei:supplied> mskb<tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> …</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">...ġyl</tei:supplied> | w-mḥgrt | w-m<tei:supplied reason="lost">rʿy <tei:gap quantity="plus4" unit="chars"/> | ḏ-qnyw <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">....</tei:supplied>m | w-bny-hw | bn | btʿ | ʿdy | mḥrmn | ḏhbn | w-<tei:supplied reason="lost">ḥg</tei:supplied>n | k-<tei:supplied reason="lost">ʿr</tei:supplied>m | w-ʾḫḏ | kl | hwt | byt=
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">n | ...bn</tei:supplied>y | btʿ | w-sʿdtʾlb | w-mḫṭrn | w-kl | ʾ<tei:supplied reason="lost">ḫy</tei:supplied>-hw | w-bny-hmw | w-ḏ-ʾ<tei:supplied reason="lost">ʿḏr</tei:supplied>-hmw | b<tei:supplied reason="lost">n</tei:supplied>w | b=
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">tʿ | ... | wh</tei:supplied>bʾl | yḥz | mlk | sbʾ | l-ʾdm-hw | bny | btʿ | w-ḥg-n | <tei:supplied reason="lost">m</tei:supplied>śnd | hqny | <tei:supplied reason="lost">n</tei:supplied>š<tei:supplied reason="lost">ʾkr</tei:supplied>b <tei:supplied reason="lost">| bn |</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">... | slḥ</tei:supplied>n | f-l | yhmtʿn | w-hbrrn | w-hṣḥḥn | w-hṣdqn | w-hwfyn | l-ʾdm-hmw | sʿd=
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">tʾlb | ....kl | ʾn</tei:supplied>sm <tei:supplied reason="lost">| bhṯm | w-qṭnm | ḏ-rḥq |</tei:supplied> w-qrb <tei:supplied reason="lost">| k-ḏ-nmy | wtf | ygbʾnn | l-=</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> … … … … … …</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>.<w>mskbn</w>  … … … … … …
+<tei:lb n="2"/><w>mḥgrt</w>  w-m… … … … …
+                    <tei:lb n="3"/>...<w>bny-hw</w>  <w>bn</w>  <orgName type="group">btʿ</orgName>  <w>ʿdy</w>  <w>mḥrmn</w>  <placeName type="sanctuary">ḏhbn</placeName>  <w>w-ḥgn</w>  <w>k-ʿrm</w>  <w>w-ʾḫḏ</w>  <w>kl</w>  <w>hwt</w>  byt=
+                    <tei:lb n="4"/>y  <orgName type="group">btʿ</orgName>  <w>w-</w><persName type="gender" subtype="m">sʿdtʾlb</persName>  <w>w-</w><persName type="gender" subtype="m">mḫṭrn</persName>  <w>w-kl</w>  <w>ʾḫy-hw</w>  <w>w-bny-hmw</w>  <w>w-ḏ-ʾʿḏr-hmw</w>  <w>bnw</w>   b=
+                    <tei:lb n="5"/>… …bʾl  yḥz  <w>mlk</w>  <orgName type="state">sbʾ</orgName>  <w>l-ʾdm-hw</w>  <w>bny</w>  <orgName type="group">btʿ</orgName>  <w>w-ḥg-n</w>  <w>mśnd</w>  <w>hqny</w>  <persName type="gender" subtype="m">nšʾkrb</persName> 
+                    <tei:lb n="6"/>…n  <w>f-l</w>  <w>yhmtʿn</w>  <w>w-hbrrn</w>  <w>w-hṣḥḥn</w>  <w>w-hṣdqn</w>  <w>w-hwfyn</w>  <w>l-ʾdm-hmw</w>  sʿd=
+<tei:lb n="7"/>… … …sm… … … …  <w>w-qrb</w>  … … … …
+<tei:lb n="8"/> … … … … … …
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/> … <w>mskb</w> …
+<tei:lb n="2"/>...ġyl  <w>w-mḥgrt</w>  <w>w-mrʿy</w>   <w>ḏ-qnyw</w> 
+                    <tei:lb n="3"/>....m  <w>w-bny-hw</w>  <w>bn</w>  <orgName type="group">btʿ</orgName>  <w>ʿdy</w>  <w>mḥrmn</w>  <placeName type="sanctuary">ḏhbn</placeName>  <w>w-ḥgn</w>  <w>k-ʿrm</w>  <w>w-ʾḫḏ</w>  <w>kl</w>  <w>hwt</w>  <w>byt=
+                        <tei:lb n="4"/>n</w>  ...<w>bny</w>  <orgName type="group">btʿ</orgName>  <w>w-</w><persName type="gender" subtype="m">sʿdtʾlb</persName>  <w>w-</w><persName type="gender" subtype="m">mḫṭrn</persName>  <w>w-kl</w>  <w>ʾḫy-hw</w>  <w>w-bny-hmw</w>  <w>w-ḏ-ʾʿḏr-hmw</w>  <w>bnw</w>  b=
+                    <tei:lb n="5"/>tʿ  ...  <rs type="complex"><persName type="royal" subtype="withTitle" role="king" n="1">whbʾl</persName>  <persName type="royal" subtype="withTitle" role="king" n="2">yḥz</persName></rs>  <w>mlk</w>  <orgName type="state">sbʾ</orgName>  <w>l-ʾdm-hw</w>  <w>bny</w>  <orgName type="group">btʿ</orgName>  <w>w-ḥg-n</w>  <w>mśnd</w>  <w>hqny</w>  <persName type="gender" subtype="m">nšʾkrb</persName>  <w>bn</w> 
+                    <tei:lb n="6"/>...  <placeName type="building">slḥn</placeName>  <w>f-l</w>  <w>yhmtʿn</w>  <w>w-hbrrn</w>  <w>w-hṣḥḥn</w>  <w>w-hṣdqn</w>  <w>w-hwfyn</w>  <w>l-ʾdm-hmw</w>  <persName type="gender" subtype="m">sʿd=
+<tei:lb n="7"/>tʾlb</persName>  ....<w>kl</w>  <w>ʾnsm</w>  <w>bhṯm</w>  <w>w-qṭnm</w>  <w>ḏ-rḥq</w>  <w>w-qrb</w>  <w>k-ḏ-nmy</w>  <w>wtf</w>  <w>ygbʾnn</w>  l-=
+<tei:lb n="8"/> … … … … … …</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>.mskbn  … … … … … …
+<tei:lb n="2"/>mḥgrt  w-m… … … … …
+<tei:lb n="3"/>...bny-hw  bny  btʿ  ʿdy  mḥrmn  ḏhbn  w-ḥgn  k-ʿrm  w-ʾḫḏ  kl  hwt  byt=
+<tei:lb n="4"/>y  btʿ  w-sʿdtʾlb  w-mḫṭrn  w-kl  ʾḫy-hw  w-bny-hmw  w-ḏ-ʾʿḏr-hmw  bnw  b=
+<tei:lb n="5"/>… …bʾl  yḥz  mlk  sbʾ  l-ʾdm-hw  bny  btʿ  w-ḥgn  mśnd  hqny  nšʾkrb 
+<tei:lb n="6"/>…n  f-l  yhmtʿnn  w-hbrrn  w-hṣḥḥn  w-hṣdqn  w-hwfyn  l-ʾdm-hmw  sʿd=
+<tei:lb n="7"/>… … …sm… … … …  w-qrb  … … … …
+<tei:lb n="8"/> … … … … … …
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/> … mskb …
+<tei:lb n="2"/>...ġyl  w-mḥgrt  w-mrʿy   ḏ-qnyw 
+<tei:lb n="3"/>....m  w-bny-hw  bn  btʿ  ʿdy  mḥrmn  ḏhbn  w-ḥgn  k-ʿrm  w-ʾḫḏ  kl  hwt  byt=
+<tei:lb n="4"/>n  ...bny  btʿ  w-sʿdtʾlb  w-mḫṭrn  w-kl  ʾḫy-hw  w-bny-hmw  w-ḏ-ʾʿḏr-hmw  bnw  b=
+<tei:lb n="5"/>tʿ  ...  whbʾl  yḥz  mlk  sbʾ  l-ʾdm-hw  bny  btʿ  w-ḥg-n  mśnd  hqny  nšʾkrb  bn 
+<tei:lb n="6"/>...  slḥn  f-l  yhmtʿn  w-hbrrn  w-hṣḥḥn  w-hṣdqn  w-hwfyn  l-ʾdm-hmw  sʿd=
+<tei:lb n="7"/>tʾlb  ....kl  ʾnsm  bhṯm  w-qṭnm  ḏ-rḥq  w-qrb  k-ḏ-nmy  wtf  ygbʾnn  l-=
+<tei:lb n="8"/> … … … … … …</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+1.[…] resting-place(?) […]
+2.[... ...] the reserved land and [... ... ... ... ...]
+3.[….] his sons of the lineage of Bataʿ in the temple of Dhahabān. And inasmuch as he had cast down and seized that household
+4.[.... ...] of Bataʿ and Saʿdītaʾlab and Makhṭarān and all of his brethren and their sons and their descendants among the lineage of [..]
+5.[… ... Waha]bʾīl Yaḥuz, King of Sabaʾ, for his vassals of the lineage of Bataʿ. And, according to an inscription which Nashaʾkarib bin [… ...] 
+6.[… ...]. And may he protect and satisfy and keep healthy and whole and safeguard their vassals [...]
+7.[... ... ... ... ... ... ...] and near [... ... ... ...]
+8.[... ... … … … … … …]
+
+
+Restored text of the inscription:
+
+1.[…] resting-place(?) […]
+2.[... ...] the reserved land and [... … … … …]
+3.[….] and his sons of the lineage of Bataʿ in the temple of Dhahabān. And inasmuch as he had cast down and seized that household
+4.[.... the lineage] of Bataʿ and Saʿdītaʾlab and Makhṭarān and all of his brethren and their sons and their descendants among the lineage of [Ba-]
+5.[taʿ … ... Waha]bʾīl Yaḥuz, [King of Sabaʾ, for his vassals of the lineage of Bataʿ. And, according to an inscription which Nashaʾkarib bin [... … had dedicated,] 
+6.[… Salḥīn.] And may he protect and satisfy and keep healthy and whole and safeguard their vassals [Saʿdī-]
+7[taʾlab … all men, big and small, who are far] or near, [that this document was advanced for them to consent to]
+8.[... ... … … … … … …]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">…</tei:supplied> resting-place<tei:unclear>?</tei:unclear> <tei:supplied reason="lost">…</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> the reserved land and <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">….</tei:supplied> his sons of the lineage of Bataʿ in the temple of Dhahabān. And inasmuch as he had cast down and seized that household
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">.<tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> of Bataʿ and Saʿdītaʾlab and Makhṭarān and all of his brethren and their sons and their descendants among the lineage of <tei:supplied reason="lost">..</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">… ... Waha</tei:supplied>bʾīl Yaḥuz, King of Sabaʾ, for his vassals of the lineage of Bataʿ. And, according to an inscription which Nashaʾkarib bin <tei:supplied reason="lost">… ...</tei:supplied> 
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">… ...</tei:supplied>. And may he protect and satisfy and keep healthy and whole and safeguard their vassals <tei:supplied reason="lost">...</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/> ...</tei:supplied> and near <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> … … … … … …</tei:supplied>
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">…</tei:supplied> resting-place<tei:unclear>?</tei:unclear> <tei:supplied reason="lost">…</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> the reserved land and <tei:supplied reason="lost">... … … … …</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">….</tei:supplied> and his sons of the lineage of Bataʿ in the temple of Dhahabān. And inasmuch as he had cast down and seized that household
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">.... the lineage</tei:supplied> of Bataʿ and Saʿdītaʾlab and Makhṭarān and all of his brethren and their sons and their descendants among the lineage of <tei:supplied reason="lost">Ba-</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">taʿ … ... Waha</tei:supplied>bʾīl Yaḥuz, <tei:supplied reason="lost">King of Sabaʾ, for his vassals of the lineage of Bataʿ. And, according to an inscription which Nashaʾkarib bin <tei:supplied reason="lost">... … had dedicated,</tei:supplied> 
+<tei:lb n="6"/>
+                        <tei:supplied reason="lost">… Salḥīn.</tei:supplied> And may he protect and satisfy and keep healthy and whole and safeguard their vassals <tei:supplied reason="lost">Saʿdī-</tei:supplied>
+<tei:lb n="7"/>taʾlab … all men, big and small, who are far</tei:supplied> or near, <tei:supplied reason="lost">that this document was advanced for them to consent to</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> … … … … … …</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>… resting-place? …
+<tei:lb n="2"/> the reserved land and   ...
+<tei:lb n="3"/>…. his sons of the lineage of Bataʿ in the temple of Dhahabān. And inasmuch as he had cast down and seized that household
+<tei:lb n="4"/>. of Bataʿ and Saʿdītaʾlab and Makhṭarān and all of his brethren and their sons and their descendants among the lineage of ..
+<tei:lb n="5"/>… ... Wahabʾīl Yaḥuz, King of Sabaʾ, for his vassals of the lineage of Bataʿ. And, according to an inscription which Nashaʾkarib bin … ... 
+<tei:lb n="6"/>… .... And may he protect and satisfy and keep healthy and whole and safeguard their vassals ...
+<tei:lb n="7"/>   ... and near  
+<tei:lb n="8"/> … … … … … …
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/>… resting-place? …
+<tei:lb n="2"/> the reserved land and ... … … … …
+<tei:lb n="3"/>…. and his sons of the lineage of Bataʿ in the temple of Dhahabān. And inasmuch as he had cast down and seized that household
+<tei:lb n="4"/>.... the lineage of Bataʿ and Saʿdītaʾlab and Makhṭarān and all of his brethren and their sons and their descendants among the lineage of Ba-
+<tei:lb n="5"/>taʿ … ... Wahabʾīl Yaḥuz, King of Sabaʾ, for his vassals of the lineage of Bataʿ. And, according to an inscription which Nashaʾkarib bin ... … had dedicated, 
+<tei:lb n="6"/>… Salḥīn. And may he protect and satisfy and keep healthy and whole and safeguard their vassals Saʿdī-
+<tei:lb n="7"/>taʾlab … all men, big and small, who are far or near, that this document was advanced for them to consent to
+<tei:lb n="8"/> … … … … … …</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="1"/>… resting-place? …
+<tei:lb n="2"/> the reserved land and   ...
+<tei:lb n="3"/>…. his sons of the lineage of Bataʿ in the temple of Dhahabān. And inasmuch as he had cast down and seized that household
+<tei:lb n="4"/>. of Bataʿ and Saʿdītaʾlab and Makhṭarān and all of his brethren and their sons and their descendants among the lineage of ..
+<tei:lb n="5"/>… ... Wahabʾīl Yaḥuz, King of Sabaʾ, for his vassals of the lineage of Bataʿ. And, according to an inscription which Nashaʾkarib bin … ... 
+<tei:lb n="6"/>… .... And may he protect and satisfy and keep healthy and whole and safeguard their vassals ...
+<tei:lb n="7"/>   ... and near  
+<tei:lb n="8"/> … … … … … …
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/>… resting-place? …
+<tei:lb n="2"/> the reserved land and ... … … … …
+<tei:lb n="3"/>…. and his sons of the lineage of Bataʿ in the temple of Dhahabān. And inasmuch as he had cast down and seized that household
+<tei:lb n="4"/>.... the lineage of Bataʿ and Saʿdītaʾlab and Makhṭarān and all of his brethren and their sons and their descendants among the lineage of Ba-
+<tei:lb n="5"/>taʿ … ... Wahabʾīl Yaḥuz, King of Sabaʾ, for his vassals of the lineage of Bataʿ. And, according to an inscription which Nashaʾkarib bin ... … had dedicated, 
+<tei:lb n="6"/>… Salḥīn. And may he protect and satisfy and keep healthy and whole and safeguard their vassals Saʿdī-
+<tei:lb n="7"/>taʾlab … all men, big and small, who are far or near, that this document was advanced for them to consent to
+<tei:lb n="8"/> … … … … … …</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

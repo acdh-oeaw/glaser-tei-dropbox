@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1628_02</title>
+                <title type="alt">1110003402</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1628_02</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1628_02</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-09-26" who="paigner"/>
+            <change when="2018-09-26" who="paigner"/>
+            <change when="2018-09-26" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2017-07-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.(ḥg-n | k)-wq(h) | [... ... | nš]ʾkr[b | yʾmn] | yhrḥb | mlk | (sbʾ) | w-ḏ-rydn | bn | ʾlšrḥ | yḥḍb | w-yʾzl
+2.byn | mlky | sbʾ | w-ḏ-rydn | (ʾ)[dm-hw] | mrṯdm | w-ʾs[l]m | (w-bny-)hmw | (š)[r]ḥm | bny | ḏ-mʾḏnm | w-[š]ʿb-h[mw | mʾḏnm]
+3.[m](ś)wd-hmw | w-mrʾs-hmw | (bh)[ṯ]-hmw | w-qṭn-hmw | kl | tśʿn | w-(rt)ʿn | w-tqfn | bn | ḥml | [w-]n(ʿ)m | ʿdy | srn | ḥr=
+4.d | kl | ʾblm | w-bqrm | w-bʿrm | w-bn | (ḥ)ṣm | (w)-[ʿ]šṭ | w-nḍw | w-ḫlb | bn | hwt | srn | ḥrd | bn | ḥrmtn | ḏ-[... ...]
+5.ʿdy | tbql | fhdm | ḏ-b-ḫlfn | [... ...]ymn | srn | ḥrd | ḥg-n | k-ʾ[... ...] | w-ʿrmnhn | b-ḥl[.]hn | w-[.]nql[... ...]
+6.(y)[h]ʾsyn | kḥ[..]m | [...]fr(m) | [... ...]m[... ...] | fʾw | bqrm | f-l-ʾblm | l-yḏbḥn[n] | wdm | (ḫ)ms (q)[nym ... ...]
+ 7.ṯwrm | ydw(m) | fl[... ...]qnyn | w-ḏ-y(h)ʾsyn | f-ḥṣm [... ...]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:unclear>ḥg-n | k</tei:unclear>-wq<tei:unclear>h</tei:unclear> | <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> | nš</tei:supplied>ʾkr<tei:supplied reason="lost">b | yʾmn</tei:supplied> | yhrḥb | mlk | <tei:unclear>sbʾ</tei:unclear> | w-ḏ-rydn | bn | ʾlšrḥ | yḥḍb | w-yʾzl
+<tei:lb n="2"/>byn | mlky | sbʾ | w-ḏ-rydn | <tei:unclear>ʾ</tei:unclear>
+                    <tei:supplied reason="lost">dm-hw</tei:supplied> | mrṯdm | w-ʾs<tei:supplied reason="lost">l</tei:supplied>m | <tei:unclear>w-bny-</tei:unclear>hmw | <tei:unclear>š</tei:unclear>
+                    <tei:supplied reason="lost">r</tei:supplied>ḥm | bny | ḏ-mʾḏnm | w-<tei:supplied reason="lost">š</tei:supplied>ʿb-h<tei:supplied reason="lost">mw | mʾḏnm</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">m</tei:supplied>
+                    <tei:unclear>ś</tei:unclear>wd-hmw | w-mrʾs-hmw | <tei:unclear>bh</tei:unclear>
+                    <tei:supplied reason="lost">ṯ</tei:supplied>-hmw | w-qṭn-hmw | kl | tśʿn | w-<tei:unclear>rt</tei:unclear>ʿn | w-tqfn | bn | ḥml | <tei:supplied reason="lost">w-</tei:supplied>n<tei:unclear>ʿ</tei:unclear>m | ʿdy | srn | ḥr=
+<tei:lb n="4"/>d | kl | ʾblm | w-bqrm | w-bʿrm | w-bn | <tei:unclear>ḥ</tei:unclear>ṣm | <tei:unclear>w</tei:unclear>-<tei:supplied reason="lost">ʿ</tei:supplied>šṭ | w-nḍw | w-ḫlb | bn | hwt | srn | ḥrd | bn | ḥrmtn | ḏ-<tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="5"/>ʿdy | tbql | fhdm | ḏ-b-ḫlfn | <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>ymn | srn | ḥrd | ḥg-n | k-ʾ<tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> | w-ʿrmnhn | b-ḥl<tei:supplied reason="lost">.</tei:supplied>hn | w-<tei:supplied reason="lost">.</tei:supplied>nql<tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="6"/>
+                    <tei:unclear>y</tei:unclear>
+                    <tei:supplied reason="lost">h</tei:supplied>ʾsyn | kḥ<tei:supplied reason="lost">..</tei:supplied>m | <tei:supplied reason="lost">...</tei:supplied>fr<tei:unclear>m</tei:unclear> | <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>m<tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied> | fʾw | bqrm | f-l-ʾblm | l-yḏbḥn<tei:supplied reason="lost">n</tei:supplied> | wdm | <tei:unclear>ḫ</tei:unclear>ms <tei:unclear>q</tei:unclear>
+                    <tei:supplied reason="lost">nym <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+ <tei:lb n="7"/>ṯwrm | ydw<tei:unclear>m</tei:unclear> | fl<tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>qnyn | w-ḏ-y<tei:unclear>h</tei:unclear>ʾsyn | f-ḥṣm <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/><w>ḥg-n</w>  <w>k-wqh</w>    <rs type="complex"><persName type="royal" subtype="withTitle" role="king" n="1">nšʾkrb</persName>  <persName type="royal" subtype="withTitle" role="king" n="2">yʾmn</persName>  <persName type="royal" subtype="withTitle" role="king" n="3">yhrḥb</persName></rs>  <w>mlk</w>  <orgName type="state">sbʾ</orgName>  <w>w-</w><placeName type="building">ḏ-rydn</placeName>  <w>bn</w>  <rs type="complex"><persName type="patronymic" subtype="royalWithTitle" role="king" n="1">ʾlšrḥ</persName>  <persName type="patronymic" subtype="royalWithTitle" role="king" n="2">yḥḍb</persName></rs>  <w>w-</w><rs type="complex"><persName type="patronymic" subtype="royalWithTitle" role="king" n="1">yʾzl</persName>
+                        <tei:lb n="2"/><persName type="patronymic" subtype="royalWithTitle" role="king" n="2">byn</persName></rs>  <w>mlky</w>  <orgName type="state">sbʾ</orgName>  <w>w-</w><placeName type="building">ḏ-rydn</placeName>  <w>ʾdm-hw</w>  <persName type="gender" subtype="m">mrṯdm</persName>  <w>w-</w><persName type="gender" subtype="m">ʾslm</persName>  <w>w-bny-hmw</w>  <persName type="gender" subtype="m">šrḥm</persName>  <w>bny</w>  <orgName type="group">ḏ-mʾḏnm</orgName>  <w>w-šʿb-hmw</w>  <orgName type="tribe">mʾḏnm</orgName>
+                    <tei:lb n="3"/><w>mśwd-hmw</w>  <w>w-mrʾs-hmw</w>  <w>bhṯ-hmw</w>  <w>w-qṭn-hmw</w>  <w>kl</w>  <w>tśʿn</w>  <w>w-rtʿn</w>  <w>w-tqfn</w>  <w>bn</w>  <w>ḥml</w>  <w>w-nʿm</w>  <w>ʿdy</w>  <w>srn</w>  <placeName>ḥr=
+                        <tei:lb n="4"/>d</placeName>  <w>kl</w>  <w>ʾblm</w>  <w>w-bqrm</w>  <w>w-bʿrm</w>  <w>w-bn</w>  <w>ḥṣm</w>  <w>w-ʿšṭ</w>  <w>w-nḍw</w>  <w>w-ḫlb</w>  <w>bn</w>  <w>hwt</w>  <w>srn</w>  <placeName>ḥrd</placeName>  <w>bn</w>  <w>ḥrmtn</w>  ḏ-
+                    <tei:lb n="5"/><w>ʿdy</w>  <w>tbql</w>  <placeName>fhdm</placeName>  <w>ḏ-b-ḫlfn</w>  ymn  <w>srn</w>  <placeName>ḥrd</placeName>  <w>ḥg-n</w>  <w>k-ʾ</w>  <w>w-ʿrmnhn</w>  <w>b-</w>ḥl.hn  w-.nql
+                    <tei:lb n="6"/><w>yhʾsyn</w>  kḥ..m  ...frm  m  <w>fʾw</w>  <w>bqrm</w>  <w>f-l-ʾblm</w>  <w>l-yḏbḥnn</w>  <name type="theonym">wdm</name>  <w>ḫms</w> <w>qnym</w> 
+                    <tei:lb n="7"/><w>ṯwrm</w>  <w>ydwm</w>  <w>flqnyn</w>  <w>w-ḏ-yhʾsyn</w>  <w>f-ḥṣm</w> </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>ḥg-n  k-wqh    nšʾkrb  yʾmn  yhrḥb  mlk  sbʾ  w-ḏ-rydn  bn  ʾlšrḥ  yḥḍb  w-yʾzl
+<tei:lb n="2"/>byn  mlky  sbʾ  w-ḏ-rydn  ʾdm-hw  mrṯdm  w-ʾslm  w-bny-hmw  šrḥm  bny  ḏ-mʾḏnm  w-šʿb-hmw  mʾḏnm
+<tei:lb n="3"/>mśwd-hmw  w-mrʾs-hmw  bhṯ-hmw  w-qṭn-hmw  kl  tśʿn  w-rtʿn  w-tqfn  bn  ḥml  w-nʿm  ʿdy  srn  ḥr=
+<tei:lb n="4"/>d  kl  ʾblm  w-bqrm  w-bʿrm  w-bn  ḥṣm  w-ʿšṭ  w-nḍw  w-ḫlb  bn  hwt  srn  ḥrd  bn  ḥrmtn  ḏ-
+<tei:lb n="5"/>ʿdy  tbql  fhdm  ḏ-b-ḫlfn  ymn  srn  ḥrd  ḥg-n  k-ʾ  w-ʿrmnhn  b-ḥl.hn  w-.nql
+<tei:lb n="6"/>yhʾsyn  kḥ..m  ...frm  m  fʾw  bqrm  f-l-ʾblm  l-yḏbḥnn  wdm  ḫms qnym 
+ <tei:lb n="7"/>ṯwrm  ydwm  flqnyn  w-ḏ-yhʾsyn  f-ḥṣm </tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.Thus have [… … Nasha]ʾkari[b Yuʾmin] Yuharḥib, King of Sabaʾ and Dhū-Raydān, son of ʾĪlsharaḥ Yaḥḍub and Yaʾzil
+2.Bayyin, the two Kings of Sabaʾ and Dhū-Raydān, for [his clients] Marthadum and ʾAslam and their son Sharaḥum of the lineage of Dhū-Miʾdhanum and their tribe [of Miʾdhanum,]
+3.their council and their overlords--great and small--(regarding) every legal dispute and legal settlement and legal procedure(?) regarding transport animals and livestock ownership in the valley of Ḥara-
+4.d-all camels and cattle and (other) livestock-against any harm, damage, destruction, or wrongdoing within that valley of Ḥarad, from (the area of) the temple of Dhū-[… …]
+5.up to the plantation of Fahdum which is in the region [… … …] the valley of Ḥarad, as [… …] and the two earthen levees in Ḥal[.]hān and [.]nqul[… …] 
+6.they send [… … … … … …] or cattle or camels in order to be slaughtered for (the god) Waddum: five small [livestock … …]
+7.a bull, [… … …] the small livestock which they send, then harm [… …].</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>Thus have <tei:supplied reason="lost">… … Nasha</tei:supplied>ʾkari<tei:supplied reason="lost">b Yuʾmin</tei:supplied> Yuharḥib, King of Sabaʾ and Dhū-Raydān, son of ʾĪlsharaḥ Yaḥḍub and Yaʾzil
+<tei:lb n="2"/>Bayyin, the two Kings of Sabaʾ and Dhū-Raydān, for <tei:supplied reason="lost">his clients</tei:supplied> Marthadum and ʾAslam and their son Sharaḥum of the lineage of Dhū-Miʾdhanum and their tribe <tei:supplied reason="lost">of Miʾdhanum,</tei:supplied>
+<tei:lb n="3"/>their council and their overlords--great and small--<tei:unclear>regarding</tei:unclear> every legal dispute and legal settlement and legal procedure<tei:unclear>?</tei:unclear> regarding transport animals and livestock ownership in the valley of Ḥara-
+<tei:lb n="4"/>d-all camels and cattle and <tei:unclear>other</tei:unclear> livestock-against any harm, damage, destruction, or wrongdoing within that valley of Ḥarad, from <tei:unclear>the area of</tei:unclear> the temple of Dhū-<tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="5"/>up to the plantation of Fahdum which is in the region <tei:supplied reason="lost">… … …</tei:supplied> the valley of Ḥarad, as <tei:supplied reason="lost">… …</tei:supplied> and the two earthen levees in Ḥal<tei:supplied reason="lost">.</tei:supplied>hān and <tei:supplied reason="lost">.</tei:supplied>nqul<tei:supplied reason="lost">… …</tei:supplied> 
+<tei:lb n="6"/>they send <tei:supplied reason="lost">… … … … … …</tei:supplied> or cattle or camels in order to be slaughtered for <tei:unclear>the god</tei:unclear> Waddum: five small <tei:supplied reason="lost">livestock … …</tei:supplied>
+<tei:lb n="7"/>a bull, <tei:supplied reason="lost">… … …</tei:supplied> the small livestock which they send, then harm <tei:supplied reason="lost">… …</tei:supplied>.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>Thus have … … Nashaʾkarib Yuʾmin Yuharḥib, King of Sabaʾ and Dhū-Raydān, son of ʾĪlsharaḥ Yaḥḍub and Yaʾzil
+<tei:lb n="2"/>Bayyin, the two Kings of Sabaʾ and Dhū-Raydān, for his clients Marthadum and ʾAslam and their son Sharaḥum of the lineage of Dhū-Miʾdhanum and their tribe of Miʾdhanum,
+<tei:lb n="3"/>their council and their overlords--great and small--regarding every legal dispute and legal settlement and legal procedure? regarding transport animals and livestock ownership in the valley of Ḥara-
+<tei:lb n="4"/>d-all camels and cattle and other livestock-against any harm, damage, destruction, or wrongdoing within that valley of Ḥarad, from the area of the temple of Dhū-… …
+<tei:lb n="5"/>up to the plantation of Fahdum which is in the region … … … the valley of Ḥarad, as … … and the two earthen levees in Ḥal.hān and .nqul… … 
+<tei:lb n="6"/>they send … … … … … … or cattle or camels in order to be slaughtered for the god Waddum: five small livestock … …
+<tei:lb n="7"/>a bull, … … … the small livestock which they send, then harm … ….</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>Thus have … … Nashaʾkarib Yuʾmin Yuharḥib, King of Sabaʾ and Dhū-Raydān, son of ʾĪlsharaḥ Yaḥḍub and Yaʾzil
+<tei:lb n="2"/>Bayyin, the two Kings of Sabaʾ and Dhū-Raydān, for his clients Marthadum and ʾAslam and their son Sharaḥum of the lineage of Dhū-Miʾdhanum and their tribe of Miʾdhanum,
+<tei:lb n="3"/>their council and their overlords--great and small--regarding every legal dispute and legal settlement and legal procedure? regarding transport animals and livestock ownership in the valley of Ḥara-
+<tei:lb n="4"/>d-all camels and cattle and other livestock-against any harm, damage, destruction, or wrongdoing within that valley of Ḥarad, from the area of the temple of Dhū-… …
+<tei:lb n="5"/>up to the plantation of Fahdum which is in the region … … … the valley of Ḥarad, as … … and the two earthen levees in Ḥal.hān and .nqul… … 
+<tei:lb n="6"/>they send … … … … … … or cattle or camels in order to be slaughtered for the god Waddum: five small livestock … …
+<tei:lb n="7"/>a bull, … … … the small livestock which they send, then harm … ….</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

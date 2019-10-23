@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-P-269</title>
+                <title type="alt">1110001563</title>
+                <title type="alt">AT-OeAW-BA-3-27-P-269</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-P-269</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-13" who="paigner"/>
+            <change when="2018-12-13" who="paigner"/>
+            <change when="2018-12-13" who="paigner"/>
+            <change when="2018-08-29" who="paigner"/>
+            <change when="2018-08-29" who="paigner"/>
+            <change when="2018-08-29" who="paigner"/>
+            <change when="2018-08-29" who="paigner"/>
+            <change when="2018-08-29" who="paigner"/>
+            <change when="2018-08-24" who="paigner"/>
+            <change when="2018-08-24" who="paigner"/>
+            <change when="2018-08-24" who="paigner"/>
+            <change when="2018-08-24" who="paigner"/>
+            <change when="2018-08-24" who="paigner"/>
+            <change when="2018-08-24" who="paigner"/>
+            <change when="2018-08-24" who="paigner"/>
+            <change when="2018-08-24" who="paigner"/>
+            <change when="2018-08-24" who="paigner"/>
+            <change when="2018-08-24" who="paigner"/>
+            <change when="2016-10-19" who="paigner"/>
+            <change when="2016-09-27" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in the photograph and the copy:
+
+3.r | qẓr | qyn | ršw | ʿmm | ṯ=
+4.ntm | śḥr | w-rby | ʿm | ryʿ=
+5.n | bʿl | ẓrbt | ltk | b-ḏbḥ=
+6.tm | w-b-ʿm | ʾḍfrm | b-byt
+7.qny | hwrn | sqny | ʾnb=
+8.y | bʿl | ḥgn | qny-hw | g=
+9.lbm
+
+
+Restored full text of the inscription:
+
+1.[šhr | hll | yhnʿm | bn | ydʿʾb | mkrb]
+2.[qtbn | bkr | ʾnby | w-ḥwkm | ḏ-ʾmr | w-šm=]
+3.r | qẓr | qyn | ršw | ʿmm | ṯ=
+4.ntm | śḥr | w-rby | ʿm | ryʿ=
+5.n | bʿl | ẓrbt | ltk | b-ḏbḥ=
+6.tm | w-b-ʿm | ʾḍfrm | b-byt
+7.qny | hwrn | sqny | ʾnb=
+8.y | bʿl | ḥgn | qny-hw | g=
+9.lbm</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in the photograph and the copy:
+
+<tei:lb n="3"/>r | qẓr | qyn | ršw | ʿmm | ṯ=
+<tei:lb n="4"/>ntm | śḥr | w-rby | ʿm | ryʿ=
+<tei:lb n="5"/>n | bʿl | ẓrbt | ltk | b-ḏbḥ=
+<tei:lb n="6"/>tm | w-b-ʿm | ʾḍfrm | b-byt
+<tei:lb n="7"/>qny | hwrn | sqny | ʾnb=
+<tei:lb n="8"/>y | bʿl | ḥgn | qny-hw | g=
+<tei:lb n="9"/>lbm
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">šhr | hll | yhnʿm | bn | ydʿʾb | mkrb</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">qtbn | bkr | ʾnby | w-ḥwkm | ḏ-ʾmr | w-šm=</tei:supplied>
+<tei:lb n="3"/>r | qẓr | qyn | ršw | ʿmm | ṯ=
+<tei:lb n="4"/>ntm | śḥr | w-rby | ʿm | ryʿ=
+<tei:lb n="5"/>n | bʿl | ẓrbt | ltk | b-ḏbḥ=
+<tei:lb n="6"/>tm | w-b-ʿm | ʾḍfrm | b-byt
+<tei:lb n="7"/>qny | hwrn | sqny | ʾnb=
+<tei:lb n="8"/>y | bʿl | ḥgn | qny-hw | g=
+<tei:lb n="9"/>lbm</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in the photograph and the copy:
+
+<tei:lb n="3"/>r  qẓr  qyn  ršw  ʿmm  ṯ=
+<tei:lb n="4"/>ntm  śḥr  w-rby  ʿm  ryʿ=
+<tei:lb n="5"/>n  bʿl  ẓrbt  ltk  b-ḏbḥ=
+<tei:lb n="6"/>tm  w-b-ʿm  ʾḍfrm  b-byt
+<tei:lb n="7"/>qny  hwrn  sqny  ʾnb=
+<tei:lb n="8"/>y  bʿl  ḥgn  qny-hw  g=
+<tei:lb n="9"/>lbm
+
+
+Restored full text of the inscription:
+
+                    <tei:lb n="1"/><rs type="complex"><persName type="royal" subtype="withTitle" role="king" n="1">šhr</persName>  <persName type="royal" subtype="withTitle" role="king" n="2">hll</persName>  <persName type="royal" subtype="withTitle" role="king" n="3">yhnʿm</persName></rs>  <w>bn</w>  <persName type="patronymic" subtype="royal" role="member">ydʿʾb </persName> <w>mkrb</w>
+                    <tei:lb n="2"/><orgName type="state">qtbn</orgName>  <w>bkr</w>  <name type="theonym">ʾnby</name>  <w>w-</w><rs type="complex"><name type="theonym">ḥwkm</name>  <name type="epithet" subtype="divine">ḏ-ʾmr</name>  <w>w-</w><name type="epithet" subtype="divine"> šm=
+                    <tei:lb n="3"/>r</name></rs>  <w>qẓr</w>  <w>qyn</w>  <w>ršw</w>  <name type="theonym">ʿmm</name>  <w>ṯ=
+                        <tei:lb n="4"/>ntm</w>  <w>śḥr</w>  <w>w-rby</w>  <rs type="complex"><name type="theonym">ʿm</name>  <name type="epithet" subtype="divine">ryʿ=
+<tei:lb n="5"/>n</name></rs>  <w>bʿl</w>  <w>ẓrbt</w>  <w>ltk</w>  <w>b-ḏbḥ=
+<tei:lb n="6"/>tm</w>  <w>w-b-ʿm</w>  <w>ʾḍfrm</w>  <w>b-byt</w>
+                    <tei:lb n="7"/><placeName type="sanctuary">qny  hwrn</placeName>  <w>sqny</w>  <name type="theonym">ʾnb=
+                        <tei:lb n="8"/>y</name>  <w>bʿl</w>  <placeName type="sanctuary">ḥgn</placeName>  <w>qny-hw</w>  <w>g=
+<tei:lb n="9"/>lbm</w></tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in the photograph and the copy:
+
+<tei:lb n="3"/>r  qẓr  qyn  ršw  ʿmm  ṯ=
+<tei:lb n="4"/>ntm  śḥr  w-rby  ʿm  ryʿ=
+<tei:lb n="5"/>n  bʿl  ẓrbt  ltk  b-ḏbḥ=
+<tei:lb n="6"/>tm  w-b-ʿm  ʾḍfrm  b-byt
+<tei:lb n="7"/>qny  hwrn  sqny  ʾnb=
+<tei:lb n="8"/>y  bʿl  ḥgn  qny-hw  g=
+<tei:lb n="9"/>lbm
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>šhr  hll  yhnʿm  bn  ydʿʾb  mkrb
+<tei:lb n="2"/>qtbn  bkr  ʾnby  w-ḥwkm  ḏ-ʾmr  w-šm=
+<tei:lb n="3"/>r  qẓr  qyn  ršw  ʿmm  ṯ=
+<tei:lb n="4"/>ntm  śḥr  w-rby  ʿm  ryʿ=
+<tei:lb n="5"/>n  bʿl  ẓrbt  ltk  b-ḏbḥ=
+<tei:lb n="6"/>tm  w-b-ʿm  ʾḍfrm  b-byt
+<tei:lb n="7"/>qny  hwrn  sqny  ʾnb=
+<tei:lb n="8"/>y  bʿl  ḥgn  qny-hw  g=
+<tei:lb n="9"/>lbm</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in the photograph and the copy:
+
+3.ar, the tax-collector, qayn-administrator, priest of ʿAmmum for the second
+4.time (in office), śiḥr-priest and rabay-priest of ʿAmm Rayʿ-
+5.ān, lord of land properties, officiant of sacrifice-
+6.es and of (sacrificial) animals in the sanctuary of 
+7.Qanay Hawrān, has dedicated to ʾAnba-
+8.y, Lord of Ḥagan, his property through
+9.economic transactions.
+
+
+Restored full text of the inscription:
+
+1.[Shahr Hilāl Yuhanʿim bin Yadaʿʾab, ruler of]
+2.[of Qatabān, the first-born of ʾAnbay and Ḥawkam Dhū-ʾAmīr and Shamm-]
+3.ar, the tax-collector, qayn-administrator, priest of ʿAmmum for the second
+4.time (in office), śiḥr-priest and rabay-priest of ʿAmm Rayʿ-
+5.ān, lord of land properties, officiant of sacrifice-
+6.es and of (sacrificial) animals in the sanctuary of 
+7.Qanay Hawrān, has dedicated to ʾAnba-
+8.y, Lord of Ḥagan, his property through
+9.economic transactions.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in the photograph and the copy:
+
+<tei:lb n="3"/>ar, the tax-collector, qayn-administrator, priest of ʿAmmum for the second
+<tei:lb n="4"/>time <tei:unclear>in office</tei:unclear>, śiḥr-priest and rabay-priest of ʿAmm Rayʿ-
+<tei:lb n="5"/>ān, lord of land properties, officiant of sacrifice-
+<tei:lb n="6"/>es and of <tei:unclear>sacrificial</tei:unclear> animals in the sanctuary of 
+<tei:lb n="7"/>Qanay Hawrān, has dedicated to ʾAnba-
+<tei:lb n="8"/>y, Lord of Ḥagan, his property through
+<tei:lb n="9"/>economic transactions.
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">Shahr Hilāl Yuhanʿim bin Yadaʿʾab, ruler of</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">of Qatabān, the first-born of ʾAnbay and Ḥawkam Dhū-ʾAmīr and Shamm-</tei:supplied>
+<tei:lb n="3"/>ar, the tax-collector, qayn-administrator, priest of ʿAmmum for the second
+<tei:lb n="4"/>time <tei:unclear>in office</tei:unclear>, śiḥr-priest and rabay-priest of ʿAmm Rayʿ-
+<tei:lb n="5"/>ān, lord of land properties, officiant of sacrifice-
+<tei:lb n="6"/>es and of <tei:unclear>sacrificial</tei:unclear> animals in the sanctuary of 
+<tei:lb n="7"/>Qanay Hawrān, has dedicated to ʾAnba-
+<tei:lb n="8"/>y, Lord of Ḥagan, his property through
+<tei:lb n="9"/>economic transactions.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in the photograph and the copy:
+
+<tei:lb n="3"/>ar, the tax-collector, qayn-administrator, priest of ʿAmmum for the second
+<tei:lb n="4"/>time in office, śiḥr-priest and rabay-priest of ʿAmm Rayʿ-
+<tei:lb n="5"/>ān, lord of land properties, officiant of sacrifice-
+<tei:lb n="6"/>es and of sacrificial animals in the sanctuary of 
+<tei:lb n="7"/>Qanay Hawrān, has dedicated to ʾAnba-
+<tei:lb n="8"/>y, Lord of Ḥagan, his property through
+<tei:lb n="9"/>economic transactions.
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>Shahr Hilāl Yuhanʿim bin Yadaʿʾab, ruler of
+<tei:lb n="2"/>of Qatabān, the first-born of ʾAnbay and Ḥawkam Dhū-ʾAmīr and Shamm-
+<tei:lb n="3"/>ar, the tax-collector, qayn-administrator, priest of ʿAmmum for the second
+<tei:lb n="4"/>time in office, śiḥr-priest and rabay-priest of ʿAmm Rayʿ-
+<tei:lb n="5"/>ān, lord of land properties, officiant of sacrifice-
+<tei:lb n="6"/>es and of sacrificial animals in the sanctuary of 
+<tei:lb n="7"/>Qanay Hawrān, has dedicated to ʾAnba-
+<tei:lb n="8"/>y, Lord of Ḥagan, his property through
+<tei:lb n="9"/>economic transactions.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in the photograph and the copy:
+
+<tei:lb n="3"/>ar, the tax-collector, qayn-administrator, priest of ʿAmmum for the second
+<tei:lb n="4"/>time in office, śiḥr-priest and rabay-priest of ʿAmm Rayʿ-
+<tei:lb n="5"/>ān, lord of land properties, officiant of sacrifice-
+<tei:lb n="6"/>es and of sacrificial animals in the sanctuary of 
+<tei:lb n="7"/>Qanay Hawrān, has dedicated to ʾAnba-
+<tei:lb n="8"/>y, Lord of Ḥagan, his property through
+<tei:lb n="9"/>economic transactions.
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>Shahr Hilāl Yuhanʿim bin Yadaʿʾab, ruler of
+<tei:lb n="2"/>of Qatabān, the first-born of ʾAnbay and Ḥawkam Dhū-ʾAmīr and Shamm-
+<tei:lb n="3"/>ar, the tax-collector, qayn-administrator, priest of ʿAmmum for the second
+<tei:lb n="4"/>time in office, śiḥr-priest and rabay-priest of ʿAmm Rayʿ-
+<tei:lb n="5"/>ān, lord of land properties, officiant of sacrifice-
+<tei:lb n="6"/>es and of sacrificial animals in the sanctuary of 
+<tei:lb n="7"/>Qanay Hawrān, has dedicated to ʾAnba-
+<tei:lb n="8"/>y, Lord of Ḥagan, his property through
+<tei:lb n="9"/>economic transactions.</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

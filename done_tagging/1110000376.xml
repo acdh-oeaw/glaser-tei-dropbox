@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1228_01</title>
+                <title type="alt">1110000376</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1228_01</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1228_01</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-09-12" who="paigner"/>
+            <change when="2018-07-31" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2016-10-14" who="paigner"/>
+            <change when="2016-09-27" who="paigner"/>
+            <change when="2016-05-13" who="paigner"/>
+            <change when="2016-05-11" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-04" who="paigner"/>
+            <change when="2016-03-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+2.[… … … … … …]
+3.[… … … … … …]
+4.[… … … … … …]
+5.[… ..]t | hwšʿ | t[… … …]
+6.[…] mlk | sbʾ | w-ʿbd-hw | sʿdtʾl=
+7.[b | b-hl]qḥn | mqḥ | ṣdqm | b-kn | tqdmw
+8.[…]ʿly | ḏ-rydn | w-kl | ʾšʿb | ḏ-rydn | w-
+9.[..]dšmsm | w-mrṯdm | w-šʿb-hmy | ḏ-b[..]
+10.[.]gn | ṣnʿw | b-kn | tnšʾy | w-tnš[ʾw]
+11.sʿdšmsm | w-[… ..] | w-šʿb-hm[… ..]
+12.[… …] | w-kl [… …]
+13.[… …]ḍ | mlk | ʿṯtr | w-ʾlmqh | [.]
+14.[… ..]b | yhṯb | l-ʾḏn | tʾlb | rym
+15.[…]ḏt | hwšʿ-hmw | b-ḥsm | w-[.]
+
+
+Restored text of the inscription:
+
+1.[… … … … … …]
+2.[… … … … … …]
+3.[…] hqnyw | [šy]m-hm[w | tʾlb | rymm]
+4.[bʿl | trʿt |] ḏn | ṣl[m | ḏ-ḏhbn | ḥmd=]
+5.[m | b-ḏ]t | hwšʿ | tʾlb | rymm | [whbʾl]
+6.[yḥz |] mlk | sbʾ | w-ʿbd-hw | sʿdtʾl=
+7.[b | b-hl]qḥn | mqḥ | ṣdqm | b-kn | tqdmw
+8.[ḏmr]ʿly | ḏ-rydn | w-kl | ʾšʿb | ḏ-rydn | w-
+9.[sʿ]dšmsm | w-mrṯdm | w-šʿb-hmy | ḏ-b[..]
+10.[.]gn | ṣnʿw | b-kn | tnšʾy | w-tnš[ʾw]
+11.sʿdšmsm | w-mrṯdm | w-šʿb-hm[y | w-ḏ=]
+12.[mrʿly] | ḏ-rydn | w-kl [|ʾšʿb | ḏ-rydn]
+13.[… …]ḍ | mlk | ʿṯtr | w-ʾlmqh | [.]
+14.[… ..]b | yhṯb | l-ʾḏn | tʾlb | rym
+15.[m | w-b-]ḏt | hwšʿ-hmw | b-ḥsm | w-[.]
+16.[… ..] | w-hlqḥn | ḏmrʿly | ḏ-ryd=
+17.[n | w-kl | ʾšʿb] | ḏ-rydn | w-sʿdšmsm | w-m=
+18.[rṯdm | w-kl |] ḏ-kn | kn-hmw | w-ḥmdw | b-
+19.[ḏt | hwfy | grb-]hw | w-grbt | kl | ʾns |
+20.[tqdmw | b-ʿm-]hw | w-l-sʿd-hmw | ḥẓ=
+21.[y | w-rḍw | mrʾ-h]mw | whbʾl | yḥz | m=
+22.[lk | sbʾ | w-l-]ḏt | nʿmt | w-tnʿmn | [.]
+23.[… … ..] w-hwfʿm | w-mḫṭrn | w-b
+24.[… … …]r | w-sḫymm | w-ḏḫwln | w-
+25.[… … | b-tʾlb |] rymm</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">… ..</tei:supplied>t | hwšʿ | t<tei:supplied reason="lost">… … …</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">…</tei:supplied> mlk | sbʾ | w-ʿbd-hw | sʿdtʾl=
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">b | b-hl</tei:supplied>qḥn | mqḥ | ṣdqm | b-kn | tqdmw
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">…</tei:supplied>ʿly | ḏ-rydn | w-kl | ʾšʿb | ḏ-rydn | w-
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">..</tei:supplied>dšmsm | w-mrṯdm | w-šʿb-hmy | ḏ-b<tei:supplied reason="lost">..</tei:supplied>
+<tei:lb n="10"/>
+                    <tei:supplied reason="lost">.</tei:supplied>gn | ṣnʿw | b-kn | tnšʾy | w-tnš<tei:supplied reason="lost">ʾw</tei:supplied>
+<tei:lb n="11"/>sʿdšmsm | w-<tei:supplied reason="lost">… ..</tei:supplied> | w-šʿb-hm<tei:supplied reason="lost">… ..</tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> | w-kl <tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">… …</tei:supplied>ḍ | mlk | ʿṯtr | w-ʾlmqh | <tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="14"/>
+                    <tei:supplied reason="lost">… ..</tei:supplied>b | yhṯb | l-ʾḏn | tʾlb | rym
+<tei:lb n="15"/>
+                    <tei:supplied reason="lost">…</tei:supplied>ḏt | hwšʿ-hmw | b-ḥsm | w-<tei:supplied reason="lost">.</tei:supplied>
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">…</tei:supplied> hqnyw | <tei:supplied reason="lost">šy</tei:supplied>m-hm<tei:supplied reason="lost">w | tʾlb | rymm</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">bʿl | trʿt |</tei:supplied> ḏn | ṣl<tei:supplied reason="lost">m | ḏ-ḏhbn | ḥmd=</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">m | b-ḏ</tei:supplied>t | hwšʿ | tʾlb | rymm | <tei:supplied reason="lost">whbʾl</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">yḥz |</tei:supplied> mlk | sbʾ | w-ʿbd-hw | sʿdtʾl=
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">b | b-hl</tei:supplied>qḥn | mqḥ | ṣdqm | b-kn | tqdmw
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">ḏmr</tei:supplied>ʿly | ḏ-rydn | w-kl | ʾšʿb | ḏ-rydn | w-
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">sʿ</tei:supplied>dšmsm | w-mrṯdm | w-šʿb-hmy | ḏ-b<tei:supplied reason="lost">..</tei:supplied>
+<tei:lb n="10"/>
+                    <tei:supplied reason="lost">.</tei:supplied>gn | ṣnʿw | b-kn | tnšʾy | w-tnš<tei:supplied reason="lost">ʾw</tei:supplied>
+<tei:lb n="11"/>sʿdšmsm | w-mrṯdm | w-šʿb-hm<tei:supplied reason="lost">y | w-ḏ=</tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">mrʿly</tei:supplied> | ḏ-rydn | w-kl <tei:supplied reason="lost">|ʾšʿb | ḏ-rydn</tei:supplied>
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">… …</tei:supplied>ḍ | mlk | ʿṯtr | w-ʾlmqh | <tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="14"/>
+                    <tei:supplied reason="lost">… ..</tei:supplied>b | yhṯb | l-ʾḏn | tʾlb | rym
+<tei:lb n="15"/>
+                    <tei:supplied reason="lost">m | w-b-</tei:supplied>ḏt | hwšʿ-hmw | b-ḥsm | w-<tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="16"/>
+                    <tei:supplied reason="lost">… ..</tei:supplied> | w-hlqḥn | ḏmrʿly | ḏ-ryd=
+<tei:lb n="17"/>
+                    <tei:supplied reason="lost">n | w-kl | ʾšʿb</tei:supplied> | ḏ-rydn | w-sʿdšmsm | w-m=
+<tei:lb n="18"/>
+                    <tei:supplied reason="lost">rṯdm | w-kl |</tei:supplied> ḏ-kn | kn-hmw | w-ḥmdw | b-
+<tei:lb n="19"/>
+                    <tei:supplied reason="lost">ḏt | hwfy | grb-</tei:supplied>hw | w-grbt | kl | ʾns |
+<tei:lb n="20"/>
+                    <tei:supplied reason="lost">tqdmw | b-ʿm-</tei:supplied>hw | w-l-sʿd-hmw | ḥẓ=
+<tei:lb n="21"/>
+                    <tei:supplied reason="lost">y | w-rḍw | mrʾ-h</tei:supplied>mw | whbʾl | yḥz | m=
+<tei:lb n="22"/>
+                    <tei:supplied reason="lost">lk | sbʾ | w-l-</tei:supplied>ḏt | nʿmt | w-tnʿmn | <tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="23"/>
+                    <tei:supplied reason="lost">… … ..</tei:supplied> w-hwfʿm | w-mḫṭrn | w-b
+<tei:lb n="24"/>
+                    <tei:supplied reason="lost">… … …</tei:supplied>r | w-sḫymm | w-ḏḫwln | w-
+<tei:lb n="25"/>
+                    <tei:supplied reason="lost">… … | b-tʾlb |</tei:supplied> rymm</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="2"/>… … … … … …
+<tei:lb n="3"/>… … … … … …
+<tei:lb n="4"/>… … … … … …
+<tei:lb n="5"/>… ..t  <w>hwšʿ</w>  t… … …
+                    <tei:lb n="6"/>… <w>mlk</w>  <orgName type="state">sbʾ</orgName>  <w>w-ʿbd-hw</w>  sʿdtʾl=
+<tei:lb n="7"/>b  <w>b-hlqḥn</w>  <w>mqḥ</w>  <w>ṣdqm</w>  <w>b-kn</w>  <w>tqdmw</w>
+                    <tei:lb n="8"/>…ʿly  <orgName type="tribe">ḏ-rydn</orgName>  <w>w-kl</w>  <w>ʾšʿb</w>  <orgName type="tribe">ḏ-rydn</orgName>  w-
+                    <tei:lb n="9"/>..dšmsm  <w>w-</w><persName type="gender" subtype="m">mrṯdm</persName>  <w>w-šʿb-hmy</w>  ḏ-b..
+                    <tei:lb n="10"/>.gn  <placeName>ṣnʿw</placeName>  <w>b-kn</w>  <w>tnšʾy</w>  <w>w-tnšʾw</w>
+                    <tei:lb n="11"/><persName type="gender" subtype="m">sʿdšmsm</persName>  w-… ..  w-šʿb-hm… ..
+<tei:lb n="12"/>… …  <w>w-kl</w> … …
+                    <tei:lb n="13"/>… …ḍ  <w>mlk</w>  <name type="theonym">ʿṯtr</name>  <w>w-</w><name type="theonym">ʾlmqh</name>   .
+<tei:lb n="14"/>… ..b  <w>yhṯb</w>  <w>l-ʾḏn</w>  tʾlb  rym
+<tei:lb n="15"/>…ḏt  <w>hwšʿ-hmw</w>  <w>b-ḥsm</w>  w-.
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/>… … … … … …
+<tei:lb n="2"/>… … … … … …
+                    <tei:lb n="3"/>… <w>hqnyw</w>  <w>šym-hmw</w>  <rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs>
+                    <tei:lb n="4"/><w>bʿl</w>  <placeName type="sanctuary">trʿt</placeName>  <w>ḏn</w>  <w>ṣlm</w>  <w>ḏ-ḏhbn</w>  <w>ḥmd=
+                        <tei:lb n="5"/>m</w>  <w>b-ḏt</w>  <w>hwšʿ</w>  <rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs>  <rs type="complex"><persName type="royal" subtype="withTitle" role="king" n="1">whbʾl</persName>
+                            <tei:lb n="6"/><persName type="royal" subtype="withTitle" role="king" n="2">yḥz</persName></rs>  <w>mlk</w>  <orgName type="state">sbʾ</orgName>  <w>w-ʿbd-hw</w>  <persName type="gender" subtype="m">sʿdtʾl=
+<tei:lb n="7"/>b</persName>  <w>b-hlqḥn</w>  <w>mqḥ</w>  <w>ṣdqm</w>  <w>b-kn</w>  <w>tqdmw</w>
+                    <tei:lb n="8"/><persName type="gender" subtype="m">ḏmrʿly</persName>  <orgName type="tribe">ḏ-rydn</orgName>  <w>w-kl</w>  <w>ʾšʿb</w>  <orgName type="tribe">ḏ-rydn</orgName>  <w>w-</w>
+                    <tei:lb n="9"/><persName type="gender" subtype="m">sʿdšmsm</persName>  <w>w-</w><persName type="gender" subtype="m">mrṯdm</persName>  <w>w-šʿb-hmy</w>  ḏ-b..
+<tei:lb n="10"/>.gn  <placeName>ṣnʿw</placeName>  <w>b-kn</w>  <w>tnšʾy</w>  <w>w-tnšʾw</w>
+                    <tei:lb n="11"/><persName type="gender" subtype="m">sʿdšmsm</persName>  <w>w-</w><persName type="gender" subtype="m">mrṯdm</persName>  <w>w-šʿb-hmy</w>  <w>w-</w><persName type="gender" subtype="m">ḏ=
+                        <tei:lb n="12"/>mrʿly</persName>  <orgName type="tribe">ḏ-rydn</orgName>  <w>w-kl</w> <w>ʾšʿb</w>  <orgName type="tribe">ḏ-rydn</orgName>
+                    <tei:lb n="13"/>… …ḍ  <w>mlk</w>  <name type="theonym">ʿṯtr</name>  <w>w-</w><name type="theonym">ʾlmqh</name>  .
+<tei:lb n="14"/>… ..b  <w>yhṯb</w>  <w>l-ʾḏn</w>  tʾlb  rym
+<tei:lb n="15"/>m  <w>w-b-ḏt</w>  <w>hwšʿ-hmw</w>  <w>b-ḥsm</w>  w-.
+                    <tei:lb n="16"/>… ..  <w>w-hlqḥn</w>  <persName type="gender" subtype="m">ḏmrʿly</persName>  <orgName type="tribe">ḏ-ryd=
+                        <tei:lb n="17"/>n</orgName>  <w>w-kl</w>  <w>ʾšʿb</w>  <orgName type="tribe">ḏ-rydn</orgName>  <w>w-</w><persName type="gender" subtype="m">sʿdšmsm</persName>  <w>w-</w><persName type="gender" subtype="m">m=
+<tei:lb n="18"/>rṯdm</persName>  <w>w-kl</w>  <w>ḏ-kn</w>  <w>kn-hmw</w>  <w>w-ḥmdw</w>  <w>b-
+<tei:lb n="19"/>ḏt</w>  <w>hwfy</w>  <w>grb-hw</w>  <w>w-grbt</w>  <w>kl</w>  <w>ʾns</w> 
+<tei:lb n="20"/><w>tqdmw</w>  <w>b-ʿm-hw</w>  <w>w-l-sʿd-hmw</w>  <w>ḥẓ=
+    <tei:lb n="21"/>y</w>  <w>w-rḍw</w>  <w>mrʾ-hmw</w>  <rs type="complex"><persName type="royal" subtype="withTitle" role="king" n="1">whbʾl</persName>  <persName type="royal" subtype="withTitle" role="king" n="2">yḥz</persName></rs>  <w>m=
+        <tei:lb n="22"/>lk</w>  <orgName type="state">sbʾ</orgName>  <w>w-l-ḏt</w>  <w>nʿmt</w>  <w>w-tnʿmn</w>  .
+                    <tei:lb n="23"/>… … .. <w>w-</w><persName type="gender" subtype="u">hwfʿm</persName>  <w>w-</w><persName type="gender" subtype="u">mḫṭrn</persName>  <w>w-</w>b
+                    <tei:lb n="24"/>… … …r  <w>w-</w><orgName type="group">sḫymm</orgName>  <w>w-</w><orgName type="group">ḏḫwln</orgName>  <w>w-</w>
+                    <tei:lb n="25"/>… …  <w>b-</w><rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs></tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="2"/>… … … … … …
+<tei:lb n="3"/>… … … … … …
+<tei:lb n="4"/>… … … … … …
+<tei:lb n="5"/>… ..t  hwšʿ  t… … …
+<tei:lb n="6"/>… mlk  sbʾ  w-ʿbd-hw  sʿdtʾl=
+<tei:lb n="7"/>b  b-hlqḥn  mqḥ  ṣdqm  b-kn  tqdmw
+<tei:lb n="8"/>…ʿly  ḏ-rydn  w-kl  ʾšʿb  ḏ-rydn  w-
+<tei:lb n="9"/>..dšmsm  w-mrṯdm  w-šʿb-hmy  ḏ-b..
+<tei:lb n="10"/>.gn  ṣnʿw  b-kn  tnšʾy  w-tnšʾw
+<tei:lb n="11"/>sʿdšmsm  w-… ..  w-šʿb-hm… ..
+<tei:lb n="12"/>… …  w-kl … …
+<tei:lb n="13"/>… …ḍ  mlk  ʿṯtr  w-ʾlmqh  .
+<tei:lb n="14"/>… ..b  yhṯb  l-ʾḏn  tʾlb  rym
+<tei:lb n="15"/>…ḏt  hwšʿ-hmw  b-ḥsm  w-.
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/>… … … … … …
+<tei:lb n="2"/>… … … … … …
+<tei:lb n="3"/>… hqnyw  šym-hmw  tʾlb  rymm
+<tei:lb n="4"/>bʿl  trʿt  ḏn  ṣlm  ḏ-ḏhbn  ḥmd=
+<tei:lb n="5"/>m  b-ḏt  hwšʿ  tʾlb  rymm  whbʾl
+<tei:lb n="6"/>yḥz  mlk  sbʾ  w-ʿbd-hw  sʿdtʾl=
+<tei:lb n="7"/>b  b-hlqḥn  mqḥ  ṣdqm  b-kn  tqdmw
+<tei:lb n="8"/>ḏmrʿly  ḏ-rydn  w-kl  ʾšʿb  ḏ-rydn  w-
+<tei:lb n="9"/>sʿdšmsm  w-mrṯdm  w-šʿb-hmy  ḏ-b..
+<tei:lb n="10"/>.gn  ṣnʿw  b-kn  tnšʾy  w-tnšʾw
+<tei:lb n="11"/>sʿdšmsm  w-mrṯdm  w-šʿb-hmy  w-ḏ=
+<tei:lb n="12"/>mrʿly  ḏ-rydn  w-kl ʾšʿb  ḏ-rydn
+<tei:lb n="13"/>… …ḍ  mlk  ʿṯtr  w-ʾlmqh  .
+<tei:lb n="14"/>… ..b  yhṯb  l-ʾḏn  tʾlb  rym
+<tei:lb n="15"/>m  w-b-ḏt  hwšʿ-hmw  b-ḥsm  w-.
+<tei:lb n="16"/>… ..  w-hlqḥn  ḏmrʿly  ḏ-ryd=
+<tei:lb n="17"/>n  w-kl  ʾšʿb  ḏ-rydn  w-sʿdšmsm  w-m=
+<tei:lb n="18"/>rṯdm  w-kl  ḏ-kn  kn-hmw  w-ḥmdw  b-
+<tei:lb n="19"/>ḏt  hwfy  grb-hw  w-grbt  kl  ʾns 
+<tei:lb n="20"/>tqdmw  b-ʿm-hw  w-l-sʿd-hmw  ḥẓ=
+<tei:lb n="21"/>y  w-rḍw  mrʾ-hmw  whbʾl  yḥz  m=
+<tei:lb n="22"/>lk  sbʾ  w-l-ḏt  nʿmt  w-tnʿmn  .
+<tei:lb n="23"/>… … .. w-hwfʿm  w-mḫṭrn  w-b
+<tei:lb n="24"/>… … …r  w-sḫymm  w-ḏḫwln  w-
+<tei:lb n="25"/>… …  b-tʾlb  rymm</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+2.[… … … … … …]
+3.[… … … … … …]
+4.[… … … … … …]
+5.[… …] granted [… … …]
+6.[…] the king of Sabaʾ and his servant Saʿdtaʾla=
+7.[b … …] | a sound defeat when
+8.[… …] of Raydān and all the tribes of Raydān and
+9.[..]dshamsum and Marthadum and their two tribes which are in [..]
+10.made war […] Ṣanʿāʾ when 
+11.Saʿdshamsum and [… ..] and their tribe [… ..] rose up
+12.[… …] and all [… …]
+13.[… …] the property of ʿAthtar and ʾĪlmuquh [.]
+14.[… …] brought back within the authority of Taʾlab Riyām[um]
+15.[…]because he granted them the annihilation and [.]
+
+
+Restored text of the inscription:
+
+1.[… … … … … …]
+2.[… … … … … …]
+3.[…] dedicated to their [pa]tron [Taʾlab Riyāmum,]
+4.[Lord of Turʿat,] this stat[ue of bronze with gratitude]
+5.[because] Taʾlab Riyāmum granted [Wahabʾīl]
+6.[Yaḥuz,] King of Sabaʾ, and his client Saʿdtaʾla-
+7.[b the inflic]tion of a sound defeat when
+8.[Dhamar]ʿalay of Raydān and all the tribes of Raydān and
+9.[Saʿ]dshamsum and Marthadum and their tribe which is in [..]
+10.made war […] Ṣanʿāʾ when
+11.Saʿdshamsum and Marthadum and their tribe [and Dha-]
+12.[marʿalay] of Raydān and all [the tribes of Raydān] rose up
+13.[… …] the property of ʿAthtar and ʾĪlmuquh [.]
+14.[… …] brought back within the authority of Taʾlab Riyām[um]
+15.[… because] he granted them the annihilation and [.]
+16.[… ..] and the infliction (of defeat) on Dhamarʿalay of Raydā-
+17.[n and all the tribes] of Raydān and Saʿdshamsum and Ma- 
+18.[rthadum and all] who came to their side. And they rendered gratitude be-
+19.[cause he (i.e. Taʾlab Riyāmum) protected] his [person] and the persons of all the men who
+20.[made war alongside] him. And may he grant them the esteem
+21.[and good pleasure of their lord] Wahabʾīl Yaḥuz, Ki-
+22.[ng of Sabaʾ and (whatever)] prosperity might come to them, past or future [.]
+23.[… … ..] and Hawfāʿamm and Makhṭarān and
+24.[… … …]r and Sukhaymum and Dhū-Khawlān and
+25.[… … By Taʾlab] Riyāmum. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> granted <tei:supplied reason="lost">… … …</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">…</tei:supplied> the king of Sabaʾ and his servant Saʿdtaʾla=
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">b … …</tei:supplied> | a sound defeat when
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> of Raydān and all the tribes of Raydān and
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">..</tei:supplied>dshamsum and Marthadum and their two tribes which are in <tei:supplied reason="lost">..</tei:supplied>
+<tei:lb n="10"/>made war <tei:supplied reason="lost">…</tei:supplied> Ṣanʿāʾ when 
+<tei:lb n="11"/>Saʿdshamsum and <tei:supplied reason="lost">… ..</tei:supplied> and their tribe <tei:supplied reason="lost">… ..</tei:supplied> rose up
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> and all <tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> the property of ʿAthtar and ʾĪlmuquh <tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="14"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> brought back within the authority of Taʾlab Riyām<tei:supplied reason="lost">um</tei:supplied>
+<tei:lb n="15"/>
+                    <tei:supplied reason="lost">…</tei:supplied>because he granted them the annihilation and <tei:supplied reason="lost">.</tei:supplied>
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">… … … … … …</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">…</tei:supplied> dedicated to their <tei:supplied reason="lost">pa</tei:supplied>tron <tei:supplied reason="lost">Taʾlab Riyāmum,</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">Lord of Turʿat,</tei:supplied> this stat<tei:supplied reason="lost">ue of bronze with gratitude</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">because</tei:supplied> Taʾlab Riyāmum granted <tei:supplied reason="lost">Wahabʾīl</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">Yaḥuz,</tei:supplied> King of Sabaʾ, and his client Saʿdtaʾla-
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">b the inflic</tei:supplied>tion of a sound defeat when
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">Dhamar</tei:supplied>ʿalay of Raydān and all the tribes of Raydān and
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">Saʿ</tei:supplied>dshamsum and Marthadum and their tribe which is in <tei:supplied reason="lost">..</tei:supplied>
+<tei:lb n="10"/>made war <tei:supplied reason="lost">…</tei:supplied> Ṣanʿāʾ when
+<tei:lb n="11"/>Saʿdshamsum and Marthadum and their tribe <tei:supplied reason="lost">and Dha-</tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">marʿalay</tei:supplied> of Raydān and all <tei:supplied reason="lost">the tribes of Raydān</tei:supplied> rose up
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> the property of ʿAthtar and ʾĪlmuquh <tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="14"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> brought back within the authority of Taʾlab Riyām<tei:supplied reason="lost">um</tei:supplied>
+<tei:lb n="15"/>
+                    <tei:supplied reason="lost">… because</tei:supplied> he granted them the annihilation and <tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="16"/>
+                    <tei:supplied reason="lost">… ..</tei:supplied> and the infliction <tei:unclear>of defeat</tei:unclear> on Dhamarʿalay of Raydā-
+<tei:lb n="17"/>
+                    <tei:supplied reason="lost">n and all the tribes</tei:supplied> of Raydān and Saʿdshamsum and Ma- 
+<tei:lb n="18"/>
+                    <tei:supplied reason="lost">rthadum and all</tei:supplied> who came to their side. And they rendered gratitude be-
+<tei:lb n="19"/>
+                    <tei:supplied reason="lost">cause he <tei:unclear>i.e. Taʾlab Riyāmum</tei:unclear> protected</tei:supplied> his <tei:supplied reason="lost">person</tei:supplied> and the persons of all the men who
+<tei:lb n="20"/>
+                    <tei:supplied reason="lost">made war alongside</tei:supplied> him. And may he grant them the esteem
+<tei:lb n="21"/>
+                    <tei:supplied reason="lost">and good pleasure of their lord</tei:supplied> Wahabʾīl Yaḥuz, Ki-
+<tei:lb n="22"/>
+                    <tei:supplied reason="lost">ng of Sabaʾ and <tei:unclear>whatever</tei:unclear>
+                    </tei:supplied> prosperity might come to them, past or future <tei:supplied reason="lost">.</tei:supplied>
+<tei:lb n="23"/>
+                    <tei:supplied reason="lost">… … ..</tei:supplied> and Hawfāʿamm and Makhṭarān and
+<tei:lb n="24"/>
+                    <tei:supplied reason="lost">… … …</tei:supplied>r and Sukhaymum and Dhū-Khawlān and
+<tei:lb n="25"/>
+                    <tei:supplied reason="lost">… … By Taʾlab</tei:supplied> Riyāmum. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="2"/>… … … … … …
+<tei:lb n="3"/>… … … … … …
+<tei:lb n="4"/>… … … … … …
+<tei:lb n="5"/>… … granted … … …
+<tei:lb n="6"/>… the king of Sabaʾ and his servant Saʿdtaʾla=
+<tei:lb n="7"/>b … …  a sound defeat when
+<tei:lb n="8"/>… … of Raydān and all the tribes of Raydān and
+<tei:lb n="9"/>..dshamsum and Marthadum and their two tribes which are in ..
+<tei:lb n="10"/>made war … Ṣanʿāʾ when 
+<tei:lb n="11"/>Saʿdshamsum and … .. and their tribe … .. rose up
+<tei:lb n="12"/>… … and all … …
+<tei:lb n="13"/>… … the property of ʿAthtar and ʾĪlmuquh .
+<tei:lb n="14"/>… … brought back within the authority of Taʾlab Riyāmum
+<tei:lb n="15"/>…because he granted them the annihilation and .
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/>… … … … … …
+<tei:lb n="2"/>… … … … … …
+<tei:lb n="3"/>… dedicated to their patron Taʾlab Riyāmum,
+<tei:lb n="4"/>Lord of Turʿat, this statue of bronze with gratitude
+<tei:lb n="5"/>because Taʾlab Riyāmum granted Wahabʾīl
+<tei:lb n="6"/>Yaḥuz, King of Sabaʾ, and his client Saʿdtaʾla-
+<tei:lb n="7"/>b the infliction of a sound defeat when
+<tei:lb n="8"/>Dhamarʿalay of Raydān and all the tribes of Raydān and
+<tei:lb n="9"/>Saʿdshamsum and Marthadum and their tribe which is in ..
+<tei:lb n="10"/>made war … Ṣanʿāʾ when
+<tei:lb n="11"/>Saʿdshamsum and Marthadum and their tribe and Dha-
+<tei:lb n="12"/>marʿalay of Raydān and all the tribes of Raydān rose up
+<tei:lb n="13"/>… … the property of ʿAthtar and ʾĪlmuquh .
+<tei:lb n="14"/>… … brought back within the authority of Taʾlab Riyāmum
+<tei:lb n="15"/>… because he granted them the annihilation and .
+<tei:lb n="16"/>… .. and the infliction of defeat on Dhamarʿalay of Raydā-
+<tei:lb n="17"/>n and all the tribes of Raydān and Saʿdshamsum and Ma- 
+<tei:lb n="18"/>rthadum and all who came to their side. And they rendered gratitude be-
+<tei:lb n="19"/>cause he i.e. Taʾlab Riyāmum protected his person and the persons of all the men who
+<tei:lb n="20"/>made war alongside him. And may he grant them the esteem
+<tei:lb n="21"/>and good pleasure of their lord Wahabʾīl Yaḥuz, Ki-
+<tei:lb n="22"/>ng of Sabaʾ and whatever prosperity might come to them, past or future .
+<tei:lb n="23"/>… … .. and Hawfāʿamm and Makhṭarān and
+<tei:lb n="24"/>… … …r and Sukhaymum and Dhū-Khawlān and
+<tei:lb n="25"/>… … By Taʾlab Riyāmum. </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="2"/>… … … … … …
+<tei:lb n="3"/>… … … … … …
+<tei:lb n="4"/>… … … … … …
+<tei:lb n="5"/>… … granted … … …
+<tei:lb n="6"/>… the king of Sabaʾ and his servant Saʿdtaʾla=
+<tei:lb n="7"/>b … …  a sound defeat when
+<tei:lb n="8"/>… … of Raydān and all the tribes of Raydān and
+<tei:lb n="9"/>..dshamsum and Marthadum and their two tribes which are in ..
+<tei:lb n="10"/>made war … Ṣanʿāʾ when 
+<tei:lb n="11"/>Saʿdshamsum and … .. and their tribe … .. rose up
+<tei:lb n="12"/>… … and all … …
+<tei:lb n="13"/>… … the property of ʿAthtar and ʾĪlmuquh .
+<tei:lb n="14"/>… … brought back within the authority of Taʾlab Riyāmum
+<tei:lb n="15"/>…because he granted them the annihilation and .
+
+
+Restored text of the inscription:
+
+<tei:lb n="1"/>… … … … … …
+<tei:lb n="2"/>… … … … … …
+<tei:lb n="3"/>… dedicated to their patron Taʾlab Riyāmum,
+<tei:lb n="4"/>Lord of Turʿat, this statue of bronze with gratitude
+<tei:lb n="5"/>because Taʾlab Riyāmum granted Wahabʾīl
+<tei:lb n="6"/>Yaḥuz, King of Sabaʾ, and his client Saʿdtaʾla-
+<tei:lb n="7"/>b the infliction of a sound defeat when
+<tei:lb n="8"/>Dhamarʿalay of Raydān and all the tribes of Raydān and
+<tei:lb n="9"/>Saʿdshamsum and Marthadum and their tribe which is in ..
+<tei:lb n="10"/>made war … Ṣanʿāʾ when
+<tei:lb n="11"/>Saʿdshamsum and Marthadum and their tribe and Dha-
+<tei:lb n="12"/>marʿalay of Raydān and all the tribes of Raydān rose up
+<tei:lb n="13"/>… … the property of ʿAthtar and ʾĪlmuquh .
+<tei:lb n="14"/>… … brought back within the authority of Taʾlab Riyāmum
+<tei:lb n="15"/>… because he granted them the annihilation and .
+<tei:lb n="16"/>… .. and the infliction of defeat on Dhamarʿalay of Raydā-
+<tei:lb n="17"/>n and all the tribes of Raydān and Saʿdshamsum and Ma- 
+<tei:lb n="18"/>rthadum and all who came to their side. And they rendered gratitude be-
+<tei:lb n="19"/>cause he i.e. Taʾlab Riyāmum protected his person and the persons of all the men who
+<tei:lb n="20"/>made war alongside him. And may he grant them the esteem
+<tei:lb n="21"/>and good pleasure of their lord Wahabʾīl Yaḥuz, Ki-
+<tei:lb n="22"/>ng of Sabaʾ and whatever prosperity might come to them, past or future .
+<tei:lb n="23"/>… … .. and Hawfāʿamm and Makhṭarān and
+<tei:lb n="24"/>… … …r and Sukhaymum and Dhū-Khawlān and
+<tei:lb n="25"/>… … By Taʾlab Riyāmum. </tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

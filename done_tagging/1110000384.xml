@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1330</title>
+                <title type="alt">1110000384</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1330</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1330</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-09-06" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-06-01" who="paigner"/>
+            <change when="2018-06-01" who="paigner"/>
+            <change when="2018-06-01" who="paigner"/>
+            <change when="2018-06-01" who="paigner"/>
+            <change when="2018-05-18" who="paigner"/>
+            <change when="2018-05-18" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2018-02-27" who="paigner"/>
+            <change when="2018-02-07" who="paigner"/>
+            <change when="2018-02-07" who="paigner"/>
+            <change when="2018-02-06" who="paigner"/>
+            <change when="2018-02-06" who="paigner"/>
+            <change when="2018-02-06" who="paigner"/>
+            <change when="2018-02-06" who="paigner"/>
+            <change when="2016-10-14" who="paigner"/>
+            <change when="2016-09-27" who="paigner"/>
+            <change when="2016-05-13" who="paigner"/>
+            <change when="2016-05-11" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-04" who="paigner"/>
+            <change when="2016-03-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+3.[… … …] | ṯlṯnhn | ʾṣlmn | ḏ-ḏh[bn | … … …]
+4.[hw]šʿ-hmw | t[… | .]stkmln | kl | ṭyb | w-ṣrf [… … …]
+5.[…]-hmw | yhgl | mʾt | srwrm | ṣrfm | w-kl | mhwk[b… …]
+6.ʾnhr | w-bqlt | ʿdy | šrʿt | ʾʿmdn | w-ṣwrt | w-ʾr[… … …]
+7.[.]kl | šrʿ | qšmtn | w-zwyrn | w-kl | ṣwrt | ḏ-qyhrn | ḏ-tšʿw[…]
+8.[š]ʾmt | ʿdy | hgrn | lqṭ | w-l-mkntn | ṯmnt | srwrm | w-kl | mhw[kb…]
+9.[..]rʿ | qšmtn | w-twrt-hw | w-kl | mwsṭ | hyt | mkntn | krr[m | w-ḥmdm]
+10.b-ḏt | nbl | w-bltn | b-ʿbr-hw | gdrt | mlk | ḥbštn | l-tʾḫ[wn … …]
+11.w-stkml | hʾ | ʾḫwnn | byn-hmw | w-byn | [gdr]t | w-t[… … …]
+12.ḍr-hmw | w-slm-hmw | [… …] | ḏ-yntšʾn | b-ʿbr-hmw | ḍr[… … …]
+13.[…]nm | ytʾḫwnn | slḥn | [… …] | w-ʿlhn | w-gdrt | kl | ʿb[… … …]
+14.[…] b-ḏt | stkml | ʾḫwn-hmw | b-ʿm | mlk | ḥbštn | w-ḥmdm | b-ḏ[… …]
+15.ʾqwl | w-mqtt | nblw | ʾysm | b-ʿbr | ʾḫ-hw | b-bḥrn | w-ybsn | w-[… …]
+16.t | w-zbd | ysrw | ʾysm | l-ʾḫ-hw | w-ḥmdm | b-ḏt tškrw | ʿmʾns | [… …]
+17.n | w-šʿbn | ḫwln | b-ḍr | hštʾw | w-ntṭʿn | b-ʿbr | ʾmrʾ-hmw | ʾm[lk | sbʾ]
+18.w-bltw | šbt | bn | ʿlyn | b-ʿbr | ḏ-rydn | l-hnṣrn-hmw | l-ḍrm | b-ʿl[… …]
+19.hmw | ʾmlk | sbʾ | w-sbʾw | ḏ-bn | ʾšʿbn | l-ʿḏrn | b-ʿm-hmw | b-hwt [… …]
+20.[…] | w-qmʿw | ḏ-bn | hgr | ḥqln | w-gbḏw | kl | ḥblt-hmw | w-bʿd[… …]
+21.rbw | w-stḍrʿn | l-mrʾ-hmw | ʿlhn | mlk | sbʾ | w-hysrw | ṯny | r[… …]
+22.bn | rymm | w-ḥrṯm | bn | ydm | w-slmw | w-smʿn | qhtm | w-b-ḏt | […]
+23.[… …]br | w-ḍrʿn | ḍr-hmw | w-šnʾ-hmw | b-šym-hmw | tʾlb [| rymm]
+
+
+Restored full text of the inscription:
+
+1.[ʿlhn | nhfn | w-bny-hw | šʿrm | ʾwtr | mlk | sbʾ | bny]
+2.[yrm | ʾymn | ml]k | sbʾ | hqnyw | šym[-hmw | tʾlb]
+3.[rymm] | bʿl | [trʿt] | ṯlṯnhn | ʾṣlmn | ḏ-ḏh[bn | ḥmdm | b-ḏt]
+4.[hw]šʿ-hmw | t[ʾlb | b-]stkmln | kl | ṭyb | w-ṣrf [| tnṭʿw | w-hqšbn]
+5.[l-mwṯ]b-hmw | yhgl | mʾt | srwrm | ṣrfm | w-kl | mhwk[b-hmw | w-kl]
+6.ʾnhr | w-bqlt | ʿdy | šrʿt | ʾʿmdn | w-ṣwrt | w-ʾr[fd | ʿdy | ʾʿmdn | w-ʾʿrśn]
+7.[w-]kl | šrʿ | qšmtn | w-zwyrn | w-kl | ṣwrt | ḏ-qyhrn | ḏ-tšʿw[w | ʿdy]
+8.[š]ʾmt | ʿdy | hgrn | lqṭ | w-l-mkntn | ṯmnt | srwrm | w-kl | mhw[kb-hmw]
+9.[w-š]rʿ | qšmtn | w-twrt-hw | w-kl | mwsṭ | hyt | mkntn | krr[m | w-ḥmdm]
+10.b-ḏt | nbl | w-bltn | b-ʿbr-hw | gdrt | mlk | ḥbštn | l-tʾḫ[wn | b-ʿm-hw]
+11.w-stkml | hʾ | ʾḫwnn | byn-hmw | w-byn | [gdr]t | w-t[gzmw | k-wḥd]
+12.ḍr-hmw | w-slm-hmw | [b-ʿly-kl] | ḏ-yntšʾn | b-ʿbr-hmw | ḍr[m | w-k-b-ṣḥm]
+13.[w-ʾm]nm | ytʾḫwnn | slḥn | [w-zrrn] | w-ʿlhn | w-gdrt | kl | ʿb[rt-hmw | w-ḥm=]
+14.[dw |] b-ḏt | stkml | ʾḫwn-hmw | b-ʿm | mlk | ḥbštn | w-ḥmdm | b-ḏ[t | stwfy | kl]
+15.ʾqwl | w-mqtt | nblw | ʾysm | b-ʿbr | ʾḫ-hw | b-bḥrn | w-ybsn | w-[kl | tšʿ=]
+16.t | w-zbd | ysrw | ʾysm | l-ʾḫ-hw | w-ḥmdm | b-ḏt tškrw | ʿmʾns | [bn | śnḥ=]
+17.n | w-šʿbn | ḫwln | b-ḍr | hštʾw | w-ntṭʿn | b-ʿbr | ʾmrʾ-hmw | ʾm[lk | sbʾ]
+18.w-bltw | šbt | bn | ʿlyn | b-ʿbr | ḏ-rydn | l-hnṣrn-hmw | l-ḍrm | b-ʿl[y | ʾmrʾ-]
+19.hmw | ʾmlk | sbʾ | w-sbʾw | ḏ-bn | ʾšʿbn | l-ʿḏrn | b-ʿm-hmw | b-hwt [| ḍrn | ḏ-h=]
+20.[š]t[ʾw] | w-qmʿw | ḏ-bn | hgr | ḥqln | w-gbḏw | kl | ḥblt-hmw | w-bʿd[-hw | f-tʿ=]
+21.rbw | w-stḍrʿn | l-mrʾ-hmw | ʿlhn | mlk | sbʾ | w-hysrw | ṯny | r[bbn | ʾšms]
+22.bn | rymm | w-ḥrṯm | bn | ydm | w-slmw | w-smʿn | qhtm | w-b-ḏt | [yzʾn]
+23.[tʾlb | ṯ]br | w-ḍrʿn | ḍr-hmw | w-šnʾ-hmw | b-šym-hmw | tʾlb [| rymm]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">… … …</tei:supplied> | ṯlṯnhn | ʾṣlmn | ḏ-ḏh<tei:supplied reason="lost">bn | … … …</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">hw</tei:supplied>šʿ-hmw | t<tei:supplied reason="lost">… | .</tei:supplied>stkmln | kl | ṭyb | w-ṣrf <tei:supplied reason="lost">… … …</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">…</tei:supplied>-hmw | yhgl | mʾt | srwrm | ṣrfm | w-kl | mhwk<tei:supplied reason="lost">b… …</tei:supplied>
+<tei:lb n="6"/>ʾnhr | w-bqlt | ʿdy | šrʿt | ʾʿmdn | w-ṣwrt | w-ʾr<tei:supplied reason="lost">… … …</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">.</tei:supplied>kl | šrʿ | qšmtn | w-zwyrn | w-kl | ṣwrt | ḏ-qyhrn | ḏ-tšʿw<tei:supplied reason="lost">…</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">š</tei:supplied>ʾmt | ʿdy | hgrn | lqṭ | w-l-mkntn | ṯmnt | srwrm | w-kl | mhw<tei:supplied reason="lost">kb…</tei:supplied>
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">..</tei:supplied>rʿ | qšmtn | w-twrt-hw | w-kl | mwsṭ | hyt | mkntn | krr<tei:supplied reason="lost">m | w-ḥmdm</tei:supplied>
+<tei:lb n="10"/>b-ḏt | nbl | w-bltn | b-ʿbr-hw | gdrt | mlk | ḥbštn | l-tʾḫ<tei:supplied reason="lost">wn … …</tei:supplied>
+<tei:lb n="11"/>w-stkml | hʾ | ʾḫwnn | byn-hmw | w-byn | <tei:supplied reason="lost">gdr</tei:supplied>t | w-t<tei:supplied reason="lost">… … …</tei:supplied>
+<tei:lb n="12"/>ḍr-hmw | w-slm-hmw | <tei:supplied reason="lost">… …</tei:supplied> | ḏ-yntšʾn | b-ʿbr-hmw | ḍr<tei:supplied reason="lost">… … …</tei:supplied>
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">…</tei:supplied>nm | ytʾḫwnn | slḥn | <tei:supplied reason="lost">… …</tei:supplied> | w-ʿlhn | w-gdrt | kl | ʿb<tei:supplied reason="lost">… … …</tei:supplied>
+<tei:lb n="14"/>
+                    <tei:supplied reason="lost">…</tei:supplied> b-ḏt | stkml | ʾḫwn-hmw | b-ʿm | mlk | ḥbštn | w-ḥmdm | b-ḏ<tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="15"/>ʾqwl | w-mqtt | nblw | ʾysm | b-ʿbr | ʾḫ-hw | b-bḥrn | w-ybsn | w-<tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="16"/>t | w-zbd | ysrw | ʾysm | l-ʾḫ-hw | w-ḥmdm | b-ḏt tškrw | ʿmʾns | <tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="17"/>n | w-šʿbn | ḫwln | b-ḍr | hštʾw | w-ntṭʿn | b-ʿbr | ʾmrʾ-hmw | ʾm<tei:supplied reason="lost">lk | sbʾ</tei:supplied>
+<tei:lb n="18"/>w-bltw | šbt | bn | ʿlyn | b-ʿbr | ḏ-rydn | l-hnṣrn-hmw | l-ḍrm | b-ʿl<tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="19"/>hmw | ʾmlk | sbʾ | w-sbʾw | ḏ-bn | ʾšʿbn | l-ʿḏrn | b-ʿm-hmw | b-hwt <tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="20"/>
+                    <tei:supplied reason="lost">…</tei:supplied> | w-qmʿw | ḏ-bn | hgr | ḥqln | w-gbḏw | kl | ḥblt-hmw | w-bʿd<tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="21"/>rbw | w-stḍrʿn | l-mrʾ-hmw | ʿlhn | mlk | sbʾ | w-hysrw | ṯny | r<tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="22"/>bn | rymm | w-ḥrṯm | bn | ydm | w-slmw | w-smʿn | qhtm | w-b-ḏt | <tei:supplied reason="lost">…</tei:supplied>
+<tei:lb n="23"/>
+                    <tei:supplied reason="lost">… …</tei:supplied>br | w-ḍrʿn | ḍr-hmw | w-šnʾ-hmw | b-šym-hmw | tʾlb <tei:supplied reason="lost">| rymm</tei:supplied>
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">ʿlhn | nhfn | w-bny-hw | šʿrm | ʾwtr | mlk | sbʾ | bny</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">yrm | ʾymn | ml</tei:supplied>k | sbʾ | hqnyw | šym<tei:supplied reason="lost">-hmw | tʾlb</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">rymm</tei:supplied> | bʿl | <tei:supplied reason="lost">trʿt</tei:supplied> | ṯlṯnhn | ʾṣlmn | ḏ-ḏh<tei:supplied reason="lost">bn | ḥmdm | b-ḏt</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">hw</tei:supplied>šʿ-hmw | t<tei:supplied reason="lost">ʾlb | b-</tei:supplied>stkmln | kl | ṭyb | w-ṣrf <tei:supplied reason="lost">| tnṭʿw | w-hqšbn</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">l-mwṯ</tei:supplied>b-hmw | yhgl | mʾt | srwrm | ṣrfm | w-kl | mhwk<tei:supplied reason="lost">b-hmw | w-kl</tei:supplied>
+<tei:lb n="6"/>ʾnhr | w-bqlt | ʿdy | šrʿt | ʾʿmdn | w-ṣwrt | w-ʾr<tei:supplied reason="lost">fd | ʿdy | ʾʿmdn | w-ʾʿrśn</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">w-</tei:supplied>kl | šrʿ | qšmtn | w-zwyrn | w-kl | ṣwrt | ḏ-qyhrn | ḏ-tšʿw<tei:supplied reason="lost">w | ʿdy</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">š</tei:supplied>ʾmt | ʿdy | hgrn | lqṭ | w-l-mkntn | ṯmnt | srwrm | w-kl | mhw<tei:supplied reason="lost">kb-hmw</tei:supplied>
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">w-š</tei:supplied>rʿ | qšmtn | w-twrt-hw | w-kl | mwsṭ | hyt | mkntn | krr<tei:supplied reason="lost">m | w-ḥmdm</tei:supplied>
+<tei:lb n="10"/>b-ḏt | nbl | w-bltn | b-ʿbr-hw | gdrt | mlk | ḥbštn | l-tʾḫ<tei:supplied reason="lost">wn | b-ʿm-hw</tei:supplied>
+<tei:lb n="11"/>w-stkml | hʾ | ʾḫwnn | byn-hmw | w-byn | <tei:supplied reason="lost">gdr</tei:supplied>t | w-t<tei:supplied reason="lost">gzmw | k-wḥd</tei:supplied>
+<tei:lb n="12"/>ḍr-hmw | w-slm-hmw | <tei:supplied reason="lost">b-ʿly-kl</tei:supplied> | ḏ-yntšʾn | b-ʿbr-hmw | ḍr<tei:supplied reason="lost">m | w-k-b-ṣḥm</tei:supplied>
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">w-ʾm</tei:supplied>nm | ytʾḫwnn | slḥn | <tei:supplied reason="lost">w-zrrn</tei:supplied> | w-ʿlhn | w-gdrt | kl | ʿb<tei:supplied reason="lost">rt-hmw | w-ḥm=</tei:supplied>
+<tei:lb n="14"/>
+                    <tei:supplied reason="lost">dw |</tei:supplied> b-ḏt | stkml | ʾḫwn-hmw | b-ʿm | mlk | ḥbštn | w-ḥmdm | b-ḏ<tei:supplied reason="lost">t | stwfy | kl</tei:supplied>
+<tei:lb n="15"/>ʾqwl | w-mqtt | nblw | ʾysm | b-ʿbr | ʾḫ-hw | b-bḥrn | w-ybsn | w-<tei:supplied reason="lost">kl | tšʿ=</tei:supplied>
+<tei:lb n="16"/>t | w-zbd | ysrw | ʾysm | l-ʾḫ-hw | w-ḥmdm | b-ḏt tškrw | ʿmʾns | <tei:supplied reason="lost">bn | śnḥ=</tei:supplied>
+<tei:lb n="17"/>n | w-šʿbn | ḫwln | b-ḍr | hštʾw | w-ntṭʿn | b-ʿbr | ʾmrʾ-hmw | ʾm<tei:supplied reason="lost">lk | sbʾ</tei:supplied>
+<tei:lb n="18"/>w-bltw | šbt | bn | ʿlyn | b-ʿbr | ḏ-rydn | l-hnṣrn-hmw | l-ḍrm | b-ʿl<tei:supplied reason="lost">y | ʾmrʾ-</tei:supplied>
+<tei:lb n="19"/>hmw | ʾmlk | sbʾ | w-sbʾw | ḏ-bn | ʾšʿbn | l-ʿḏrn | b-ʿm-hmw | b-hwt <tei:supplied reason="lost">| ḍrn | ḏ-h=</tei:supplied>
+<tei:lb n="20"/>
+                    <tei:supplied reason="lost">š</tei:supplied>t<tei:supplied reason="lost">ʾw</tei:supplied> | w-qmʿw | ḏ-bn | hgr | ḥqln | w-gbḏw | kl | ḥblt-hmw | w-bʿd<tei:supplied reason="lost">-hw | f-tʿ=</tei:supplied>
+<tei:lb n="21"/>rbw | w-stḍrʿn | l-mrʾ-hmw | ʿlhn | mlk | sbʾ | w-hysrw | ṯny | r<tei:supplied reason="lost">bbn | ʾšms</tei:supplied>
+<tei:lb n="22"/>bn | rymm | w-ḥrṯm | bn | ydm | w-slmw | w-smʿn | qhtm | w-b-ḏt | <tei:supplied reason="lost">yzʾn</tei:supplied>
+<tei:lb n="23"/>
+                    <tei:supplied reason="lost">tʾlb | ṯ</tei:supplied>br | w-ḍrʿn | ḍr-hmw | w-šnʾ-hmw | b-šym-hmw | tʾlb <tei:supplied reason="lost">| rymm</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="3"/>… … …  ṯlṯnhn  ʾṣlmn  ḏ-ḏhbn  … … …
+<tei:lb n="4"/>hwšʿ-hmw  t…  .stkmln  kl  ṭyb  w-ṣrf … … …
+<tei:lb n="5"/>…-hmw  yhgl  mʾt  srwrm  ṣrfm  w-kl  mhwkb… …
+<tei:lb n="6"/>ʾnhr  w-bqlt  ʿdy  šrʿt  ʾʿmdn  w-ṣwrt  w-ʾr… … …
+<tei:lb n="7"/>.kl  šrʿ  qšmtn  w-zwyrn  w-kl  ṣwrt  ḏ-qyhrn  ḏ-tšʿw…
+<tei:lb n="8"/>šʾmt  ʿdy  hgrn  lqṭ  w-l-mkntn  ṯmnt  srwrm  w-kl  mhwkb…
+<tei:lb n="9"/>..rʿ  qšmtn  w-twrt-hw  w-kl  mwsṭ  hyt  mkntn  krrm  w-ḥmdm
+<tei:lb n="10"/>b-ḏt  nbl  w-bltn  b-ʿbr-hw  gdrt  mlk  ḥbštn  l-tʾḫwn … …
+<tei:lb n="11"/>w-stkml  hʾ  ʾḫwnn  byn-hmw  w-byn  gdrt  w-t… … …
+<tei:lb n="12"/>ḍr-hmw  w-slm-hmw  … …  ḏ-yntšʾn  b-ʿbr-hmw  ḍr… … …
+<tei:lb n="13"/>…nm  ytʾḫwnn  slḥn  … …  w-ʿlhn  w-gdrt  kl  ʿb… … …
+<tei:lb n="14"/>… b-ḏt  stkml  ʾḫwn-hmw  b-ʿm  mlk  ḥbštn  w-ḥmdm  b-ḏ… …
+<tei:lb n="15"/>ʾqwl  w-mqtt  nblw  ʾysm  b-ʿbr  ʾḫ-hw  b-bḥrn  w-ybsn  w-… …
+<tei:lb n="16"/>t  w-zbd  ysrw  ʾysm  l-ʾḫ-hw  w-ḥmdm  b-ḏt tškrw  ʿmʾns  … …
+<tei:lb n="17"/>n  w-šʿbn  ḫwln  b-ḍr  hštʾw  w-ntṭʿn  b-ʿbr  ʾmrʾ-hmw  ʾmlk  sbʾ
+<tei:lb n="18"/>w-bltw  šbt  bn  ʿlyn  b-ʿbr  ḏ-rydn  l-hnṣrn-hmw  l-ḍrm  b-ʿl… …
+<tei:lb n="19"/>hmw  ʾmlk  sbʾ  w-sbʾw  ḏ-bn  ʾšʿbn  l-ʿḏrn  b-ʿm-hmw  b-hwt … …
+<tei:lb n="20"/>…  w-qmʿw  ḏ-bn  hgr  ḥqln  w-gbḏw  kl  ḥblt-hmw  w-bʿd… …
+<tei:lb n="21"/>rbw  w-stḍrʿn  l-mrʾ-hmw  ʿlhn  mlk  sbʾ  w-hysrw  ṯny  r… …
+<tei:lb n="22"/>bn  rymm  w-ḥrṯm  bn  ydm  w-slmw  w-smʿn  qhtm  w-b-ḏt  …
+<tei:lb n="23"/>… …br  w-ḍrʿn  ḍr-hmw  w-šnʾ-hmw  b-šym-hmw  tʾlb  rymm
+
+
+Restored full text of the inscription:
+
+                    <tei:lb n="1"/><rs type="complex"><persName type="royal" subtype="withTitle" role="king" n="1">ʿlhn</persName>  <persName type="royal" subtype="withTitle" role="king" n="2">nhfn</persName></rs>  <w>w-bny-hw</w>  <rs type="complex"><persName type="royal" subtype="withTitle" role="king" n="1">šʿrm</persName>  <persName type="royal" subtype="withTitle" role="king" n="2">ʾwtr</persName></rs>  <w>mlk</w>  <orgName type="state">sbʾ</orgName>  <w>bny</w>  <rs type="complex"><persName type="patronymic" subtype="royalWithTitle" role="king" n="1">yr=
+                        <tei:lb n="2"/>m</persName>  <persName type="patronymic" subtype="royalWithTitle" role="king" n="2">ʾymn</persName></rs>  <w>mlk</w>  <orgName type="state">sbʾ</orgName>  <w>hqnyw</w>  <w>šym-hmw</w>  <rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs>  <w>bʿl</w>  <placeName type="sanctuary">t=
+                            <tei:lb n="3"/>rʿt</placeName>  <w>ṯlṯnhn</w>  <w>ʾṣlmn</w>  <w>ḏ-ḏhbn</w>  <w>ḥmdm</w>  <w>b-ḏt</w>  <w>hwšʿ-hmw</w>
+                    <tei:lb n="4"/><name type="theonym">tʾlb</name>  <w>b-stkmln</w>  <w>kl</w>  <w>ṭyb</w>  <w>w-ṣrf</w>  <w>tnṭʿw</w>  <w>w-hqšbn</w>  <w>l-mwṯb-h=
+                        <tei:lb n="5"/>mw</w>  <placeName type="building">yhgl</placeName>  <w>mʾt</w>  <w>srwrm</w>  <w>ṣrfm</w>  <w>w-kl</w>  <w>mhwkb-hmw</w>  <w>w-kl</w>  <w>msqy-hmw</w>  <w>w-kl</w>
+                    <tei:lb n="6"/><w>ṣwrt</w>  <w>w-ʾrfd</w>  <w>ʿdy</w>  <w>ʾʿmdn</w>  <w>w-ʾʿrśn</w>  <w>w-kl</w>  <w>ʾnhr</w>  <w>w-bqlt</w>  <w>ʿdy</w>  <w>ʾʿmd=
+                        <tei:lb n="7"/>n</w>  <w>w-kl</w>  <w>ʾhdr</w>  <w>mstqyn</w>  <w>w-mštrʿn</w>  <w>ʿdy</w>  <w>ṭytn</w>  <w>w-kl</w>  <w>ṣwrtn</w>  <w>ḏ-</w><placeName>qyhrn</placeName>  <w>ḏ-
+                            <tei:lb n="8"/>tšʿww</w>  <w>ʿdy</w>  <w>šʾmt</w>  <w>ʿdy</w>  <w>hgrn</w>  <placeName>lqṭ</placeName>  <w>w-l-mkntn</w>  <w>ṯmnt</w>  <w>srwrm</w>  <w>w-kl</w>  <w>mh=
+                                <tei:lb n="9"/>wkb-hmw</w>  <w>krrm</w>  <w>w-šrʿ</w>  <w>qšmtn</w>  <w>w-ʾhdr-hw</w>  <w>w-ʾkfr-hw</w>  <w>w-ṣwrt-hw</w>  <w>w-kl</w>
+                    <tei:lb n="10"/><w>mwsṭ</w>  <w>hyt</w>  <w>mkntn</w>  <w>krrm</w>  <w>w-ḥmdm</w>  <w>b-ḏt</w>  <w>nbl</w>  <w>w-bltn</w>  <w>b-ʿbr-hw</w>
+                    <tei:lb n="11"/><persName type="royal" subtype="withTitle" role="king">gdrt</persName>  <w>mlk</w>  <orgName type="ethnonym">ḥbštn</orgName>  <w>l-tʾḫwn</w>  <w>b-ʿm-hw</w>  <w>w-stkml</w>  <w>hʾ</w>  <w>ʾḫwnn</w>  <w>byn-
+                        <tei:lb n="12"/>hmw</w>  <w>w-byn</w>  <persName type="royal" subtype="withTitle" role="king">gdrt</persName>  <w>w-mṣr</w>  <orgName type="ethnonym">ʾḥbšn</orgName>  <w>w-tgzmw</w>  <w>k-wḥd</w>  <w>ḍr-hmw</w>  <w>w-slm-h=
+                            <tei:lb n="13"/>mw</w>  <w>b-ʿl</w>  <w>kl</w>  <w>ḏ-ytšʾn</w>  <w>b-ʿbr-hmw</w>  <w>w-k-bṣḥm</w>  <w>w-ʾmnm</w>  <w>ytʾḫwnn</w>  <placeName type="building">slḥn</placeName>
+                    <tei:lb n="14"/><w>w-</w><placeName type="building">zrrn</placeName>  <w>w-</w><persName type="royal" subtype="withTitle" role="king">ʿlhn</persName>  <w>w-</w><persName type="royal" subtype="withTitle" role="king">gdrt</persName>  <w>kl</w>  <w>ʿbrt-hmw</w>  <w>w-ḥmdw</w>  <w>b-ḏt</w>  <w>stkml</w>  <w>ʾḫwn-
+                        <tei:lb n="15"/>hmw</w>  <w>b-ʿm</w>  <w>mlk</w>  <orgName type="ethnonym">ḥbštn</orgName>  <w>ḥg-n</w>  <w>stkml</w>  <w>ʾḫwn-hmw</w>  <w>b-ʿm</w>  <rs type="complex"><persName type="royal" subtype="withTitle" role="king" n="1">ydʿʾb</persName>  <persName type="royal" subtype="withTitle" role="king" n="2">ġyln</persName></rs>
+                    <tei:lb n="16"/><w>mlk</w>  <orgName type="state">ḥḍrmwt</orgName>  <w>b-qdmy</w>  <w>ḏt</w>  <w>hqnytn</w>  <w>w-ḥmdm</w>  <w>b-ḏt</w>  <w>stwfy</w>  <w>kl</w>  <w>ʾqwl</w>
+                    <tei:lb n="17"/><w>w-mqtt</w>  <w>nblw</w>  <w>ʾysm</w>  <w>b-ʿbr</w>  <w>ʾḫ-hw</w>  <w>b-bḥrn</w>  <w>w-ybsn</w>  <w>w-kl</w>  <w>tšʿt</w>  <w>w-zbd</w>
+                    <tei:lb n="18"/><w>ysrw</w>  <w>ʾysm</w>  <w>l-ʾḫ-hw</w>  <w>w-ḥmdm</w>  <w>b-ḏt</w>  <w>tškrw</w>  <persName type="gender" subtype="m">ʿmʾns</persName>  <w>bn</w>  <persName type="patronymic">śnḥn</persName>  <w>w-
+                        <tei:lb n="19"/>šʿbn</w>  <orgName type="tribe">ḫwln</orgName>  <w>b-ḍr</w>  <w>hštʾw</w>  <w>w-tṭʿn</w>  <w>b-ʿbr</w>  <w>ʾmrʾ-hmw</w>  <w>ʾmlk</w>  <orgName type="state">sbʾ</orgName>
+                    <tei:lb n="20"/><w>w-b-ḏt</w>  <w>bltw</w>  <orgName type="group">šbt</orgName>  <w>bn</w>  <orgName type="group">ʿlyn</orgName>  <w>b-ʿbr</w>  <placeName type="building">ḏ-rydn</placeName>  <w>l-hnṣrn-hmw </w> <w>l-
+                        <tei:lb n="21"/>ḍrm</w>  <w>b-ʿly</w>  <w>ʾmrʾ-hmw</w>  <w>ʾmlk</w>  <orgName type="state">sbʾ</orgName>  <w>w-sbʾw</w>  <w>ḏ-bn</w>  <w>ʾšʿb=
+                            <tei:lb n="22"/>n</w>  <w>l-ʿḏrn</w>  <w>b-ʿm-hmw</w>  <w>b-hwt</w>  <w>ḍrn</w>  <w>ḏ-hštʾw</w>  <w>w-qmʿw</w>
+                    <tei:lb n="23"/><w>ḏ-bn</w>  <placeName>ḥqln</placeName>  <w>w-gbḏw</w>  <w>kl</w>  <w>ḥblt-hw</w>  <w>w-bʿd-hw</w>  <w>f-tʿ=
+                        <tei:lb n="24"/>rbw</w>  <w>l-mrʾ-hmw</w>  <persName type="royal" subtype="withTitle" role="king">ʿlhn</persName>  <w>mlk</w>  <orgName type="state">sbʾ</orgName>  <w>w-hysrw</w>  <w>ṯny</w>  <w>r=
+                            <tei:lb n="25"/>bbn</w>  <persName type="gender" subtype="m">ʾšms</persName>  <w>bn</w>  <persName type="patronymic">rymm</persName>  <w>w-</w><persName type="gender" subtype="m">ḥrṯm</persName>  <w>bn</w>  <persName type="patronymic">ydm</persName>  <w>w-l-sʿ=
+                                <tei:lb n="26"/>d-hmw</w>  <name type="theonym">tʾlb</name>  <w>nʿmtm</w>  <w>w-mngyt</w>  <w>ṣdqm</w>  <w>w-ṯbr</w>  <w>w-
+                                    <tei:lb n="27"/>ḍrʿn</w>  <w>ḍr-hmw</w>  <w>w-šnʾ-hmw</w>  <w>b-</w><rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="3"/>… … …  ṯlṯnhn  ʾṣlmn  ḏ-ḏhbn  … … …
+<tei:lb n="4"/>hwšʿ-hmw  t…  .stkmln  kl  ṭyb  w-ṣrf … … …
+<tei:lb n="5"/>…-hmw  yhgl  mʾt  srwrm  ṣrfm  w-kl  mhwkb… …
+<tei:lb n="6"/>ʾnhr  w-bqlt  ʿdy  šrʿt  ʾʿmdn  w-ṣwrt  w-ʾr… … …
+<tei:lb n="7"/>.kl  šrʿ  qšmtn  w-zwyrn  w-kl  ṣwrt  ḏ-qyhrn  ḏ-tšʿw…
+<tei:lb n="8"/>šʾmt  ʿdy  hgrn  lqṭ  w-l-mkntn  ṯmnt  srwrm  w-kl  mhwkb…
+<tei:lb n="9"/>..rʿ  qšmtn  w-twrt-hw  w-kl  mwsṭ  hyt  mkntn  krrm  w-ḥmdm
+<tei:lb n="10"/>b-ḏt  nbl  w-bltn  b-ʿbr-hw  gdrt  mlk  ḥbštn  l-tʾḫwn … …
+<tei:lb n="11"/>w-stkml  hʾ  ʾḫwnn  byn-hmw  w-byn  gdrt  w-t… … …
+<tei:lb n="12"/>ḍr-hmw  w-slm-hmw  … …  ḏ-yntšʾn  b-ʿbr-hmw  ḍr… … …
+<tei:lb n="13"/>…nm  ytʾḫwnn  slḥn  … …  w-ʿlhn  w-gdrt  kl  ʿb… … …
+<tei:lb n="14"/>… b-ḏt  stkml  ʾḫwn-hmw  b-ʿm  mlk  ḥbštn  w-ḥmdm  b-ḏ… …
+<tei:lb n="15"/>ʾqwl  w-mqtt  nblw  ʾysm  b-ʿbr  ʾḫ-hw  b-bḥrn  w-ybsn  w-… …
+<tei:lb n="16"/>t  w-zbd  ysrw  ʾysm  l-ʾḫ-hw  w-ḥmdm  b-ḏt tškrw  ʿmʾns  … …
+<tei:lb n="17"/>n  w-šʿbn  ḫwln  b-ḍr  hštʾw  w-ntṭʿn  b-ʿbr  ʾmrʾ-hmw  ʾmlk  sbʾ
+<tei:lb n="18"/>w-bltw  šbt  bn  ʿlyn  b-ʿbr  ḏ-rydn  l-hnṣrn-hmw  l-ḍrm  b-ʿl… …
+<tei:lb n="19"/>hmw  ʾmlk  sbʾ  w-sbʾw  ḏ-bn  ʾšʿbn  l-ʿḏrn  b-ʿm-hmw  b-hwt … …
+<tei:lb n="20"/>…  w-qmʿw  ḏ-bn  hgr  ḥqln  w-gbḏw  kl  ḥblt-hmw  w-bʿd… …
+<tei:lb n="21"/>rbw  w-stḍrʿn  l-mrʾ-hmw  ʿlhn  mlk  sbʾ  w-hysrw  ṯny  r… …
+<tei:lb n="22"/>bn  rymm  w-ḥrṯm  bn  ydm  w-slmw  w-smʿn  qhtm  w-b-ḏt  …
+<tei:lb n="23"/>… …br  w-ḍrʿn  ḍr-hmw  w-šnʾ-hmw  b-šym-hmw  tʾlb  rymm
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>ʿlhn  nhfn  w-bny-hw  šʿrm  ʾwtr  mlk  sbʾ  bny
+<tei:lb n="2"/>yrm  ʾymn  mlk  sbʾ  hqnyw  šym-hmw  tʾlb
+<tei:lb n="3"/>rymm  bʿl  trʿt  ṯlṯnhn  ʾṣlmn  ḏ-ḏhbn  ḥmdm  b-ḏt
+<tei:lb n="4"/>hwšʿ-hmw  tʾlb  b-stkmln  kl  ṭyb  w-ṣrf  tnṭʿw  w-hqšbn
+<tei:lb n="5"/>l-mwṯb-hmw  yhgl  mʾt  srwrm  ṣrfm  w-kl  mhwkb-hmw  w-kl
+<tei:lb n="6"/>ʾnhr  w-bqlt  ʿdy  šrʿt  ʾʿmdn  w-ṣwrt  w-ʾrfd  ʿdy  ʾʿmdn  w-ʾʿrśn
+<tei:lb n="7"/>w-kl  šrʿ  qšmtn  w-zwyrn  w-kl  ṣwrt  ḏ-qyhrn  ḏ-tšʿww  ʿdy
+<tei:lb n="8"/>šʾmt  ʿdy  hgrn  lqṭ  w-l-mkntn  ṯmnt  srwrm  w-kl  mhwkb-hmw
+<tei:lb n="9"/>w-šrʿ  qšmtn  w-twrt-hw  w-kl  mwsṭ  hyt  mkntn  krrm  w-ḥmdm
+<tei:lb n="10"/>b-ḏt  nbl  w-bltn  b-ʿbr-hw  gdrt  mlk  ḥbštn  l-tʾḫwn  b-ʿm-hw
+<tei:lb n="11"/>w-stkml  hʾ  ʾḫwnn  byn-hmw  w-byn  gdrt  w-tgzmw  k-wḥd
+<tei:lb n="12"/>ḍr-hmw  w-slm-hmw  b-ʿly-kl  ḏ-yntšʾn  b-ʿbr-hmw  ḍrm  w-k-b-ṣḥm
+<tei:lb n="13"/>w-ʾmnm  ytʾḫwnn  slḥn  w-zrrn  w-ʿlhn  w-gdrt  kl  ʿbrt-hmw  w-ḥm=
+<tei:lb n="14"/>dw  b-ḏt  stkml  ʾḫwn-hmw  b-ʿm  mlk  ḥbštn  w-ḥmdm  b-ḏt  stwfy  kl
+<tei:lb n="15"/>ʾqwl  w-mqtt  nblw  ʾysm  b-ʿbr  ʾḫ-hw  b-bḥrn  w-ybsn  w-kl  tšʿ=
+<tei:lb n="16"/>t  w-zbd  ysrw  ʾysm  l-ʾḫ-hw  w-ḥmdm  b-ḏt tškrw  ʿmʾns  bn  śnḥ=
+<tei:lb n="17"/>n  w-šʿbn  ḫwln  b-ḍr  hštʾw  w-ntṭʿn  b-ʿbr  ʾmrʾ-hmw  ʾmlk  sbʾ
+<tei:lb n="18"/>w-bltw  šbt  bn  ʿlyn  b-ʿbr  ḏ-rydn  l-hnṣrn-hmw  l-ḍrm  b-ʿly  ʾmrʾ-
+<tei:lb n="19"/>hmw  ʾmlk  sbʾ  w-sbʾw  ḏ-bn  ʾšʿbn  l-ʿḏrn  b-ʿm-hmw  b-hwt  ḍrn  ḏ-h=
+<tei:lb n="20"/>štʾw  w-qmʿw  ḏ-bn  hgr  ḥqln  w-gbḏw  kl  ḥblt-hmw  w-bʿd-hw  f-tʿ=
+<tei:lb n="21"/>rbw  w-stḍrʿn  l-mrʾ-hmw  ʿlhn  mlk  sbʾ  w-hysrw  ṯny  rbbn  ʾšms
+<tei:lb n="22"/>bn  rymm  w-ḥrṯm  bn  ydm  w-slmw  w-smʿn  qhtm  w-b-ḏt  yzʾn
+<tei:lb n="23"/>tʾlb  ṯbr  w-ḍrʿn  ḍr-hmw  w-šnʾ-hmw  b-šym-hmw  tʾlb  rymm</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+3.[…] Lord of Turʿat, three statues of bronze, [out of gratitude because] 
+4.[…] granted them a favor through the completion of all the (plantations of) ṭyb-incense and ṣrf-incense [… … …] 
+5.[… …] of Yahgal--100 plots of ṣrf-incense--and (the completion of) all of […] plantation [… …] 
+6.(their) irrigation channels and plantations as far as the irrigated lands of the ʿimd-trees and the ṣwrt-plantation and the [… … …] 
+7.[.] all of the water channels of the irrigation scheme and the water deflector, and all of the ṣwrt-plantations of Qayharān which [… … …] 
+8.[…] as far as the town of Laqiṭ and for the agricultural estate--eight plots--and all of [… …] 
+9.[..] water channels of the irrigation scheme and its irrigation apparatus and all of the furnishing of that agricultural estate in sum total [… …] 
+10.because Gǝdūrā, King of the Ethiopians, had sent and dispatched to him (a mission) to establish an alli[ance with him.] 
+11.And that alliance was realized between them and [Gǝdūrā]. And [together they swore an oath as one,] 12.whether for war or for peace, [with regard to anyone] who might rise up against them in [… …] 
+13.[… …] Salḥīn [… …] and ʿAlhān and Gǝdūrā might be allied, each [… … …]
+14.because their alliance was realized with the king of the Ethiopians; and out of gratitude [… … …] 
+15.the qayls and lieutenants who were sent, one man unto his ally, by sea and by land, and [… …] and gifts which they sent, each man to his fellow; and out of gratitude because 
+20.[..]ʾanas bin Śinḥān and the tribe of Khawlān were defeated in a war which they had initiated and (through which) they had rebelled against 
+21.[…] lords, the kings of Sabaʾ, and because they sent Shabbat of (the clan of) ʿIlayyān to he of Raydān in order to aid 
+22.them (i.e. the Ḥimyarites) in a war against their lords, the kings of Sabaʾ, and some of the (Sabaean) confederation took the field to exact reprisals 
+23.on them in that war which they had initiated, and they vanquished some of Ḥaqlān and ravaged all of
+24.its [… …], and after that they surrendered to their lord ʿAlhān, the king of Sabaʾ, and they sent two 
+25.hostages: ʾAshmas bin Riyāmum and Ḥārith bin Yadīm. And may Taʾlab grant them prosperity
+26.[.] good fortune and the destruction and humiliation of their enemies and their foes. By Taʾlab Riyāmum.
+
+
+Restored full text of the inscription:
+
+1.[ʿAlhān Nahfān and his son Shāʿirum ʾAwtar, King of Sabaʾ, son of Yar-]
+2.[īm ʾAyman, Ki]ng of Sabaʾ, have dedicated to their patron-god [Taʾlab] 
+3.[Riyāmum,] Lord of Turʿat, three statues of bronze, [out of gratitude because] 
+4.[Taʾlab granted] them a favor through the completion of all the (plantations of) ṭyb-incense and ṣrf-incense [which they had laid out(?) and set up] 
+5.[for their residence] of Yahgal--100] plots of ṣrf-incense--and (the completion of) all of [their] plantation [and all of] 
+6.(their) irrigation channels and plantations as far as the irrigated lands of the ʿimd-trees and the ṣwrt-plantation and the butt[resses in the irrigated lands of the ʿimd-trees and the plantations] 
+7.[and] all of the water channels of the irrigation scheme and the water deflector, and all of the ṣwrt-plantations of Qayharān which [they had laid out(?) in] 
+8.[the n]orth, as far as the town of Laqiṭ and for the agricultural estate--eight plots--and all of [their] plan[tation]
+9.[and the] water channels of the irrigation scheme and its irrigation apparatus and all of the furnishing of that agricultural estate in sum total; [and out of gratitude] 
+10.because Gǝdūrā, King of the Ethiopians, had sent and dispatched to him (a mission) to establish an alli[ance with him.] 
+11.And that alliance was realized between them and [Gǝdūrā]. And [together they swore an oath as one,] 12.whether for war or for peace, [with regard to anyone] who might rise up against them in [war, and that with rectitude] 
+13.[and fidel]ity Salḥīn [and Zararān] and ʿAlhān and Gǝdūrā might be allied, each [unto the other. And they expressed gratitude]
+14.because their alliance was realized with the king of the Ethiopians; and out of gratitude be[cause he (i.e. Taʾlab) protected all of] 
+15.the qayls and lieutenants who were sent, one man unto his ally, by sea and by land, and [all the dispat-]
+ches and gifts which they sent, each man to his fellow; and out of gratitude because 
+20.[ʿAmmī]ʾanas bin Śinḥān and the tribe of Khawlān were defeated in a war which they had initiated and (through which) they had rebelled against 
+21.[their] lords, the kings of Sabaʾ, and because they sent Shabbat of (the clan of) ʿIlayyān to he of Raydān in order to aid 
+22.them (i.e. the Ḥimyarites) in a war against their lords, the kings of Sabaʾ, and some of the (Sabaean) confederation took the field to exact reprisals 
+23.on them in that war which they had initiated, and they vanquished some of Ḥaqlān and ravaged all of
+24.its [terraced vineyards], and after that they surrendered to their lord ʿAlhān, the king of Sabaʾ, and they sent two 
+25.hostages: ʾAshmas bin Riyāmum and Ḥārith bin Yadīm. And may Taʾlab grant them prosperity
+26.[and] good fortune and the destruction and humiliation of their enemies and their foes. By Taʾlab Riyāmum.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">…</tei:supplied> Lord of Turʿat, three statues of bronze, <tei:supplied reason="lost">out of gratitude because</tei:supplied> 
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">…</tei:supplied> granted them a favor through the completion of all the <tei:unclear>plantations of</tei:unclear> ṭyb-incense and ṣrf-incense <tei:supplied reason="lost">… … …</tei:supplied> 
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> of Yahgal--<tei:lb n="100"/>plots of ṣrf-incense--and <tei:unclear>the completion of</tei:unclear> all of <tei:supplied reason="lost">…</tei:supplied> plantation <tei:supplied reason="lost">… …</tei:supplied> 
+<tei:lb n="6"/>
+                    <tei:unclear>their</tei:unclear> irrigation channels and plantations as far as the irrigated lands of the ʿimd-trees and the ṣwrt-plantation and the <tei:supplied reason="lost">… … …</tei:supplied> 
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">.</tei:supplied> all of the water channels of the irrigation scheme and the water deflector, and all of the ṣwrt-plantations of Qayharān which <tei:supplied reason="lost">… … …</tei:supplied> 
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">…</tei:supplied> as far as the town of Laqiṭ and for the agricultural estate--eight plots--and all of <tei:supplied reason="lost">… …</tei:supplied> 
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">..</tei:supplied> water channels of the irrigation scheme and its irrigation apparatus and all of the furnishing of that agricultural estate in sum total <tei:supplied reason="lost">… …</tei:supplied> 
+<tei:lb n="10"/>because Gǝdūrā, King of the Ethiopians, had sent and dispatched to him <tei:unclear>a mission</tei:unclear> to establish an alli<tei:supplied reason="lost">ance with him.</tei:supplied> 
+<tei:lb n="11"/>And that alliance was realized between them and <tei:supplied reason="lost">Gǝdūrā</tei:supplied>. And <tei:supplied reason="lost">together they swore an oath as one,</tei:supplied> <tei:lb n="12"/>whether for war or for peace, <tei:supplied reason="lost">with regard to anyone</tei:supplied> who might rise up against them in <tei:supplied reason="lost">… …</tei:supplied> 
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> Salḥīn <tei:supplied reason="lost">… …</tei:supplied> and ʿAlhān and Gǝdūrā might be allied, each <tei:supplied reason="lost">… … …</tei:supplied>
+<tei:lb n="14"/>because their alliance was realized with the king of the Ethiopians; and out of gratitude <tei:supplied reason="lost">… … …</tei:supplied> 
+<tei:lb n="15"/>the qayls and lieutenants who were sent, one man unto his ally, by sea and by land, and <tei:supplied reason="lost">… …</tei:supplied> and gifts which they sent, each man to his fellow; and out of gratitude because 
+<tei:lb n="20"/>
+                    <tei:supplied reason="lost">..</tei:supplied>ʾanas bin Śinḥān and the tribe of Khawlān were defeated in a war which they had initiated and <tei:unclear>through which</tei:unclear> they had rebelled against 
+<tei:lb n="21"/>
+                    <tei:supplied reason="lost">…</tei:supplied> lords, the kings of Sabaʾ, and because they sent Shabbat of <tei:unclear>the clan of</tei:unclear> ʿIlayyān to he of Raydān in order to aid 
+<tei:lb n="22"/>them <tei:unclear>i.e. the Ḥimyarites</tei:unclear> in a war against their lords, the kings of Sabaʾ, and some of the <tei:unclear>Sabaean</tei:unclear> confederation took the field to exact reprisals 
+<tei:lb n="23"/>on them in that war which they had initiated, and they vanquished some of Ḥaqlān and ravaged all of
+<tei:lb n="24"/>its <tei:supplied reason="lost">… …</tei:supplied>, and after that they surrendered to their lord ʿAlhān, the king of Sabaʾ, and they sent two 
+<tei:lb n="25"/>hostages: ʾAshmas bin Riyāmum and Ḥārith bin Yadīm. And may Taʾlab grant them prosperity
+<tei:lb n="26"/>
+                    <tei:supplied reason="lost">.</tei:supplied> good fortune and the destruction and humiliation of their enemies and their foes. By Taʾlab Riyāmum.
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">ʿAlhān Nahfān and his son Shāʿirum ʾAwtar, King of Sabaʾ, son of Yar-</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">īm ʾAyman, Ki</tei:supplied>ng of Sabaʾ, have dedicated to their patron-god <tei:supplied reason="lost">Taʾlab</tei:supplied> 
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">Riyāmum,</tei:supplied> Lord of Turʿat, three statues of bronze, <tei:supplied reason="lost">out of gratitude because</tei:supplied> 
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">Taʾlab granted</tei:supplied> them a favor through the completion of all the <tei:unclear>plantations of</tei:unclear> ṭyb-incense and ṣrf-incense <tei:supplied reason="lost">which they had laid out<tei:unclear>?</tei:unclear> and set up</tei:supplied> 
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">for their residence</tei:supplied> of Yahgal--<tei:lb n="100"/> plots of ṣrf-incense--and <tei:unclear>the completion of</tei:unclear> all of <tei:supplied reason="lost">their</tei:supplied> plantation <tei:supplied reason="lost">and all of</tei:supplied> 
+<tei:lb n="6"/>
+                    <tei:unclear>their</tei:unclear> irrigation channels and plantations as far as the irrigated lands of the ʿimd-trees and the ṣwrt-plantation and the butt<tei:supplied reason="lost">resses in the irrigated lands of the ʿimd-trees and the plantations</tei:supplied> 
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">and</tei:supplied> all of the water channels of the irrigation scheme and the water deflector, and all of the ṣwrt-plantations of Qayharān which <tei:supplied reason="lost">they had laid out<tei:unclear>?</tei:unclear> in</tei:supplied> 
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">the n</tei:supplied>orth, as far as the town of Laqiṭ and for the agricultural estate--eight plots--and all of <tei:supplied reason="lost">their</tei:supplied> plan<tei:supplied reason="lost">tation</tei:supplied>
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">and the</tei:supplied> water channels of the irrigation scheme and its irrigation apparatus and all of the furnishing of that agricultural estate in sum total; <tei:supplied reason="lost">and out of gratitude</tei:supplied> 
+<tei:lb n="10"/>because Gǝdūrā, King of the Ethiopians, had sent and dispatched to him <tei:unclear>a mission</tei:unclear> to establish an alli<tei:supplied reason="lost">ance with him.</tei:supplied> 
+<tei:lb n="11"/>And that alliance was realized between them and <tei:supplied reason="lost">Gǝdūrā</tei:supplied>. And <tei:supplied reason="lost">together they swore an oath as one,</tei:supplied> <tei:lb n="12"/>whether for war or for peace, <tei:supplied reason="lost">with regard to anyone</tei:supplied> who might rise up against them in <tei:supplied reason="lost">war, and that with rectitude</tei:supplied> 
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">and fidel</tei:supplied>ity Salḥīn <tei:supplied reason="lost">and Zararān</tei:supplied> and ʿAlhān and Gǝdūrā might be allied, each <tei:supplied reason="lost">unto the other. And they expressed gratitude</tei:supplied>
+<tei:lb n="14"/>because their alliance was realized with the king of the Ethiopians; and out of gratitude be<tei:supplied reason="lost">cause he <tei:unclear>i.e. Taʾlab</tei:unclear> protected all of</tei:supplied> 
+<tei:lb n="15"/>the qayls and lieutenants who were sent, one man unto his ally, by sea and by land, and <tei:supplied reason="lost">all the dispat-</tei:supplied>
+ches and gifts which they sent, each man to his fellow; and out of gratitude because 
+<tei:lb n="20"/>
+                    <tei:supplied reason="lost">ʿAmmī</tei:supplied>ʾanas bin Śinḥān and the tribe of Khawlān were defeated in a war which they had initiated and <tei:unclear>through which</tei:unclear> they had rebelled against 
+<tei:lb n="21"/>
+                    <tei:supplied reason="lost">their</tei:supplied> lords, the kings of Sabaʾ, and because they sent Shabbat of <tei:unclear>the clan of</tei:unclear> ʿIlayyān to he of Raydān in order to aid 
+<tei:lb n="22"/>them <tei:unclear>i.e. the Ḥimyarites</tei:unclear> in a war against their lords, the kings of Sabaʾ, and some of the <tei:unclear>Sabaean</tei:unclear> confederation took the field to exact reprisals 
+<tei:lb n="23"/>on them in that war which they had initiated, and they vanquished some of Ḥaqlān and ravaged all of
+<tei:lb n="24"/>its <tei:supplied reason="lost">terraced vineyards</tei:supplied>, and after that they surrendered to their lord ʿAlhān, the king of Sabaʾ, and they sent two 
+<tei:lb n="25"/>hostages: ʾAshmas bin Riyāmum and Ḥārith bin Yadīm. And may Taʾlab grant them prosperity
+<tei:lb n="26"/>
+                    <tei:supplied reason="lost">and</tei:supplied> good fortune and the destruction and humiliation of their enemies and their foes. By Taʾlab Riyāmum.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="3"/>… Lord of Turʿat, three statues of bronze, out of gratitude because 
+<tei:lb n="4"/>… granted them a favor through the completion of all the plantations of ṭyb-incense and ṣrf-incense … … … 
+<tei:lb n="5"/>… … of Yahgal--<tei:lb n="100"/>plots of ṣrf-incense--and the completion of all of … plantation … … 
+<tei:lb n="6"/>their irrigation channels and plantations as far as the irrigated lands of the ʿimd-trees and the ṣwrt-plantation and the … … … 
+<tei:lb n="7"/>. all of the water channels of the irrigation scheme and the water deflector, and all of the ṣwrt-plantations of Qayharān which … … … 
+<tei:lb n="8"/>… as far as the town of Laqiṭ and for the agricultural estate--eight plots--and all of … … 
+<tei:lb n="9"/>.. water channels of the irrigation scheme and its irrigation apparatus and all of the furnishing of that agricultural estate in sum total … … 
+<tei:lb n="10"/>because Gǝdūrā, King of the Ethiopians, had sent and dispatched to him a mission to establish an alliance with him. 
+<tei:lb n="11"/>And that alliance was realized between them and Gǝdūrā. And together they swore an oath as one, <tei:lb n="12"/>whether for war or for peace, with regard to anyone who might rise up against them in … … 
+<tei:lb n="13"/>… … Salḥīn … … and ʿAlhān and Gǝdūrā might be allied, each … … …
+<tei:lb n="14"/>because their alliance was realized with the king of the Ethiopians; and out of gratitude … … … 
+<tei:lb n="15"/>the qayls and lieutenants who were sent, one man unto his ally, by sea and by land, and … … and gifts which they sent, each man to his fellow; and out of gratitude because 
+<tei:lb n="20"/>..ʾanas bin Śinḥān and the tribe of Khawlān were defeated in a war which they had initiated and through which they had rebelled against 
+<tei:lb n="21"/>… lords, the kings of Sabaʾ, and because they sent Shabbat of the clan of ʿIlayyān to he of Raydān in order to aid 
+<tei:lb n="22"/>them i.e. the Ḥimyarites in a war against their lords, the kings of Sabaʾ, and some of the Sabaean confederation took the field to exact reprisals 
+<tei:lb n="23"/>on them in that war which they had initiated, and they vanquished some of Ḥaqlān and ravaged all of
+<tei:lb n="24"/>its … …, and after that they surrendered to their lord ʿAlhān, the king of Sabaʾ, and they sent two 
+<tei:lb n="25"/>hostages: ʾAshmas bin Riyāmum and Ḥārith bin Yadīm. And may Taʾlab grant them prosperity
+<tei:lb n="26"/>. good fortune and the destruction and humiliation of their enemies and their foes. By Taʾlab Riyāmum.
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>ʿAlhān Nahfān and his son Shāʿirum ʾAwtar, King of Sabaʾ, son of Yar-
+<tei:lb n="2"/>īm ʾAyman, King of Sabaʾ, have dedicated to their patron-god Taʾlab 
+<tei:lb n="3"/>Riyāmum, Lord of Turʿat, three statues of bronze, out of gratitude because 
+<tei:lb n="4"/>Taʾlab granted them a favor through the completion of all the plantations of ṭyb-incense and ṣrf-incense which they had laid out? and set up 
+<tei:lb n="5"/>for their residence of Yahgal--<tei:lb n="100"/> plots of ṣrf-incense--and the completion of all of their plantation and all of 
+<tei:lb n="6"/>their irrigation channels and plantations as far as the irrigated lands of the ʿimd-trees and the ṣwrt-plantation and the buttresses in the irrigated lands of the ʿimd-trees and the plantations 
+<tei:lb n="7"/>and all of the water channels of the irrigation scheme and the water deflector, and all of the ṣwrt-plantations of Qayharān which they had laid out? in 
+<tei:lb n="8"/>the north, as far as the town of Laqiṭ and for the agricultural estate--eight plots--and all of their plantation
+<tei:lb n="9"/>and the water channels of the irrigation scheme and its irrigation apparatus and all of the furnishing of that agricultural estate in sum total; and out of gratitude 
+<tei:lb n="10"/>because Gǝdūrā, King of the Ethiopians, had sent and dispatched to him a mission to establish an alliance with him. 
+<tei:lb n="11"/>And that alliance was realized between them and Gǝdūrā. And together they swore an oath as one, <tei:lb n="12"/>whether for war or for peace, with regard to anyone who might rise up against them in war, and that with rectitude 
+<tei:lb n="13"/>and fidelity Salḥīn and Zararān and ʿAlhān and Gǝdūrā might be allied, each unto the other. And they expressed gratitude
+<tei:lb n="14"/>because their alliance was realized with the king of the Ethiopians; and out of gratitude because he i.e. Taʾlab protected all of 
+<tei:lb n="15"/>the qayls and lieutenants who were sent, one man unto his ally, by sea and by land, and all the dispat-
+ches and gifts which they sent, each man to his fellow; and out of gratitude because 
+<tei:lb n="20"/>ʿAmmīʾanas bin Śinḥān and the tribe of Khawlān were defeated in a war which they had initiated and through which they had rebelled against 
+<tei:lb n="21"/>their lords, the kings of Sabaʾ, and because they sent Shabbat of the clan of ʿIlayyān to he of Raydān in order to aid 
+<tei:lb n="22"/>them i.e. the Ḥimyarites in a war against their lords, the kings of Sabaʾ, and some of the Sabaean confederation took the field to exact reprisals 
+<tei:lb n="23"/>on them in that war which they had initiated, and they vanquished some of Ḥaqlān and ravaged all of
+<tei:lb n="24"/>its terraced vineyards, and after that they surrendered to their lord ʿAlhān, the king of Sabaʾ, and they sent two 
+<tei:lb n="25"/>hostages: ʾAshmas bin Riyāmum and Ḥārith bin Yadīm. And may Taʾlab grant them prosperity
+<tei:lb n="26"/>and good fortune and the destruction and humiliation of their enemies and their foes. By Taʾlab Riyāmum.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="3"/>… Lord of Turʿat, three statues of bronze, out of gratitude because 
+<tei:lb n="4"/>… granted them a favor through the completion of all the plantations of ṭyb-incense and ṣrf-incense … … … 
+<tei:lb n="5"/>… … of Yahgal--<tei:lb n="100"/>plots of ṣrf-incense--and the completion of all of … plantation … … 
+<tei:lb n="6"/>their irrigation channels and plantations as far as the irrigated lands of the ʿimd-trees and the ṣwrt-plantation and the … … … 
+<tei:lb n="7"/>. all of the water channels of the irrigation scheme and the water deflector, and all of the ṣwrt-plantations of Qayharān which … … … 
+<tei:lb n="8"/>… as far as the town of Laqiṭ and for the agricultural estate--eight plots--and all of … … 
+<tei:lb n="9"/>.. water channels of the irrigation scheme and its irrigation apparatus and all of the furnishing of that agricultural estate in sum total … … 
+<tei:lb n="10"/>because Gǝdūrā, King of the Ethiopians, had sent and dispatched to him a mission to establish an alliance with him. 
+<tei:lb n="11"/>And that alliance was realized between them and Gǝdūrā. And together they swore an oath as one, <tei:lb n="12"/>whether for war or for peace, with regard to anyone who might rise up against them in … … 
+<tei:lb n="13"/>… … Salḥīn … … and ʿAlhān and Gǝdūrā might be allied, each … … …
+<tei:lb n="14"/>because their alliance was realized with the king of the Ethiopians; and out of gratitude … … … 
+<tei:lb n="15"/>the qayls and lieutenants who were sent, one man unto his ally, by sea and by land, and … … and gifts which they sent, each man to his fellow; and out of gratitude because 
+<tei:lb n="20"/>..ʾanas bin Śinḥān and the tribe of Khawlān were defeated in a war which they had initiated and through which they had rebelled against 
+<tei:lb n="21"/>… lords, the kings of Sabaʾ, and because they sent Shabbat of the clan of ʿIlayyān to he of Raydān in order to aid 
+<tei:lb n="22"/>them i.e. the Ḥimyarites in a war against their lords, the kings of Sabaʾ, and some of the Sabaean confederation took the field to exact reprisals 
+<tei:lb n="23"/>on them in that war which they had initiated, and they vanquished some of Ḥaqlān and ravaged all of
+<tei:lb n="24"/>its … …, and after that they surrendered to their lord ʿAlhān, the king of Sabaʾ, and they sent two 
+<tei:lb n="25"/>hostages: ʾAshmas bin Riyāmum and Ḥārith bin Yadīm. And may Taʾlab grant them prosperity
+<tei:lb n="26"/>. good fortune and the destruction and humiliation of their enemies and their foes. By Taʾlab Riyāmum.
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>ʿAlhān Nahfān and his son Shāʿirum ʾAwtar, King of Sabaʾ, son of Yar-
+<tei:lb n="2"/>īm ʾAyman, King of Sabaʾ, have dedicated to their patron-god Taʾlab 
+<tei:lb n="3"/>Riyāmum, Lord of Turʿat, three statues of bronze, out of gratitude because 
+<tei:lb n="4"/>Taʾlab granted them a favor through the completion of all the plantations of ṭyb-incense and ṣrf-incense which they had laid out? and set up 
+<tei:lb n="5"/>for their residence of Yahgal--<tei:lb n="100"/> plots of ṣrf-incense--and the completion of all of their plantation and all of 
+<tei:lb n="6"/>their irrigation channels and plantations as far as the irrigated lands of the ʿimd-trees and the ṣwrt-plantation and the buttresses in the irrigated lands of the ʿimd-trees and the plantations 
+<tei:lb n="7"/>and all of the water channels of the irrigation scheme and the water deflector, and all of the ṣwrt-plantations of Qayharān which they had laid out? in 
+<tei:lb n="8"/>the north, as far as the town of Laqiṭ and for the agricultural estate--eight plots--and all of their plantation
+<tei:lb n="9"/>and the water channels of the irrigation scheme and its irrigation apparatus and all of the furnishing of that agricultural estate in sum total; and out of gratitude 
+<tei:lb n="10"/>because Gǝdūrā, King of the Ethiopians, had sent and dispatched to him a mission to establish an alliance with him. 
+<tei:lb n="11"/>And that alliance was realized between them and Gǝdūrā. And together they swore an oath as one, <tei:lb n="12"/>whether for war or for peace, with regard to anyone who might rise up against them in war, and that with rectitude 
+<tei:lb n="13"/>and fidelity Salḥīn and Zararān and ʿAlhān and Gǝdūrā might be allied, each unto the other. And they expressed gratitude
+<tei:lb n="14"/>because their alliance was realized with the king of the Ethiopians; and out of gratitude because he i.e. Taʾlab protected all of 
+<tei:lb n="15"/>the qayls and lieutenants who were sent, one man unto his ally, by sea and by land, and all the dispat-
+ches and gifts which they sent, each man to his fellow; and out of gratitude because 
+<tei:lb n="20"/>ʿAmmīʾanas bin Śinḥān and the tribe of Khawlān were defeated in a war which they had initiated and through which they had rebelled against 
+<tei:lb n="21"/>their lords, the kings of Sabaʾ, and because they sent Shabbat of the clan of ʿIlayyān to he of Raydān in order to aid 
+<tei:lb n="22"/>them i.e. the Ḥimyarites in a war against their lords, the kings of Sabaʾ, and some of the Sabaean confederation took the field to exact reprisals 
+<tei:lb n="23"/>on them in that war which they had initiated, and they vanquished some of Ḥaqlān and ravaged all of
+<tei:lb n="24"/>its terraced vineyards, and after that they surrendered to their lord ʿAlhān, the king of Sabaʾ, and they sent two 
+<tei:lb n="25"/>hostages: ʾAshmas bin Riyāmum and Ḥārith bin Yadīm. And may Taʾlab grant them prosperity
+<tei:lb n="26"/>and good fortune and the destruction and humiliation of their enemies and their foes. By Taʾlab Riyāmum.</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

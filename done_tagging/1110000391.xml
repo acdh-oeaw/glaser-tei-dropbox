@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1365</title>
+                <title type="alt">1110000391</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1365</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1365</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-09-26" who="paigner"/>
+            <change when="2018-09-26" who="paigner"/>
+            <change when="2018-09-26" who="paigner"/>
+            <change when="2018-09-26" who="paigner"/>
+            <change when="2018-09-13" who="paigner"/>
+            <change when="2018-09-13" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2016-10-14" who="paigner"/>
+            <change when="2016-09-27" who="paigner"/>
+            <change when="2016-05-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-04" who="paigner"/>
+            <change when="2016-03-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[sʿdšms | yʾ]zm | w-ʾḫy-hw | brg | yhr[ḥb]
+2.[w-...]nn | bnw | btʿ | w-hmdn | ʾqwl | šʿbn | (s)[m=]
+3.[ʿy | ṯlṯn]hn | ḏ-ḥmln | w-ḥšdm | hqnyw | šym-hmw
+4.[tʾlb] | (r)ymm | bʿl | trʿt | ʾrbʿtn | ʾṣlmn | ḥmd(m)
+5.[b-ḏt | ṣ]dq-hmw | tʾlb | rymm | kl | ʾmlʾ | [stml=]
+6.[ʾn | bʿm-h]w | w-l-ḏt | yzʾn | tʾlb | rymm | ṣd[q | w-]
+7.[hwfyn | ʾd](m)-hw | bny | btʿ | w-hmdn | b-kl | ʾm[lʾ | y=]
+8.[stmlʾnn] | b-ʿm-hw | w-ḥmdm | b-ḏt | hʿn | w-[mtʿn]
+9.[tʾlb | rymm | ʿ](b)dy-hw | sʿdšms | w-brg | (b)[ny | btʿ]
+10.[w-hmdn | w-šʿ]by-hmw | ḥmln | w-ḥšdm | (b-)[kn | ...]
+11.[... | r]ḥbtn | bn | hgrn | mryb | b[... ...]
+12.[b-wrḫ | ḏ]-ʾbhy | bn | qblt | stqb[l | ... ...]
+13.[... ... | mr](yb) | b-hyt | sbʾtn | w-l [| ... ...]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:supplied reason="lost">sʿdšms | yʾ</tei:supplied>zm | w-ʾḫy-hw | brg | yhr<tei:supplied reason="lost">ḥb</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">w-...</tei:supplied>nn | bnw | btʿ | w-hmdn | ʾqwl | šʿbn | <tei:unclear>s</tei:unclear>
+                    <tei:supplied reason="lost">m=</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">ʿy | ṯlṯn</tei:supplied>hn | ḏ-ḥmln | w-ḥšdm | hqnyw | šym-hmw
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">tʾlb</tei:supplied> | <tei:unclear>r</tei:unclear>ymm | bʿl | trʿt | ʾrbʿtn | ʾṣlmn | ḥmd<tei:unclear>m</tei:unclear>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">b-ḏt | ṣ</tei:supplied>dq-hmw | tʾlb | rymm | kl | ʾmlʾ | <tei:supplied reason="lost">stml=</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">ʾn | bʿm-h</tei:supplied>w | w-l-ḏt | yzʾn | tʾlb | rymm | ṣd<tei:supplied reason="lost">q | w-</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">hwfyn | ʾd</tei:supplied>
+                    <tei:unclear>m</tei:unclear>-hw | bny | btʿ | w-hmdn | b-kl | ʾm<tei:supplied reason="lost">lʾ | y=</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">stmlʾnn</tei:supplied> | b-ʿm-hw | w-ḥmdm | b-ḏt | hʿn | w-<tei:supplied reason="lost">mtʿn</tei:supplied>
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">tʾlb | rymm | ʿ</tei:supplied>
+                    <tei:unclear>b</tei:unclear>dy-hw | sʿdšms | w-brg | <tei:unclear>b</tei:unclear>
+                    <tei:supplied reason="lost">ny | btʿ</tei:supplied>
+<tei:lb n="10"/>
+                    <tei:supplied reason="lost">w-hmdn | w-šʿ</tei:supplied>by-hmw | ḥmln | w-ḥšdm | <tei:unclear>b-</tei:unclear>
+                    <tei:supplied reason="lost">kn | ...</tei:supplied>
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">... | r</tei:supplied>ḥbtn | bn | hgrn | mryb | b<tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">b-wrḫ | ḏ</tei:supplied>-ʾbhy | bn | qblt | stqb<tei:supplied reason="lost">l | <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/> | mr</tei:supplied>
+                    <tei:unclear>yb</tei:unclear> | b-hyt | sbʾtn | w-l <tei:supplied reason="lost">| <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/><rs type="complex"><persName type="gender" subtype="m" n="1">sʿdšms</persName>  <persName type="gender" subtype="m" n="2">yʾzm</persName></rs>  <w>w-ʾḫy-hw</w>  <rs type="complex"><persName type="gender" subtype="m" n="1">brg</persName>  <persName type="gender" subtype="m" n="2">yhrḥb</persName></rs>
+                    <tei:lb n="2"/>w-...nn  <w>bnw</w>  <orgName type="group">btʿ</orgName>  <w>w-</w><orgName type="group">hmdn</orgName>  <w>ʾqwl</w>  <w>šʿbn</w>  <orgName type="tribe">sm=
+                        <tei:lb n="3"/>ʿy</orgName>  <w>ṯlṯnhn</w>  <w>ḏ-</w><orgName type="tribe">ḥmln</orgName>  <w>w-</w><orgName type="tribe">ḥšdm</orgName>  <w>hqnyw</w>  <w>šym-hmw</w>
+                    <tei:lb n="4"/><rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs>  <w>bʿl</w>  <placeName type="sanctuary">trʿt</placeName>  <w>ʾrbʿtn</w>  <w>ʾṣlmn</w>  <w>ḥmdm</w>
+                    <tei:lb n="5"/><w>b-ḏt</w>  <w>ṣdq-hmw</w>  <rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs>  <w>kl</w>  <w>ʾmlʾ</w>  <w>stml=
+                        <tei:lb n="6"/>ʾn</w>  <w>bʿm-hw</w>  <w>w-l-ḏt</w>  <w>yzʾn</w>  <rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs>  <w>ṣdq</w>  <w>w-
+                            <tei:lb n="7"/>hwfyn</w>  <w>ʾdm-hw</w>  <w>bny</w>  <orgName type="group">btʿ</orgName>  <w>w-hmdn</w>  <w>b-kl</w>  <w>ʾmlʾ</w>  <w>y=
+<tei:lb n="8"/>stmlʾnn</w>  <w>b-ʿm-hw</w>  <w>w-ḥmdm</w>  <w>b-ḏt</w>  <w>hʿn</w>  <w>w-mtʿn</w>
+                    <tei:lb n="9"/><rs type="complex"><name type="theonym">tʾlb</name>  <name type="epithet" subtype="divine">rymm</name></rs>  <w>ʿbdy-hw</w>  <persName type="gender" subtype="m">sʿdšms</persName>  <w>w-</w><persName type="gender" subtype="m">brg</persName>  <w>bny</w>  <orgName type="group">btʿ</orgName>
+                    <tei:lb n="10"/><w>w-</w><orgName type="group">hmdn</orgName>  <w>w-šʿby-hmw</w>  <orgName type="tribe">ḥmln</orgName>  <w>w-</w><orgName type="tribe">ḥšdm</orgName>  <w>b-kn</w>  ...
+<tei:lb n="11"/>...  <placeName>rḥbtn</placeName>  <w>bn</w>  <w>hgrn</w>  <placeName>mryb</placeName>  b
+                    <tei:lb n="12"/><w>b-wrḫ</w>  <rs type="month">ḏ-ʾbhy</rs>  <w>bn</w>  <w>qblt</w>  <w>stqbl</w>  
+<tei:lb n="13"/>  <placeName>mryb</placeName>  <w>b-hyt</w>  <w>sbʾtn</w>  w-l  </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>sʿdšms  yʾzm  w-ʾḫy-hw  brg  yhrḥb
+<tei:lb n="2"/>w-...nn  bnw  btʿ  w-hmdn  ʾqwl  šʿbn  sm=
+<tei:lb n="3"/>ʿy  ṯlṯnhn  ḏ-ḥmln  w-ḥšdm  hqnyw  šym-hmw
+<tei:lb n="4"/>tʾlb  rymm  bʿl  trʿt  ʾrbʿtn  ʾṣlmn  ḥmdm
+<tei:lb n="5"/>b-ḏt  ṣdq-hmw  tʾlb  rymm  kl  ʾmlʾ  stml=
+<tei:lb n="6"/>ʾn  bʿm-hw  w-l-ḏt  yzʾn  tʾlb  rymm  ṣdq  w-
+<tei:lb n="7"/>hwfyn  ʾdm-hw  bny  btʿ  w-hmdn  b-kl  ʾmlʾ  y=
+<tei:lb n="8"/>stmlʾnn  b-ʿm-hw  w-ḥmdm  b-ḏt  hʿn  w-mtʿn
+<tei:lb n="9"/>tʾlb  rymm  ʿbdy-hw  sʿdšms  w-brg  bny  btʿ
+<tei:lb n="10"/>w-hmdn  w-šʿby-hmw  ḥmln  w-ḥšdm  b-kn  ...
+<tei:lb n="11"/>...  rḥbtn  bn  hgrn  mryb  b
+<tei:lb n="12"/>b-wrḫ  ḏ-ʾbhy  bn  qblt  stqbl  
+<tei:lb n="13"/>  mryb  b-hyt  sbʾtn  w-l  </tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[Saʿdīshams Yaʾ]zim and his brothers Burg Yuhar[ḥib]
+2.[and …]nān of the lineage of Bataʿ and Hamdān, leaders of the tribe of Sa[m-]
+3.[ʿī,] two-[thirds] of Ḥumlān and Ḥāshidum, have dedicated to their patron-deity
+4.[Taʾlab] Riyāmum, Lord of Turʿat, these four statues out of gratitude
+5.[because] Taʾlab Riyāmum has [ful]filled all of the oracle[s which]
+6.[they had sought] from him--and may Taʾlab Riyāmum continue to ful[fill and]
+7.[grant] his [serv]ants of the lineage of Bataʿ and Hamdān all the orac[les which]
+8.[they might seek] from him; and out of gratitude because Taʾlab Riyāmum aided and [protected]
+9.his servants Saʿdīshamsum and Burg of the line[age of Bataʿ]
+10.[and Hamdān and] their two tribes of Ḥumlān and Ḥāshidum wh[en …]
+11.[… Ra]ḥbatān from the town of Mārib in [… …]
+12.[in the month of Dhū-]ʾAbhay from the revolt which broke out [… …]
+13.[… … Mār]ib during that campaign. And may [… …]</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:supplied reason="lost">Saʿdīshams Yaʾ</tei:supplied>zim and his brothers Burg Yuhar<tei:supplied reason="lost">ḥib</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">and …</tei:supplied>nān of the lineage of Bataʿ and Hamdān, leaders of the tribe of Sa<tei:supplied reason="lost">m-</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">ʿī,</tei:supplied> two-<tei:supplied reason="lost">thirds</tei:supplied> of Ḥumlān and Ḥāshidum, have dedicated to their patron-deity
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">Taʾlab</tei:supplied> Riyāmum, Lord of Turʿat, these four statues out of gratitude
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">because</tei:supplied> Taʾlab Riyāmum has <tei:supplied reason="lost">ful</tei:supplied>filled all of the oracle<tei:supplied reason="lost">s which</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">they had sought</tei:supplied> from him--and may Taʾlab Riyāmum continue to ful<tei:supplied reason="lost">fill and</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">grant</tei:supplied> his <tei:supplied reason="lost">serv</tei:supplied>ants of the lineage of Bataʿ and Hamdān all the orac<tei:supplied reason="lost">les which</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">they might seek</tei:supplied> from him; and out of gratitude because Taʾlab Riyāmum aided and <tei:supplied reason="lost">protected</tei:supplied>
+<tei:lb n="9"/>his servants Saʿdīshamsum and Burg of the line<tei:supplied reason="lost">age of Bataʿ</tei:supplied>
+<tei:lb n="10"/>
+                    <tei:supplied reason="lost">and Hamdān and</tei:supplied> their two tribes of Ḥumlān and Ḥāshidum wh<tei:supplied reason="lost">en …</tei:supplied>
+<tei:lb n="11"/>
+                    <tei:supplied reason="lost">… Ra</tei:supplied>ḥbatān from the town of Mārib in <tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="12"/>
+                    <tei:supplied reason="lost">in the month of Dhū-</tei:supplied>ʾAbhay from the revolt which broke out <tei:supplied reason="lost">… …</tei:supplied>
+<tei:lb n="13"/>
+                    <tei:supplied reason="lost">… … Mār</tei:supplied>ib during that campaign. And may <tei:supplied reason="lost">… …</tei:supplied>
+                </tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>Saʿdīshams Yaʾzim and his brothers Burg Yuharḥib
+<tei:lb n="2"/>and …nān of the lineage of Bataʿ and Hamdān, leaders of the tribe of Sam-
+<tei:lb n="3"/>ʿī, two-thirds of Ḥumlān and Ḥāshidum, have dedicated to their patron-deity
+<tei:lb n="4"/>Taʾlab Riyāmum, Lord of Turʿat, these four statues out of gratitude
+<tei:lb n="5"/>because Taʾlab Riyāmum has fulfilled all of the oracles which
+<tei:lb n="6"/>they had sought from him--and may Taʾlab Riyāmum continue to fulfill and
+<tei:lb n="7"/>grant his servants of the lineage of Bataʿ and Hamdān all the oracles which
+<tei:lb n="8"/>they might seek from him; and out of gratitude because Taʾlab Riyāmum aided and protected
+<tei:lb n="9"/>his servants Saʿdīshamsum and Burg of the lineage of Bataʿ
+<tei:lb n="10"/>and Hamdān and their two tribes of Ḥumlān and Ḥāshidum when …
+<tei:lb n="11"/>… Raḥbatān from the town of Mārib in … …
+<tei:lb n="12"/>in the month of Dhū-ʾAbhay from the revolt which broke out … …
+<tei:lb n="13"/>… … Mārib during that campaign. And may … …</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>Saʿdīshams Yaʾzim and his brothers Burg Yuharḥib
+<tei:lb n="2"/>and …nān of the lineage of Bataʿ and Hamdān, leaders of the tribe of Sam-
+<tei:lb n="3"/>ʿī, two-thirds of Ḥumlān and Ḥāshidum, have dedicated to their patron-deity
+<tei:lb n="4"/>Taʾlab Riyāmum, Lord of Turʿat, these four statues out of gratitude
+<tei:lb n="5"/>because Taʾlab Riyāmum has fulfilled all of the oracles which
+<tei:lb n="6"/>they had sought from him--and may Taʾlab Riyāmum continue to fulfill and
+<tei:lb n="7"/>grant his servants of the lineage of Bataʿ and Hamdān all the oracles which
+<tei:lb n="8"/>they might seek from him; and out of gratitude because Taʾlab Riyāmum aided and protected
+<tei:lb n="9"/>his servants Saʿdīshamsum and Burg of the lineage of Bataʿ
+<tei:lb n="10"/>and Hamdān and their two tribes of Ḥumlān and Ḥāshidum when …
+<tei:lb n="11"/>… Raḥbatān from the town of Mārib in … …
+<tei:lb n="12"/>in the month of Dhū-ʾAbhay from the revolt which broke out … …
+<tei:lb n="13"/>… … Mārib during that campaign. And may … …</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

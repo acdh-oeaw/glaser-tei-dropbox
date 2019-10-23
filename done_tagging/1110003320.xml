@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-B58</title>
+                <title type="alt">1110003320</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-B58</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-B58</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-09-28" who="paigner"/>
+            <change when="2018-09-28" who="paigner"/>
+            <change when="2018-09-28" who="paigner"/>
+            <change when="2018-09-28" who="paigner"/>
+            <change when="2018-09-28" who="paigner"/>
+            <change when="2018-09-28" who="paigner"/>
+            <change when="2018-09-13" who="paigner"/>
+            <change when="2018-09-13" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2017-07-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[... ...]r | (š)ʿbn | ḥšdm | b-hgrn | [..]ḍ | b-(š)[ʿ=]
+2.[bn |] (ḥ)myrm | w-tqdm | mʾtn | ʾsdm | w-hġrw | ʿ=
+3.[d]y | ʾrḍ | ḥmyrm | w-hrg | b-hw | ʾsm | w-b-ḏ[t]
+4.[t](qd)m | ḫmsy | w-mʾt | ʾsdm | ʿd[y] | mrd[m]
+5.[b-ʾ](rḍ | ʾ)lhn | w-ʾḫḏ | b-hw | ṯny | ʾ(sn) | w-[b-]
+6.[ḏt | t]qdmw | ḫmsn | b-ḫlf | dlg | w-(hrg) | b-(hw) | [ʾ=]
+7.[s]m | w-b-ḏt | tqdmw | b-ʿm | ḥbšt | b-ḫ(lf) | [..]
+8.[.] | (w-hr)g | b-hw | (ʾ)sm | w-b-ḏt | tqdm | (šr)[ḥt.]
+9.[..ʿ]rbn | [ʿšr](m) | w-mʾt | ʾsdm | w-(t)[q]dmw | (b)-[ʿm]
+10.br(qn) | w-h(r)g | b-hw | ʾ(s)m | w-b-ḏt | h(nḥ)l-[hw | ʾm=]
+11.rʾ-hw | b[nw] | hmdn | ʾfr(s)-hm(w) | [... ...-h=]
+12.mw | f-hrg | (ṯ)[n]y | nmrn | w-kl | ḏ-[..](h | b-ḏn | m)[.=]
+13.kḥn | (ḏ-b)-hw | hṯqf | (ʾ)b(kr)b | y(h)s(kr | ḍ)rʿ=
+14.[n] | ḏ-ḫṭlm | w-b-ḏt | ḫmr-hw | t(ʾ)lb | hw(l)d=
+15.[n | ʿ]sm | (ġ)lmm | ʾḏ(kr)m | w-l-wzʾ | ḫmr-h(mw) | [t=]
+16.[ʾl]b | ḥẓy | w-rḍw | ʾmrʾ-hmw | bny | hmdn |
+17.[w-šʿ]b-hmw | ḥšdm | w-(ʾṯ)mr | ṣdqm | ʿdy | mš[y=]
+18.[mt-hm]w | w-ʾrḍ-hmw | w-l-hʿn-hmw | (t)ʾlb
+19.bn | nḍʿ | w-šṣy | šnʾm | b-tʾlb-r(y)[m](m | bʿ=)
+20.l | rḥbn</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>
+                    </tei:supplied>r | <tei:unclear>š</tei:unclear>ʿbn | ḥšdm | b-hgrn | <tei:supplied reason="lost">..</tei:supplied>ḍ | b-<tei:unclear>š</tei:unclear>
+                    <tei:supplied reason="lost">ʿ=</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">bn |</tei:supplied> <tei:unclear>ḥ</tei:unclear>myrm | w-tqdm | mʾtn | ʾsdm | w-hġrw | ʿ=
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">d</tei:supplied>y | ʾrḍ | ḥmyrm | w-hrg | b-hw | ʾsm | w-b-ḏ<tei:supplied reason="lost">t</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">t</tei:supplied>
+                    <tei:unclear>qd</tei:unclear>m | ḫmsy | w-mʾt | ʾsdm | ʿd<tei:supplied reason="lost">y</tei:supplied> | mrd<tei:supplied reason="lost">m</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">b-ʾ</tei:supplied>
+                    <tei:unclear>rḍ | ʾ</tei:unclear>lhn | w-ʾḫḏ | b-hw | ṯny | ʾ<tei:unclear>sn</tei:unclear> | w-<tei:supplied reason="lost">b-</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">ḏt | t</tei:supplied>qdmw | ḫmsn | b-ḫlf | dlg | w-<tei:unclear>hrg</tei:unclear> | b-<tei:unclear>hw</tei:unclear> | <tei:supplied reason="lost">ʾ=</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">s</tei:supplied>m | w-b-ḏt | tqdmw | b-ʿm | ḥbšt | b-ḫ<tei:unclear>lf</tei:unclear> | <tei:supplied reason="lost">..</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">.</tei:supplied> | <tei:unclear>w-hr</tei:unclear>g | b-hw | <tei:unclear>ʾ</tei:unclear>sm | w-b-ḏt | tqdm | <tei:unclear>šr</tei:unclear>
+                    <tei:supplied reason="lost">ḥt.</tei:supplied>
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">..ʿ</tei:supplied>rbn | <tei:supplied reason="lost">ʿšr</tei:supplied>
+                    <tei:unclear>m</tei:unclear> | w-mʾt | ʾsdm | w-<tei:unclear>t</tei:unclear>
+                    <tei:supplied reason="lost">q</tei:supplied>dmw | <tei:unclear>b</tei:unclear>-<tei:supplied reason="lost">ʿm</tei:supplied>
+<tei:lb n="10"/>br<tei:unclear>qn</tei:unclear> | w-h<tei:unclear>r</tei:unclear>g | b-hw | ʾ<tei:unclear>s</tei:unclear>m | w-b-ḏt | h<tei:unclear>nḥ</tei:unclear>l-<tei:supplied reason="lost">hw | ʾm=</tei:supplied>
+<tei:lb n="11"/>rʾ-hw | b<tei:supplied reason="lost">nw</tei:supplied> | hmdn | ʾfr<tei:unclear>s</tei:unclear>-hm<tei:unclear>w</tei:unclear> | <tei:supplied reason="lost">
+                        <tei:gap quantity="plus4" unit="chars"/>-h=</tei:supplied>
+<tei:lb n="12"/>mw | f-hrg | <tei:unclear>ṯ</tei:unclear>
+                    <tei:supplied reason="lost">n</tei:supplied>y | nmrn | w-kl | ḏ-<tei:supplied reason="lost">..</tei:supplied>
+                    <tei:unclear>h | b-ḏn | m</tei:unclear>
+                    <tei:supplied reason="lost">.=</tei:supplied>
+<tei:lb n="13"/>kḥn | <tei:unclear>ḏ-b</tei:unclear>-hw | hṯqf | <tei:unclear>ʾ</tei:unclear>b<tei:unclear>kr</tei:unclear>b | y<tei:unclear>h</tei:unclear>s<tei:unclear>kr | ḍ</tei:unclear>rʿ=
+<tei:lb n="14"/>
+                    <tei:supplied reason="lost">n</tei:supplied> | ḏ-ḫṭlm | w-b-ḏt | ḫmr-hw | t<tei:unclear>ʾ</tei:unclear>lb | hw<tei:unclear>l</tei:unclear>d=
+<tei:lb n="15"/>
+                    <tei:supplied reason="lost">n | ʿ</tei:supplied>sm | <tei:unclear>ġ</tei:unclear>lmm | ʾḏ<tei:unclear>kr</tei:unclear>m | w-l-wzʾ | ḫmr-h<tei:unclear>mw</tei:unclear> | <tei:supplied reason="lost">t=</tei:supplied>
+<tei:lb n="16"/>
+                    <tei:supplied reason="lost">ʾl</tei:supplied>b | ḥẓy | w-rḍw | ʾmrʾ-hmw | bny | hmdn |
+<tei:lb n="17"/>
+                    <tei:supplied reason="lost">w-šʿ</tei:supplied>b-hmw | ḥšdm | w-<tei:unclear>ʾṯ</tei:unclear>mr | ṣdqm | ʿdy | mš<tei:supplied reason="lost">y=</tei:supplied>
+<tei:lb n="18"/>
+                    <tei:supplied reason="lost">mt-hm</tei:supplied>w | w-ʾrḍ-hmw | w-l-hʿn-hmw | <tei:unclear>t</tei:unclear>ʾlb
+<tei:lb n="19"/>bn | nḍʿ | w-šṣy | šnʾm | b-tʾlb-r<tei:unclear>y</tei:unclear>
+                    <tei:supplied reason="lost">m</tei:supplied>
+                    <tei:unclear>m | bʿ=</tei:unclear>
+<tei:lb n="20"/>l | rḥbn</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>r  <w>šʿbn</w>  <orgName type="tribe">ḥšdm</orgName>  <w>b-hgrn</w>  ..ḍ  <w>b-šʿ=
+                        <tei:lb n="2"/>bn</w>  <orgName type="tribe">ḥmyrm</orgName>  <w>w-tqdm</w>  <w>mʾtn</w>  <w>ʾsdm</w>  <w>w-hġrw</w>  <w>ʿ=
+                            <tei:lb n="3"/>dy</w> <w>ʾrḍ</w>  <orgName type="tribe">ḥmyrm</orgName>  <w>w-hrg</w>  <w>b-hw</w>  <w>ʾsm</w>  <w>w-b-ḏt</w>
+                    <tei:lb n="4"/><w>tqdm</w>  <w>ḫmsy</w>  <w>w-mʾt</w>  <w>ʾsdm</w>  <w>ʿdy</w>  <orgName type="tribe">mrdm</orgName>
+                    <tei:lb n="5"/><w>b-ʾrḍ</w>  <rs type="undefinedCategory">ʾlhn</rs>  <w>w-ʾḫḏ</w>  <w>b-hw</w>  <w>ṯny</w>  <w>ʾsn</w>  <w>w-b-
+<tei:lb n="6"/>ḏt</w>  <w>tqdmw</w>  <w>ḫmsn</w>  <w>b-ḫlf</w>  <placeName>dlg</placeName>  <w>w-hrg</w>  <w>b-hw</w>  <w>ʾ=
+    <tei:lb n="7"/>sm</w>  <w>w-b-ḏt</w>  <w>tqdmw</w>  <w>b-ʿm</w>  <orgName type="ethnonym">ḥbšt</orgName>  <w>b-ḫlf</w>  ..
+<tei:lb n="8"/>.  <w>w-hrg</w>  <w>b-hw</w>  <w>ʾsm</w>  <w>w-b-ḏt</w>  <w>tqdm</w>  <w>šrḥt</w>.
+                    <tei:lb n="9"/>..<rs type="undefinedCategory">ʿrbn</rs>  <w>ʿšrm</w>  <w>w-mʾt</w>  <w>ʾsdm</w>  <w>w-tqdmw</w>  <w>b-ʿm</w>
+                    <tei:lb n="10"/><rs type="undefinedCategory">brqn</rs>  <w>w-hrg</w>  <w>b-hw</w>  <w>ʾsm</w>  <w>w-b-ḏt</w>  <w>hnḥl-hw</w>  <w>ʾm=
+                        <tei:lb n="11"/>rʾ-hw</w>  <w>bnw</w>  <orgName type="tribe">hmdn</orgName>  <w>ʾfrs-hmw</w>  -h=
+<tei:lb n="12"/>mw  <w>f-hrg</w>  <w>ṯny</w>  <w>nmrn</w>  <w>w-kl</w>  ḏ-..h  <w>b-ḏn</w>  m.=
+                    <tei:lb n="13"/>kḥn  <w>ḏ-b-hw</w>  <w>hṯqf</w>  <rs type="complex"><persName type="royal" role="member" n="1">ʾbkrb</persName>  <persName type="royal" role="member" n="2">yhskr</persName></rs>  <w>ḍrʿ=
+                        <tei:lb n="14"/>n</w>  <orgName type="group">ḏ-ḫṭlm</orgName>  <w>w-b-ḏt</w>  <w>ḫmr-hw</w>  <name type="theonym">tʾlb</name>  <w>hwld=
+                            <tei:lb n="15"/>n</w>  <w>ʿsm</w>  <w>ġlmm</w>  <w>ʾḏkrm</w>  <w>w-l-wzʾ</w>  <w>ḫmr-hmw</w>  <name type="theonym">t=
+                                <tei:lb n="16"/>ʾlb</name>  <w>ḥẓy</w>  <w>w-rḍw</w>  <w>ʾmrʾ-hmw</w>  <w>bny</w>  <orgName type="tribe">hmdn</orgName> 
+                    <tei:lb n="17"/><w>w-šʿb-hmw</w>  <orgName type="tribe">ḥšdm</orgName>  <w>w-ʾṯmr</w>  <w>ṣdqm</w>  <w>ʿdy</w>  <w>mšy=
+                        <tei:lb n="18"/>mt-hmw</w>  <w>w-ʾrḍ-hmw</w>  <w>w-l-hʿn-hmw</w>  <name type="theonym">tʾlb</name>
+                    <tei:lb n="19"/><w>bn</w>  <w>nḍʿ</w>  <w>w-šṣy</w>  <w>šnʾm</w>  <w>b-</w><rs type="complex"><name type="theonym">tʾlb</name>-<name type="epithet" subtype="divine">rymm</name></rs>  <w>bʿ=
+                        <tei:lb n="20"/>l</w>  <placeName type="sanctuary">rḥbn</placeName></tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>r  šʿbn  ḥšdm  b-hgrn  ..ḍ  b-šʿ=
+<tei:lb n="2"/>bn  ḥmyrm  w-tqdm  mʾtn  ʾsdm  w-hġrw  ʿ=
+<tei:lb n="3"/>dy  ʾrḍ  ḥmyrm  w-hrg  b-hw  ʾsm  w-b-ḏt
+<tei:lb n="4"/>tqdm  ḫmsy  w-mʾt  ʾsdm  ʿdy  mrdm
+<tei:lb n="5"/>b-ʾrḍ  ʾlhn  w-ʾḫḏ  b-hw  ṯny  ʾsn  w-b-
+<tei:lb n="6"/>ḏt  tqdmw  ḫmsn  b-ḫlf  dlg  w-hrg  b-hw  ʾ=
+<tei:lb n="7"/>sm  w-b-ḏt  tqdmw  b-ʿm  ḥbšt  b-ḫlf  ..
+<tei:lb n="8"/>.  w-hrg  b-hw  ʾsm  w-b-ḏt  tqdm  šrḥt.
+<tei:lb n="9"/>..ʿrbn  ʿšrm  w-mʾt  ʾsdm  w-tqdmw  b-ʿm
+<tei:lb n="10"/>brqn  w-hrg  b-hw  ʾsm  w-b-ḏt  hnḥl-hw  ʾm=
+<tei:lb n="11"/>rʾ-hw  bnw  hmdn  ʾfrs-hmw  -h=
+<tei:lb n="12"/>mw  f-hrg  ṯny  nmrn  w-kl  ḏ-..h  b-ḏn  m.=
+<tei:lb n="13"/>kḥn  ḏ-b-hw  hṯqf  ʾbkrb  yhskr  ḍrʿ=
+<tei:lb n="14"/>n  ḏ-ḫṭlm  w-b-ḏt  ḫmr-hw  tʾlb  hwld=
+<tei:lb n="15"/>n  ʿsm  ġlmm  ʾḏkrm  w-l-wzʾ  ḫmr-hmw  t=
+<tei:lb n="16"/>ʾlb  ḥẓy  w-rḍw  ʾmrʾ-hmw  bny  hmdn 
+<tei:lb n="17"/>w-šʿb-hmw  ḥšdm  w-ʾṯmr  ṣdqm  ʿdy  mšy=
+<tei:lb n="18"/>mt-hmw  w-ʾrḍ-hmw  w-l-hʿn-hmw  tʾlb
+<tei:lb n="19"/>bn  nḍʿ  w-šṣy  šnʾm  b-tʾlb-rymm  bʿ=
+<tei:lb n="20"/>l  rḥbn</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">1.[… …] the tribe of Ḥāshid in the town of […] concerning the tr[ibe]
+2.of Ḥimyar; and he commanded 200 fighting men and undertook raids
+3.in the land of Ḥimyar, and there he killed one military leader. And (they expressed gratitude to the god Taʾlab) beca[use]
+4.he commanded 150 fighting men against Murād
+5.[in] the land of ʾAlhān and took captive two military leaders; and [be-]
+6.[cause] they [con]fronted an army in the region of Dalag, and he killed therein one
+7.[mili]tary leader; and because they did battle with the Ethiopians in the region of [..]
+8.[.] and he killed therein one military leader; and because he commanded a support [column]
+9.[.. A]rabs--110 fighting men--and they did battle wi[th] 
+10.Barqān, and he killed therein one military leader; and because his [lo]rds
+11.of the lineage of Hamdān gave [him] a gift of their horses […] their […]
+12.then he killed two panthers and all that […] on this [stele]
+13.on which ʾAbīkarib Yuhaskir has documented the suppression of 
+14.Dhū-Khaṭilam; and because Taʾlab has granted him the birth
+15.[of ma]ny male children. And may Ta[ʾla]b continue to grant them
+16.the esteem and good pleasure of their lords of the lineage of Hamdān
+17.[and] their [tri]be of Ḥāshid as well as good crops in 
+18.[their fields] and their land. And may Taʾlab aid them
+19.against the harm and enmity of any foe. By Taʾlab Riyā[mu]m, Lord 
+20.of Raḥbān.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">
+                    <tei:lb n="1"/>
+                    <tei:supplied reason="lost">… …</tei:supplied> the tribe of Ḥāshid in the town of <tei:supplied reason="lost">…</tei:supplied> concerning the tr<tei:supplied reason="lost">ibe</tei:supplied>
+<tei:lb n="2"/>of Ḥimyar; and he commanded <tei:lb n="200"/>fighting men and undertook raids
+<tei:lb n="3"/>in the land of Ḥimyar, and there he killed one military leader. And <tei:unclear>they expressed gratitude to the god Taʾlab</tei:unclear> beca<tei:supplied reason="lost">use</tei:supplied>
+<tei:lb n="4"/>he commanded <tei:lb n="150"/>fighting men against Murād
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">in</tei:supplied> the land of ʾAlhān and took captive two military leaders; and <tei:supplied reason="lost">be-</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">cause</tei:supplied> they <tei:supplied reason="lost">con</tei:supplied>fronted an army in the region of Dalag, and he killed therein one
+<tei:lb n="7"/>
+                    <tei:supplied reason="lost">mili</tei:supplied>tary leader; and because they did battle with the Ethiopians in the region of <tei:supplied reason="lost">..</tei:supplied>
+<tei:lb n="8"/>
+                    <tei:supplied reason="lost">.</tei:supplied> and he killed therein one military leader; and because he commanded a support <tei:supplied reason="lost">column</tei:supplied>
+<tei:lb n="9"/>
+                    <tei:supplied reason="lost">.. A</tei:supplied>rabs--<tei:lb n="110"/>fighting men--and they did battle wi<tei:supplied reason="lost">th</tei:supplied> 
+<tei:lb n="10"/>Barqān, and he killed therein one military leader; and because his <tei:supplied reason="lost">lo</tei:supplied>rds
+<tei:lb n="11"/>of the lineage of Hamdān gave <tei:supplied reason="lost">him</tei:supplied> a gift of their horses <tei:supplied reason="lost">…</tei:supplied> their <tei:supplied reason="lost">…</tei:supplied>
+<tei:lb n="12"/>then he killed two panthers and all that <tei:supplied reason="lost">…</tei:supplied> on this <tei:supplied reason="lost">stele</tei:supplied>
+<tei:lb n="13"/>on which ʾAbīkarib Yuhaskir has documented the suppression of 
+<tei:lb n="14"/>Dhū-Khaṭilam; and because Taʾlab has granted him the birth
+<tei:lb n="15"/>
+                    <tei:supplied reason="lost">of ma</tei:supplied>ny male children. And may Ta<tei:supplied reason="lost">ʾla</tei:supplied>b continue to grant them
+<tei:lb n="16"/>the esteem and good pleasure of their lords of the lineage of Hamdān
+<tei:lb n="17"/>
+                    <tei:supplied reason="lost">and</tei:supplied> their <tei:supplied reason="lost">tri</tei:supplied>be of Ḥāshid as well as good crops in 
+<tei:lb n="18"/>
+                    <tei:supplied reason="lost">their fields</tei:supplied> and their land. And may Taʾlab aid them
+<tei:lb n="19"/>against the harm and enmity of any foe. By Taʾlab Riyā<tei:supplied reason="lost">mu</tei:supplied>m, Lord 
+<tei:lb n="20"/>of Raḥbān.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">
+                    <tei:lb n="1"/>… … the tribe of Ḥāshid in the town of … concerning the tribe
+<tei:lb n="2"/>of Ḥimyar; and he commanded <tei:lb n="200"/>fighting men and undertook raids
+<tei:lb n="3"/>in the land of Ḥimyar, and there he killed one military leader. And they expressed gratitude to the god Taʾlab because
+<tei:lb n="4"/>he commanded <tei:lb n="150"/>fighting men against Murād
+<tei:lb n="5"/>in the land of ʾAlhān and took captive two military leaders; and be-
+<tei:lb n="6"/>cause they confronted an army in the region of Dalag, and he killed therein one
+<tei:lb n="7"/>military leader; and because they did battle with the Ethiopians in the region of ..
+<tei:lb n="8"/>. and he killed therein one military leader; and because he commanded a support column
+<tei:lb n="9"/>.. Arabs--<tei:lb n="110"/>fighting men--and they did battle with 
+<tei:lb n="10"/>Barqān, and he killed therein one military leader; and because his lords
+<tei:lb n="11"/>of the lineage of Hamdān gave him a gift of their horses … their …
+<tei:lb n="12"/>then he killed two panthers and all that … on this stele
+<tei:lb n="13"/>on which ʾAbīkarib Yuhaskir has documented the suppression of 
+<tei:lb n="14"/>Dhū-Khaṭilam; and because Taʾlab has granted him the birth
+<tei:lb n="15"/>of many male children. And may Taʾlab continue to grant them
+<tei:lb n="16"/>the esteem and good pleasure of their lords of the lineage of Hamdān
+<tei:lb n="17"/>and their tribe of Ḥāshid as well as good crops in 
+<tei:lb n="18"/>their fields and their land. And may Taʾlab aid them
+<tei:lb n="19"/>against the harm and enmity of any foe. By Taʾlab Riyāmum, Lord 
+<tei:lb n="20"/>of Raḥbān.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">
+                    <tei:lb n="1"/>… … the tribe of Ḥāshid in the town of … concerning the tribe
+<tei:lb n="2"/>of Ḥimyar; and he commanded <tei:lb n="200"/>fighting men and undertook raids
+<tei:lb n="3"/>in the land of Ḥimyar, and there he killed one military leader. And they expressed gratitude to the god Taʾlab because
+<tei:lb n="4"/>he commanded <tei:lb n="150"/>fighting men against Murād
+<tei:lb n="5"/>in the land of ʾAlhān and took captive two military leaders; and be-
+<tei:lb n="6"/>cause they confronted an army in the region of Dalag, and he killed therein one
+<tei:lb n="7"/>military leader; and because they did battle with the Ethiopians in the region of ..
+<tei:lb n="8"/>. and he killed therein one military leader; and because he commanded a support column
+<tei:lb n="9"/>.. Arabs--<tei:lb n="110"/>fighting men--and they did battle with 
+<tei:lb n="10"/>Barqān, and he killed therein one military leader; and because his lords
+<tei:lb n="11"/>of the lineage of Hamdān gave him a gift of their horses … their …
+<tei:lb n="12"/>then he killed two panthers and all that … on this stele
+<tei:lb n="13"/>on which ʾAbīkarib Yuhaskir has documented the suppression of 
+<tei:lb n="14"/>Dhū-Khaṭilam; and because Taʾlab has granted him the birth
+<tei:lb n="15"/>of many male children. And may Taʾlab continue to grant them
+<tei:lb n="16"/>the esteem and good pleasure of their lords of the lineage of Hamdān
+<tei:lb n="17"/>and their tribe of Ḥāshid as well as good crops in 
+<tei:lb n="18"/>their fields and their land. And may Taʾlab aid them
+<tei:lb n="19"/>against the harm and enmity of any foe. By Taʾlab Riyāmum, Lord 
+<tei:lb n="20"/>of Raḥbān.</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

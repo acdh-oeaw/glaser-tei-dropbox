@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digital Edition of Glaser Abklatsch ID: AT-OeAW-BA-3-27-A-GL1533b</title>
+                <title type="alt">1110000786</title>
+                <title type="alt">AT-OeAW-BA-3-27-A-GL1533b</title>
+                <respStmt>
+                    <persName>
+                        <forename>Dummy Forename</forename>
+                        <surname>Dummy Lastname</surname>
+                    </persName>
+                    <resp>What was this person doing?</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>ÖAW BASIS</authority>
+                <availability>
+                    <licence target="#">Some license information</licence>
+                </availability>
+                <idno type="idRecord">AT-OeAW-BA-3-27-A-GL1533b</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Wien</settlement>
+                        <repository>ÖAW Basis</repository>
+                        <collection>name of the collection </collection>
+                        <idno type="invNo">Inventory nummber of the source</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <rs type="alphabet">Ancient South Arabian</rs>
+                            <seg>Inscription commissioned by a king</seg>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Stone inscription</objectType>
+                                    <material>Stone</material>
+                                    <measureGrp unit="cm">h. 25, w. 57, th. 11.4</measureGrp>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>
+                                    <rs type="scriptCursus">Right to left</rs>
+                                    <rs type="execution">Incision</rs>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>
+                                <height unit="cm"/>
+                                <rs type="scriptTypology">Monumental writing</rs>
+                                <rs type="textualTypology">Legal text</rs>
+                            </handNote>
+                        </handDesc>
+                        <additions>
+                            <note/>
+                            <note type="support"/>
+                            <note type="deposit"/>
+                        </additions>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace/>
+                            <origDate period="#B"/>
+                            <note/>
+                        </origin>
+                        <provenance type="found">
+                            <placeName type="modern" subtype="site">as-Sawdāʾ</placeName>
+                            <placeName subtype="site" type="ancient">Ns²n</placeName>
+                            <placeName subtype="geographicalArea" type="modern">wādī al-Jawf</placeName>
+                            <placeName type="modern" subtype="country">Yemen</placeName>
+                            <seg type="proximity"/>
+                            <seg type="archaeologicalContext">
+                                <rs type="context"/>
+                                <rs type="structure"/>
+                            </seg>
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="inm-Latn-x-cntmin">Central Minaic</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#DASI">
+                    <list>
+                        <label>Periodization</label>
+                        <item>
+                            <term xml:id="A">Early first millennium to the fourth century BC (predominance of Saba)</term>
+                            <term xml:id="B">Fourth to first centuries BC (predominance of Qataban and Hadramawt, and their alliance with Main)</term>
+                            <term xml:id="B1">Fourth to third centuries BC</term>
+                            <term xml:id="B2">Third to first centuries BC</term>
+                            <term xml:id="C">First century BC to early second century AD (alliances between the tribes of the high plateau and the ASA kingdoms)</term>
+                            <term xml:id="D">Late second to late third centuries AD (wars among the Himyar, Saba and Hadramawt)</term>
+                            <term xml:id="E">Fourth to sixth centuries AD (unification of Yemen under Himyarite rule)</term>
+                            <term xml:id="Ry">It corresponds to the palaeographical divisions established by Jacques Ryckmans with sub-periods I-IV</term>
+                            <term xml:id="RyI">First sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyII">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIb">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIId">Second sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIIIa">Third sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVa">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="RyIVb">Fourth sub-period of the palaeographical divisions established by Jacques Ryckmans</term>
+                            <term xml:id="inAncientTimes"/>
+                            <term xml:id="inModernTimes"/>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-12-14" who="paigner"/>
+            <change when="2018-09-06" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-08-09" who="paigner"/>
+            <change when="2018-03-09" who="paigner"/>
+            <change when="2018-02-27" who="paigner"/>
+            <change when="2018-02-27" who="paigner"/>
+            <change when="2018-02-27" who="paigner"/>
+            <change when="2017-12-15" who="paigner"/>
+            <change when="2017-12-15" who="paigner"/>
+            <change when="2017-11-02" who="paigner"/>
+            <change when="2017-11-02" who="paigner"/>
+            <change when="2017-11-02" who="paigner"/>
+            <change when="2016-10-14" who="paigner"/>
+            <change when="2016-09-27" who="paigner"/>
+            <change when="2016-05-13" who="paigner"/>
+            <change when="2016-05-11" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-13" who="paigner"/>
+            <change when="2016-04-04" who="paigner"/>
+            <change when="2016-03-31" who="paigner"/>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="http://dasi.humnet.unipi.it/de/cgi-bin/wsimg.pl?recId=6938">
+            <desc type="copyright">By kind permission of British Museum</desc>
+        </graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div xml:lang="inm-Latn-x-cntmin" type="edition">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+7.blṭn | ʾrbʿn | mʾnhn | l-nšʾkrb | bʾdm
+8.w-nfqm | w-šṣṣm | kl | ẓhr | w-ʿlmy | b-hw | stʿ=
+9.lm | b-ʾlt | blṭn | ʾrbʿn | mʾnhn | bn | ʿly ʾ=
+10.bkrb | w-wld-hw | ʾhnn | ʿkr | w-l | yyfʿ=
+11.n | bn | byt | ḏ-ḥbb | w-ʾqyn | ṣrwḥ | w-nkrm | w-
+12.kwn | ḏn | mṣdqn | b-kn | twsyw | b-ḏ | nswr
+13.qdmn | gyl | ḫrf | yṯʿm | bn | ḥzfrm | ḏ-rf=
+14.dn | ṯkmtn | w-hmṯl | ḏn | mṣdqn | bn | mṣ=
+15.dq | b-hw | tʿlm | ḏ-ḥbb | w-hlkʾmr | bn | š=
+16.hrʿly | w-lḥyʿṯt | bn | krdn | w-tbʿkr=
+17.b | bn | ʿnnn | ḏ-ḏrʾn | w-nšʾkrb | bn | drʿn
+
+
+Restored full text of the inscription:
+
+1.[w-hmẓʾ | w-ṣdq | ʾbkrb | bn | yqdm=]
+2.[ʾl | bn | ʿnnn | l-ʾly | st | ʾqyn | ṣrwḥ | ʾ=]
+3.[rbʿ | mʾn | blṭm | nʿmtm /400/ blṭ |]
+4.[fdy | nšʾkrb | ḏ-ḥbb | ʾqyn | ṣrwḥ |]
+5.[bn | sʾl | b-ʿly | ʾbh-hw | w-ʿhdy | ʾlt]
+6.[blṭn | b-mḥlym | w-tʿlm | ʾbkrb | b-ʾlt]
+7.blṭn | ʾrbʿn | mʾnhn | l-nšʾkrb | bʾdm
+8.w-nfqm | w-šṣṣm | kl | ẓhr | w-ʿlmy | b-hw | stʿ=
+9.lm | b-ʾlt | blṭn | ʾrbʿn | mʾnhn | bn | ʿly | ʾ=
+10.bkrb | w-wld-hw | ʾhnn | ʿkr | w-l | yyfʿ=
+11.n | bn | byt | ḏ-ḥbb | w-ʾqyn | ṣrwḥ | w-nkrm | w-
+12.kwn | ḏn | mṣdqn | b-kn | twsyw | b-ḏ | nswr
+13.qdmn | gyl | ḫrf | yṯʿm | bn | ḥzfrm | ḏ-rf=
+14.dn | ṯkmtn | w-hmṯl | ḏn | mṣdqn | bn | mṣ=
+15.dq | b-hw | tʿlm | ḏ-ḥbb | w-hlkʾmr | bn | š=
+16.hrʿly | w-lḥyʿṯt | bn | krdn | w-tbʿkr=
+17.b | bn | ʿnnn | ḏ-ḏrʾn | w-nšʾkrb | bn | drʿn</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="7"/>blṭn | ʾrbʿn | mʾnhn | l-nšʾkrb | bʾdm
+<tei:lb n="8"/>w-nfqm | w-šṣṣm | kl | ẓhr | w-ʿlmy | b-hw | stʿ=
+<tei:lb n="9"/>lm | b-ʾlt | blṭn | ʾrbʿn | mʾnhn | bn | ʿly ʾ=
+<tei:lb n="10"/>bkrb | w-wld-hw | ʾhnn | ʿkr | w-l | yyfʿ=
+<tei:lb n="11"/>n | bn | byt | ḏ-ḥbb | w-ʾqyn | ṣrwḥ | w-nkrm | w-
+<tei:lb n="12"/>kwn | ḏn | mṣdqn | b-kn | twsyw | b-ḏ | nswr
+<tei:lb n="13"/>qdmn | gyl | ḫrf | yṯʿm | bn | ḥzfrm | ḏ-rf=
+<tei:lb n="14"/>dn | ṯkmtn | w-hmṯl | ḏn | mṣdqn | bn | mṣ=
+<tei:lb n="15"/>dq | b-hw | tʿlm | ḏ-ḥbb | w-hlkʾmr | bn | š=
+<tei:lb n="16"/>hrʿly | w-lḥyʿṯt | bn | krdn | w-tbʿkr=
+<tei:lb n="17"/>b | bn | ʿnnn | ḏ-ḏrʾn | w-nšʾkrb | bn | drʿn
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>
+                    <tei:supplied reason="lost">w-hmẓʾ | w-ṣdq | ʾbkrb | bn | yqdm=</tei:supplied>
+<tei:lb n="2"/>
+                    <tei:supplied reason="lost">ʾl | bn | ʿnnn | l-ʾly | st | ʾqyn | ṣrwḥ | ʾ=</tei:supplied>
+<tei:lb n="3"/>
+                    <tei:supplied reason="lost">rbʿ | mʾn | blṭm | nʿmtm /<tei:lb n="400"/> blṭ |</tei:supplied>
+<tei:lb n="4"/>
+                    <tei:supplied reason="lost">fdy | nšʾkrb | ḏ-ḥbb | ʾqyn | ṣrwḥ |</tei:supplied>
+<tei:lb n="5"/>
+                    <tei:supplied reason="lost">bn | sʾl | b-ʿly | ʾbh-hw | w-ʿhdy | ʾlt</tei:supplied>
+<tei:lb n="6"/>
+                    <tei:supplied reason="lost">blṭn | b-mḥlym | w-tʿlm | ʾbkrb | b-ʾlt</tei:supplied>
+<tei:lb n="7"/>blṭn | ʾrbʿn | mʾnhn | l-nšʾkrb | bʾdm
+<tei:lb n="8"/>w-nfqm | w-šṣṣm | kl | ẓhr | w-ʿlmy | b-hw | stʿ=
+<tei:lb n="9"/>lm | b-ʾlt | blṭn | ʾrbʿn | mʾnhn | bn | ʿly | ʾ=
+<tei:lb n="10"/>bkrb | w-wld-hw | ʾhnn | ʿkr | w-l | yyfʿ=
+<tei:lb n="11"/>n | bn | byt | ḏ-ḥbb | w-ʾqyn | ṣrwḥ | w-nkrm | w-
+<tei:lb n="12"/>kwn | ḏn | mṣdqn | b-kn | twsyw | b-ḏ | nswr
+<tei:lb n="13"/>qdmn | gyl | ḫrf | yṯʿm | bn | ḥzfrm | ḏ-rf=
+<tei:lb n="14"/>dn | ṯkmtn | w-hmṯl | ḏn | mṣdqn | bn | mṣ=
+<tei:lb n="15"/>dq | b-hw | tʿlm | ḏ-ḥbb | w-hlkʾmr | bn | š=
+<tei:lb n="16"/>hrʿly | w-lḥyʿṯt | bn | krdn | w-tbʿkr=
+<tei:lb n="17"/>b | bn | ʿnnn | ḏ-ḏrʾn | w-nšʾkrb | bn | drʿn</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+                    <tei:lb n="7"/><w>blṭn</w>  <w>ʾrbʿn</w>  <w>mʾnhn</w>  <w>l-</w><persName type="gender" subtype="m">nšʾkrb</persName>  <w>bʾdm</w>
+                    <tei:lb n="8"/><w>w-nfqm</w>  <w>w-šṣṣm</w>  <w>kl</w>  <w>ẓhr</w>  <w>w-ʿlmy</w>  <w>b-hw</w>  <w>stʿ=
+                        <tei:lb n="9"/>lm</w>  <w>b-ʾlt</w>  <w>blṭn</w>  <w>ʾrbʿn</w>  <w>mʾnhn</w>  <w>bn</w>  <w>ʿly</w>  <persName type="gender" subtype="m">ʾ=
+                            <tei:lb n="10"/>bkrb</persName>  <w>w-wld-hw</w>  <w>ʾhnn</w>  <w>ʿkr</w>  <w>w-l</w>  <w>yyfʿ=
+                                <tei:lb n="11"/>n</w>  <w>bn</w>  <w>byt</w>  <orgName type="group">ḏ-ḥbb</orgName>  <w>w-ʾqyn</w>  <placeName>ṣrwḥ</placeName>  <w>w-nkrm</w>  <w>w-
+                                    <tei:lb n="12"/>kwn</w>  <w>ḏn</w>  <w>mṣdqn</w>  <w>b-kn</w>  <w>twsyw</w>  <w>b-ḏ</w>  <rs type="month">nswr</rs>
+                    <tei:lb n="13"/><w>qdmn</w>  <w>gyl</w>  <w>ḫrf</w>  <rs type="eponym"><persName type="gender" subtype="m">yṯʿm</persName>  <w>bn</w>  <persName type="patronymic">ḥzfrm</persName>  <orgName type="group">ḏ-rf=
+                        <tei:lb n="14"/>dn</orgName></rs>  <w>ṯkmtn</w>  <w>w-hmṯl</w>  <w>ḏn</w>  <w>mṣdqn</w>  <w>bn</w>  <w>mṣ=
+                            <tei:lb n="15"/>dq</w>  <w>b-hw</w>  <w>tʿlm</w>  <orgName type="group">ḏ-ḥbb</orgName> <w> w-</w><persName type="gender" subtype="m">hlkʾmr</persName>  <w>bn</w>  <persName type="patronymic">š=
+                                <tei:lb n="16"/>hrʿly</persName>  <w>w-</w><persName type="gender" subtype="m">lḥyʿṯt</persName>  <w>bn</w>  <persName type="patronymic">krdn</persName>  <w>w-</w><persName type="gender" subtype="m">tbʿkr=
+                                    <tei:lb n="17"/>b</persName>  <w>bn</w>  <persName type="patronymic">ʿnnn</persName>  <orgName type="group">ḏ-ḏrʾn</orgName>  <w>w-</w><persName type="gender" subtype="m">nšʾkrb</persName>  <w>bn</w>  <orgName type="group">drʿn</orgName></tei:ab>
+
+
+Restored full text of the inscription:
+
+
+                    <tei:lb n="1"/><w>w-hmẓʾ</w>  <w>w-ṣdq</w>  <persName type="gender" subtype="m">ʾbkrb</persName>  <w>bn</w>  <persName type="patronymic">yqdm=
+                        <tei:lb n="2"/>ʾl</persName>  <w>bn</w>  <orgName type="group">ʿnnn</orgName>  <w>l-ʾly</w>  <w>st</w>  <w>ʾqyn</w>  <placeName>ṣrwḥ</placeName>  <w>ʾ=
+                            <tei:lb n="3"/>rbʿ</w>  <w>mʾn</w>  <w>blṭm</w>  <w>nʿmtm</w> /<tei:lb n="400"/> <w>blṭ</w> 
+                    <tei:lb n="4"/><w>fdy</w>  <persName type="gender" subtype="m">nšʾkrb</persName>  <orgName type="group">ḏ-ḥbb</orgName>  <w>ʾqyn</w>  <placeName>ṣrwḥ</placeName> 
+                    <tei:lb n="5"/><w>bn</w>  <w>sʾl</w>  <w>b-ʿly</w>  <w>ʾbh-hw</w>  <w>w-ʿhdy</w>  <w>ʾlt</w>
+                    <tei:lb n="6"/><w>blṭn</w>  <w>b-mḥlym</w>  <w>w-tʿlm</w>  <persName type="gender" subtype="m">ʾbkrb</persName>  <w>b-ʾlt</w>
+                    <tei:lb n="7"/><w>blṭn</w>  <w>ʾrbʿn</w>  <w>mʾnhn</w>  <w>l-</w><persName type="gender" subtype="m">nšʾkrb</persName>  <w>bʾdm</w>
+                    <tei:lb n="8"/><w>w-nfqm</w>  <w>w-šṣṣm</w>  <w>kl</w>  <w>ẓhr</w>  <w>w-ʿlmy</w>  <w>b-hw</w>  <w>stʿ=
+                        <tei:lb n="9"/>lm</w>  <w>b-ʾlt</w>  <w>blṭn</w>  <w>ʾrbʿn</w>  <w>mʾnhn</w>  <w>bn</w>  <w>ʿly</w>  <persName type="gender" subtype="m">ʾ=
+                            <tei:lb n="10"/>bkrb</persName>  <w>w-wld-hw</w>  <w>ʾhnn</w>  <w>ʿkr</w>  <w>w-l</w>  <w>yyfʿ=
+                                <tei:lb n="11"/>n</w>  <w>bn</w>  <w>byt</w>  <orgName type="group">ḏ-ḥbb</orgName>  <w>w-ʾqyn</w>  <placeName>ṣrwḥ</placeName>  <w>w-nkrm</w>  <w>w-
+                                    <tei:lb n="12"/>kwn</w>  <w>ḏn</w>  <w>mṣdqn</w>  <w>b-kn</w>  <w>twsyw</w>  <w>b-ḏ</w>  <rs type="month">nswr</rs>
+                    <tei:lb n="13"/><w>qdmn</w>  <w>gyl</w>  <w>ḫrf</w>  <rs type="eponym"><persName type="gender" subtype="m">yṯʿm</persName>  <w>bn</w>  <persName type="patronymic">ḥzfrm</persName>  <orgName type="group">ḏ-rf=
+                        <tei:lb n="14"/>dn</orgName></rs>  <w>ṯkmtn</w>  <w>w-hmṯl</w>  <w>ḏn</w>  <w>mṣdqn</w>  <w>bn</w>  <w>mṣ=
+                            <tei:lb n="15"/>dq</w>  <w>b-hw</w>  <w>tʿlm</w>  <orgName type="group">ḏ-ḥbb</orgName> <w> w-</w><persName type="gender" subtype="m">hlkʾmr</persName>  <w>bn</w>  <persName type="patronymic">š=
+                                <tei:lb n="16"/>hrʿly</persName>  <w>w-</w><persName type="gender" subtype="m">lḥyʿṯt</persName>  <w>bn</w>  <persName type="patronymic">krdn</persName>  <w>w-</w><persName type="gender" subtype="m">tbʿkr=
+                                    <tei:lb n="17"/>b</persName>  <w>bn</w>  <persName type="patronymic">ʿnnn</persName>  <orgName type="group">ḏ-ḏrʾn</orgName>  <w>w-</w><persName type="gender" subtype="m">nšʾkrb</persName>  <w>bn</w>  <orgName type="group">drʿn</orgName></tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="7"/>blṭn  ʾrbʿn  mʾnhn  l-nšʾkrb  bʾdm
+<tei:lb n="8"/>w-nfqm  w-šṣṣm  kl  ẓhr  w-ʿlmy  b-hw  stʿ=
+<tei:lb n="9"/>lm  b-ʾlt  blṭn  ʾrbʿn  mʾnhn  bn  ʿly ʾ=
+<tei:lb n="10"/>bkrb  w-wld-hw  ʾhnn  ʿkr  w-l  yyfʿ=
+<tei:lb n="11"/>n  bn  byt  ḏ-ḥbb  w-ʾqyn  ṣrwḥ  w-nkrm  w-
+<tei:lb n="12"/>kwn  ḏn  mṣdqn  b-kn  twsyw  b-ḏ  nswr
+<tei:lb n="13"/>qdmn  gyl  ḫrf  yṯʿm  bn  ḥzfrm  ḏ-rf=
+<tei:lb n="14"/>dn  ṯkmtn  w-hmṯl  ḏn  mṣdqn  bn  mṣ=
+<tei:lb n="15"/>dq  b-hw  tʿlm  ḏ-ḥbb  w-hlkʾmr  bn  š=
+<tei:lb n="16"/>hrʿly  w-lḥyʿṯt  bn  krdn  w-tbʿkr=
+<tei:lb n="17"/>b  bn  ʿnnn  ḏ-ḏrʾn  w-nšʾkrb  bn  drʿn
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>w-hmẓʾ  w-ṣdq  ʾbkrb  bn  yqdm=
+<tei:lb n="2"/>ʾl  bn  ʿnnn  l-ʾly  st  ʾqyn  ṣrwḥ  ʾ=
+<tei:lb n="3"/>rbʿ  mʾn  blṭm  nʿmtm /<tei:lb n="400"/> blṭ 
+<tei:lb n="4"/>fdy  nšʾkrb  ḏ-ḥbb  ʾqyn  ṣrwḥ 
+<tei:lb n="5"/>bn  sʾl  b-ʿly  ʾbh-hw  w-ʿhdy  ʾlt
+<tei:lb n="6"/>blṭn  b-mḥlym  w-tʿlm  ʾbkrb  b-ʾlt
+<tei:lb n="7"/>blṭn  ʾrbʿn  mʾnhn  l-nšʾkrb  bʾdm
+<tei:lb n="8"/>w-nfqm  w-šṣṣm  kl  ẓhr  w-ʿlmy  b-hw  stʿ=
+<tei:lb n="9"/>lm  b-ʾlt  blṭn  ʾrbʿn  mʾnhn  bn  ʿly  ʾ=
+<tei:lb n="10"/>bkrb  w-wld-hw  ʾhnn  ʿkr  w-l  yyfʿ=
+<tei:lb n="11"/>n  bn  byt  ḏ-ḥbb  w-ʾqyn  ṣrwḥ  w-nkrm  w-
+<tei:lb n="12"/>kwn  ḏn  mṣdqn  b-kn  twsyw  b-ḏ  nswr
+<tei:lb n="13"/>qdmn  gyl  ḫrf  yṯʿm  bn  ḥzfrm  ḏ-rf=
+<tei:lb n="14"/>dn  ṯkmtn  w-hmṯl  ḏn  mṣdqn  bn  mṣ=
+<tei:lb n="15"/>dq  b-hw  tʿlm  ḏ-ḥbb  w-hlkʾmr  bn  š=
+<tei:lb n="16"/>hrʿly  w-lḥyʿṯt  bn  krdn  w-tbʿkr=
+<tei:lb n="17"/>b  bn  ʿnnn  ḏ-ḏrʾn  w-nšʾkrb  bn  drʿn</tei:ab>
+            </div>
+            <div xml:lang="en" type="translation">
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="adlib-orig">Text preserved in this squeeze:
+
+7.400 blṭ-coins for Nashaʾkarib--publicly 
+8.and with binding implications and full effect--every document. And they have made an acknowledgement through this to re-
+9.cognize these 400 blṭ-coins from
+10.ʾAbīkarib and his children. Whenever a claim is contested, may (this document) be publicized
+11.by the house of Dhū-Ḥibāb or the qayn-officials of Ṣirwāḥ or any foreigner. And
+12.this documentary proof was (drawn up) when they gave mutual financial support in (the month of) Dhū-Nasūr, 
+13.the initial period of the first (eponymous) year of Yithaʿum bin Ḥazfarum Dhū-Rafī-
+14.dān. And this documentary proof was copied from the (original) docu-
+15.ment, which was authenticated by Dhū-Ḥibāb and Halakʾamar bin Sha-
+16.hrʿalī and Laḥayʿathat bin Kirdān and Tabaʿkari-
+17.b of the lineage of ʿInānān and Dhū-Dharaʾān and Nashaʾkarib of the lineage of Durʿan.
+
+
+Restored full text of the inscription:
+
+[1.Now ʾAbīkarib bin Yiqdamʾīl of the lineage of ʿInānān has paid in full and fulfilled his obligation]
+[2.to those on par with the qayn-officials of Ṣirwāḥ (in the amount of)]
+[3.400 blṭ-coins of full value: 400 blṭ-coins.]
+[4.He redeemed Nashaʾkarib Dhū-Ḥibāb--of the qayn-officials of Ṣirwāḥ--]
+[5.from the claim imposed upon his forefathers. And he made known (the payment of) these]
+[6.blṭ-coins through an oath(?). And ʾAbīkarib authenticated with these]
+7.400 blṭ-coins for Nashaʾkarib-publicly 
+8.and with binding implications and full effect-every document. And they have made an acknowledgement through this to re-
+9.cognize these 400 blṭ-coins from
+10.ʾAbīkarib and his children. Whenever a claim is contested, may (this document) be publicized
+11.by the house of Dhū-Ḥibāb or the qayn-officials of Ṣirwāḥ or any foreigner. And
+12.this documentary proof was (drawn up) when they gave mutual financial support in (the month of) Dhū-Nasūr, 
+13.the initial period of the first (eponymous) year of Yithaʿum bin Ḥazfarum Dhū-Rafī-
+14.dān. And this documentary proof was copied from the (original) docu-
+15.ment, which was authenticated by Dhū-Ḥibāb and Halakʾamar bin Sha-
+16.hrʿalī and Laḥayʿathat bin Kirdān and Tabaʿkari-
+17.b of the lineage of ʿInānān and Dhū-Dharaʾān and Nashaʾkarib of the lineage of Durʿan.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="formal-markup">Text preserved in this squeeze:
+
+<tei:lb n="7"/>
+                    <tei:lb n="400"/>blṭ-coins for Nashaʾkarib--publicly 
+<tei:lb n="8"/>and with binding implications and full effect--every document. And they have made an acknowledgement through this to re-
+<tei:lb n="9"/>cognize these <tei:lb n="400"/>blṭ-coins from
+<tei:lb n="10"/>ʾAbīkarib and his children. Whenever a claim is contested, may <tei:unclear>this document</tei:unclear> be publicized
+<tei:lb n="11"/>by the house of Dhū-Ḥibāb or the qayn-officials of Ṣirwāḥ or any foreigner. And
+<tei:lb n="12"/>this documentary proof was <tei:unclear>drawn up</tei:unclear> when they gave mutual financial support in <tei:unclear>the month of</tei:unclear> Dhū-Nasūr, 
+<tei:lb n="13"/>the initial period of the first <tei:unclear>eponymous</tei:unclear> year of Yithaʿum bin Ḥazfarum Dhū-Rafī-
+<tei:lb n="14"/>dān. And this documentary proof was copied from the <tei:unclear>original</tei:unclear> docu-
+<tei:lb n="15"/>ment, which was authenticated by Dhū-Ḥibāb and Halakʾamar bin Sha-
+<tei:lb n="16"/>hrʿalī and Laḥayʿathat bin Kirdān and Tabaʿkari-
+<tei:lb n="17"/>b of the lineage of ʿInānān and Dhū-Dharaʾān and Nashaʾkarib of the lineage of Durʿan.
+
+
+Restored full text of the inscription:
+
+<tei:supplied reason="lost">
+                        <tei:lb n="1"/>Now ʾAbīkarib bin Yiqdamʾīl of the lineage of ʿInānān has paid in full and fulfilled his obligation</tei:supplied>
+<tei:supplied reason="lost">
+                        <tei:lb n="2"/>to those on par with the qayn-officials of Ṣirwāḥ <tei:unclear>in the amount of</tei:unclear>
+                    </tei:supplied>
+<tei:supplied reason="lost">
+                        <tei:lb n="3"/>
+                        <tei:lb n="400"/>blṭ-coins of full value: <tei:lb n="400"/>blṭ-coins.</tei:supplied>
+<tei:supplied reason="lost">
+                        <tei:lb n="4"/>He redeemed Nashaʾkarib Dhū-Ḥibāb--of the qayn-officials of Ṣirwāḥ--</tei:supplied>
+<tei:supplied reason="lost">
+                        <tei:lb n="5"/>from the claim imposed upon his forefathers. And he made known <tei:unclear>the payment of</tei:unclear> these</tei:supplied>
+<tei:supplied reason="lost">
+                        <tei:lb n="6"/>blṭ-coins through an oath<tei:unclear>?</tei:unclear>. And ʾAbīkarib authenticated with these</tei:supplied>
+<tei:lb n="7"/>
+                    <tei:lb n="400"/>blṭ-coins for Nashaʾkarib-publicly 
+<tei:lb n="8"/>and with binding implications and full effect-every document. And they have made an acknowledgement through this to re-
+<tei:lb n="9"/>cognize these <tei:lb n="400"/>blṭ-coins from
+<tei:lb n="10"/>ʾAbīkarib and his children. Whenever a claim is contested, may <tei:unclear>this document</tei:unclear> be publicized
+<tei:lb n="11"/>by the house of Dhū-Ḥibāb or the qayn-officials of Ṣirwāḥ or any foreigner. And
+<tei:lb n="12"/>this documentary proof was <tei:unclear>drawn up</tei:unclear> when they gave mutual financial support in <tei:unclear>the month of</tei:unclear> Dhū-Nasūr, 
+<tei:lb n="13"/>the initial period of the first <tei:unclear>eponymous</tei:unclear> year of Yithaʿum bin Ḥazfarum Dhū-Rafī-
+<tei:lb n="14"/>dān. And this documentary proof was copied from the <tei:unclear>original</tei:unclear> docu-
+<tei:lb n="15"/>ment, which was authenticated by Dhū-Ḥibāb and Halakʾamar bin Sha-
+<tei:lb n="16"/>hrʿalī and Laḥayʿathat bin Kirdān and Tabaʿkari-
+<tei:lb n="17"/>b of the lineage of ʿInānān and Dhū-Dharaʾān and Nashaʾkarib of the lineage of Durʿan.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="semantic-markup">Text preserved in this squeeze:
+
+<tei:lb n="7"/>
+                    <tei:lb n="400"/>blṭ-coins for Nashaʾkarib--publicly 
+<tei:lb n="8"/>and with binding implications and full effect--every document. And they have made an acknowledgement through this to re-
+<tei:lb n="9"/>cognize these <tei:lb n="400"/>blṭ-coins from
+<tei:lb n="10"/>ʾAbīkarib and his children. Whenever a claim is contested, may this document be publicized
+<tei:lb n="11"/>by the house of Dhū-Ḥibāb or the qayn-officials of Ṣirwāḥ or any foreigner. And
+<tei:lb n="12"/>this documentary proof was drawn up when they gave mutual financial support in the month of Dhū-Nasūr, 
+<tei:lb n="13"/>the initial period of the first eponymous year of Yithaʿum bin Ḥazfarum Dhū-Rafī-
+<tei:lb n="14"/>dān. And this documentary proof was copied from the original docu-
+<tei:lb n="15"/>ment, which was authenticated by Dhū-Ḥibāb and Halakʾamar bin Sha-
+<tei:lb n="16"/>hrʿalī and Laḥayʿathat bin Kirdān and Tabaʿkari-
+<tei:lb n="17"/>b of the lineage of ʿInānān and Dhū-Dharaʾān and Nashaʾkarib of the lineage of Durʿan.
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>Now ʾAbīkarib bin Yiqdamʾīl of the lineage of ʿInānān has paid in full and fulfilled his obligation
+<tei:lb n="2"/>to those on par with the qayn-officials of Ṣirwāḥ in the amount of
+<tei:lb n="3"/>
+                    <tei:lb n="400"/>blṭ-coins of full value: <tei:lb n="400"/>blṭ-coins.
+<tei:lb n="4"/>He redeemed Nashaʾkarib Dhū-Ḥibāb--of the qayn-officials of Ṣirwāḥ--
+<tei:lb n="5"/>from the claim imposed upon his forefathers. And he made known the payment of these
+<tei:lb n="6"/>blṭ-coins through an oath?. And ʾAbīkarib authenticated with these
+<tei:lb n="7"/>
+                    <tei:lb n="400"/>blṭ-coins for Nashaʾkarib-publicly 
+<tei:lb n="8"/>and with binding implications and full effect-every document. And they have made an acknowledgement through this to re-
+<tei:lb n="9"/>cognize these <tei:lb n="400"/>blṭ-coins from
+<tei:lb n="10"/>ʾAbīkarib and his children. Whenever a claim is contested, may this document be publicized
+<tei:lb n="11"/>by the house of Dhū-Ḥibāb or the qayn-officials of Ṣirwāḥ or any foreigner. And
+<tei:lb n="12"/>this documentary proof was drawn up when they gave mutual financial support in the month of Dhū-Nasūr, 
+<tei:lb n="13"/>the initial period of the first eponymous year of Yithaʿum bin Ḥazfarum Dhū-Rafī-
+<tei:lb n="14"/>dān. And this documentary proof was copied from the original docu-
+<tei:lb n="15"/>ment, which was authenticated by Dhū-Ḥibāb and Halakʾamar bin Sha-
+<tei:lb n="16"/>hrʿalī and Laḥayʿathat bin Kirdān and Tabaʿkari-
+<tei:lb n="17"/>b of the lineage of ʿInānān and Dhū-Dharaʾān and Nashaʾkarib of the lineage of Durʿan.</tei:ab>
+                <tei:ab xmlns:tei="http://www.tei-c.org/ns/1.0" type="syntactic-markup">Text preserved in this squeeze:
+
+<tei:lb n="7"/>
+                    <tei:lb n="400"/>blṭ-coins for Nashaʾkarib--publicly 
+<tei:lb n="8"/>and with binding implications and full effect--every document. And they have made an acknowledgement through this to re-
+<tei:lb n="9"/>cognize these <tei:lb n="400"/>blṭ-coins from
+<tei:lb n="10"/>ʾAbīkarib and his children. Whenever a claim is contested, may this document be publicized
+<tei:lb n="11"/>by the house of Dhū-Ḥibāb or the qayn-officials of Ṣirwāḥ or any foreigner. And
+<tei:lb n="12"/>this documentary proof was drawn up when they gave mutual financial support in the month of Dhū-Nasūr, 
+<tei:lb n="13"/>the initial period of the first eponymous year of Yithaʿum bin Ḥazfarum Dhū-Rafī-
+<tei:lb n="14"/>dān. And this documentary proof was copied from the original docu-
+<tei:lb n="15"/>ment, which was authenticated by Dhū-Ḥibāb and Halakʾamar bin Sha-
+<tei:lb n="16"/>hrʿalī and Laḥayʿathat bin Kirdān and Tabaʿkari-
+<tei:lb n="17"/>b of the lineage of ʿInānān and Dhū-Dharaʾān and Nashaʾkarib of the lineage of Durʿan.
+
+
+Restored full text of the inscription:
+
+<tei:lb n="1"/>Now ʾAbīkarib bin Yiqdamʾīl of the lineage of ʿInānān has paid in full and fulfilled his obligation
+<tei:lb n="2"/>to those on par with the qayn-officials of Ṣirwāḥ in the amount of
+<tei:lb n="3"/>
+                    <tei:lb n="400"/>blṭ-coins of full value: <tei:lb n="400"/>blṭ-coins.
+<tei:lb n="4"/>He redeemed Nashaʾkarib Dhū-Ḥibāb--of the qayn-officials of Ṣirwāḥ--
+<tei:lb n="5"/>from the claim imposed upon his forefathers. And he made known the payment of these
+<tei:lb n="6"/>blṭ-coins through an oath?. And ʾAbīkarib authenticated with these
+<tei:lb n="7"/>
+                    <tei:lb n="400"/>blṭ-coins for Nashaʾkarib-publicly 
+<tei:lb n="8"/>and with binding implications and full effect-every document. And they have made an acknowledgement through this to re-
+<tei:lb n="9"/>cognize these <tei:lb n="400"/>blṭ-coins from
+<tei:lb n="10"/>ʾAbīkarib and his children. Whenever a claim is contested, may this document be publicized
+<tei:lb n="11"/>by the house of Dhū-Ḥibāb or the qayn-officials of Ṣirwāḥ or any foreigner. And
+<tei:lb n="12"/>this documentary proof was drawn up when they gave mutual financial support in the month of Dhū-Nasūr, 
+<tei:lb n="13"/>the initial period of the first eponymous year of Yithaʿum bin Ḥazfarum Dhū-Rafī-
+<tei:lb n="14"/>dān. And this documentary proof was copied from the original docu-
+<tei:lb n="15"/>ment, which was authenticated by Dhū-Ḥibāb and Halakʾamar bin Sha-
+<tei:lb n="16"/>hrʿalī and Laḥayʿathat bin Kirdān and Tabaʿkari-
+<tei:lb n="17"/>b of the lineage of ʿInānān and Dhū-Dharaʾān and Nashaʾkarib of the lineage of Durʿan.</tei:ab>
+            </div>
+            <div type="commentary">
+                <p/>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>
+                        <idno type="quotationLabel">Avanzini 1995</idno>
+                        <seg type="reference">Avanzini, Alessandra 1995. As-Sawdāʾ. Inventaire des inscriptions sudarabiques. 4. Paris: de Boccard / Rome: Herder. [Académie des Inscriptions et Belles-lettres; Istituto italiano per l'Africa e l'Oriente]</seg>
+                        <citedRange>120-122, pl. 19/a</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
